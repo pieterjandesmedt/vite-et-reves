@@ -22,11 +22,6 @@ jobs:
           at: built-site
       - run: ls -lah built-site/public
       - run:
-          name: Set Github username and email
-          command: |
-            git config --global user.email $GH_EMAIL
-            git config --global user.name $GH_NAME
-      - run:
           name: Create secondary clone
           command: |
             git clone $CIRCLE_REPOSITORY_URL out
@@ -39,6 +34,13 @@ jobs:
           command: |
             cp -a built-site/public/. out/.
             mkdir -p out/.circleci && cp -a .circleci/. out/.circleci/.
+      - run:
+          name: Set Github username and email
+          command: |
+            cd out
+            git config user.email $GH_EMAIL
+            git config user.name $GH_NAME
+            cd ..
       - run:
           name: Push to Github Pages
           command: |
