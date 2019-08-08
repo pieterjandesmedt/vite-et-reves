@@ -23,8 +23,6 @@ jobs:
           name: Install and configure dependencies
           command: |
             npm install -g --silent gh-pages@latest
-            git config user.email $GH_EMAIL
-            git config user.name $GH_NAME
       - run:
           name: Deploy built site to gh-pages branch
           command: gh-pages --dist built/public
