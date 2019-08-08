@@ -16,6 +16,9 @@ jobs:
     docker:
       - image: node:latest
     steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "84:79:b2:27:c6:66:4d:f4:1b:a0:bd:e0:9e:2a:47:8e"
       - checkout
       - attach_workspace:
           at: built
