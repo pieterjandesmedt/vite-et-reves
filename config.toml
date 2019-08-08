@@ -1,0 +1,59 @@
+baseURL = "https://example.com/"
+languageCode = "nl-be"
+title = "Vite & Rêves"
+theme = "vite-et-reves"
+summaryLength = 25
+copyright = "Vite & Rêves"
+enableEmoji = true
+publishDir = "public"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "images/logo.png"
+  description ="Live your dreams - Around the world"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Pieter Jan"
+  thumbnail = "/images/author.png"
+  description = "Creator of this blog."
+
+[params.index]
+  video = "vite-et-reves-sailing-2.mp4"
+  title = "Vite & Rêves"
+  subtitle = "Live your dreams"
+  alertbar = true
+  introtext = """
+We're a **family of five** travelling around the world in a Catana 401 named **Vite & Rêves**.
+You can translate this name as Fast & Dreams, but it's also pronounced the same way as 'Vis tes rêves' &mdash; _Live your dreams_.
+
+Follow our adventures here!
+  """
+
+[params.social]
+  instagram = "vite_et_reves"
+  youtube = "UCtkiWQKCZB00DEY7_TU4UvQ"
+  facebook = "vite-et-reves"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    identifier = "home"
+    weight = 100
+    url = "/"
+[[menu.main]]
+    name = "Boat"
+    identifier = "boat"
+    weight = 200
+    url = "/static/boat"
+[[menu.main]]
+    name = "Crew"
+    identifier = "crew"
+    weight = 200
+    url = "/static/crew"
+[[menu.main]]
+    name = "Route"
+    identifier = "route"
+    weight = 200
+    url = "/static/route"

@@ -1,0 +1,15 @@
+<!-- begin post -->
+<div class="post">
+	{{with .Params.image}}
+    {{- partial "_shared/image.html" . -}}
+	{{ end }}
+	<div class="post-text">
+		<a href="{{ .Permalink }}">
+			<div>
+				<h1 class="is-size-1-desktop is-size-2-tablet is-size-3-mobile">{{ .Title }}</h1>
+				<p class="post-date is-size-7">{{ dateFormat "Jan 2, 2006" .PublishDate }} - {{ .ReadingTime }} min read</p>
+			</div>
+		</a>
+	</div>
+</div>
+<!-- end post -->

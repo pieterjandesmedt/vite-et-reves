@@ -1,0 +1,49 @@
+{{ define "header"}}
+    {{- partial "_shared/navbar.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+    <div>
+		<section class="hero is-fullheight">
+			{{ with .Site.Params.index.video }}
+			<video autoplay muted loop id="hero-video">
+				<source src="{{ . }}" type="video/mp4">
+				{{- partial "_shared/video.html" . -}}
+			</video>
+			{{ end }}
+			<img src="images/logo.svg" class="shadow" />
+            {{ with .Site.Params.index.subtitle }}
+			<h3 class="subtitle is-size-3">{{ . }}</h3>
+			{{ end }}
+		</section>
+
+		{{ with .Site.Params.index.introtext }}
+		<section class="introtext">
+			<div class="container">
+				<div class="columns is-marginless">
+					<div class="column is-8 is-offset-2">
+						{{ . | markdownify }}
+					</div>
+				</div>
+			</div>
+		</section>
+		{{ end }}
+
+		{{ $section := where .Site.RegularPages "Section" "in" (slice "blog") }}
+		<section class="recent-posts">
+			<div class="row listrecent">
+				{{ $post_paginator := .Paginate ($section) 100 }}
+				{{ range $post_paginator.Pages }}
+					{{- partial "list-partials/postbox.html" . -}}
+				{{end}}
+			</div>
+		</section>
+		{{- partial "list-partials/pagination.html" $post_paginator -}}
+
+    </div>
+    {{- partial "_shared/social.html" . -}}
+{{end}}
+
+{{ define "footer" }}
+    {{- partial "_shared/footer.html" . -}}
+{{end}}

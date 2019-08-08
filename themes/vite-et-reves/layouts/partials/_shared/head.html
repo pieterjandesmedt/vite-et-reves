@@ -1,0 +1,19 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        {{ hugo.Generator }}
+	{{ with .Site.Params.logo }}
+	<link rel="icon" href="{{ . | urlize | relURL }}">
+	{{ end }}
+	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
+	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+	<script src="https://cdn.jsdelivr.net/npm/lozad"></script>
+	<script defer src="https://kit.fontawesome.com/b6aff1640f.js"></script>
+
+	<!-- <link href="{{ "/css/medium.css" | urlize | relURL }}" rel="stylesheet"> -->
+	<link href="{{ "/css/style.css" | urlize | relURL }}" rel="stylesheet">
+</head>

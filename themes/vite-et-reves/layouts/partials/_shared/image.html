@@ -1,0 +1,25 @@
+{{ if eq (getenv "HUGO_ENV" ) "production" }}
+<img class="lozad banner"
+	src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=36&h=12&t=square&a=attention"
+	data-src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=1200&h=400&t=square&a=attention"
+/>
+{{ else }}
+<img class="lozad banner" data-src="/images/{{ . }}" style="object-fit: cover;" loading="lazy" />
+{{ end }}
+
+<!--
+<picture>
+	<source
+		srcset="/some/_1170x658_crop_center-center/man-with-a-dog.jpg 1170w,
+				/some/_970x545_crop_center-center/man-with-a-dog.jpg 970w,
+				/some/_750x562_crop_center-center/man-with-a-dog.jpg 750w,
+				/some/_320x240_crop_center-center/man-with-a-dog.jpg 320w"
+		sizes="100vw"
+	/>
+	<img
+		src="/some/man-with-a-dog-placeholder.jpg"
+		alt="Man with a dog"
+		style="object-fit: cover;"
+		loading="lazy"
+	/>
+</picture> -->

@@ -1,0 +1,81 @@
+{{ define "header"}}
+{{- partial "_shared/navbar.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+{{- partial "_shared/title.html" . -}}
+<div class="main-content">
+	<!-- Begin Article
+        ================================================== -->
+	<div class="container">
+		<div class="columns is-multiline">
+			<!-- Post Share -->
+			<!-- <div class="column is-1 is-offset-1">
+				{{- partial "single-partials/share.html" . -}}
+			</div> -->
+			<!-- Post -->
+			<div class="column is-8 is-offset-2">
+				<div class="mainheading columns">
+					<!-- Post Title -->
+					<div class="column">
+						<h1 class="is-size-1">{{ .Title }}</h1>
+						<p class="subtitle is-7">
+							{{ dateFormat "Jan 2, 2006" .PublishDate }}
+							&mdash;
+							{{ .ReadingTime }} min read
+						</p>
+					</div>
+					<!-- Author Box -->
+					<div class="column">
+						<div class="media">
+							<div class="media-left">
+								<!-- <figure class="image is-48x48">
+									<img src="{{ .Site.Params.author.thumbnail | urlize | relURL}}"
+										alt="{{ .Site.Params.author.name }}">
+								</figure> -->
+							</div>
+							<div class="media-content">
+								{{ with .Params.author }}
+								<p class="title is-6">{{ .Site.Params.author.name }}</p>
+								{{ end }}
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Post Featured Image -->
+				<!-- {{with .Params.image}}
+				<img class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
+				{{end}} -->
+				<!-- End Featured Image -->
+
+				<!-- Post Content -->
+				{{ .Content}}
+
+				<!-- Next and PrevPage inside current section -->
+				<div class="prev-next column columns is-mobile">
+					{{with .NextInSection}}
+					<div class="column is-6 has-text-left is-paddingless">
+						<a class="" href="{{.Permalink}}"> &laquo; {{.Title}}</a>
+					</div>
+					{{end}}
+					{{with .PrevInSection}}
+					<div class="column is-6 has-text-right is-paddingless">
+						<a class="" href="{{.Permalink}}">{{.Title}} &raquo;</a>
+					</div>
+					{{end}}
+					<div class="clearfix"></div>
+				</div>
+				<!-- End Next and PrevPage -->
+			</div>
+			<!-- End Post -->
+		</div>
+	</div>
+	<!-- End Article
+        ================================================== -->
+</div>
+{{ end }}
+
+{{ define "footer"}}
+{{- partial "_shared/footer.html" . -}}
+{{ end }}
