@@ -13,38 +13,18 @@ workflows:
               only: master
 jobs:
   deploy:
-    environment:
-      - TARGET_BRANCH: gh-pages
     docker:
-      - image: cibuilds/base
+      - image: node:latest
     steps:
+      - checkout
       - attach_workspace:
-          at: built-site
-      - run: ls -lah built-site/public
+          at: built
       - run:
-          name: Create secondary clone
+          name: Install and configure dependencies
           command: |
-            git clone $CIRCLE_REPOSITORY_URL out
-            cd out
-            git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
-            git rm -rf .
-            cd ..
-      - run:
-          name: Copy public folder
-          command: |
-            cp -a built-site/public/. out/.
-            mkdir -p out/.circleci && cp -a .circleci/. out/.circleci/.
-      - run:
-          name: Set Github username and email
-          command: |
-            cd out
+            npm install -g --silent gh-pages@latest
             git config user.email $GH_EMAIL
             git config user.name $GH_NAME
-            cd ..
       - run:
-          name: Push to Github Pages
-          command: |
-            cd out
-            git add -A
-            git commit -m "Automated deployment to GitHub Pages: Build ${CIRCLE_BUILD_NUM} commit $(echo $CIRCLE_SHA1 | cut -c1-7)" --allow-empty
-            git push origin $TARGET_BRANCH
+          name: Deploy built site to gh-pages branch
+          command: gh-pages --dist built/public
