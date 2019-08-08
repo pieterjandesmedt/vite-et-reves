@@ -18,9 +18,13 @@ date: 2019-07-28T18:05:15+02:00
 &mdash; from the previous owner
 
 {{< image src="vite-et-reves-sailing.jpg" alt="Vite & Rêves onder zeil" >}}
+
 {{< image src="IMG_6197.jpg" alt="Vite & Rêves in de haven nav Lavrion" >}}
+
 {{< image src="IMG_6209.jpg" alt="Vite & Rêves vooraanzicht" >}}
+
 {{< image src="IMG_6239.jpg" alt="Vite & Rêves saloon" >}}
+
 
 ### Specifications
 
