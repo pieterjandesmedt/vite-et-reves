@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vite &amp; Rêves</title>
-    <link>https://example.com/categories/</link>
+    <link>https://vite-et-reves.com/categories/</link>
     <description>Recent content in Categories on Vite &amp; Rêves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vite-et-reves.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

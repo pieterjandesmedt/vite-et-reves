@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statics on Vite &amp; Rêves</title>
-    <link>https://example.com/static/</link>
+    <link>https://vite-et-reves.com/static/</link>
     <description>Recent content in Statics on Vite &amp; Rêves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
     <lastBuildDate>Sun, 28 Jul 2019 18:15:43 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/static/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vite-et-reves.com/static/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Route</title>
-      <link>https://example.com/static/route/</link>
+      <link>https://vite-et-reves.com/static/route/</link>
       <pubDate>Sun, 28 Jul 2019 18:15:43 +0200</pubDate>
       
-      <guid>https://example.com/static/route/</guid>
+      <guid>https://vite-et-reves.com/static/route/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Crew</title>
-      <link>https://example.com/static/crew/</link>
+      <link>https://vite-et-reves.com/static/crew/</link>
       <pubDate>Sun, 28 Jul 2019 18:15:11 +0200</pubDate>
       
-      <guid>https://example.com/static/crew/</guid>
+      <guid>https://vite-et-reves.com/static/crew/</guid>
       <description>We&amp;rsquo;re a family of five travelling around the world in a Catana 401 named Vite &amp;amp; Rêves. You can translate this name as Fast &amp;amp; Dreams, but it&amp;rsquo;s also pronounced the same way as &amp;lsquo;Vis tes rêves&amp;rsquo; &amp;mdash; Live your dreams.</description>
     </item>
     
     <item>
       <title>Vite &amp; Rêves</title>
-      <link>https://example.com/static/boat/</link>
+      <link>https://vite-et-reves.com/static/boat/</link>
       <pubDate>Sun, 28 Jul 2019 18:05:15 +0200</pubDate>
       
-      <guid>https://example.com/static/boat/</guid>
+      <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
     </item>
     
