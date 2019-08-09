@@ -1,7 +1,10 @@
 <!-- begin post -->
 <div class="post">
+	{{ $scratch := newScratch }}
+	{{ $scratch.Set "title" .Title }}
 	{{with .Params.image}}
-    {{- partial "_shared/image.html" . -}}
+		{{ $image := dict "src" . "alt" ($scratch.Get "title") "ratio" "3x1" }}
+		{{- partial "_shared/image.html" $image -}}
 	{{ end }}
 	<div class="post-text">
 		<a href="{{ .Permalink }}">

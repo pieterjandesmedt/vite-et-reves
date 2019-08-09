@@ -1,25 +1,49 @@
 {{ if eq (getenv "HUGO_ENV" ) "production" }}
-<img class="lozad banner"
-	src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=36&h=12&t=square&a=attention&output=webp"
-	data-src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=1200&h=400&t=square&a=attention&output=webp"
-/>
-{{ else }}
-<img class="lozad banner" data-src="/images/{{ . }}" style="object-fit: cover;" loading="lazy" />
-{{ end }}
+	{{ $a := index (split .ratio "x") 0 }}
+	{{ $b := index (split .ratio "x") 1 }}
+	{{ $x := 1.0 }}
+	{{ $y := div (float (default 1 $b)) (float (default 1 $a)) }}
 
-<!--
-<picture>
-	<source
-		srcset="/some/_1170x658_crop_center-center/man-with-a-dog.jpg 1170w,
-				/some/_970x545_crop_center-center/man-with-a-dog.jpg 970w,
-				/some/_750x562_crop_center-center/man-with-a-dog.jpg 750w,
-				/some/_320x240_crop_center-center/man-with-a-dog.jpg 320w"
-		sizes="100vw"
-	/>
-	<img
-		src="/some/man-with-a-dog-placeholder.jpg"
-		alt="Man with a dog"
-		style="object-fit: cover;"
-		loading="lazy"
-	/>
-</picture> -->
+	{{ $weservURL := "//images.weserv.nl/?url=" }}
+	{{ $s3Bucket := "https://vite-et-reves.s3.eu-west-3.amazonaws.com/" }}
+	{{ $weservParams := "&t=square&a=attention" }}
+	{{ $weservOutputWebP := "&output=webp" }}
+
+	{{ $widths := slice 1800 1200 900 600 450 300 45 }}
+
+	{{ $heights := apply $widths "mul" "." $y }}
+
+	{{ $srcsetWebP := slice }}
+	{{ $srcset := slice }}
+
+	{{ $scratch := newScratch }}
+	{{ $scratch.Set "src" .src }}
+
+	{{ range $elem_index, $elem_val := $widths }}
+		{{ $srcWebP := delimit (slice $weservURL $s3Bucket ($scratch.Get "src") "&w=" $elem_val "&h=" (index $heights $elem_index) $weservParams $weservOutputWebP " " $elem_val "w") "" }}
+		{{ $src := delimit (slice $weservURL $s3Bucket ($scratch.Get "src") "&w=" $elem_val "&h=" (index $heights $elem_index) $weservParams " " $elem_val "w") "" }}
+		{{ $srcsetWebP = $srcsetWebP | append $srcWebP }}
+		{{ $srcset = $srcset | append $src }}
+	{{ end }}
+<picture class="responsive is-fullwidth">
+	<source class="lozad"
+		data-srcset="{{ delimit $srcsetWebP ", " }}"
+		sizes="(min-width: 1024px) calc(960px - 1.5rem),
+			(min-width: 1216px) calc(1152px - 1.5rem),
+			(min-width: 1408px) calc(1344px - 1.5rem),
+			100vw"
+		type="image/webp"
+		/>
+	<source class="lozad"
+		data-srcset="{{ delimit $srcset ", " }}"
+		sizes="(min-width: 1024px) calc(960px - 1.5rem),
+			(min-width: 1216px) calc(1152px - 1.5rem),
+			(min-width: 1408px) calc(1344px - 1.5rem),
+			100vw"
+			type="image/jpeg"
+		/>
+	<img src="{{ index (last 1 $srcset) 0 }}" alt="{{ .alt }}" class="is-fullwidth" />
+</picture>
+{{ else }}
+<img class="lozad responsive is-fullwidth" style="object-fit: cover;" data-src="/images/{{ .src }}" alt="{{ .alt }}" loading="lazy" />
+{{ end }}
