@@ -4,7 +4,10 @@ orbs:
 workflows:
   main:
     jobs:
-      - hugo/build
+      - hugo/build:
+          filters:
+            branches:
+              only: master
       - deploy:
           requires:
             - hugo/build
