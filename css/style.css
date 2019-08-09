@@ -17,25 +17,43 @@ h5 { font-size: 1.25rem; }
 h6 { font-size: 1rem; }
 small { font-size: 0.75rem; }
 
+picture {
+	position: relative;
+}
+
+picture source {
+	position: absolute;
+}
+
 #navbar {
 	will-change: transform;
-	transition: transform 0.25s ease-in-out;
+	transition: transform 0.25s ease-in-out, opacity 0.25s ease-in-out;
 }
 
 .header-unpin {
 	transform: translateY(-65px);
+	opacity: 0;
 }
 
 .header-pin {
 	transform: translateY(0);
+	opacity: 1;
 }
-
 .hero {
 	text-align: center;
 	position: relative;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+@media only screen and (max-width: 1023px) {
+	.navbar.is-fixed-bottom, .navbar.is-fixed-top {
+		left: auto;
+	}
+	.navbar.is-fixed-bottom.is-active, .navbar.is-fixed-top.is-active {
+		left: 0;
+	}
 }
 
 video#hero-video {
@@ -155,7 +173,7 @@ a.icon {
 	margin: 2px 0;
 }
 
-.post .banner {
+.post picture, .post img {
 	position: absolute;
 	width: 100%;
 	height: 100%;

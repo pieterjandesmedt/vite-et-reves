@@ -10,8 +10,6 @@
 	
 	
 
-	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" rel="stylesheet">
-
 	<style type="text/css">
 		html {
 	font-size: 20px;
@@ -32,15 +30,17 @@ small { font-size: 0.75rem; }
 
 #navbar {
 	will-change: transform;
-	transition: transform 0.25s ease-in-out;
+	transition: transform 0.25s ease-in-out, opacity 0.25s ease-in-out;
 }
 
 .header-unpin {
 	transform: translateY(-65px);
+	opacity: 0;
 }
 
 .header-pin {
 	transform: translateY(0);
+	opacity: 1;
 }
 
 .hero {
@@ -154,7 +154,7 @@ video#hero-video {
             
         
 
-<script src="/js/lozad.min.js"></script>
+<script src="/js/lozad.js"></script>
 <script src="/js/scripts.js"></script>
 
     </body>

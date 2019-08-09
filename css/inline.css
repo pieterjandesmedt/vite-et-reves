@@ -17,15 +17,17 @@ small { font-size: 0.75rem; }
 
 #navbar {
 	will-change: transform;
-	transition: transform 0.25s ease-in-out;
+	transition: transform 0.25s ease-in-out, opacity 0.25s ease-in-out;
 }
 
 .header-unpin {
 	transform: translateY(-65px);
+	opacity: 0;
 }
 
 .header-pin {
 	transform: translateY(0);
+	opacity: 1;
 }
 
 .hero {
