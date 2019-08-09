@@ -3,8 +3,8 @@
 {{ if .IsNamedParams }}
 {{ if eq (getenv "HUGO_ENV" ) "production" }}
 <img class="lozad responsive"
-	src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{.Get "src" }}&w=36&h=24&t=square&a=attention"
-	data-src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{.Get "src" }}&w=1200&h=800&t=square&a=attention"
+	src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{.Get "src" }}&w=36&h=24&t=square&a=attention&output=webp"
+	data-src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{.Get "src" }}&w=1200&h=800&t=square&a=attention&output=webp"
 	alt="{{ .Get "alt" }}"
 	width="100%" />
 {{ else }}

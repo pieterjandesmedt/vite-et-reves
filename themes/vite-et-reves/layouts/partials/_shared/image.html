@@ -1,7 +1,7 @@
 {{ if eq (getenv "HUGO_ENV" ) "production" }}
 <img class="lozad banner"
-	src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=36&h=12&t=square&a=attention"
-	data-src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=1200&h=400&t=square&a=attention"
+	src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=36&h=12&t=square&a=attention&output=webp"
+	data-src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=1200&h=400&t=square&a=attention&output=webp"
 />
 {{ else }}
 <img class="lozad banner" data-src="/images/{{ . }}" style="object-fit: cover;" loading="lazy" />

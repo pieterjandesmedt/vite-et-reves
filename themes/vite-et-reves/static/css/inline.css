@@ -1,0 +1,68 @@
+html {
+	font-size: 20px;
+}
+
+body, button, input, select, textarea {
+	font-family: "Roboto Slab";
+	font-display: swap;
+}
+
+h1 { font-size: 3rem; }
+h2 { font-size: 2.5rem; }
+h3 { font-size: 2rem; }
+h4 { font-size: 1.5rem; }
+h5 { font-size: 1.25rem; }
+h6 { font-size: 1rem; }
+small { font-size: 0.75rem; }
+
+#navbar {
+	will-change: transform;
+	transition: transform 0.25s ease-in-out;
+}
+
+.header-unpin {
+	transform: translateY(-65px);
+}
+
+.header-pin {
+	transform: translateY(0);
+}
+
+.hero {
+	text-align: center;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+video#hero-video {
+	position: absolute;
+	z-index: 0;
+	background-image: url(//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vite-et-reves-sailing.jpg&t=square&a=attention&output=webp);
+	background-size: cover;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	top: 0px;
+	left: 0px;
+	/* fixed to left. Replace it by right if you want.*/
+	min-width: 100%;
+	min-height: 100%;
+	max-width: none !important;
+	width: auto;
+	height: auto;
+}
+
+.shadow {
+	filter: drop-shadow(0 0 30px black);
+}
+
+.hero .subtitle {
+	z-index: 1;
+	color: white;
+	text-shadow: 0 0 30px black;
+	font-style: italic;
+	margin-top: 1em;
+}
+
