@@ -11,15 +11,80 @@
 	
 
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
-	<script src="https://cdn.jsdelivr.net/npm/lozad"></script>
 	<script defer src="https://kit.fontawesome.com/b6aff1640f.js"></script>
 
-	
-	<link href="/css/style.css" rel="stylesheet">
+	<style type="text/css">
+		html {
+	font-size: 20px;
+}
+
+body, button, input, select, textarea {
+	font-family: "Roboto Slab";
+	font-display: swap;
+}
+
+h1 { font-size: 3rem; }
+h2 { font-size: 2.5rem; }
+h3 { font-size: 2rem; }
+h4 { font-size: 1.5rem; }
+h5 { font-size: 1.25rem; }
+h6 { font-size: 1rem; }
+small { font-size: 0.75rem; }
+
+#navbar {
+	will-change: transform;
+	transition: transform 0.25s ease-in-out;
+}
+
+.header-unpin {
+	transform: translateY(-65px);
+}
+
+.header-pin {
+	transform: translateY(0);
+}
+
+.hero {
+	text-align: center;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+video#hero-video {
+	position: absolute;
+	z-index: 0;
+	background-image: url(//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vite-et-reves-sailing.jpg&t=square&a=attention&output=webp);
+	background-size: cover;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	top: 0px;
+	left: 0px;
+	/* fixed to left. Replace it by right if you want.*/
+	min-width: 100%;
+	min-height: 100%;
+	max-width: none !important;
+	width: auto;
+	height: auto;
+}
+
+.shadow {
+	filter: drop-shadow(0 0 30px black);
+}
+
+.hero .subtitle {
+	z-index: 1;
+	color: white;
+	text-shadow: 0 0 30px black;
+	font-style: italic;
+	margin-top: 1em;
+}
+	</style>
 </head>
 <body>
-<nav class="navbar is-transparent is-fixed-top" role="navigation" aria-label="main navigation">
+<nav id="navbar" class="navbar is-transparent is-fixed-top" role="navigation" aria-label="main navigation">
 	<a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
 		data-target="navMenu">
 		<span aria-hidden="true"></span>
@@ -66,32 +131,6 @@
 	
 </nav>
 
-<script>
-	document.addEventListener('DOMContentLoaded', () => {
-
-		
-		const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-
-		
-		if ($navbarBurgers.length > 0) {
-
-			
-			$navbarBurgers.forEach(el => {
-				el.addEventListener('click', () => {
-
-					
-					const target = el.dataset.target;
-					const $target = document.getElementById(target);
-
-					
-					el.classList.toggle('is-active');
-					$target.classList.toggle('is-active');
-
-				});
-			});
-		}
-	});
-</script>
 
         
             
@@ -173,16 +212,13 @@
 </footer>
 
 
+<link href="/css/bulma.min.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+
         
 
-
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-
-<script src="/js/mediumish.js"></script>
+<script src="/js/lozad.min.js"></script>
+<script src="/js/scripts.js"></script>
 
     </body>
 </html>
