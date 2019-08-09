@@ -1,8 +1,12 @@
 #! /bin/bash
+GREEN="\033[0;32m"
+YELLOW="\033[1;33m"
+NOCOLOR="\033[0m"
+
 cd "`dirname "$0"`"
-echo "Pulling texts..."
+echo -e "${YELLOW}\nPulling texts...${NOCOLOR}"
 git pull
-echo "Pulling images..."
+echo -e "${YELLOW}\nPulling images...${NOCOLOR}"
 aws s3 sync s3://vite-et-reves static/images/
-echo "Done."
-echo "You can close this window."
+echo -e "${GREEN}Done.${NOCOLOR}"
+echo -e "You can close this window.\n"

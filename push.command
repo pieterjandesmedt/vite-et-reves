@@ -2,12 +2,17 @@
 NOW=$(date +"%Y-%m-%d (%A) %H:%M:%S")
 MESSAGE="Update '$NOW'"
 
+GREEN="\033[0;32m"
+YELLOW="\033[1;33m"
+NOCOLOR="\033[0m"
+
 cd "`dirname "$0"`"
-echo "Pushing texts..."
+echo -e "${YELLOW}\nPushing texts...${NOCOLOR}"
 git add .
 git commit -a -m "$MESSAGE"
 git push
-echo "Pushing images..."
+echo -e "${YELLOW}\nPushing images...${NOCOLOR}"
 aws s3 sync static/images/ s3://vite-et-reves
-echo "Done. Thi site will be online in a minute or so."
-echo "You can close this window."
+
+echo -e "${GREEN}\nDone. The site will be online in a minute or so.${NOCOLOR}"
+echo -e "You can close this window.\n"
