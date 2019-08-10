@@ -1,5 +1,7 @@
-{{ if eq (getenv "HUGO_ENV" ) "production" }}
+<video autoplay muted loop id="hero-video">
+	{{- if eq (getenv "HUGO_ENV" ) "production" -}}
 	<source src="https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}" type="video/mp4">
-{{ else }}
+	{{- else -}}
 	<source src="/images/{{ . }}" type="video/mp4">
-{{ end }}
+	{{- end -}}
+</video>

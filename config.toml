@@ -10,7 +10,7 @@ publishDir = "public"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
-  logo = "images/logo.png"
+  logo = "logo-white.svg"
   description ="Live your dreams - Around the world"
   #mailchimp = "you can provide a mailchimp-link here"
 

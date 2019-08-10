@@ -1,5 +1,5 @@
 ---
-title: "Eighth"
+title: "We hebben een boot!"
 date: 2018-10-07T11:40:11+02:00
 publishdate: 2018-10-07T11:40:11+02:00
 image: "IMG_6004.jpg"

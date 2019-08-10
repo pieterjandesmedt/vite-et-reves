@@ -6,14 +6,12 @@
     <div>
 		<section class="hero is-fullheight">
 			{{ with .Site.Params.index.video }}
-			<video autoplay muted loop id="hero-video">
-				<source src="{{ . }}" type="video/mp4">
 				{{- partial "_shared/video.html" . -}}
-			</video>
 			{{ end }}
-			<img src="images/logo.svg" class="shadow" />
+			<img src="images/logo-white.svg" class="logo shadow" />
+			<img src="images/logo-text.svg" class="logo-text shadow" />
             {{ with .Site.Params.index.subtitle }}
-			<h3 class="subtitle is-size-3">{{ . }}</h3>
+			<h4 class="subtitle is-size-3">{{ . }}</h4>
 			{{ end }}
 		</section>
 

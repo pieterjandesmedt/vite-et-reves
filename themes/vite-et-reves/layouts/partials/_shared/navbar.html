@@ -14,12 +14,7 @@
 		<div class="navbar-start">
 			<div class="navbar-brand">
 				<a class="navbar-item" href="{{ .Site.BaseURL }}/">
-
-					{{ with .Site.Params.logo }}
-					<img src="{{ . | urlize | relURL }}" alt="logo">
-					{{ else }}
-					<span style="font-family:Righteous;">{{.Site.Title}}</span>
-					{{ end }}
+					{{ "themes/vite-et-reves/static/images/logo.svg" | readFile | safeHTML }}
 				</a>
 			</div>
 		</div>

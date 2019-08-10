@@ -20,6 +20,11 @@ small { font-size: 0.75rem; }
 	transition: transform 0.25s ease-in-out, opacity 0.25s ease-in-out;
 }
 
+.navbar-brand svg {
+	height: 2rem;
+	fill: currentColor;
+}
+
 .header-unpin {
 	transform: translateY(-65px);
 	opacity: 0;
@@ -56,6 +61,14 @@ video#hero-video {
 	height: auto;
 }
 
+.hero svg {
+	height: 200px;
+	fill: white;
+	filter: drop-shadow(0 0 30px black);
+	margin-bottom: 1rem;
+	z-index: 1;
+}
+
 .shadow {
 	filter: drop-shadow(0 0 30px black);
 }
@@ -68,3 +81,19 @@ video#hero-video {
 	margin-top: 1em;
 }
 
+.hero img.logo {
+	max-width: 100px;
+	max-height: 100px;
+	margin-bottom: 1rem;
+}
+
+.hero img.logo-text {
+	max-width: 90%;
+	max-height: 80px;
+}
+
+defs {
+	position: fixed;
+	top: 0;
+	display: inline;
+}
