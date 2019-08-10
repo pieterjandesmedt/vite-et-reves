@@ -4,18 +4,42 @@ html {
 	font-size: 20px;
 }
 
-body, button, input, select, textarea {
+body,
+button,
+input,
+select,
+textarea {
 	font-family: "Roboto Slab";
 	font-display: swap;
 }
 
-h1 { font-size: 3rem; }
-h2 { font-size: 2.5rem; }
-h3 { font-size: 2rem; }
-h4 { font-size: 1.5rem; }
-h5 { font-size: 1.25rem; }
-h6 { font-size: 1rem; }
-small { font-size: 0.75rem; }
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 2.5rem;
+}
+
+h3 {
+	font-size: 2rem;
+}
+
+h4 {
+	font-size: 1.5rem;
+}
+
+h5 {
+	font-size: 1.25rem;
+}
+
+h6 {
+	font-size: 1rem;
+}
+
+small {
+	font-size: 0.75rem;
+}
 
 picture {
 	position: relative;
@@ -39,21 +63,13 @@ picture source {
 	transform: translateY(0);
 	opacity: 1;
 }
+
 .hero {
 	text-align: center;
 	position: relative;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
-
-@media only screen and (max-width: 1023px) {
-	.navbar.is-fixed-bottom, .navbar.is-fixed-top {
-		left: auto;
-	}
-	.navbar.is-fixed-bottom.is-active, .navbar.is-fixed-top.is-active {
-		left: 0;
-	}
 }
 
 video#hero-video {
@@ -107,12 +123,12 @@ blockquote {
 	height: 100vh;
 }
 
-.hero img {
+/* .hero img {
 	z-index: 1;
 	position: relative;
 	max-height: 300px;
 	max-width: 95%;
-}
+} */
 
 img {
 	max-width: 100%;
@@ -173,7 +189,8 @@ a.icon {
 	margin: 2px 0;
 }
 
-.post picture, .post img {
+.post picture,
+.post img {
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -192,7 +209,8 @@ a.icon {
 	align-items: center;
 }
 
-.post-text a, .post-text a:hover {
+.post-text a,
+.post-text a:hover {
 	color: white;
 	text-decoration: none;
 }
@@ -219,11 +237,17 @@ a.icon {
 	padding-bottom: 3rem;
 }
 
-.main-heading, .main-content, .prev-next, .footer, .introtext, .follow-us {
+.main-heading,
+.main-content,
+.prev-next,
+.footer,
+.introtext,
+.follow-us {
 	margin-top: 5rem;
 }
 
-.introtext, .follow-us {
+.introtext,
+.follow-us {
 	margin-bottom: 5rem;
 }
 
@@ -255,6 +279,31 @@ p {
 	margin-bottom: 1em;
 }
 
+@media only screen and (max-width: 1023px) {
+
+	.navbar.is-fixed-bottom,
+	.navbar.is-fixed-top {
+		left: auto;
+	}
+
+	.navbar.is-fixed-bottom.is-active,
+	.navbar.is-fixed-top.is-active {
+		left: 0;
+	}
+
+	.post {
+		padding-bottom: 45%;
+	}
+
+	.columns {
+		margin-left: -.25rem;
+		margin-right: -.25rem;
+	}
+}
+
+
+
+
 @keyframes fade {
 	from {
 		opacity: 0;
@@ -266,49 +315,52 @@ p {
 }
 
 @font-face {
-  font-family: "icons";
-  src:url("/fonts/icons.eot");
-  src:url("/fonts/icons.eot?#iefix") format("embedded-opentype"),
-    url("/fonts/icons.woff") format("woff"),
-    url("/fonts/icons.ttf") format("truetype"),
-    url("/fonts/icons.svg#icons") format("svg");
-  font-weight: normal;
-  font-style: normal;
+	font-family: "icons";
+	font-display: swap;
+	src: url("/fonts/icons.eot");
+	src: url("/fonts/icons.eot?#iefix") format("embedded-opentype"),
+		url("/fonts/icons.woff") format("woff"),
+		url("/fonts/icons.ttf") format("truetype"),
+		url("/fonts/icons.svg#icons") format("svg");
+	font-weight: normal;
+	font-style: normal;
 
 }
 
 [data-icon]:before {
-  font-family: "icons" !important;
-  content: attr(data-icon);
-  font-style: normal !important;
-  font-weight: normal !important;
-  font-variant: normal !important;
-  text-transform: none !important;
-  speak: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	font-family: "icons" !important;
+	content: attr(data-icon);
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  font-family: "icons" !important;
-  font-style: normal !important;
-  font-weight: normal !important;
-  font-variant: normal !important;
-  text-transform: none !important;
-  speak: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	font-family: "icons" !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 .icon-facebook:before {
-  content: "\61";
+	content: "\61";
 }
+
 .icon-youtube-play:before {
-  content: "\62";
+	content: "\62";
 }
+
 .icon-instagram:before {
-  content: "\63";
+	content: "\63";
 }

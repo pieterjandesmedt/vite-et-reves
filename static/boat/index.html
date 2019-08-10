@@ -4,7 +4,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="generator" content="Hugo 0.56.3" />
 	
-	<link rel="icon" href="/images/logo.png">
+	<link rel="icon" href="/images//logo-white.svg">
 	
 	<title>Vite &amp; Rêves | Vite &amp; Rêves</title>
 	
@@ -31,6 +31,11 @@ small { font-size: 0.75rem; }
 #navbar {
 	will-change: transform;
 	transition: transform 0.25s ease-in-out, opacity 0.25s ease-in-out;
+}
+
+.navbar-brand svg {
+	height: 2rem;
+	fill: currentColor;
 }
 
 .header-unpin {
@@ -69,6 +74,14 @@ video#hero-video {
 	height: auto;
 }
 
+.hero svg {
+	height: 200px;
+	fill: white;
+	filter: drop-shadow(0 0 30px black);
+	margin-bottom: 1rem;
+	z-index: 1;
+}
+
 .shadow {
 	filter: drop-shadow(0 0 30px black);
 }
@@ -79,6 +92,23 @@ video#hero-video {
 	text-shadow: 0 0 30px black;
 	font-style: italic;
 	margin-top: 1em;
+}
+
+.hero img.logo {
+	max-width: 100px;
+	max-height: 100px;
+	margin-bottom: 1rem;
+}
+
+.hero img.logo-text {
+	max-width: 90%;
+	max-height: 80px;
+}
+
+defs {
+	position: fixed;
+	top: 0;
+	display: inline;
 }
 	</style>
 </head>
@@ -97,10 +127,16 @@ video#hero-video {
 		<div class="navbar-start">
 			<div class="navbar-brand">
 				<a class="navbar-item" href="https://vite-et-reves.com/">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="cut-out">
+	  <path d="M 0 400 C 100 300, 400 300, 480 400 v-400 h-480 Z"/>
+	  <path d="M 500 0 v 100 A 430 420 0 1 1 200 850 C 500 1000 750 700 700 500 H 0 v 500 H 1000 V 0 H 500"/>
+    </clipPath>
+  </defs>
+  <circle cx="500" cy="500" r="500" clip-path="url(#cut-out)"/>
+</svg>
 
-					
-					<img src="/images/logo.png" alt="logo">
-					
 				</a>
 			</div>
 		</div>
