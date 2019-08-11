@@ -9,7 +9,7 @@ button,
 input,
 select,
 textarea {
-	font-family: "Roboto Slab";
+	font-family: 'Lora', serif;
 	font-display: swap;
 }
 
@@ -98,7 +98,6 @@ video#hero-video {
 	z-index: 1;
 	color: white;
 	text-shadow: 0 0 30px black;
-	font-style: italic;
 	margin-top: 1em;
 }
 
@@ -213,11 +212,6 @@ a.icon {
 .post-text a:hover {
 	color: white;
 	text-decoration: none;
-}
-
-.post-text h1 {
-	text-transform: uppercase;
-	letter-spacing: 2px;
 }
 
 .post-text .button {
