@@ -4,20 +4,24 @@ orbs:
 workflows:
   main:
     jobs:
-      - hugo/build:
-          filters:
-            branches:
-              only: master
+      - build:
       - deploy:
           requires:
-            - hugo/build
-          filters:
-            branches:
-              only: master
+            - build
+
 jobs:
+  build:
+    steps:
+      hugo/build:
+    filters:
+      branches:
+        only: master
   deploy:
     docker:
       - image: node:latest
+    filters:
+      branches:
+        only: master
     steps:
       - add_ssh_keys:
           fingerprints:
