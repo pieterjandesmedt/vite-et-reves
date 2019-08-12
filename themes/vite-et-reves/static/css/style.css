@@ -13,6 +13,10 @@ textarea {
 	font-display: swap;
 }
 
+.article h4, .article h5, .article h6 {
+	margin-top: 1em;
+}
+
 h1 {
 	font-size: 3rem;
 }
