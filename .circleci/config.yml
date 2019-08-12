@@ -19,11 +19,6 @@ jobs:
   deploy:
     docker:
       - image: node:latest
-    requires:
-      - build
-    filters:
-      branches:
-        only: master
     steps:
       - add_ssh_keys:
           fingerprints:
