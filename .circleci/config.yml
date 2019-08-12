@@ -4,21 +4,18 @@ orbs:
 workflows:
   main:
     jobs:
-      - build
-      - deploy:
-          requires:
-            - build
+      - hugo/build
+          filters:
+            branches:
+              only: master
+      - deploy
 
 jobs:
-  build:
-    steps:
-      hugo/build
-    filters:
-      branches:
-        only: master
   deploy:
     docker:
       - image: node:latest
+    requires:
+      - build
     filters:
       branches:
         only: master
