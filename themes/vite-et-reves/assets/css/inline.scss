@@ -37,7 +37,10 @@ small {
 }
 
 .article {
-	h4, h5, h6 {
+
+	h4,
+	h5,
+	h6 {
 		margin-top: 1em;
 	}
 }
@@ -60,14 +63,18 @@ picture source {
 	fill: currentColor;
 }
 
-.header-unpin {
-	transform: translateY(-65px);
-	opacity: 0;
+
+.headroom {
+	will-change: transform;
+	transition: transform 200ms linear;
 }
 
-.header-pin {
-	transform: translateY(0);
-	opacity: .8;
+.headroom--pinned {
+	transform: translateY(0%);
+}
+
+.headroom--unpinned {
+	transform: translateY(-100%);
 }
 
 video#hero-video {
