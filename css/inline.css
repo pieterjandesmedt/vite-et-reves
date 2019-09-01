@@ -44,21 +44,21 @@ small { font-size: 0.75rem; }
 }
 
 video#hero-video {
-	position: absolute;
-	z-index: 0;
 	background-image: url(//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vite-et-reves-sailing.jpg&t=square&a=attention&output=webp);
 	background-size: cover;
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	top: 0px;
-	left: 0px;
-	/* fixed to left. Replace it by right if you want.*/
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
 	min-width: 100%;
 	min-height: 100%;
-	max-width: none !important;
 	width: auto;
 	height: auto;
+	z-index: -1000;
+	overflow: hidden;
 }
 
 .hero svg {
