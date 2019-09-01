@@ -20,7 +20,7 @@ publishDir = "public"
   description = "Creator of this blog."
 
 [params.index]
-  video = "vite-et-reves-sailing-2.mp4"
+  video = "vite-et-reves-sailing-greece.mp4"
   title = "Vite & Rêves"
   subtitle = "Live your dreams"
   alertbar = true
