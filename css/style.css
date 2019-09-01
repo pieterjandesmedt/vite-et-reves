@@ -65,7 +65,7 @@ picture source {
 
 .header-pin {
 	transform: translateY(0);
-	opacity: 1;
+	opacity: .8;
 }
 
 .hero {
