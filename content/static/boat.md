@@ -1,6 +1,7 @@
 ---
 title: "Vite & Rêves"
 date: 2019-07-28T18:05:15+02:00
+weight: 1
 ---
 
 > Sailing  the  Catana  401  shows  her  to  be  very fast  with  frank  accelerations.  She  is  easy  to handle, both  under  sail  and with  motors. The gentle steering and comfort make it possible to be at  the  helm for long hours  without  fatigue. Unquestionably, this boat is very lively, efficient and safe.

@@ -3,15 +3,14 @@ title: "Route"
 date: 2019-07-28T18:15:43+02:00
 publishdate: 2019-07-28T18:15:43+02:00
 image: ""
+weight: 3
 ---
 
 
 {{< map "https://vite-et-reves.travelmap.net" >}}
 
 
-In verband met orkanen en tyfoons, zijn noordelijke oceanen veilig van december tot april. Zuidelijke oceanen zijn veilig van mei tot december.
-
-Voorlopig ziet de ruwe planning er zo uit:
+Voorlopig ziet de planning er zo uit:
 
 ##### September
 
