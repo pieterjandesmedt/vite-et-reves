@@ -13,7 +13,7 @@ workflows:
             - hugo/build
           filters:
             branches:
-              only: gh-pages
+              ignore: gh-pages
 
 jobs:
   deploy:
