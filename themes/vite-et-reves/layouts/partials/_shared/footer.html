@@ -1,12 +1,10 @@
-<!-- Begin Footer
-================================================== -->
+{{ $year := now.Format "2006" }}
 <footer class="footer">
 	<div class="content has-text-centered">
-		&copy; 2019-2020 &mdash; Vite &amp; Rêves
+
+		&copy; 2019{{ if (ne $year "2019") }}-{{ $year }}{{ end }} &mdash; Vite &amp; Rêves
 	</div>
 </footer>
-<!-- End Footer
-================================================== -->
 
 {{ $bulma := resources.Get "css/bulma.sass" | toCSS }}
 {{ $inline := resources.Get "css/inline.scss" | toCSS }}
@@ -14,8 +12,8 @@
 
 {{ $style := slice $bulma $inline $custom | resources.Concat "css/style.css" | minify | fingerprint }}
 
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
-<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700|Open+Sans:400&display=swap" rel="preload" as="style"  onload="this.onload=null;this.rel='stylesheet'">
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
+<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="preload" as="style"  onload="this.onload=null;this.rel='stylesheet'">
 
 <noscript>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap">
