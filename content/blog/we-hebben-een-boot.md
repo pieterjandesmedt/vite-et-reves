@@ -1,7 +1,7 @@
 ---
 title: "We hebben een boot!"
-date: 2018-10-07T11:40:11+02:00
-publishdate: 2018-10-07T11:40:11+02:00
+date: 2019-08-31T11:40:11+02:00
+publishdate: 2019-08-31T11:40:11+02:00
 image: "IMG_6197.jpg"
 tags: ["interesting"]
 comments: false
