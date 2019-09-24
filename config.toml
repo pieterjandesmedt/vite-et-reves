@@ -43,6 +43,11 @@ Follow our adventures here!
     weight = 100
     url = "/"
 [[menu.main]]
+    name = "Captain's log"
+    identifier = "captains-log"
+    weight = 150
+    url = "/captains-log"
+[[menu.main]]
     name = "Boat"
     identifier = "boat"
     weight = 200

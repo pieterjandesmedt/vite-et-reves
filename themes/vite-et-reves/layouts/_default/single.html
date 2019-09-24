@@ -51,14 +51,14 @@
 
 				<!-- Next and PrevPage inside current section -->
 				<div class="prev-next column columns is-mobile">
-					{{with .NextInSection}}
+					{{with .PrevInSection}}
 					<div class="column is-6 has-text-left is-paddingless">
 						<a class="" href="{{.Permalink}}"> &laquo; {{.Title}}</a>
 					</div>
 					{{end}}
 					{{ $context := . }}
-					{{with .PrevInSection}}
-					<div class="column {{ if $context.NextInSection }}is-6 {{ end }}has-text-right is-paddingless">
+					{{with .NextInSection}}
+					<div class="column {{ if $context.PrevInSection }}is-6 {{ end }}has-text-right is-paddingless">
 						<a class="" href="{{.Permalink}}">{{.Title}} &raquo;</a>
 					</div>
 					{{end}}
