@@ -20,7 +20,7 @@ weight: 3
 
 {{< image src="vite-et-reves-sailing.jpg" alt="Vite & Rêves onder zeil" >}}
 
-{{< image src="IMG_6197.jpg" alt="Vite & Rêves in de haven nav Lavrion" >}}
+{{< image src="IMG_6197.jpg" alt="Vite & Rêves in de haven van Lavrion" >}}
 
 {{< image src="IMG_6209.jpg" alt="Vite & Rêves vooraanzicht" >}}
 

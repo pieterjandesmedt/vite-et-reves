@@ -71,6 +71,11 @@ a.icon {
 	height: 0;
 	padding-bottom: 33%;
 	margin: 2px 0;
+	background: #66d69e; /* Old browsers */
+	background: -moz-linear-gradient(-45deg,  #66d69e 0%, #4096ee 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  #66d69e 0%,#4096ee 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  #66d69e 0%,#4096ee 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66d69e', endColorstr='#4096ee',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
 	picture, img {
 		position: absolute;

@@ -12,11 +12,17 @@ Some days are perfect sailing days. So was this one. 15 knots, downwind sailing,
 
 Rouli and Vassilis came to wave us goodbye in the morning. They brought breakfast, small presents for the kids and an icon of Saint Nicolas, patron saint of sailors.
 
+{{< image src="IMG_4375.JPG" alt="Rouli and Vassilis, the Parents and the kids" ratio="3x2" >}}
+
 They told a story of that one time they went sailing with their friend Giorgos. When they wanted to cast of Vassilis took in the rope and shouted "Neta!" (Clear!) to the captain. Giorgos untied his rope from the boat, threw it _into the water_, and also shouted "Neta!". The captain put the engine in forward, the propellor promptly caught the rope, the engine stalled, and the captain had to dive to cut the propellor loose. Many laughs were had, but not at the time, I imagine.
 
 Around 11AM, it was time to go. We prepared the boat and said goodbye to Rouli and Vassilis. We threw off the mooring lines, I put the engine in forward, a side wind caught our boat and the starboard propellor promptly caught the still sinking mooring line.
 
 Fortunately there was a boat moored alongside. We drifted over and tied Vite & Rêves to the other boat. The captain was very understanding. I dove to free the propellor but lost the mooring line in the process. It was cut and it slipped off between my last two dives. But Vite & Rêves was free! I came up, and shouted "Neta!" to my crew and to Rouli, who was filming the whole ordeal.
+
+{{< youtube LANWkISYuLw >}}
+
+&nbsp;
 
 I talked to the Perfect Yachts guys about their lost mooring line. Fortunately, some divers were working in the harbor. They agreed to repair the mooring line for €30.
 
@@ -34,7 +40,8 @@ The rest of the journey was less eventful, although we had a few near misses wit
 
 {{< image src="IMG_6746.jpg" alt="Sunset on the way to Hydra" ratio="3x2" >}}
 
-We arrived at night in Hydra, but a quick look around the port confirmed that more people had had the same idea. Boats were anchored two rows deep. Not wanting to try this manoeuver in the dark, we went to the nearby Mandraki Bay and anchored. The Parents were suitably impressed by our anchoring skills. It took only two attempts.
+We arrived at night in Hydra, but a quick look around the port confirmed that more people had had the same idea. Boats were anchored two rows deep. Not wanting to try this manoeuver in the dark, we went to the nearby Mandraki Bay and anchored. The Parents were suitably impressed by our anchoring skills. It  only took two attempts.
 
 Because the wind was predicted to shift 180 degrees during the night, I slept in a hammock between the mast and the forestay. Lovely night, albeit a bit short when at 7AM, roofers started their work on the bay's restaurant -- think hammers and blowtorches.
 
+{{< image src="IMG_0342.jpg" alt="A quiet night but loud morning in the hammock" ratio="3x2" >}}
