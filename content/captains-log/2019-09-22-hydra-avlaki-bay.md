@@ -1,5 +1,5 @@
 ---
-title: "2019-09-22 Hydra to Avlaki Bay"
+title: "2019-09-22 No wind"
 date: 2019-09-22T22:55:44+03:00
 publishdate: 2019-09-22T22:55:44+03:00
 image: "IMG_5616.jpg"

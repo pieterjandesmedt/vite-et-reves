@@ -18,8 +18,8 @@
 				<div class="mainheading columns">
 					<!-- Post Title -->
 					<div class="column">
-						<h1 class="is-size-1">{{ .Title }}</h1>
-						<p class="subtitle is-7">
+						<h1 class="is-size-1-desktop is-size-2-tablet is-size-4-mobile">{{ .Title | replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" }}</h1>
+						<p class="subtitle is-size-7">
 							{{ dateFormat "Jan 2, 2006" .PublishDate }}
 							&mdash;
 							{{ .ReadingTime }} min read
@@ -53,13 +53,13 @@
 				<div class="prev-next column columns is-mobile">
 					{{with .PrevInSection}}
 					<div class="column is-6 has-text-left is-paddingless">
-						<a class="" href="{{.Permalink}}"> &laquo; Previous: {{.Title}}</a>
+						<a class="" href="{{.Permalink}}"> &laquo; Previous: {{ .Title | replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" }}</a>
 					</div>
 					{{end}}
 					{{ $context := . }}
 					{{with .NextInSection}}
 					<div class="column {{ if $context.PrevInSection }}is-6 {{ end }}has-text-right is-paddingless">
-						<a class="" href="{{.Permalink}}">Next: {{.Title}} &raquo;</a>
+						<a class="" href="{{.Permalink}}">Next: {{ .Title | replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" }} &raquo;</a>
 					</div>
 					{{end}}
 					<div class="clearfix"></div>

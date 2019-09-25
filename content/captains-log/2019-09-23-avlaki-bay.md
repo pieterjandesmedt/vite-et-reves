@@ -1,5 +1,5 @@
 ---
-title: "2019-09-23 Avlaki Bay"
+title: "2019-09-23 Relaxing at Avlaki Bay"
 date: 2019-09-23T23:44:02+03:00
 publishdate: 2019-09-23T23:44:02+03:00
 image: "IMG_6752.jpg"

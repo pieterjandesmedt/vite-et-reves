@@ -1,5 +1,5 @@
 ---
-title: "2019-09-19 Lavrion to Hydra"
+title: "2019-09-19 Mooring line troubles"
 date: 2019-09-19T18:59:43+03:00
 publishdate: 2019-09-19T18:59:43+03:00
 image: "IMG_6746.jpg"
