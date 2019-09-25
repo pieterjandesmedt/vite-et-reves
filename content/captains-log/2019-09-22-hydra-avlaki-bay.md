@@ -5,8 +5,8 @@ publishdate: 2019-09-22T22:55:44+03:00
 image: "IMG_5616.jpg"
 ---
 
-`From: Hydra, island Hydra`<br/>
-`To: Avlaki bay, Peloponnesos`
+`From: Hydra, island Hydra, Greece`<br/>
+`To: Avlaki bay, Peloponnesos, Greece`
 
 The wind was ok this morning. It had decreased during the night and the sea outside also looked less agitated. The forecast promised 15 knots, with gusts up to 20, so perfect conditions again. We decided to set sail for Monemvasia, a walled medieval town without cars.
 

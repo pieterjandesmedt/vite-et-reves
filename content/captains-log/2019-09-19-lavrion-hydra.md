@@ -5,8 +5,8 @@ publishdate: 2019-09-19T18:59:43+03:00
 image: "IMG_6746.jpg"
 ---
 
-`From: Lavrion Port`<br/>
-`To: Mandraki bay, island Hydra`
+`From: Lavrion Port, Greece`<br/>
+`To: Mandraki bay, island Hydra, Greece`
 
 Some days are perfect sailing days. So was this one. 15 knots, downwind sailing, almost no waves. It didn't start as the perfect sailing day though.
 
@@ -36,7 +36,7 @@ So I began moving everything that could be magnetic to another place... Headphon
 
 We could finally let the autopilot do its job properly.
 
-The rest of the journey was less eventful, although we had a few near misses with [Huge Ships](https://www.amazon.com/Avoid-Huge-Ships-John-Trimmer/dp/0870334336), among which the [MSC Magnifica](https://en.wikipedia.org/wiki/MSC_Magnifica), a 300m long behemoth cruise ship that passed in less than 200m of us at 20 knots. I radioed them and they said they would pass in front of us, so I trusted them. I took the wind out of our sails a bit just to be sure - you know, in case they underestimated Vite & Rêves' lighting speed.
+The rest of the journey was less eventful, although we had a few near misses with [Huge Ships](https://www.amazon.com/Avoid-Huge-Ships-John-Trimmer/dp/0870334336), among which the [MSC Magnifica](https://en.wikipedia.org/wiki/MSC_Magnifica), a 300m long behemoth cruise ship that passed in less than 200m of us at 20 knots. I radioed them and they said they would pass in front of us, so I trusted them. I took the wind out of our sails a bit just to be sure - you know, in case they underestimated Vite & Rêves' lightning speed.
 
 {{< image src="IMG_6746.jpg" alt="Sunset on the way to Hydra" ratio="3x2" >}}
 

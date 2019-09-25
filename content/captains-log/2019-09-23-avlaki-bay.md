@@ -5,7 +5,7 @@ publishdate: 2019-09-23T23:44:02+03:00
 image: "IMG_6752.jpg"
 ---
 
-`At: Avlaki bay, Peloponnesos`
+`At: Avlaki bay, Peloponnesos, Greece`
 
 Avlaki bay is magnificent. About half a mile long and 300m wide, surrounded on three sides by steep mountains, with a half sand, half pebble beach, and most important for sailors: a sandy bottom.
 

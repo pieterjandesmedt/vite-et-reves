@@ -5,8 +5,8 @@ publishdate: 2019-09-24T22:37:10+03:00
 image: "IMG_6762.jpg"
 ---
 
-`From: Avlaki bay, Peloponnesos`<br/>
-`To: Monemvasia, Peloponnesos`
+`From: Avlaki bay, Peloponnesos, Greece`<br/>
+`To: Monemvasia, Peloponnesos, Greece`
 
 We left Avlaki bay around 10 in the morning. The wind was a nice 10 knots, and for a while, we were cruising with the wind on our beam, full sails out. Splendid!
 
@@ -24,6 +24,6 @@ Vite & Rêves was, as usual, behaving very reliably, and started flying at 8 to 
 
 {{< image src="IMG_6764.jpg" alt="Looks like a scene from Lord Of The Rings or Game of Thrones" ratio="3x2" >}}
 
-Literally 5 minutes after we were safely moored in the small harbor, a thunderstorm broke loose, lighting flashing every 5 minutes all around us. Let me tell you, being in a thunderstorm on a boat is a lot less enjoyable than watching one from a house on land.
+Literally 5 minutes after we were safely moored in the small harbor, a thunderstorm broke loose, lightning flashing every minute all around us. Let me tell you, being in a thunderstorm on a boat is a lot less enjoyable than watching one from a house on land.
 
-Mercifully, the gale passed quickly and the sun came out again. I took the opportunity the scrub the deck a bit. Friendly Swedes on the next boat lent us their hose so we could connect ours to the tap. Fresh water again! Nectar from the Gods! Oh, how we showered!
+Mercifully, the gale passed quickly and the sun came out again. I took the opportunity the scrub the deck a bit. Friendly Swedes on the next boat lent us their hose so we could connect ours to the tap. Life-giving water! Nectar from the Gods! Oh, how we showered!
