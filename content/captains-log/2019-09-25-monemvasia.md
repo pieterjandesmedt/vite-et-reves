@@ -35,4 +35,4 @@ Oh yes, if you need a tip for eating: _Voltes_ near the entrance of the town is 
 
 {{< image src="IMG_6809.jpg" alt="Bell tower of one of the 26 churches" ratio="3x2" >}}
 
-{{< image src="IMG_6816.jpg" alt="Too deep to take a dive" ratio="3x2" >}}
+{{< image src="IMG_6816.jpg" alt="Too deep to take a dive" ratio="1x1" >}}
