@@ -2,12 +2,11 @@
 title: "2019-09-22 Hydra to Avlaki Bay"
 date: 2019-09-22T22:55:44+03:00
 publishdate: 2019-09-22T22:55:44+03:00
-image: ""
+image: "IMG_5616.jpg"
 ---
 
-From: Hydra, island Hydra
-
-To: Avlaki bay, Peloponnesos
+`From: Hydra, island Hydra`<br/>
+`To: Avlaki bay, Peloponnesos`
 
 The wind was ok this morning. It had decreased during the night and the sea outside also looked less agitated. The forecast promised 15 knots, with gusts up to 20, so perfect conditions again. We decided to set sail for Monemvasia, a walled medieval town without cars.
 
@@ -30,3 +29,5 @@ We arrived well after dark near the bay. It was pitch black, no lights on the sh
 Boy, was I happy with the searchlight I bought. Barbara was shining the searchlight left and right on the cliffs while we slowly made our way into the bay. At the end of the bay we saw one small light and a reflector. We inched closer. Somebody signaled with a flashlight. I kept a close eye on the depth meter. The bay was much deeper than the chart said. Finally we dropped anchor and it took hold the first time.
 
 The high beams of a car on the shore came on, then turned off again. Who were those people on the shore? Pirates? Beachcombers? The morning would tell. For now, we lay on the trampolines and looked at thousands of stars.
+
+{{< image src="IMG_5633.JPG" alt="Sunset in Avlaki Bay." ratio="3x2" >}}

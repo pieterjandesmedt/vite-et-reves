@@ -5,9 +5,8 @@ publishdate: 2019-09-19T18:59:43+03:00
 image: "IMG_6746.jpg"
 ---
 
-From: Lavrion Port
-
-To: Mandraki bay, island Hydra
+`From: Lavrion Port`<br/>
+`To: Mandraki bay, island Hydra`
 
 Some days are perfect sailing days. So was this one. 15 knots, downwind sailing, almost no waves. It didn't start as the perfect sailing day though.
 
