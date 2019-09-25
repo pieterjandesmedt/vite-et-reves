@@ -26,4 +26,4 @@ Vite & Rêves was, as usual, behaving very reliably, and started flying at 8 to 
 
 Literally 5 minutes after we were safely moored in the small harbor, a thunderstorm broke loose, lightning flashing every minute all around us. Let me tell you, being in a thunderstorm on a boat is a lot less enjoyable than watching one from a house on land.
 
-Mercifully, the gale passed quickly and the sun came out again. I took the opportunity the scrub the deck a bit. Friendly Swedes on the next boat lent us their hose so we could connect ours to the tap. Life-giving water! Nectar from the Gods! Oh, how we showered!
+Mercifully, the gale passed quickly and the sun came out again. I took the opportunity the scrub the deck a bit. Friendly Swedes on the next boat lent us their hose so we could connect ours to the tap, which was about a thousand meters from aur boat. Life-giving water! Nectar from the Gods! Oh, how we showered!
