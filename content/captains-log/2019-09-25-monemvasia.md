@@ -27,12 +27,12 @@ Oh yes, if you need a tip for eating: _Voltes_ near the entrance of the town is 
 
 {{< image src="IMG_6793.jpg" alt="Sunset on the Agia Sophia" ratio="3x2" >}}
 
-{{< image src="IMG_6796.jpg" alt="What arcane rituals are performed here?" ratio="3x2" >}}
+{{< image src="IMG_6796.jpg" alt="What arcane rituals are performed here?" ratio="2x3" >}}
 
-{{< image src="IMG_6802.jpg" alt="Three in a row" ratio="3x2" >}}
+{{< image src="IMG_6802.jpg" alt="Three in a row" ratio="2x3" >}}
 
 {{< image src="IMG_6806.jpg" alt="Let's conquer THAT land" ratio="3x2" >}}
 
 {{< image src="IMG_6809.jpg" alt="Bell tower of one of the 26 churches" ratio="3x2" >}}
 
-{{< image src="IMG_6816.jpg" alt="Too deep to take a dive" ratio="1x1" >}}
+{{< image src="IMG_6816.jpg" alt="Too deep to take a dive" ratio="3x2" >}}
