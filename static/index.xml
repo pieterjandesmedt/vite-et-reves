@@ -18,8 +18,7 @@
       <pubDate>Sun, 28 Jul 2019 18:15:43 +0200</pubDate>
       
       <guid>https://vite-et-reves.com/static/route/</guid>
-      <description>    Voorlopig ziet de planning er zo uit:
-September  Griekenland  Oktober  Italië Frankrijk  November  Spanje Ibiza Canarische eilanden  December  Kaapverdische eilanden Oostelijke caraïben Dominicaanse Republiek  Januari  Jamaica Cuba Belize  Februari  Honduras Costa Rica Panama  Maart  Galapagos eilanden  April  Marquesas eilanden Frans-Polynesië  Mei  Cook eilanden Tonga  Juni  Nieuw Zeeland Sydney  Juli  Brisbane Papua Nieuw Guinea Darwin  </description>
+      <description>mapboxgl.accessToken = &#39;pk.eyJ1IjoicGpkcyIsImEiOiJVNEdDc3RjIn0.kmBUhtCdHZI_21ySyX56CQ&#39;; var map = new mapboxgl.Map({ container: &#39;map&#39;, style: &#39;mapbox://styles/mapbox/light-v10&#39; }); var getJSON = function (url, callback) { var xhr = new XMLHttpRequest(); xhr.</description>
     </item>
     
     <item>
