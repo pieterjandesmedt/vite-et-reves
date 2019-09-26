@@ -5,11 +5,13 @@
 	{{ with .Site.Params.logo }}
 	<link rel="icon" href="/images/{{ . | urlize | relURL }}">
 	{{ end }}
-	<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
+	<title>{{ (replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" .Title) }}{{ if (ne .Page.Title .Site.Title) }} | {{ .Site.Title }}{{ end }}</title>
 	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
-
-
+	{{ $title := default $.Site.Title (delimit (slice (replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" .Title) $.Site.Title) " | ") }}
+	{{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $title }}" />
+	{{ end -}}
 	{{ $styles := resources.Get "css/inline.scss" | toCSS | minify | fingerprint }}
 	<link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
 </head>

@@ -6,7 +6,7 @@ image: "IMG_5616.jpg"
 ---
 
 `From: Hydra, island Hydra, Greece`<br/>
-`To: Avlaki bay, Peloponnesos, Greece`
+`To: Vlychada bay, Peloponnesos, Greece`
 
 The wind was ok this morning. It had decreased during the night and the sea outside also looked less agitated. The forecast promised 15 knots, with gusts up to 20, so perfect conditions again. We decided to set sail for Monemvasia, a walled medieval town without cars.
 
@@ -20,7 +20,7 @@ These are frustrating conditions: big waves, no wind. The sails are limply flapp
 
 After a few hours of hoping against better judgement that the wind would pick up ("maybe it's just the wind shadow of the islands!"), we decided to call it a day and turn on the engines. We had 30 miles to go and at 2 knots, that would take 15 to 24 hours. It was already well past 3PM by then. On top of that, we were entering a submarine and underwater weapons practise area.
 
-But even on engine, doing 5 knots, 30 miles would take 6 hours. I decided to set course for a closer bay. Avlaki bay was marked on the map as nice, wide, with a sandy beach and absolutely beautiful. Still a good 4 hours away.
+But even on engine, doing 5 knots, 30 miles would take 6 hours. I decided to set course for a closer bay. Vlychada bay was marked on the map as nice, wide, with a sandy beach and absolutely beautiful. Still a good 4 hours away.
 
 I spent the free time (no sails to tend to) fixing the engine panels. I had cut them out to fix a problem, and now they needed rebedding. We did not spot any submarines, but heard cryptic messages on the radio all the time.
 
@@ -30,4 +30,4 @@ Boy, was I happy with the searchlight I bought. Barbara was shining the searchli
 
 The high beams of a car on the shore came on, then turned off again. Who were those people on the shore? Pirates? Beachcombers? The morning would tell. For now, we lay on the trampolines and looked at thousands of stars.
 
-{{< image src="IMG_5633.JPG" alt="Sunset in Avlaki Bay." ratio="3x2" >}}
+{{< image src="IMG_5633.JPG" alt="Sunset in Vlychada Bay." ratio="3x2" >}}

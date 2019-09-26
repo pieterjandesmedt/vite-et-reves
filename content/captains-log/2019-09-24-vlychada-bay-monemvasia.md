@@ -5,10 +5,10 @@ publishdate: 2019-09-24T22:37:10+03:00
 image: "IMG_6762.jpg"
 ---
 
-`From: Avlaki bay, Peloponnesos, Greece`<br/>
+`From: Vlychada bay, Peloponnesos, Greece`<br/>
 `To: Monemvasia, Peloponnesos, Greece`
 
-We left Avlaki bay around 10 in the morning. The wind was a nice 10 knots, and for a while, we were cruising with the wind on our beam, full sails out. Splendid!
+We left Vlychada bay around 10 in the morning. The wind was a nice 10 knots, and for a while, we were cruising with the wind on our beam, full sails out. Splendid!
 
 After an hour or so, the wind died completely. Literally 0 knots of wind. We drifted around for half an hour before I turned on an engine. I considered motoring to Ieraki lagoon, but the weather was looking worse than when we were leaving. Barbara preferred to go straight to Monemvasia, a very good call as it turned out.
 
