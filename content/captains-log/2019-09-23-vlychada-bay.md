@@ -3,6 +3,7 @@ title: "2019-09-23 Relaxing at Vlychada Bay"
 date: 2019-09-23T23:44:02+03:00
 publishdate: 2019-09-23T23:44:02+03:00
 image: "IMG_6752.jpg"
+author: "Pieter Jan"
 ---
 
 `At: Vlychada bay, Peloponnesos, Greece`

@@ -3,13 +3,17 @@ title: "2019-09-26 Uncooperative winds"
 date: 2019-09-26T22:07:20+03:00
 publishdate: 2019-09-26T22:07:20+03:00
 image: "IMG_6827.jpg"
+author: "Pieter Jan"
 ---
 
-In the morning -- well, around noon actually, but it still _felt_ like morning -- we left Monemvasia to sail south. Our destination for today was the island Kithira, but as a great 20th-century philosopher once sang: "You can't always get wat you want."
+`From: Monemvasia, Peloponnesos, Greece`<br/>
+`To: Velanidia, Peloponnesos, Greece`
+
+In the morning -- well, around noon actually, but it still _felt_ like morning -- we left Monemvasia to sail south. Our destination for today was the island Kithira, but as a great 20th-century philosopher once sang: "You can't always get what you want."
 
 {{< image src="IMG_6823.jpg" alt="Bye Monemvasia!" ratio="3x2" >}}
 
-The wind prediction for today was north-east, 15 knots. Naturally, it was south-west, 7 knots. Coming percisely from the direction we wanted to go to. This is the thing with sailboats: they sail in a lot of directions, but straight into the wind is not their forte. You can try to be sneaky and trick your boat into doing this (it's called _beating into the wind_), but you cover a lot of water for little gains.
+The wind prediction for today was north-east, 15 knots. Naturally, it was south-west, 7 knots. Coming precisely from the direction we wanted to go to. This is the thing with sailboats: they sail in a lot of directions, but straight into the wind is not their forte. You can try to be sneaky and trick your boat into doing this (it's called _beating into the wind_), but you cover a lot of water for little gains.
 
 Still, the day started out fine. 7 knots of wind, 4 knots of boat speed, I was happy as a clam in high water. I didn't let the whole "we're not going where we want to"-thing get me down. Until the first tack. The wind seemed to shift with our tack, so we ended up going almost straight north when we wanted to go south. "Maybe the wind will shift back," I hoped, "Surely the predictions, made by billion-dollar supercomputers, will come true." I kept hoping for an hour or so. The wind didn't shift. So we tacked again. Only then did the wind shift, to the wrong direction. To add insult to injury, it died down completely after another half hour.
 

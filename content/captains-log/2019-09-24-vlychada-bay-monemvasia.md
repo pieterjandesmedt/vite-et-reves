@@ -3,6 +3,7 @@ title: "2019-09-24 Gale sailing"
 date: 2019-09-24T22:37:10+03:00
 publishdate: 2019-09-24T22:37:10+03:00
 image: "IMG_6762.jpg"
+author: "Pieter Jan"
 ---
 
 `From: Vlychada bay, Peloponnesos, Greece`<br/>

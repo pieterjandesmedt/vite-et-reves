@@ -20,23 +20,13 @@
 					<div class="column">
 						<h1 class="is-size-1-desktop is-size-2-tablet is-size-4-mobile">{{ .Title | replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" }}</h1>
 						<p class="subtitle is-size-7">
+							{{ with .Params.author }}
+							Written by {{ . }} on
+							{{ end }}
 							{{ dateFormat "Jan 2, 2006" .PublishDate }}
 							&mdash;
 							{{ .ReadingTime }} min read
 						</p>
-						<div class="media">
-							<div class="media-left">
-								<!-- <figure class="image is-48x48">
-									<img src="{{ .Site.Params.author.thumbnail | urlize | relURL}}"
-										alt="{{ .Site.Params.author.name }}">
-								</figure> -->
-							</div>
-							<div class="media-content">
-								{{ with .Params.author }}
-								<p class="title is-6">{{ .Site.Params.author.name }}</p>
-								{{ end }}
-							</div>
-						</div>
 					</div>
 				</div>
 

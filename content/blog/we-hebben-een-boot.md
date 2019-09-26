@@ -3,8 +3,7 @@ title: "We hebben een boot!"
 date: 2019-08-31T11:40:11+02:00
 publishdate: 2019-08-31T11:40:11+02:00
 image: "IMG_6197.jpg"
-tags: ["interesting"]
-comments: false
+author: "Pieter Jan"
 ---
 
 We hebben een boot gekocht en al een proefvaart achter de rug. Het was geweldig!
