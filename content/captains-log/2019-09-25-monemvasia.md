@@ -7,7 +7,7 @@ image: "IMG_6769.jpg"
 
 `At: Monemvasia, Peloponnesos, Greece`
 
-Today, the weather was its usual Greek self again. Not a smidgen of thunderstorm in sight, only deep blue skies and a little breeze. We took the day off to visit Momemvasia, a fortified town on a big rock that is connected to the mainland by a bridge only.
+Today, the weather was its usual Greek self again. Not a smidgen of thunderstorm in sight, only deep blue skies and a little breeze. We took the day off to visit Monemvasia, a fortified town on a big rock that is connected to the mainland by a bridge only.
 
 Monemvasia was settled in the 6th century, and the castle-city became a port of extreme strategic importance and prominent trade hub in the Byzantine Empire. As such, it also became a coveted prize for conquerors and pirates. So everyone fortified the shit out of it. They also built no less than 26 churches to make sure the various gods and saints would certainly be on their side. Some of those churches were converted into mosques after the Ottomans took over.
 
