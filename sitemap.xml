@@ -88,16 +88,6 @@
   </url>
   
   <url>
-    <loc>https://vite-et-reves.com/tags/interesting/</loc>
-    <lastmod>2019-08-31T11:40:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vite-et-reves.com/tags/</loc>
-    <lastmod>2019-08-31T11:40:11+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vite-et-reves.com/blog/we-hebben-een-boot/</loc>
     <lastmod>2019-08-31T11:40:11+02:00</lastmod>
   </url>
@@ -109,6 +99,10 @@
   
   <url>
     <loc>https://vite-et-reves.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vite-et-reves.com/tags/</loc>
   </url>
   
 </urlset>
