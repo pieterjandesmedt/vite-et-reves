@@ -3,6 +3,7 @@ title: "Alle begin is moeilijk"
 date: 2019-09-26T22:56:19+03:00
 publishdate: 2019-09-26T22:56:19+03:00
 image: "IMG_5623.jpg"
+author: "Barbara"
 ---
 
 Het is al ruim een week geleden dat we startten aan dit zotte avontuur. De halve wereld rond, met ons vijven, op onze catamaran 'Vite & Rêves'. En toch kwam het er maar niet van. Mijn eerste blogbericht. Waar woorden anders meestal moeiteloos hun weg vinden vanuit mijn pen op het papier -- of vaker nog: vanuit mijn mond pets in uw gezicht -- worstel ik deze keer om mijn gedachtes vorm te geven en neer te schrijven.
