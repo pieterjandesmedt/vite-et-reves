@@ -6,7 +6,7 @@ image: "IMG_6752.jpg"
 author: "Pieter Jan"
 ---
 
-`At: Vlychada bay, Peloponnesos, Greece`
+`At: Vlychada bay, Western Peloponnesos, Greece`
 
 Vlychada bay is magnificent. About half a mile long and 300m wide, surrounded on three sides by steep mountains, with a half sand, half pebble beach, and most important for sailors: a sandy bottom.
 
@@ -16,7 +16,7 @@ The people on the shore turned out to be a few easy-going campers spending the n
 
 {{< image src="IMG_5623.jpg" alt="A piece of paradise" ratio="12655x3321" >}}
 
-We spent the day here, went to the beach to read and play in the sand. We reanchored, more because good seamanship demanded it than because it was necessary. The wind shifts here 180 degrees in a day: land wind at night -- when we arrived -- and sea wind during the day, so our anchor chain did a similar 180 degree loop.
+We spent the day here, went to the beach to read and play in the sand. We reanchored, more because good seamanship demanded it than because it was necessary. The wind shifts here 180 degrees in a day: land wind at night --- when we arrived --- and sea wind during the day, so our anchor chain did a similar 180 degree loop.
 
 {{< image src="IMG_5616.jpg" alt="Vlychada Bay." ratio="3x2" >}}
 

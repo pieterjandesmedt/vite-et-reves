@@ -3,12 +3,37 @@
 	<div id='map' style='width: 100%; height: 90vh;'></div>
 
 	<link href='https://api.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.css' rel='stylesheet' />
+	<style>
+		.marker {
+			display: block;
+			border: none;
+			border-radius: 50%;
+			cursor: pointer;
+			padding: 0;
+		}
+
+		.mapboxgl-popup {
+			max-width: 400px;
+			font: 16px 'Lora', serif;
+		}
+
+		.mapboxgl-popup-content {
+			text-align: center;
+		}
+	</style>
+
 	<script src='https://api.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.js'></script>
 	<script>
 		mapboxgl.accessToken = 'pk.eyJ1IjoicGpkcyIsImEiOiJVNEdDc3RjIn0.kmBUhtCdHZI_21ySyX56CQ';
+
 		var map = new mapboxgl.Map({
 			container: 'map',
 			style: 'mapbox://styles/mapbox/light-v10'
+		});
+
+		var trackPopup = new mapboxgl.Popup({
+			closeButton: false,
+			closeOnClick: false
 		});
 
 		var getJSON = function (url, callback) {
@@ -28,13 +53,63 @@
 
 		map.on('load', function () {
 
+			getJSON('https://api.roambee.com/v2/shipment/summary?uuid=d2f388be-f054-4a1b-bb18-bff615a1e7f7&apikey=069b6dee-6091-4241-90b9-b1976859e2c3',
+			function(err, data) {
+				if (err !== null) {
+					alert('Something went wrong: ' + err);
+				} else {
+					var lastKnownPosition = data.geo_summary.current_location;
+					console.log('lastKnownPosition:', lastKnownPosition);
+					var geojson = {
+						"type": "FeatureCollection",
+						"features": [
+							{
+								"type": "Feature",
+								"properties": {
+									"message": "<h6>Vite & Rêves' last known position</h6><br/><small>(GPS data provided by <a href='https://www.logisticsplus.net' target=_blank>Logistics Plus</a>, thanks Fre and Read!)</small>",
+									"iconSize": [60, 60]
+								},
+								"geometry": {
+									"type": "Point",
+									"coordinates": [
+										lastKnownPosition.lng,
+										lastKnownPosition.lat
+									]
+								}
+							},
+						]
+					};
+
+					geojson.features.forEach(function(marker) {
+					// create a DOM element for the marker
+					var el = document.createElement('div');
+					el.className = 'marker';
+					el.style.backgroundImage = 'url(//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vite-et-reves-sailing.jpg&w=60&h=60&fit=cover&mask=circle)';
+
+					el.style.width = marker.properties.iconSize[0] + 'px';
+					el.style.height = marker.properties.iconSize[1] + 'px';
+
+					var popup = new mapboxgl.Popup({ offset: 25 })
+						.setHTML(marker.properties.message)
+
+					// add marker to map
+					new mapboxgl.Marker(el)
+						.setLngLat(marker.geometry.coordinates)
+						.setPopup(popup) // sets a popup on this marker
+						.addTo(map);
+					});
+
+				}
+
+			});
+
 			getJSON('/route/simplified.json',
 				function (err, data) {
 					if (err !== null) {
 						alert('Something went wrong: ' + err);
 					} else {
 						map.addLayer({
-							"id": "route",
+							"id": "tracks",
 							"type": "line",
 							"source": {
 								"type": "geojson",
@@ -63,6 +138,38 @@
 
 						map.fitBounds(bounds, {
 							padding: 50
+						});
+
+						var posts = [
+							{{ range $index, $e := (where .Site.RegularPages.ByTitle "Section" "captains-log" ) }}
+							{{ if $index }}, {{ end }}
+							{
+								url: {{ $e.Permalink }},
+								gpx: {{ $e.Params.gpx }},
+								description: '<a href="{{ $e.Permalink }}">{{ with $e.Params.image }}<img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=400&h=200&t=square&a=attention&output=webp" />{{ end }}<h6 style="margin-top: .25em">{{- partial "_shared/title.html" $e.Params.title -}}</h6></a>',
+							}
+							{{ end }}
+							]
+							;
+
+						map.on('mouseenter', 'tracks', function(e) {
+							console.log('e:', e);
+							// Change the cursor style as a UI indicator.
+							map.getCanvas().style.cursor = 'pointer';
+
+							var coordinates = e.lngLat;
+							console.log('coordinates:', coordinates);
+							var correspondingPost = posts.find(function(post) {
+								console.log('post.gpx:', post.gpx);
+								console.log('e.features[0].properties.source:', e.features[0].properties.source);
+								return post.gpx === e.features[0].properties.source;
+							});
+
+							// Populate the popup and set its coordinates
+							// based on the feature found.
+							trackPopup.setLngLat(coordinates)
+								.setHTML(correspondingPost.description)
+								.addTo(map);
 						});
 					}
 				});

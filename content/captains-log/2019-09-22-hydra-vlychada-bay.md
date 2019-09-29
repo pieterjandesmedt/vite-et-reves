@@ -4,10 +4,11 @@ date: 2019-09-22T22:55:44+03:00
 publishdate: 2019-09-22T22:55:44+03:00
 image: "IMG_5616.jpg"
 author: "Pieter Jan"
+gpx: "Navionics_archive_export 2.gpx"
 ---
 
 `From: Hydra, island Hydra, Greece`<br/>
-`To: Vlychada bay, Peloponnesos, Greece`
+`To: Vlychada bay, Western Peloponnesos, Greece`
 
 The wind was ok this morning. It had decreased during the night and the sea outside also looked less agitated. The forecast promised 15 knots, with gusts up to 20, so perfect conditions again. We decided to set sail for Monemvasia, a walled medieval town without cars.
 

@@ -128,8 +128,6 @@
 		});
     }
 
-	console.log('observer:', observer)
-
     return {
       observe: function observe() {
         var elements = getElements(selector, root);

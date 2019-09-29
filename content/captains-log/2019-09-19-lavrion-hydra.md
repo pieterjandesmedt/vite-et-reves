@@ -4,6 +4,7 @@ date: 2019-09-19T18:59:43+03:00
 publishdate: 2019-09-19T18:59:43+03:00
 image: "IMG_6746.jpg"
 author: "Pieter Jan"
+gpx: "Navionics_archive_export 3.gpx"
 ---
 
 `From: Lavrion Port, Greece`<br/>
@@ -43,6 +44,6 @@ The rest of the journey was less eventful, although we had a few near misses wit
 
 We arrived at night in Hydra, but a quick look around the port confirmed that more people had had the same idea. Boats were anchored two rows deep. Not wanting to try this manoeuver in the dark, we went to the nearby Mandraki Bay and anchored. The Parents were suitably impressed by our anchoring skills. It  only took two attempts.
 
-Because the wind was predicted to shift 180 degrees during the night, I slept in a hammock between the mast and the forestay. Lovely night, albeit a bit short when at 7AM, roofers started their work on the bay's restaurant -- think hammers and blowtorches.
+Because the wind was predicted to shift 180 degrees during the night, I slept in a hammock between the mast and the forestay. Lovely night, albeit a bit short when at 7AM, roofers started their work on the bay's restaurant --- think hammers and blowtorches.
 
 {{< image src="IMG_0342.jpg" alt="A quiet night but loud morning in the hammock" ratio="3x2" >}}

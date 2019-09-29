@@ -6,7 +6,7 @@ image: "IMG_6769.jpg"
 author: "Pieter Jan"
 ---
 
-`At: Monemvasia, Peloponnesos, Greece`
+`At: Monemvasia, Western Peloponnesos, Greece`
 
 Today, the weather was its usual Greek self again. Not a smidgen of thunderstorm in sight, only deep blue skies and a little breeze. We took the day off to visit Monemvasia, a fortified town on a big rock that is connected to the mainland by a bridge only.
 
@@ -28,9 +28,7 @@ Oh yes, if you need a tip for eating: _Voltes_ near the entrance of the town is 
 
 {{< image src="IMG_6793.jpg" alt="Sunset on the Agia Sophia" ratio="3x2" >}}
 
-{{< image src="IMG_6796.jpg" alt="What arcane rituals are performed here?" ratio="2x3" >}}
-
-{{< image src="IMG_6802.jpg" alt="Three in a row" ratio="2x3" >}}
+{{< two-images src1="IMG_6796.jpg" alt1="What arcane rituals are performed here?" src2="IMG_6802.jpg" alt2="Three in a row" >}}
 
 {{< image src="IMG_6806.jpg" alt="Let's conquer THAT land" ratio="3x2" >}}
 
