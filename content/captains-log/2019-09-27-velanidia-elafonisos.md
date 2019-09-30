@@ -2,7 +2,7 @@
 title: "2019-09-27 Rounding cape Maleas"
 date: 2019-09-28T08:36:59+03:00
 publishdate: 2019-09-28T08:36:59+03:00
-image: "IMG_6883.jpg"
+image: "sailing-ship-storm-lightning-waves-ocean.jpeg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 6.gpx"
 ---
