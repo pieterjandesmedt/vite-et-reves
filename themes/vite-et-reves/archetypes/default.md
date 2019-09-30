@@ -4,6 +4,7 @@ date: {{ .Date }}
 publishdate: {{ .Date }}
 image: ""
 author: "Pieter Jan"
+gpx: ""
 ---
 
 `From: `<br/>
