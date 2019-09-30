@@ -136,7 +136,7 @@
 		});
 
 		var trackPopup = new mapboxgl.Popup({
-			closeButton: false,
+			
 			closeOnClick: false
 		});
 
@@ -330,27 +330,32 @@
 								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-28-elafonisos-geralimena\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6886.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em"> Wing on wing\n</h6></a>',
 							}
 							
+							, 
+							{
+								url: "https://vite-et-reves.com/captains-log/2019-09-29-geralimena-koroni/",
+								gpx: "Navionics_archive_export.gpx",
+								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-29-geralimena-koroni\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6922.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em"> No time to waste\n</h6></a>',
+							}
+							
 							]
 							;
 
 						map.on('mouseenter', 'tracks', function(e) {
-							console.log('e:', e);
 							
-							map.getCanvas().style.cursor = 'pointer';
-
-							var coordinates = e.lngLat;
-							console.log('coordinates:', coordinates);
 							var correspondingPost = posts.find(function(post) {
-								console.log('post.gpx:', post.gpx);
-								console.log('e.features[0].properties.source:', e.features[0].properties.source);
 								return post.gpx === e.features[0].properties.source;
 							});
 
-							
-							
-							trackPopup.setLngLat(coordinates)
-								.setHTML(correspondingPost.description)
-								.addTo(map);
+							if (correspondingPost) {
+								map.getCanvas().style.cursor = 'pointer';
+
+								var coordinates = e.features[0].geometry.coordinates[Math.floor(e.features[0].geometry.coordinates.length / 2)];
+								
+								
+								trackPopup.setLngLat(coordinates)
+									.setHTML(correspondingPost.description)
+									.addTo(map);
+							}
 						});
 					}
 				});
