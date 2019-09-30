@@ -2,33 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Vite &amp; Rêves</title>
-    <link>https://vite-et-reves.com/blog/</link>
+    <link>https://vite-et-reves.com/first-mates-log/</link>
     <description>Recent content in Blog on Vite &amp; Rêves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
     <lastBuildDate>Thu, 26 Sep 2019 22:56:19 +0300</lastBuildDate>
     
-	<atom:link href="https://vite-et-reves.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vite-et-reves.com/first-mates-log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alle begin is moeilijk</title>
-      <link>https://vite-et-reves.com/blog/alle-begin-is-moeilijk/</link>
+      <link>https://vite-et-reves.com/first-mates-log/alle-begin-is-moeilijk/</link>
       <pubDate>Thu, 26 Sep 2019 22:56:19 +0300</pubDate>
       
-      <guid>https://vite-et-reves.com/blog/alle-begin-is-moeilijk/</guid>
+      <guid>https://vite-et-reves.com/first-mates-log/alle-begin-is-moeilijk/</guid>
       <description>Het is al ruim een week geleden dat we startten aan dit zotte avontuur. De halve wereld rond, met ons vijven, op onze catamaran &amp;lsquo;Vite &amp;amp; Rêves&amp;rsquo;.</description>
-    </item>
-    
-    <item>
-      <title>We hebben een boot!</title>
-      <link>https://vite-et-reves.com/blog/we-hebben-een-boot/</link>
-      <pubDate>Sat, 31 Aug 2019 11:40:11 +0200</pubDate>
-      
-      <guid>https://vite-et-reves.com/blog/we-hebben-een-boot/</guid>
-      <description>We hebben een boot gekocht en al een proefvaart achter de rug. Het was geweldig!
-                     </description>
     </item>
     
   </channel>
