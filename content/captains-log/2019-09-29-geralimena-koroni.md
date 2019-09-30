@@ -2,7 +2,7 @@
 title: "2019-09-29 No time to waste"
 date: 2019-09-30T02:01:58+03:00
 publishdate: 2019-09-30T02:01:58+03:00
-image: "IMG_6922.jpg"
+image: "IMG_6927.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export.gpx"
 ---
