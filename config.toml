@@ -38,7 +38,7 @@ Follow our adventures here!
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "Home"
     identifier = "home"
     weight = 100
     url = "/"
@@ -47,6 +47,11 @@ Follow our adventures here!
     identifier = "captains-log"
     weight = 150
     url = "/captains-log"
+[[menu.main]]
+    name = "First mate's log"
+    identifier = "first-mates-log"
+    weight = 175
+    url = "/first-mates-log"
 [[menu.main]]
     name = "Boat"
     identifier = "boat"

@@ -1,12 +1,12 @@
 ---
-title: "We hebben een boot!"
+title: "2019-08-31 We have a boat!"
 date: 2019-08-31T11:40:11+02:00
 publishdate: 2019-08-31T11:40:11+02:00
-image: "IMG_6197.jpg"
+image: "IMG_6376.jpg"
 author: "Pieter Jan"
 ---
 
-We hebben een boot gekocht en al een proefvaart achter de rug. Het was geweldig!
+We bought a boat and did a shake-down cruise in August. It was glorious!
 
 {{< image src="IMG_6197.jpg" alt="Vite & Rêves" ratio="3x2" >}}
 

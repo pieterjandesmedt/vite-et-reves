@@ -27,7 +27,7 @@
 		</section>
 		{{ end }}
 
-		{{ $section := where .Site.RegularPages "Section" "in" (slice "blog") }}
+		{{ $section := where .Site.RegularPages "Section" "in" (slice "captains-log" "first-mates-log") }}
 		<section class="recent-posts">
 			<div class="row listrecent">
 				{{ $post_paginator := .Paginate ($section) 100 }}
