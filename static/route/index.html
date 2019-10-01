@@ -355,18 +355,26 @@
 								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-30-koroni\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6937.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em"> Koroni castle\n</h6></a>',
 							}
 							
+							, 
+							{
+								url: "https://vite-et-reves.com/captains-log/2019-10-01-koroni-pylos/",
+								gpx: "Navionics_archive_export 8.gpx",
+								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-01-koroni-pylos\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7004.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em"> Tight sailing\n</h6></a>',
+							}
+							
 							]
 							;
 
 						map.on('mouseenter', 'tracks', function(e) {
-							
 							var correspondingPost = posts.find(function(post) {
 								return post.gpx === e.features[0].properties.source;
 							});
 
 							if (correspondingPost) {
+								
 								map.getCanvas().style.cursor = 'pointer';
 
+								
 								var coordinates = e.features[0].geometry.coordinates[Math.floor(e.features[0].geometry.coordinates.length / 2)];
 								
 								
