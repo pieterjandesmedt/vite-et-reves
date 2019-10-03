@@ -103,7 +103,7 @@
 
 			});
 
-			getJSON('/route/simplified.json',
+			getJSON('/route/{{ range (readDir "static/route") }}{{ .Name }}{{ end }}',
 				function (err, data) {
 					if (err !== null) {
 						alert('Something went wrong: ' + err);
