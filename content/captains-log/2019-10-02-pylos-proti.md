@@ -26,7 +26,7 @@ With heroic effort I pulled Vite & Rêves back to the quay. Luckily the superyac
 
 Our windlass started pulling Vite & Rêves underwater instead of forward. We were stuck and now drifting dangerously close to the concrete breakwater. This one was lined with huge rocks. Thankfully, Vite & Rêves is not that big and can be moved with surgical precision, so I did a 180 around the anchor chain, missing the boulders by a distance that was really too close for comfort. We pulled the chain free and I used my teeth to unclench my hands from the steering wheel.
 
-I took another look at the wind. 10 knots in this protected bay already, imagine how perfect the sailing conditions must be outside! I hoisted the main while Barbara steered the boat safely between two impressive cliffs. She admitted this made her hands a bit sweaty, but hey, it's her boat as well, why should I do all the dangerous manoeuvres?
+I took another look at the wind. 10 knots in this protected bay already, imagine how perfect the sailing conditions must be outside! I hoisted the main while Barbara steered the boat safely between two impressive cliffs. She admitted this made her hands a bit sweaty, but hey, it's her boat too, why should I do all the dangerous manoeuvres?
 
 {{< image src="IMG_7016_1.jpg" alt="Barbara threading the needle" ratio="3x2" >}}
 
