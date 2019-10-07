@@ -27,8 +27,11 @@ In October 1980, the MV Panagiotis ran aground due to bad weather and a mechanic
 The last boat of tourists was just leaving as we arrived, so we had the entire beach to ourselves.
 
 {{< image src="IMG_5834.JPG" alt="" ratio="16382x3728" >}}
+
 {{< two-images src1="IMG_7135.jpg" alt1="" src2="IMG_7142.jpg" alt2="" >}}
+
 {{< image src="IMG_7143.jpg" alt="" ratio="3x2" >}}
+
 {{< image src="IMG_7150.jpg" alt="" ratio="3x2" >}}
 
 Getting out proved... challenging. The surf was pretty intense. After a few minutes of observing the wave pattern, I noticed that the high waves came in groups, then there was a brief lull of one or two lover waves. Launch in a high wave would surely capsize the dingy. We lined up the kids, then timed it so that we'd launch _after_ the high waves.

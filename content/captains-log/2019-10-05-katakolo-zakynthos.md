@@ -27,5 +27,7 @@ It got easier after a while. I left the full main up, even if the apparent wind 
 We arrived in Keri bay on Zakynthos just in time for one of the most spectacular sunsets I have ever seen.
 
 {{< image src="IMG_7093.jpg" alt="Passing a pirate island on the way in" ratio="3x2" >}}
+
 {{< image src="IMG_7106.jpg" alt="It turned to gold in the sunset" ratio="3x2" >}}
+
 {{< image src="IMG_7107.jpg" alt="Spectacular!" ratio="3x2" >}}
