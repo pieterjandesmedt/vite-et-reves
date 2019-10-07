@@ -1,5 +1,5 @@
 ---
-title: "2019-09-19 Mooring line troubles"
+title: "2019-09-19 Lazy line troubles"
 date: 2019-09-19T18:59:43+03:00
 publishdate: 2019-09-19T18:59:43+03:00
 image: "IMG_6746.jpg"
@@ -18,17 +18,17 @@ Rouli and Vassilis came to wave us goodbye in the morning. They brought breakfas
 
 They told a story of that one time they went sailing with their friend Giorgos. When they wanted to cast of Vassilis took in the rope and shouted "Neta!" (Clear!) to the captain. Giorgos untied his rope from the boat, threw it _into the water_, and also shouted "Neta!". The captain put the engine in forward, the propellor promptly caught the rope, the engine stalled, and the captain had to dive to cut the propellor loose. Many laughs were had, but not at the time, I imagine.
 
-Around 11AM, it was time to go. We prepared the boat and said goodbye to Rouli and Vassilis. We threw off the mooring lines, I put the engine in forward, a side wind caught our boat and the starboard propellor promptly caught the still sinking mooring line.
+Around 11AM, it was time to go. We prepared the boat and said goodbye to Rouli and Vassilis. We threw off the lazy lines, pulled in the mooring lines, I put the engine in forward, a side wind caught our boat and the starboard propellor promptly caught the still sinking lazy line.
 
-Fortunately there was a boat moored alongside. We drifted over and tied Vite & Rêves to the other boat. The captain was very understanding. I dove to free the propellor but lost the mooring line in the process. It was cut and it slipped off between my last two dives. But Vite & Rêves was free! I came up, and shouted "Neta!" to my crew and to Rouli, who was filming the whole ordeal.
+Fortunately there was a boat moored alongside. We drifted over and tied Vite & Rêves to the other boat. The captain was very understanding. I dove to free the propellor but lost the lazy line in the process. It was cut and it slipped off between my last two dives. But Vite & Rêves was free! I came up, and shouted "Neta!" to my crew and to Rouli, who was filming the whole ordeal.
 
 {{< youtube LANWkISYuLw >}}
 
 &nbsp;
 
-I talked to the Perfect Yachts guys about their lost mooring line. Fortunately, some divers were working in the harbor. They agreed to repair the mooring line for €30.
+I talked to the Perfect Yachts guys about their lost lazy line. Fortunately, some divers were working in the harbor. They agreed to repair the lazy line for €30.
 
-We cast off for the second time, I put the engine in forward, the same side wind caught Vite & Rêves again and we got stuck in the mooring line of the other boat. The captain jumped in his dingy and pushed us off. After a lot of wrestling with bowsprit, lines, and boathooks, we managed to free Vite & Rêves. This time, the look on the other captain's face was less understanding.
+We cast off for the second time, I put the engine in forward, the same side wind caught Vite & Rêves again and we got stuck in the lazy line of the other boat. The captain jumped in his dingy and pushed us off. After a lot of wrestling with bowsprit, lines, and boathooks, we managed to free Vite & Rêves. This time, the look on the other captain's face was less understanding.
 
 Anyway, we were sailing now and it was glorious. The perfect sailing conditions! But the autopilot was acting up. It seemed to randomly choose a new course after a while. It took a too long time for me to realize it was always pointing between 326 and 330 degrees. Something was throwing the electronic compass off course.
 

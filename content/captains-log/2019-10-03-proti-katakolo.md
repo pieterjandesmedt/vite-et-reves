@@ -28,7 +28,7 @@ This time I had only put the smaller genua up and left the mainsail inside its b
 
 The spout also dissolved before it reached Vite & Rêves. The spell was broken and I could tend to the sails again.
 
-In the distance I saw sunny weather. I thought, "The wind will probably decrease once the sun comes out." It steadily increased to 30 knots and shifted to the west. By now the waves had also built to about 1,5 meters.
+In the distance I saw sunny weather. I thought, "The wind will probably decrease once the sun comes out." It steadily _increased_ to 30 knots and shifted to the west. By now the waves had also built to about 1,5 meters.
 
 On the horizon appeared a long, grey cloud. A front. It was rolling towards us straight from where we were going. And it was rolling fast. When it hit us, the wind jumped instantly to over 40 knots. Somehow, we were ready. We furled in our sails, turned on the engine and set course for the nearest safe harbor, Katakolo. 4 hours away. Wave height had increased to 2 meters.
 

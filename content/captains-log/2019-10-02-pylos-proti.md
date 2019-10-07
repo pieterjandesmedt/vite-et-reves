@@ -38,7 +38,9 @@ We motored over to the nearest island, found ourselves a delightful bay. It's qu
 
 {{< image src="IMG_7035.jpg" alt="Vite & Rêves in a very calm bay" ratio="3x2" >}}
 
-The monastery on the island is closed, although there are still chickens, peacocks and goats around. As we were arriving here, we saw someone speed off on a jetski. Perhaps it was the last monk? There's also a grave right on the dingy dock. It's a nice place to rest, for sure, but a bit morbid to be welcomed by a dead guy. Memento mori, I guess.
+The monastery on the island is closed, although there are still chickens, peacocks and goats around. As we were arriving here, we saw someone speed off on a jetski. Perhaps it was the last monk? There's also a grave right on the dingy dock. It's a nice place to rest, for sure, but a bit morbid to be welcomed by a dead guy.
+
+Memento mori, I guess.
 
 {{< image src="IMG_7049.jpg" alt="Perfect quiet place for praying" ratio="3x2" >}}
 
