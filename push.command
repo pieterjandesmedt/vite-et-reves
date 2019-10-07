@@ -11,6 +11,10 @@ echo -e "${YELLOW}\nPushing texts...${NOCOLOR}"
 git add .
 git commit -a -m "$MESSAGE"
 git push
+
+echo -e "${YELLOW}\nResizing images...${NOCOLOR}"
+./resize.sh
+
 echo -e "${YELLOW}\nPushing images...${NOCOLOR}"
 aws s3 sync static/images/ s3://vite-et-reves
 
