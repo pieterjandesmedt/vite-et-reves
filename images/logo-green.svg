@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="cut-out">
+	  <path d="M 0 400 C 100 300, 400 300, 480 400 v-400 h-480 Z"/>
+	  <path d="M 500 0 v 100 A 430 420 0 1 1 200 850 C 500 1000 750 700 700 500 H 0 v 500 H 1000 V 0 H 500"/>
+    </clipPath>
+  </defs>
+  <circle cx="500" cy="500" r="500" clip-path="url(#cut-out)" style="fill: #67adb7"/>
+</svg>
