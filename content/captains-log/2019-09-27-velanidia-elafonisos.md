@@ -5,6 +5,7 @@ publishdate: 2019-09-28T08:36:59+03:00
 image: "sailing-ship-storm-lightning-waves-ocean.jpeg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 6.gpx"
+summary: "We rounded cape Maleas and dropped anchor at Elafonisos beach."
 ---
 
 `From: Velanidia, Western Peloponnesos, Greece`<br/>

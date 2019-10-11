@@ -4,6 +4,7 @@ date: 2019-08-31T11:40:11+02:00
 publishdate: 2019-08-31T11:40:11+02:00
 image: "IMG_6376.jpg"
 author: "Pieter Jan"
+summary: "We bought a boat and did a shake-down cruise in August. It was glorious!"
 ---
 
 We bought a boat and did a shake-down cruise in August. It was glorious!

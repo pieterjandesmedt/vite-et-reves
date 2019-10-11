@@ -5,6 +5,7 @@ publishdate: 2019-10-08T16:50:39+03:00
 image: "IMG_7174.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 13.gpx"
+summary: "We discovered the palace of Odysseus on the island of Ithaki after a very early forced start in the morning."
 ---
 
 `From: Agios Nikolaos, Zakynthos island, Greece`<br/>

@@ -1,17 +1,50 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        {{ hugo.Generator }}
-	{{ with .Site.Params.logo }}
-	<link rel="icon" href="/images/{{ . | urlize | relURL }}">
-	{{ end }}
+		{{ hugo.Generator }}
+	{{ $defaultImage := absURL (urlize (delimit (slice "images" .Site.Params.logoGreen) "/")) }}
+	{{ $defaultContent := plainify ( markdownify (.Site.Params.index.introtext)) }}
+
+	<link rel="icon" href="{{ $defaultImage }}">
 	<title>{{ (replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" .Title) }}{{ if (ne .Page.Title .Site.Title) }} | {{ .Site.Title }}{{ end }}</title>
-	{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
+	<meta name="description" content="{{ default $defaultContent .Summary }}">
 	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
-	{{ $title := default $.Site.Title (delimit (slice (replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" .Title) $.Site.Title) " | ") }}
+	{{ $title := default $.Site.Title (delimit (slice (replaceRE "^[0-9]+-[0-9]+-[0-9]+ " "" .Title) $.Site.Title) " | ") }}
+
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ .Permalink }}" />
+	<meta property="og:title" content="{{ $title }}" />
+	<meta property="og:description" content="{{ default $defaultContent .Summary }}" />
+	{{ if .Params.image }}
+	<meta property="og:image" content="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ .Params.image }}&w=900&h=300&t=square&a=attention&output=webp" />
+	{{ else }}
+	<meta property="og:image" content="{{ $defaultImage   }}" />
+	{{ end }}
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta property="twitter:title" content="{{ $title }}" />
+	<meta property="twitter:description" content="{{ default $defaultContent .Summary }}" />
+	{{ if .Params.image }}
+	<meta property="twitter:image" content="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ .Params.image }}&w=900&h=300&t=square&a=attention&output=webp" />
+	{{ else }}
+	<meta property="twitter:image" content="{{ $defaultImage   }}" />
+	{{ end }}
+	<meta name="twitter:url" value="{{ .Permalink }}" />
+
+	{{ with .Params.author }}
+	<meta name="twitter:label1" value="Written by" />
+	<meta name="twitter:data1" value="{{ . }}" />
+	{{ end }}
+
+	{{ with .ReadingTime }}
+	<meta name="twitter:label2" value="Read time" />
+	<meta name="twitter:data2" value="🕒 {{ . }} min" />
+	{{ end }}
+
 	{{ range .AlternativeOutputFormats -}}
     <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $title }}" />
 	{{ end -}}
 	{{ $styles := resources.Get "css/inline.scss" | toCSS | minify | fingerprint }}
 	<link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+
 </head>

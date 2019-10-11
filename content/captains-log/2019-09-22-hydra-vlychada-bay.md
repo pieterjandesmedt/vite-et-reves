@@ -5,6 +5,7 @@ publishdate: 2019-09-22T22:55:44+03:00
 image: "IMG_5616.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 2.gpx"
+summary: "We set sail for Monemvasia but didn't make it because the wind died completely. We discovered a paradisiacal bay though!"
 ---
 
 `From: Hydra, island Hydra, Greece`<br/>

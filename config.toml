@@ -11,6 +11,7 @@ googleAnalytics = "UA-149352398-1"
 
 [params]
   logo = "logo-white.svg"
+  logoGreen = "logo-green.svg"
   description ="Live your dreams - Around the world"
   #mailchimp = "you can provide a mailchimp-link here"
 

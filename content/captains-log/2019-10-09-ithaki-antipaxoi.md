@@ -5,6 +5,7 @@ publishdate: 2019-10-09T19:28:17+03:00
 image: "IMG_7206.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 14.gpx"
+summary: "A windless day saw us motoring all the way to Antipaxoi island where we had to try a few bays before finding one that would hold us safely."
 ---
 
 `From: Polis bay, Ithaki island, Greece`<br/>

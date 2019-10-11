@@ -5,6 +5,7 @@ publishdate: 2019-09-19T18:59:43+03:00
 image: "IMG_6746.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 3.gpx"
+summary: "A rocky start turned into a great sailing day."
 ---
 
 `From: Lavrion Port, Greece`<br/>

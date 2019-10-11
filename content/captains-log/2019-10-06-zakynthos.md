@@ -5,6 +5,7 @@ publishdate: 2019-10-06T23:12:36+03:00
 image: "IMG_7127.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 12.gpx"
+summary: "No visit to Zakynthos would be complete without a stop at Shipwreck Beach. Getting away from there proved... challenging."
 ---
 
 `From: Keri, Zakynthos island, Greece`<br/>

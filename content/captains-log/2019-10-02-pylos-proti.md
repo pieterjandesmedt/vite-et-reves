@@ -5,6 +5,7 @@ publishdate: 2019-10-02T21:44:05+03:00
 image: "IMG_7016_1.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 9.gpx"
+summary: "After a tricky start, we ended up in the delightful, quiet bay of Panagoula."
 ---
 
 `From: Pylos, Western Peloponnesos, Greece`<br/>
