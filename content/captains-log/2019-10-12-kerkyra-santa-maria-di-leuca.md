@@ -23,13 +23,15 @@ Suddenly I felt a light zephyr on my face. "Aha!", I yelled, "there it is!". I r
 
 But lo and behold! 10 minutes later, the wind came back, for good this time. I changed the spi for the Code D. We were sailing too close to windward to make the spi work anyway.
 
-We raised the sails just in time to get priority over vessels on engine. We were out of charter boat territory and back into big ship territory. As usual, they didn't answer our calls but changed their course just in time keep from running us over.
+We raised the sails just in time to get priority over vessels on engine. We were out of charter boat territory and back into big ship territory. As usual, they didn't answer our calls but changed their course just in time to keep from running us over.
 
 {{< image src="IMG_7314.jpg" alt="Big ship territory" ratio="3x2" >}}
 
-The wind freshened and turned very gradually, in the right direction as I expected today. We turned slowly with the wind. There was nothing to do except change course a few degrees every now an then. Once the wind speed went over 15 knots regularly, we furled the Code D and unfurled the genua. But something was clearly wrong. The lower part of the genua was flapping freely in the wind. Not good. A shackle had become undone. We furled it immediately. I loosened the halyard, hung onto the genua with my full weight and could move it down just enough to install a new shackle. Then we were on our way again.
+The wind freshened and turned very gradually, in the right direction as I expected from the grib prediction. We turned slowly with the wind. There was nothing to do except change course a few degrees every now an then.
 
-We made it to Italy in record time. Vite & Rêves was doing over 8 knots the whole way. In the windless beginning of the day, Navionics estimated the trip would take us between 2 days and 10 hours and infinite days. When we turned on the engine, our ETA became 23:00. With the sails up, we arrived at 17:00.
+Once the wind speed went over 15 knots regularly, we furled the Code D and unfurled the genua. But something was clearly wrong. The lower part of the genua was flapping freely in the wind. Not good. A shackle had become undone. We furled it again immediately. I loosened the halyard, hung onto the genua with my full weight and could move it down just enough to install a new shackle. Then we were on our way again.
+
+We made it to Italy in record time. Vite & Rêves was doing over 8 knots the whole way. In the windless beginning of the day, Navionics estimated the trip would take us between 2 days and 10 hours and infinite days. When I turned on the engine, our ETA became 23:00. With the sails up, we arrived at 17:00.
 
 This boat is a racing horse through and through. I love it. Looking forward to some pizza after three weeks of Greek food. Lovely as it is, variety is the spice of life.
 
