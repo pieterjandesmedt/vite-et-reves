@@ -33,11 +33,9 @@ Because of the wind, a large swell was building, and Vite & Rêves started surfi
 
 {{< image src="vlcsnap-2019-10-10-20h22m35s917.jpg" alt="Surfing the waves!" ratio="1920x1080" >}}
 
-We anchored in Palaiokastrita bay on the west side of Corfu. The sun tried to come out again but didn't succeed entirely.
+We anchored in Palaiokastrita bay on the west side of Corfu. The sun tried to come out again but didn't succeed entirely, only just before sunset. That was all we needed.
 
-{{< image src="IMG_7300.jpg" alt="Nice day for sailing" ratio="3x2" >}}
-
-{{< image src="IMG_7305.jpg" alt="Nice day for sailing" ratio="3x2" >}}
+{{< image src="IMG_7305.jpg" alt="Sunset in Palaiokastrita" ratio="3x2" >}}
 
 
 

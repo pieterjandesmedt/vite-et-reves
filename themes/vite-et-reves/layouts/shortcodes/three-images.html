@@ -1,0 +1,20 @@
+</div>
+<div class="column is-4">
+	{{ if .IsNamedParams }}
+	{{ $image := dict "src" (.Get "src1") "alt" (.Get "alt1") "ratio" (default "2x3" (.Get "ratio1")) }}
+	{{- partial "_shared/image.html" $image -}}
+	{{ end }}
+</div>
+<div class="column is-4">
+	{{ if .IsNamedParams }}
+	{{ $image := dict "src" (.Get "src2") "alt" (.Get "alt2") "ratio" (default "2x3" (.Get "ratio2")) }}
+	{{- partial "_shared/image.html" $image -}}
+	{{ end }}
+</div>
+<div class="column is-4">
+	{{ if .IsNamedParams }}
+	{{ $image := dict "src" (.Get "src3") "alt" (.Get "alt3") "ratio" (default "2x3" (.Get "ratio3")) }}
+	{{- partial "_shared/image.html" $image -}}
+	{{ end }}
+</div>
+<div class="column is-8 is-offset-2">
