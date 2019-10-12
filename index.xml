@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Thu, 10 Oct 2019 09:50:33 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 16:08:01 +0300</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,24 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
+    </item>
+    
+    <item>
+      <title>2019-10-12 Across the Adriatic</title>
+      <link>https://vite-et-reves.com/captains-log/2019-10-12-kerkyra-santa-maria-di-leuca/</link>
+      <pubDate>Sat, 12 Oct 2019 16:08:01 +0300</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-10-12-kerkyra-santa-maria-di-leuca/</guid>
+      <description>We cross the Adriatic Sea to Italy on a fast clip.</description>
+    </item>
+    
+    <item>
+      <title>2019-10-11 Resting day</title>
+      <link>https://vite-et-reves.com/captains-log/2019-10-11-kerkyra/</link>
+      <pubDate>Fri, 11 Oct 2019 10:03:47 +0300</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-10-11-kerkyra/</guid>
+      <description>We took a day of rest and provisioning in Palaiokastrita before our crossing to Italy</description>
     </item>
     
     <item>
