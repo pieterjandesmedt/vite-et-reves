@@ -5,7 +5,7 @@ publishdate: 2019-10-13T09:22:26+02:00
 image: "IMG_7326.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We found a laundromat and made the most of it."
+summary: "We found a laundromat and made the most of it thanks to laundromat regular Pascuale"
 ---
 
 `At: Santa Maria di Leuca, Italy`
