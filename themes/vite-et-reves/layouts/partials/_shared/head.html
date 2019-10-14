@@ -16,7 +16,7 @@
 	<meta property="og:title" content="{{ $title }}" />
 	<meta property="og:description" content="{{ default $defaultContent .Summary }}" />
 	{{ if .Params.image }}
-	<meta property="og:image" content="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ .Params.image }}&w=900&h=300&t=square&a=attention&output=webp" />
+	<meta property="og:image" content="https://images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ .Params.image }}&w=900&h=300&t=square&a=attention&output=webp" />
 	{{ else }}
 	<meta property="og:image" content="{{ $defaultImage   }}" />
 	{{ end }}
@@ -25,7 +25,7 @@
 	<meta property="twitter:title" content="{{ $title }}" />
 	<meta property="twitter:description" content="{{ default $defaultContent .Summary }}" />
 	{{ if .Params.image }}
-	<meta property="twitter:image" content="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ .Params.image }}&w=900&h=300&t=square&a=attention&output=webp" />
+	<meta property="twitter:image" content="https://images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ .Params.image }}&w=900&h=300&t=square&a=attention&output=webp" />
 	{{ else }}
 	<meta property="twitter:image" content="{{ $defaultImage   }}" />
 	{{ end }}
