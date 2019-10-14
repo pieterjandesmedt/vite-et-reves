@@ -9,7 +9,7 @@ summary: "We are stuck for a day in the eery town of Katakolo. We did meet a nic
 
 `At: Katakolo, Western Peloponnesos, Greece`
 
-This morning, around 6AM, we woke up with a bang. "Not again", I groaned, thinking we had hit the quay, like [in Hydra](/captains-log/2019-09-21-hydra) two weeks ago. Since yesterday evening the wind had been increasing steadily. When I came outside, it was absolute mayhem. Wind gusting to 45 knots, waves crashing and sending spray flying, boats dragging anchor left and right, all hands on deck everywhere.
+This morning, around 6AM, we woke up with a bang. "Not again", I groaned, thinking we had hit the quay, like [in Hydra](/captains-log/2019-09-21-hydra-kissed-the-quay) two weeks ago. Since yesterday evening the wind had been increasing steadily. When I came outside, it was absolute mayhem. Wind gusting to 45 knots, waves crashing and sending spray flying, boats dragging anchor left and right, all hands on deck everywhere.
 
 I checked the sterns. We were close to the quay but not against it. Barbara winched up the anchor a little bit but it was holding strong. I moved the boat forward half a meter. To my left, people were holding their boat off the quay with fenders. To my right, people were setting a second anchor. I closed my eyes.
 

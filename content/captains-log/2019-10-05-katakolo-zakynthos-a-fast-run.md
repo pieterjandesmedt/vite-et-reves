@@ -19,7 +19,7 @@ I asked him if he knew where we could get diesel. "Oh if you only asked me befor
 
 In the end I relented because he seemed so alarmed that I had no reserve fuel. I ended up with two 25 liter jerrycans. Dad, you're hereby informed that I have reserve fuel. I'm not sure the jerrycans or the diesel are clean, but having reserve fuel sure gives me a warm and fuzzy feeling inside. I might turn into a powerboater before long.
 
-We left the harbor without a hiccup, even with the cross-breeze. Barbara pushed off the small sailboats that were hugging Vite & Rêves, I punched the gas briefly, we cleared all lazy lines and buoys. No more repeats of the [Lavrion incident](/captains-log/2019-09-19-lavrion-hydra).
+We left the harbor without a hiccup, even with the cross-breeze. Barbara pushed off the small sailboats that were hugging Vite & Rêves, I punched the gas briefly, we cleared all lazy lines and buoys. No more repeats of the [Lavrion incident](/captains-log/2019-09-19-lavrion-hydra-lazy-line-troubles).
 
 The wind was blowing from the north-west, we wanted to go north-west. I'm starting to see a recurrent pattern here. The horizon was jagged, so we braced ourselves for a rough ride. And it was rough, but only for an hour. Cape Katakolo compresses the current and it's not very deep around there, so the swell builds up to pretty impressive heights. Vite & Rêves took it like a champ.
 
