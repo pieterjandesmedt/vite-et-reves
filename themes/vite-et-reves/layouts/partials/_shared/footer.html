@@ -1,8 +1,14 @@
 {{ $year := now.Format "2006" }}
 <footer class="footer">
-	<div class="content has-text-centered">
-
-		&copy; 2019{{ if (ne $year "2019") }}-{{ $year }}{{ end }} &mdash; Vite &amp; Rêves
+	<div class="container is-fluid">
+		<div class="columns">
+			<div class="column is-6">
+				&copy; 2019{{ if (ne $year "2019") }}-{{ $year }}{{ end }} &mdash; Vite &amp; Rêves
+			</div>
+			<div class="column is-6 has-text-right-desktop">
+				Questions? Suggestions? <span class="email">Mail us!</span>
+			</div>
+		</div>
 	</div>
 </footer>
 

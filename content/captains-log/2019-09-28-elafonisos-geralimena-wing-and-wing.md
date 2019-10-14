@@ -1,5 +1,5 @@
 ---
-title: "2019-09-28 Wing on wing"
+title: "2019-09-28 Wing and wing"
 date: 2019-09-28T19:22:18+03:00
 publishdate: 2019-09-28T19:22:18+03:00
 image: "IMG_6886.jpg"
@@ -15,9 +15,9 @@ The morning promised a nice sailing day. 15 knots from the north, we needed to g
 
 I put a reef in the main and off we went! Vite & Rêves, always eager to be sailing, accelerated straight to 9 knots. We almost had a collective whiplash. We went as fast as the waves, which makes for a very comfortable ride.
 
-Later in the day, the wind decreased slowly and turned to the south, luckily via east, not via west, where we are going. During few hours, we could go wing on wing, which in a monohull is always slightly disquieting because the possibility of a broach or chinese gibe. On Vite & Rêves, with her double main sheet system, there is nothing to worry about. I took a nap on the trampolines.
+Later in the day, the wind decreased slowly and turned to the south, luckily via east, not via west, where we are going. During few hours, we could go wing and wing, which in a monohull is always slightly disquieting because the possibility of a broach or chinese gibe. On Vite & Rêves, with her double main sheet system, there is nothing to worry about. I took a nap on the trampolines.
 
-{{< image src="IMG_6886.jpg" alt="Wing on wing" ratio="3x2" >}}
+{{< image src="IMG_6886.jpg" alt="Wing and wing" ratio="3x2" >}}
 
 We passed cape Tainaron, the middle finger of the Peloponnesos hand.
 

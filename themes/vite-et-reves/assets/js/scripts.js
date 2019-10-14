@@ -149,6 +149,16 @@ document.addEventListener('DOMContentLoaded', () => {
 		}
 	}
 
+	const toReplace = document.getElementsByClassName('email');
+
+	Array.prototype.forEach.call(toReplace, (element) => {
+		const title = element.innerText;
+		const address = 'hdeflgljobvkintpeqeutqrwexvzeds.fcgojm'
+			.replace(/[dfgjknpuwxyz]/gi, '')
+			.replace(/[q]/gi, '-')
+			.replace(/[b]/gi, '@');
+		element.innerHTML = `<a href="mailto:${address}">${title}</a>`;
+	});
 
 	// commonjs
 	if( typeof exports !== "undefined" ){
