@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sat, 12 Oct 2019 16:08:01 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2019 09:22:26 +0200</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
+    </item>
+    
+    <item>
+      <title>2019-10-13 Laundry day</title>
+      <link>https://vite-et-reves.com/captains-log/2019-10-13-santa-maria-di-leuca/</link>
+      <pubDate>Sun, 13 Oct 2019 09:22:26 +0200</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-10-13-santa-maria-di-leuca/</guid>
+      <description>We found a laundromat and made the most of it.</description>
     </item>
     
     <item>
