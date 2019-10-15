@@ -16,7 +16,7 @@ We packed our shopping bags and were off in search of a supermarket.
 
 The first supermarket we found was full of very fresh local products. It was also very closed. Siesta between 13:00 and 17:00. I looked at my clock: 13:05. Next supermarket: siesta between 13:00 and 17:30. Next one: siesta. Next one: siesta.
 
-The fifth supermarket we found was open. Siesta between 13:30 and 17:30. The cashiers were already yawning in anticipation and looked a bit miffed when we came in. They made a gargantuan effort to stay awake while we tried do find our stuff in record time. We found the prosecco first, so all was well.
+The fifth supermarket we found was open. Siesta between 13:30 and 17:30. The cashiers were already yawning in anticipation and looked a bit miffed when we came in. They made a gargantuan effort to stay awake while we tried to find our stuff in record time. We found the prosecco first, so all was well.
 
 It's the same everywhere. I tried to check out of the marina: siesta. Went back after a few hours: still siesta. When I went to the office in the evening, I was overjoyed to find somebody clicking away on a computer. He said: "The office is actually closed. Come back tomorrow."
 
