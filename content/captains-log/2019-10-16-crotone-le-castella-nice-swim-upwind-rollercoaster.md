@@ -2,7 +2,7 @@
 title: "2019-10-16 Nice swim / Upwind rollercoaster"
 date: 2019-10-16T00:18:56+02:00
 publishdate: 2019-10-16T00:18:56+02:00
-image: "IMG_7346.jpg"
+image: "IMG_7362.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 18.gpx"
 summary: "A pleasant morning spent swimming followed by a rollercoaster afternoon with 40 knots close hauled sailing."
@@ -35,6 +35,6 @@ Barbara pondered over the night before.
 
 {{< image src="IMG_7369.jpg" alt="" ratio="3x2" >}}
 
-We rounded the cape. The wind freshened to 20 knots. Then 25. Then 30. 35. Almost 40. It became a wild, non-stop rollercoaster. The waves sometimes broke over Vite & Rêves. She changed into a submarine. When I had to go to the mast to fix something, I was soaked in seconds. Luckily, it was only half an hour.
+We rounded the cape. The wind freshened to 20 knots. Then 25. Then 30. 35. Almost 40. It became a wild, non-stop rollercoaster. The waves sometimes broke over Vite & Rêves. She changed into a submarine. When I had to go to the mast to fix something, I was soaked in seconds. Luckily, it was only an hour and a half.
 
 We docked in the extremely protected harbor of Le Castella. The propellor caught the lazy line again just as the boat was made fast. No biggie. The line wasn't cut and I freed the propellor easily in the morning. We thought about it and now know how to prevent this situation. You live, you learn.
