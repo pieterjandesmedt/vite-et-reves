@@ -31,7 +31,7 @@ The whole cape is a nature reserve. The prevailing species is windmillus windmil
 
 {{< image src="IMG_7366.jpg" alt="" ratio="3x2" >}}
 
-Barbara pondered over the night before.
+Barbara pondered over the horrors of the night before, still blissfully unaware the afternoon had even worse for us in store.
 
 {{< image src="IMG_7369.jpg" alt="" ratio="3x2" >}}
 
