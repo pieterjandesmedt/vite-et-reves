@@ -15,11 +15,11 @@ We left Le Castella in the afternoon, thinking to cross the gulf of Squillace to
 
 {{< image src="IMG_7374.jpg" alt="" ratio="3x2" >}}
 
-Sometimes the wind dropped to nothing, did a 120 degree shift and then went back to 10 knots. These windless zones were never big, 10 minutes of motoring took care of it, and we never had to alter course, just tack the sails to the other side. Most of the time, the wind came from over land, so the sea remained calm, as did the ride. The words 'smooth as butter' came to my mind every ten minutes. I was as happy as a dog with two tails.
+Sometimes the wind dropped to nothing, did a 120 degree shift and then went back to 10 knots. These windless zones were never big. Usually, a few minutes of motoring took care of it, and we never had to alter course, just tack the sails to the other side. Most of the time, the wind came from over land, so the sea remained calm, as did the ride. The words 'smooth as butter' came to my mind every ten minutes. I was as happy as a dog with two tails.
 
 We passed Soverato. I said to Barbara, "Let's just continue. The wind and the waves are perfect for this trip. The next time we'll have weather like this, according to the predictions, is _never_." Barbara agreed to round Cape Stilo and then find some place to stop.
 
-At sunset, a helicopter passed over us, did a tour around the boat and flew on. We smiled and waved to the pilot.
+At sunset, a helicopter passed over Vite & Rêves, did a tour around the boat and flew on. We were just sitting on the trampolines, so we smiled and waved to the pilot.
 
 {{< image src="IMG_7383.jpg" alt="" ratio="3x2" >}}
 
