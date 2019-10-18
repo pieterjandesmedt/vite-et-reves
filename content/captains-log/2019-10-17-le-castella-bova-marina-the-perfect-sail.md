@@ -31,13 +31,15 @@ I was watching the last episode of season 2 around 4 AM, when a bright light fil
 
 And it was quiet, like a ghost ship. I couldn't see what I was dealing with, but it looked like the outline of a destroyer. I put my hands up immediately. In my imagination I was staring down the barrel of a 76mm deck gun. The boat kept following. After a few minutes I put my hands back down. I shielded my eyes. They turned the searchlight away briefly. "Guardia Finanza," the side of the boat said.
 
-My mind was racing. I paid my taxes, right? I took the wind out of the sails to slow us down. I went inside to get the radio and tried to hail them. "Guardia Finanza", this is sailing vessel Vite & Rêves". No answer. I tried with another radio. No answer. Just the boat following at 10 meter distance. It was eery.
+My mind was racing. I paid my taxes, right? I took the wind out of the sails to slow us down. I went inside to get the radio and tried to hail them. "Guardia Finanza, this is sailing vessel Vite & Rêves". No answer. I tried with another radio. No answer. Just the boat silently following at 10 meter distance with a blinding searchlight in my face. It was spooky.
 
-The blue flashing lights came on. Luckily, Barbara had waken up by then. I called her outside. With her by my side, I always look less like a criminal. Seeing Barbara seemed to convince the Guardia that I was not dangerous. A guy came out and shouted: "How many people on board?" "Us two and our three children!" "Three children?" "Yes, our children!"
+The blue flashing lights came on. Luckily, Barbara had waken up by then. I called her outside. With her by my side, I always look less like a criminal. Seeing Barbara seemed to convince the Guardia that I was not dangerous. A guy came out and shouted: "How many people on board?" "Us two and our three children!" "Three children?!" "Yes, _our_ children!"
 
-A brief pause. "Where do you come from?" "Le Castella this morning!" "Where are you going?" "Sicily!". Pause. "Okay, goodnight!" And they were off.
+A brief pause. "Where do you come from?" "Le Castella this morning!" "Where are you going?" "Sicily!" Pause. "Okay, goodnight!" And they were off.
 
-The rest of the night passed quietly. I took care not to enter the forbidden zone below Palizzi, where a world war 2 torpedo boat wreck rests on a mountain of unexploded torpedos.
+"Well that was weird," I said to Barbara, "glad you came outside at the right time." "They probably thought we were smugglers or traffickers." Can't people sail unsuspectedly at night anymore?
+
+The rest of the night passed quietly. I took care not to enter the forbidden zone below Palizzi, where a World War II torpedo boat wreck rests on a mountain of unexploded torpedos.
 
 We arrived near Bova Marina around 7 AM. Barbara woke up when I prepared the anchor. It took hold immediately in the sandy bottom. We watched the sunrise and the active Etna volcano in the distance.
 
