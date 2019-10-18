@@ -45,4 +45,4 @@ We arrived near Bova Marina around 7 AM. Barbara woke up when I prepared the anc
 
 {{< image src="IMG_7384.jpg" alt="" ratio="3x2" >}}
 
-{{< image src="IMG_7388.jpg" alt="" ratio="9x16" >}}
+{{< image src="IMG_7388.jpg" alt="" ratio="16x9" >}}
