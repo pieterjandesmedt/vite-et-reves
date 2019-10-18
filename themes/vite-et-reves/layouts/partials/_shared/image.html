@@ -1,6 +1,7 @@
+{{ $a := index (split .ratio "x") 0 }}
+{{ $b := index (split .ratio "x") 1 }}
+
 {{ if eq (getenv "HUGO_ENV" ) "production" }}
-	{{ $a := index (split .ratio "x") 0 }}
-	{{ $b := index (split .ratio "x") 1 }}
 	{{ $x := 1.0 }}
 	{{ $y := div (float (default 1 $b)) (float (default 1 $a)) }}
 
@@ -25,7 +26,7 @@
 		{{ $srcsetWebP = $srcsetWebP | append $srcWebP }}
 		{{ $srcset = $srcset | append $src }}
 	{{ end }}
-<picture class="responsive is-fullwidth">
+<picture class="responsive is-fullwidth is-{{ $a }}by{{ $b }}">
 	<source class="lozad"
 		data-srcset="{{ delimit $srcsetWebP ", " }}"
 		sizes="(min-width: 1024px) calc(960px - 1.5rem),
@@ -45,5 +46,5 @@
 	<img src="{{ index (last 1 $srcset) 0 }}" alt="{{ .alt }}" class="is-fullwidth" />
 </picture>
 {{ else }}
-<img class="lozad responsive is-fullwidth" style="object-fit: cover;" data-src="/images/{{ .src }}" alt="{{ .alt }}" loading="lazy" />
+<img class="lozad responsive is-fullwidth is-{{ $a }}by{{ $b }}" style="object-fit: cover;" data-src="/images/{{ .src }}" alt="{{ .alt }}" loading="lazy" />
 {{ end }}
