@@ -5,6 +5,7 @@ workflows:
   main:
     jobs:
       - hugo/build:
+          html-proofer: false
           filters:
             branches:
               ignore: gh-pages
