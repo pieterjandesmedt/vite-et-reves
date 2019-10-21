@@ -26,7 +26,7 @@ Cape Riace looked like something out of a Märklin diorama.
 
 When we entered the strait of Messina, I changed the Code D for the spinnaker. Very light puffs of air pushed us slowly forward. Around sunset, the wind increased gradually until the perfect 10 knots. Tall ship 'Sea Cloud' passed us on engine. Too bad, the wind came from the perfect direction for such a ship.
 
-{{< two-images src1="IMG_7402.jpg" alt1="Sea Cloud at sunset" src2="IMG_7409.jpg" alt2="An orgy of purples" >}}
+{{< two-images src1="IMG_7402.jpg" alt1="Sea Cloud at sunset" src2="IMG_7409.jpg" alt2="A plethora of purples" >}}
 
 After dark, we found diesel in the harbor of Reggio Calabria. We asked how much it would cost to stay a night. € 60. This is something that shocked me about Italy, compared to Greece. In Greece, staying in a harbor is usually cheap (around €10), and most of the time it's even free. In Italy, I thought the great marina of Santa Maria Di Leuca was expensive (€ 19 per night). But it's becoming more expensive the more westward we go.
 
