@@ -1,26 +1,47 @@
 {{ define "header"}}
-    {{- partial "_shared/navbar.html" . -}}
+{{- partial "_shared/navbar.html" . -}}
 {{ end }}
 
 {{ define "main" }}
-<div class="main-content">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-10 error">
-                <div class="mainheading">
-                    <h1 class="posttitle">{{ .Title }}</h1> 
-                </div>
-                <div class="article-post">
-                    Oops! This is obviously not what you are looking for.<br>
-                    Click <a href="/">here</a> to start all over again.                
-                </div>
-            </div>
-            <div class="col-md-1"></div>
-        </div>
-    </div>
+<div class="main-content article">
+	<!-- Begin Article
+        ================================================== -->
+	<div class="container">
+		<div class="columns is-multiline">
+			<!-- Post -->
+			<div class="column is-8 is-offset-2">
+				<div class="mainheading columns">
+					<!-- Post Title -->
+					<div class="column">
+						<h1 class="is-size-1-desktop is-size-2-tablet is-size-4-mobile">Page not found (error 4<sub>🌎</sub>4)</h1>
+					</div>
+				</div>
+
+
+				<!-- Post Content -->
+				The page you're looking for is lost at sea...
+
+				{{ $firstPost := index (first 1 (where .Site.RegularPages.ByTitle "Section" "captains-log")) 0 }}
+				{{ with $firstPost }}
+					You can read from the start here &raquo;
+					<a class="" href="{{.Permalink}}"> {{ .Title | replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" }}</a>
+				{{ end }}
+
+			</div>
+			<div class="column is-12">
+				{{ $image := dict "src" "IMG_6827.jpg" "alt" "Nothing to be found here" "ratio" "16x9" }}
+				{{- partial "_shared/image.html" $image -}}
+			</div>
+			<div class="column is-8 is-offset-2">
+			</div>
+			<!-- End Post -->
+		</div>
+	</div>
+	<!-- End Article
+        ================================================== -->
 </div>
 {{ end }}
 
 {{ define "footer"}}
+{{- partial "_shared/footer.html" . -}}
 {{ end }}
