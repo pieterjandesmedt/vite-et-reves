@@ -12,7 +12,7 @@ summary: "Milazzo castle was closed, so we found a big supermarket and motor a b
 `From: Milazzo, Sicily, Italy`<br/>
 `To: Capo Calava, Sicily, Italy`
 
-The Milazzo castle looked promising and inviting. We badly needed to stretch our legs, lest they atrophy into useless noodles. We brought along our shopping bags. This is the thing: when you go ashore, you want to do _all_ the things --- culture, shopping, garbage disposal --- because taking out the dingy is always a bit of a hassle. We usually visit places of interest loaded with shopping bags and backpacks, looking a bit like homeless drifters. Actually, we literally are homeless drifters. Cruising isn't as glamourous as some people think.
+The Milazzo castle looked promising and inviting. We badly needed to stretch our legs, lest they atrophy into useless noodles. We brought along our shopping bags. When you go ashore, you want to do _all_ the things --- culture, shopping, garbage disposal --- because taking out the dingy is always a bit of a hassle. We usually visit places of interest loaded with shopping bags and backpacks, looking a bit like homeless drifters. Actually, we literally are homeless drifters. Cruising isn't as glamourous as some people think.
 
 {{< image src="IMG_7438.jpg" alt="" ratio="3x2" >}}
 
