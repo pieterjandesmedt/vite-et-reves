@@ -11,7 +11,7 @@ summary: "Following winds clash at the end of the day with another weather syste
 `From: Sferracavallo, Sicily, Italy`<br/>
 `To: San Vito Lo Capo, Sicily, Italy`
 
-Sferracavallo turned out to be nothing special in daylight. Just a small fishing village. The surroundings are pretty imposing though. We left with the wind in our back.
+Sferracavallo turned out to be nothing special in daylight. Just a small fishing village. The surroundings are pretty imposing though. We left with the wind at our back.
 
 {{< image src="IMG_7484.jpg" alt="Sferracavallo, dominated by Monte Gallo" ratio="6684x1671" >}}
 
