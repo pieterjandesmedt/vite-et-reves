@@ -28,7 +28,7 @@
 						{{ with $firstPost }}
 						<p>
 							Read from the start &raquo;
-							<a class="" href="{{.Permalink}}"> {{- partial "_shared/title" . -}}</a>
+							<a class="" href="{{.Permalink}}"> {{- partial "_shared/title" .Title -}}</a>
 						</p>
 						{{ end }}
 					</div>
