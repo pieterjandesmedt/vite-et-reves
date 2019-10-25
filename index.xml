@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:28 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 00:41:10 +0200</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,24 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
+    </item>
+    
+    <item>
+      <title>2019-10-23 Nightly Joyride</title>
+      <link>https://vite-et-reves.com/captains-log/2019-10-23-nightly-joyride/</link>
+      <pubDate>Wed, 23 Oct 2019 00:41:10 +0200</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-10-23-nightly-joyride/</guid>
+      <description>A very calm day ended with an exhilarating joyride past Palermo.</description>
+    </item>
+    
+    <item>
+      <title>2019-10-22 Chasing Zephyrs</title>
+      <link>https://vite-et-reves.com/captains-log/2019-10-22-chasing-zephyrs/</link>
+      <pubDate>Tue, 22 Oct 2019 00:41:04 +0200</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-10-22-chasing-zephyrs/</guid>
+      <description>We spent a day chasing very light winds, without much success.</description>
     </item>
     
     <item>
@@ -76,7 +94,7 @@
     </item>
     
     <item>
-      <title>2019-10-16 Nice swim / Upwind rollercoaster</title>
+      <title>2019-10-16 Nice Swim / Upwind Rollercoaster</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-16-crotone-le-castella-nice-swim-upwind-rollercoaster/</link>
       <pubDate>Wed, 16 Oct 2019 00:18:56 +0200</pubDate>
       
@@ -85,7 +103,7 @@
     </item>
     
     <item>
-      <title>2019-10-15 The longest day</title>
+      <title>2019-10-15 The Longest Day</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-15-santa-maria-di-leuca-crotone-the-longest-day/</link>
       <pubDate>Tue, 15 Oct 2019 10:55:49 +0200</pubDate>
       
@@ -103,7 +121,7 @@
     </item>
     
     <item>
-      <title>2019-10-13 Laundry day</title>
+      <title>2019-10-13 Laundry Day</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-13-santa-maria-di-leuca-laundry-day/</link>
       <pubDate>Sun, 13 Oct 2019 09:22:26 +0200</pubDate>
       
@@ -112,7 +130,7 @@
     </item>
     
     <item>
-      <title>2019-10-12 Across the Adriatic</title>
+      <title>2019-10-12 Across The Adriatic</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-12-kerkyra-santa-maria-di-leuca-across-the-adriatic/</link>
       <pubDate>Sat, 12 Oct 2019 16:08:01 +0300</pubDate>
       
@@ -121,7 +139,7 @@
     </item>
     
     <item>
-      <title>2019-10-11 Resting day</title>
+      <title>2019-10-11 Resting Day</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-11-kerkyra-resting-day/</link>
       <pubDate>Fri, 11 Oct 2019 10:03:47 +0300</pubDate>
       
@@ -130,7 +148,7 @@
     </item>
     
     <item>
-      <title>2019-10-10 Front surfing</title>
+      <title>2019-10-10 Front Surfing</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-10-antipaxoi-kerkyra-front-surfing/</link>
       <pubDate>Thu, 10 Oct 2019 09:50:33 +0300</pubDate>
       
@@ -139,7 +157,7 @@
     </item>
     
     <item>
-      <title>2019-10-09 Making water</title>
+      <title>2019-10-09 Making Water</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-09-ithaki-antipaxoi-making-water/</link>
       <pubDate>Wed, 09 Oct 2019 19:28:17 +0300</pubDate>
       
@@ -148,7 +166,7 @@
     </item>
     
     <item>
-      <title>2019-10-08 In Odysseus&#39; footsteps</title>
+      <title>2019-10-08 In Odysseus&#39; Footsteps</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-08-zakynthos-ithaki-in-odysseus-footsteps/</link>
       <pubDate>Tue, 08 Oct 2019 16:50:39 +0300</pubDate>
       
@@ -166,7 +184,7 @@
     </item>
     
     <item>
-      <title>2019-10-06 Shipwreck beach</title>
+      <title>2019-10-06 Shipwreck Beach</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-06-zakynthos-shipwreck-beach/</link>
       <pubDate>Sun, 06 Oct 2019 23:12:36 +0300</pubDate>
       
@@ -175,7 +193,7 @@
     </item>
     
     <item>
-      <title>2019-10-05 A fast run</title>
+      <title>2019-10-05 A Fast Run</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-05-katakolo-zakynthos-a-fast-run/</link>
       <pubDate>Sat, 05 Oct 2019 21:50:04 +0300</pubDate>
       
@@ -193,7 +211,7 @@
     </item>
     
     <item>
-      <title>2019-10-02 A bit of everything</title>
+      <title>2019-10-02 A Bit Of Everything</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-03-proti-katakolo-a-bit-of-everything/</link>
       <pubDate>Thu, 03 Oct 2019 23:00:11 +0300</pubDate>
       
@@ -202,7 +220,7 @@
     </item>
     
     <item>
-      <title>2019-10-02 On achieving calm</title>
+      <title>2019-10-02 On Achieving Calm</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-02-pylos-proti-on-achievin-calm/</link>
       <pubDate>Wed, 02 Oct 2019 21:44:05 +0300</pubDate>
       
@@ -211,7 +229,7 @@
     </item>
     
     <item>
-      <title>2019-10-01 Tight sailing</title>
+      <title>2019-10-01 Tight Sailing</title>
       <link>https://vite-et-reves.com/captains-log/2019-10-01-koroni-pylos-tight-sailing/</link>
       <pubDate>Tue, 01 Oct 2019 22:21:08 +0300</pubDate>
       
@@ -220,7 +238,7 @@
     </item>
     
     <item>
-      <title>2019-09-30 Koroni castle</title>
+      <title>2019-09-30 Koroni Castle</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-30-koroni-castle/</link>
       <pubDate>Mon, 30 Sep 2019 21:47:18 +0300</pubDate>
       
@@ -229,7 +247,7 @@
     </item>
     
     <item>
-      <title>2019-09-29 No time to waste</title>
+      <title>2019-09-29 No Time To Waste</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-29-geralimena-koroni-no-time-to-waste/</link>
       <pubDate>Sun, 29 Sep 2019 02:01:58 +0300</pubDate>
       
@@ -238,7 +256,7 @@
     </item>
     
     <item>
-      <title>2019-09-28 Wing and wing</title>
+      <title>2019-09-28 Wing And Wing</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-28-elafonisos-geralimena-wing-and-wing/</link>
       <pubDate>Sat, 28 Sep 2019 19:22:18 +0300</pubDate>
       
@@ -247,7 +265,7 @@
     </item>
     
     <item>
-      <title>2019-09-27 Rounding cape Maleas</title>
+      <title>2019-09-27 Rounding Cape Maleas</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-27-velanidia-elafonisos-rounding-cape-maleas/</link>
       <pubDate>Sat, 28 Sep 2019 08:36:59 +0300</pubDate>
       
@@ -265,7 +283,7 @@
     </item>
     
     <item>
-      <title>2019-09-26 Uncooperative winds</title>
+      <title>2019-09-26 Uncooperative Winds</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-26-monemvasia-velanidia-uncooperative-winds/</link>
       <pubDate>Thu, 26 Sep 2019 22:07:20 +0300</pubDate>
       
@@ -283,7 +301,7 @@
     </item>
     
     <item>
-      <title>2019-09-24 Gale sailing</title>
+      <title>2019-09-24 Gale Sailing</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-24-vlychada-bay-monemvasia-gale-sailing/</link>
       <pubDate>Tue, 24 Sep 2019 22:37:10 +0300</pubDate>
       
@@ -292,7 +310,7 @@
     </item>
     
     <item>
-      <title>2019-09-23 Relaxing at Vlychada Bay</title>
+      <title>2019-09-23 Relaxing At Vlychada Bay</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-23-vlychada-bay-relaxing-at-vlychada-bay/</link>
       <pubDate>Mon, 23 Sep 2019 23:44:02 +0300</pubDate>
       
@@ -301,7 +319,7 @@
     </item>
     
     <item>
-      <title>2019-09-22 No wind</title>
+      <title>2019-09-22 No Wind</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-22-hydra-vlychada-bay-no-wind/</link>
       <pubDate>Sun, 22 Sep 2019 22:55:44 +0300</pubDate>
       
@@ -310,7 +328,7 @@
     </item>
     
     <item>
-      <title>2019-09-21 Kissed the quay</title>
+      <title>2019-09-21 Kissed The Quay</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-21-hydra-kissed-the-quay/</link>
       <pubDate>Sat, 21 Sep 2019 22:30:26 +0300</pubDate>
       
@@ -319,7 +337,7 @@
     </item>
     
     <item>
-      <title>2019-09-20 A fond farewell</title>
+      <title>2019-09-20 A Fond Farewell</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-20-hydra-a-fond-farewell/</link>
       <pubDate>Fri, 20 Sep 2019 21:38:58 +0300</pubDate>
       
@@ -328,7 +346,7 @@
     </item>
     
     <item>
-      <title>2019-09-19 Lazy line troubles</title>
+      <title>2019-09-19 Lazy Line Troubles</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-19-lavrion-hydra-lazy-line-troubles/</link>
       <pubDate>Thu, 19 Sep 2019 18:59:43 +0300</pubDate>
       
@@ -337,7 +355,7 @@
     </item>
     
     <item>
-      <title>2019-09-18 Shopping and provisioning</title>
+      <title>2019-09-18 Shopping And Provisioning</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-18-lavrion-shopping-and-provisioning/</link>
       <pubDate>Wed, 18 Sep 2019 18:51:46 +0300</pubDate>
       
@@ -346,7 +364,7 @@
     </item>
     
     <item>
-      <title>2019-09-17 Started in Lavrion</title>
+      <title>2019-09-17 Started In Lavrion</title>
       <link>https://vite-et-reves.com/captains-log/2019-09-17-lavrion-started-in-lavrion/</link>
       <pubDate>Tue, 17 Sep 2019 01:03:56 +0300</pubDate>
       
@@ -355,7 +373,7 @@
     </item>
     
     <item>
-      <title>2019-08-31 We have a boat!</title>
+      <title>2019-08-31 We Have A Boat!</title>
       <link>https://vite-et-reves.com/captains-log/2019-08-31-we-have-a-boat/</link>
       <pubDate>Sat, 31 Aug 2019 11:40:11 +0200</pubDate>
       
