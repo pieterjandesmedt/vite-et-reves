@@ -15,7 +15,7 @@ Sferracavallo turned out to be nothing special in daylight. Just a small fishing
 
 {{< image src="IMG_7484.jpg" alt="Sferracavallo, dominated by Monte Gallo" ratio="6684x1671" >}}
 
-We passed Isola delle Femmine, the "Island of Women". A lot of legends surround this island. Some say it was a women-only prison. Other legends tell of 13 Turkish maidens that did a lot of very naughty things. They were set adrift until they crashed on this island, where lived for 7 years. Pliny the Younger maintains that it was an island full of beautiful girls who offered themselves as prizes to victorious warriors. Anything to get away from the drama and gossip, probably.
+We passed Isola delle Femmine, the "Island of Women". A lot of legends surround this island. Some say it was a women-only prison. Other legends tell of 13 Turkish maidens that did a lot of very naughty things. They were set adrift until they crashed on this island, where they lived for 7 years. Pliny the Younger maintains that it was an island full of beautiful girls who offered themselves as prizes to victorious warriors. Anything to get away from the drama and gossip, probably.
 
 It could be a marketing ploy. The tiny rock is for sale now for 3,5 million euros --- women not included.
 
