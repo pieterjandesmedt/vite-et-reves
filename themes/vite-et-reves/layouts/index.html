@@ -28,7 +28,7 @@
 						{{ with $firstPost }}
 						<p>
 							Read from the start &raquo;
-							<a class="" href="{{.Permalink}}"> {{ .Title | replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" }}</a>
+							<a class="" href="{{.Permalink}}"> {{- partial "_shared/title" . -}}</a>
 						</p>
 						{{ end }}
 					</div>

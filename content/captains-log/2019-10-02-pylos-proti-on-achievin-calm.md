@@ -1,5 +1,5 @@
 ---
-title: "2019-10-02 On achieving calm"
+title: "2019-10-02 On Achieving Calm"
 date: 2019-10-02T21:44:05+03:00
 publishdate: 2019-10-02T21:44:05+03:00
 image: "IMG_7016_1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "2019-10-11 Resting day"
+title: "2019-10-11 Resting Day"
 date: 2019-10-11T10:03:47+03:00
 publishdate: 2019-10-11T10:03:47+03:00
 image: "IMG_7300.jpg"
@@ -14,7 +14,7 @@ Ahhhh... a good sleep after a few short and broken nights and we felt like new a
 
 Palaiokastrita bay is absolutely stunning, surrounded by high, steep, wooded mountains and cliffs, with azure water and tiny beaches everywhere. It was probably a popular holiday destination a decade ago, but now some hotels are closed and have fallen into disrepair. I was aching to break in and do some urban exploration, but didn't find the time. Now it's the landing place to dazed and elderly British tourists that are probably just realizing why their hotel was so cheap.
 
-{{< image src="IMG_7300.jpg" alt="Nice day for sailing" ratio="3x2" >}}
+{{< image src="IMG_7300.jpg" alt="Urban exploration waiting to happen" ratio="3x2" >}}
 
 We moved the boat to the marina in search of fresh water. The marina --- like the village itself --- is a prime example of past glory: once outfitted with state of the art pontoons, it's now chock full of fishing boats and overrun by little powerboats that are rented out to tourists. There are three or four spots left for visiting sailboats, but all electricity/water-pillars have been sheared off at the base, pipes and wires sticking out of the ground. Waste pump-out pillars are covered in plastic wrapping. Rusty mooring rings are worn thin as paper in places.
 

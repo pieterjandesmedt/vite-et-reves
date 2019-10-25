@@ -1,5 +1,5 @@
 ---
-title: "2019-10-08 In Odysseus' footsteps"
+title: "2019-10-08 In Odysseus' Footsteps"
 date: 2019-10-08T16:50:39+03:00
 publishdate: 2019-10-08T16:50:39+03:00
 image: "IMG_7174.jpg"
@@ -45,9 +45,9 @@ The place is full of dilapidated wooden structures supporting collapsing corruga
 
 But I was proud to walk the same stairs that Odysseus once did.
 
-{{< image src="IMG_7180.jpg" alt="Lack of funding" ratio="3x2" >}}
+{{< image src="IMG_7180.jpg" alt="The palace's stairs" ratio="3x2" >}}
 
 And the view was worth it. Fit for a king.
 
-{{< image src="IMG_7189.jpg" alt="Lack of funding" ratio="3x2" >}}
+{{< image src="IMG_7189.jpg" alt="Odysseus' view of his kingdom" ratio="3x2" >}}
 

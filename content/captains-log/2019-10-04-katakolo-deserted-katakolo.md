@@ -41,7 +41,7 @@ We still needed bread, fruit and some more stuff we couldn't find in a liquor st
 
 I passed dozens of empty houses and two beachfront restaurants that were fully lit with no one inside, not ever waiters. Lightning was flashing in the distance. The sun was under now. The only living souls I saw were stray dogs and a few children that kept their distance. It was downright eery. This place was like a mix between the Walking Dead and Children Of The Corn.
 
-{{< image src="IMG_4412.JPG" alt="'Walk here, you'll get to your destination faster' - Google Maps" ratio="3x2" >}}
+{{< image src="IMG_4412.JPG" alt="These sunbrellas count on the clouds to provide shade" ratio="3x2" >}}
 
 I finally found the supermarket, got most of Barbara's grocery list and made it back home double time. It was now dark, lightning was flashing every few minutes and I encountered more stray dogs, probably attracted by my heavy shopping bags. A few swings with my polka-dotted umbrella kept them at bay.
 

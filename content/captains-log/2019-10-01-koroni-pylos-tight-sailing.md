@@ -1,5 +1,5 @@
 ---
-title: "2019-10-01 Tight sailing"
+title: "2019-10-01 Tight Sailing"
 date: 2019-10-01T22:21:08+03:00
 publishdate: 2019-10-01T22:21:08+03:00
 image: "IMG_7004.jpg"
@@ -31,7 +31,7 @@ On the way, we passed the fortress of Methoni, the other 'eye' of the Venetians 
 
 I pulled the sails as tight as possible, so tight you could hang some kids from the sheet. What they promptly did, like the little monkeys they are.
 
-{{< two-images src1="IMG_6992_1.jpg" alt1="One monkey" src2="IMG_6997_1.jpg" alt="Another monkey" >}}
+{{< two-images src1="IMG_6992_1.jpg" alt1="One monkey" src2="IMG_6997_1.jpg" alt2="Another monkey" >}}
 
 And you know what? It worked! For once the wind didn't turn on the exact moment we tacked, it didn't drop all the way to 0 when we were the furthest from our destination, it stayed constant on the first leg and went down to 16-18 knots on the second leg. The second leg --- full sails up, daggerboards all the way down --- ended exactly where we wanted it to end, which is the nautical equivalent of a hole in one.
 

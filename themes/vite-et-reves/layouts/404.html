@@ -24,7 +24,7 @@
 				{{ $firstPost := index (first 1 (where .Site.RegularPages.ByTitle "Section" "captains-log")) 0 }}
 				{{ with $firstPost }}
 					You can read from the start here &raquo;
-					<a class="" href="{{.Permalink}}"> {{ .Title | replaceRE "^[0-9]+-[0-9]+-[0-9]+" "" }}</a>
+					<a class="" href="{{.Permalink}}"> {{- partial "_shared/title" . -}}</a>
 				{{ end }}
 
 			</div>

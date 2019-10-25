@@ -1,5 +1,5 @@
 ---
-title: "2019-10-12 Across the Adriatic"
+title: "2019-10-12 Across The Adriatic"
 date: 2019-10-12T16:08:01+03:00
 publishdate: 2019-10-12T16:08:01+03:00
 image: "IMG_7314.jpg"

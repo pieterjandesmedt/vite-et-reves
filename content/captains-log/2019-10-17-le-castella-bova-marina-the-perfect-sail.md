@@ -13,7 +13,7 @@ summary: "A late leave turns into the perfect sailing day. So perfect I couldn't
 
 We left Le Castella in the afternoon, thinking to cross the gulf of Squillace to Soverato, some 30 miles away. When we came outside, the weather was perfect. 10 knots of wind on the beam. My spirits soared instantly.
 
-{{< image src="IMG_7374.jpg" alt="" ratio="3x2" >}}
+{{< image src="IMG_7374.jpg" alt="Le Castella, named after its castle" ratio="3x2" >}}
 
 Sometimes the wind dropped to nothing, did a 120 degree shift and then went back to 10 knots. These windless zones were never big. Usually, a few minutes of motoring took care of it, and we never had to alter course, just tack the sails to the other side. Most of the time, the wind came from over land, so the sea remained calm, as did the ride. The words 'smooth as butter' came to my mind every ten minutes. I was as happy as a dog with two tails.
 
@@ -21,7 +21,7 @@ We passed Soverato. I said to Barbara, "Let's just continue. The wind and the wa
 
 At sunset, a helicopter passed over Vite & Rêves, did a tour around the boat and flew on. We were just sitting on the trampolines, so we smiled and waved to the pilot.
 
-{{< image src="IMG_7383.jpg" alt="" ratio="3x2" >}}
+{{< image src="IMG_7383.jpg" alt="Dramatic sunset" ratio="3x2" >}}
 
 But we rounded Cape Stilo and the wind remained perfect. It seemed a waste to stop. We continued. Barbara was falling asleep, so I said: "I'll do the night shift, I'll call you when I need all hands on deck."
 
@@ -43,6 +43,6 @@ The rest of the night passed quietly. I took care not to enter the forbidden zon
 
 We arrived near Bova Marina around 7 AM. Barbara woke up when I prepared the anchor. It took hold immediately in the sandy bottom. We watched the sunrise and the active Etna volcano in the distance.
 
-{{< image src="IMG_7384.jpg" alt="" ratio="3x2" >}}
+{{< image src="IMG_7384.jpg" alt="Just before sunrise" ratio="3x2" >}}
 
-{{< image src="IMG_7388.jpg" alt="" ratio="16x9" >}}
+{{< image src="IMG_7388.jpg" alt="Etna smoking" ratio="16x9" >}}

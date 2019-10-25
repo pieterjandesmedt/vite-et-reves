@@ -22,7 +22,7 @@ We passed a factory with a _huge_ chimney. Someone was compensating --- possibly
 
 Cape Riace looked like something out of a Märklin diorama.
 
-{{< image src="IMG_7395.jpg" alt="Where's that model train" ratio="16x9" >}}
+{{< image src="IMG_7395.jpg" alt="Where's that model train?" ratio="16x9" >}}
 
 When we entered the strait of Messina, I changed the Code D for the spinnaker. Very light puffs of air pushed us slowly forward. Around sunset, the wind increased gradually until the perfect 10 knots. Tall ship 'Sea Cloud' passed us on engine. Too bad, the wind came from the perfect direction for such a ship.
 

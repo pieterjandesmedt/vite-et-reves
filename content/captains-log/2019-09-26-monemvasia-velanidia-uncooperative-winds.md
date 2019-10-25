@@ -1,5 +1,5 @@
 ---
-title: "2019-09-26 Uncooperative winds"
+title: "2019-09-26 Uncooperative Winds"
 date: 2019-09-26T22:07:20+03:00
 publishdate: 2019-09-26T22:07:20+03:00
 image: "IMG_6827.jpg"

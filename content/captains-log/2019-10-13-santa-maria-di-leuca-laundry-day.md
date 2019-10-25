@@ -1,5 +1,5 @@
 ---
-title: "2019-10-13 Laundry day"
+title: "2019-10-13 Laundry Day"
 date: 2019-10-13T09:22:26+02:00
 publishdate: 2019-10-13T09:22:26+02:00
 image: "IMG_7326.jpg"

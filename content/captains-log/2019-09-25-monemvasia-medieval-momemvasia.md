@@ -17,7 +17,7 @@ All this history gives Monemvasia very diverse and cosmopolitan architecture tha
 
 Oh yes, if you need a tip for eating: _Voltes_ near the entrance of the town is a delightful mezze bar.
 
-{{< image src="IMG_4406.JPG" alt="It's like a little Gibraltar" ratio="3x2" >}}
+{{< image src="IMG_4406.JPG" alt="Perfect place for spotting pirates" ratio="3x2" >}}
 
 {{< image src="IMG_6766.jpg" alt="No one is getting in here, only tourists" ratio="3x2" >}}
 

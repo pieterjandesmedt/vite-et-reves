@@ -1,5 +1,5 @@
 ---
-title: "2019-10-02 A bit of everything"
+title: "2019-10-02 A Bit Of Everything"
 date: 2019-10-03T23:00:11+03:00
 publishdate: 2019-10-03T23:00:11+03:00
 image: "IMG_7074.jpg"

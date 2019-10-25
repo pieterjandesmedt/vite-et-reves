@@ -1,5 +1,5 @@
 ---
-title: "2019-09-20 A fond farewell"
+title: "2019-09-20 A Fond Farewell"
 date: 2019-09-20T21:38:58+03:00
 publishdate: 2019-09-20T21:38:58+03:00
 image: "IMG_0354.jpg"

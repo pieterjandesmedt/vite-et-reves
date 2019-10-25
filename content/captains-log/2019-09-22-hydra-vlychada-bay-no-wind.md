@@ -1,5 +1,5 @@
 ---
-title: "2019-09-22 No wind"
+title: "2019-09-22 No Wind"
 date: 2019-09-22T22:55:44+03:00
 publishdate: 2019-09-22T22:55:44+03:00
 image: "IMG_5616.jpg"
@@ -33,4 +33,4 @@ Boy, was I happy with the searchlight I bought. Barbara was shining the searchli
 
 The high beams of a car on the shore came on, then turned off again. Who were those people on the shore? Pirates? Beachcombers? The morning would tell. For now, we lay on the trampolines and looked at thousands of stars.
 
-{{< image src="IMG_5633.JPG" alt="Sunset in Vlychada Bay." ratio="3x2" >}}
+{{< image src="IMG_5633.JPG" alt="Sunset at Vlychada Bay" ratio="3x2" >}}
