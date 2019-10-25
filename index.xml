@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Wed, 23 Oct 2019 00:41:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2019 09:35:16 +0200</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
+    </item>
+    
+    <item>
+      <title>2019-10-24 Weather Turning</title>
+      <link>https://vite-et-reves.com/captains-log/2019-10-24-weather-turning/</link>
+      <pubDate>Thu, 24 Oct 2019 09:35:16 +0200</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-10-24-weather-turning/</guid>
+      <description>Following winds clash at the end of the day with another weather system, bringing a huge thunderstorm.</description>
     </item>
     
     <item>
