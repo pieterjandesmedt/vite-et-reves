@@ -33,4 +33,4 @@ We saw the other weather system arrive in the distance when we were reaching San
 
 {{< image src="IMG_7500.jpg" alt="Rains above San Vito Lo Capo" ratio="3x2" >}}
 
-The clash of the weather systems brought on a huge thunderstorm. The wind gusted to over 45 knots. The anchor held us fast. A bit too fast, we saw the day after. Lighting was flashing every few seconds for over 2 hours. We put all our electronics in the oven, our onboard Faraday cage. So it was cardgames until an early bedtime. Fortunately by then the storm had passed and only the swell reamained. Not too uncomfortable though.
+The clash of the weather systems brought on a huge thunderstorm. The wind gusted to over 45 knots. The anchor held us fast. A bit too fast, we saw the day after. Lighting was flashing every few seconds for over 2 hours. We put all our electronics in the oven, our onboard Faraday cage. So it was cardgames until an early bedtime. Fortunately by then the storm had passed and only the swell remained. Not too uncomfortable though.
