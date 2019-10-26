@@ -16,11 +16,11 @@ When Barbara hauled in the anchor, she noticed something was very wrong. It got 
 
 We moored in a nearby marina.
 
-I disassembled the anchor and took the bent part with me in searh for help. The harbormaster's office was closed. I walked on along the beach until I found a diver's shack. Some people were hanging around, smoking and talking. Their eyes went to my bent piece. 'Hmm', 'Tsk tsk', 'Uh oh', they commiserated. I didn't need to explain much. One of the women spoke English. She called a shipyard and gave me a number to call back. The shipyard guy said he would be there at 14:00.
+I disassembled the anchor and took the bent part with me in searh for help. The harbormaster's office was closed. I walked on along the beach until I found a diver's shack. Some people were hanging around, smoking and talking. Their eyes went to my bent piece. "Hmm", "Tsk tsk", "Uh oh", they commiserated. I didn't need to explain much. One of the women spoke English. She called a shipyard and gave me a number to call back. The shipyard guy said he would be there at 14:00.
 
 A bit less worried, I went back to the boat.
 
-Then I thought: "Maybe I can bend it back myself. How difficult can it be? People have been smithing since the bronze age. My very last name mean 'the smith'. Let's give it a try."
+Then I thought: "Maybe I can bend it back myself. How difficult can it be? People have been smithing since the bronze age. My very last name means 'the smith'. Let's give it a try."
 
 I went in search for a rock and a hard place, and soon found a piece of concrete surrounded by marble boulders. Perfect! I put the bent piece down and went full medieval on its ass. It didn't budge a millimeter. The marble block crumbled in my hands. I went back to the boat with a newfound respect for the noble art of smithing.
 
