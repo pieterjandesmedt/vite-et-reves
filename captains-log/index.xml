@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Thu, 24 Oct 2019 09:35:16 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 08:49:01 +0200</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-10-25 Anchor Bender</title>
+      <link>https://vite-et-reves.com/captains-log/2019-10-25-anchor-bender/</link>
+      <pubDate>Sat, 26 Oct 2019 08:49:01 +0200</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-10-25-anchor-bender/</guid>
+      <description>Fixing a bent anchor and provisioning between thunderstorms</description>
+    </item>
     
     <item>
       <title>2019-10-24 Weather Turning</title>
