@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sat, 26 Oct 2019 08:49:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2019 10:56:46 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-10-27 Motorcrossing</title>
+      <link>https://vite-et-reves.com/captains-log/2019-10-27-motorcrossing/</link>
+      <pubDate>Sun, 27 Oct 2019 10:56:46 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-10-27-motorcrossing/</guid>
+      <description>We cross the Tyrrhenian sea to Sardinia, sadly largely on engine.</description>
+    </item>
     
     <item>
       <title>2019-10-25 Anchor Bender</title>
