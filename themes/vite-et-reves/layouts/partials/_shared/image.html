@@ -26,7 +26,7 @@
 		{{ $srcsetWebP = $srcsetWebP | append $srcWebP }}
 		{{ $srcset = $srcset | append $src }}
 	{{ end }}
-<picture class="image is-fullwidth is-{{ $a }}by{{ $b }}">
+<picture class="image is-fullwidth is-{{ $a }}by{{ $b }}{{ with .class }} {{ . }}{{ end }}">
 	<source class="lozad"
 		data-srcset="{{ delimit $srcsetWebP ", " }}"
 		sizes="(min-width: 1024px) calc(960px - 1.5rem),
@@ -46,7 +46,7 @@
 	<img class="is-fullwidth" src="{{ index (last 1 $srcset) 0 }}" alt="{{ .alt }}" />
 </picture>
 {{ else }}
-<figure class="image is-fullwidth is-{{ $a }}by{{ $b }}">
+<figure class="image is-fullwidth is-{{ $a }}by{{ $b }}{{ with .class }} {{ . }}{{ end }}">
 	<img class="lozad" style="object-fit: cover;" data-src="/images/{{ .src }}" alt="{{ .alt }}" loading="lazy" />
 </figure>
 {{ end }}
