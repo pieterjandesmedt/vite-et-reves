@@ -18,5 +18,5 @@ In the afternoon a series of squalls passed over us. I tried to make the bimini 
 
 We watched the 'Ocean Deep' episode of Planet Earth, translating David Attenborough's narrations for our kids.
 
-{{< image src="vlcsnap-2019-11-03-19h05m15s515.jpg" alt="Our view for much of the day" ratio="3x2" >}}
+{{< image src="vlcsnap-2019-11-03-19h05m15s515.jpg" alt="Our view for much of the day" ratio="16x9" >}}
 
