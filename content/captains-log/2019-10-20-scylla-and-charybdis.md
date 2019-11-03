@@ -1,5 +1,5 @@
 ---
-title: "2019-10-20 Scylla and Charybdis"
+title: "Scylla and Charybdis"
 date: 2019-10-20T19:05:42+02:00
 publishdate: 2019-10-20T19:05:42+02:00
 image: "IMG_7417.jpg"

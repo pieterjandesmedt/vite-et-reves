@@ -1,5 +1,5 @@
 ---
-title: "2019-10-21 Calm Milazzo"
+title: "Calm Milazzo"
 date: 2019-10-21T00:00:28+02:00
 publishdate: 2019-10-21T00:00:28+02:00
 image: "IMG_7438.jpg"

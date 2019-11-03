@@ -1,5 +1,5 @@
 ---
-title: "2019-10-25 Anchor Bender"
+title: "Anchor Bender"
 date: 2019-10-26T08:49:01+02:00
 publishdate: 2019-10-26T08:49:01+02:00
 image: "IMG_7505.jpg"

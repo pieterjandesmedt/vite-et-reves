@@ -1,5 +1,5 @@
 ---
-title: "2019-10-22 Chasing Zephyrs"
+title: "Chasing Zephyrs"
 date: 2019-10-22T00:41:04+02:00
 publishdate: 2019-10-22T00:41:04+02:00
 image: "IMG_7468.jpg"

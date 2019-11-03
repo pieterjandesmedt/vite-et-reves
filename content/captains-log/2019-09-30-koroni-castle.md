@@ -1,5 +1,5 @@
 ---
-title: "2019-09-30 Koroni Castle"
+title: "Koroni Castle"
 date: 2019-09-30T21:47:18+03:00
 publishdate: 2019-09-30T21:47:18+03:00
 image: "IMG_6937.jpg"

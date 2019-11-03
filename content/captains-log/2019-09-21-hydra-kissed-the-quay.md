@@ -1,5 +1,5 @@
 ---
-title: "2019-09-21 Kissed The Quay"
+title: "Kissed The Quay"
 date: 2019-09-21T22:30:26+03:00
 publishdate: 2019-09-21T22:30:26+03:00
 image: "IMG_4384.JPG"

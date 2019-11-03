@@ -7,6 +7,7 @@ weight: 2
 ---
 
 We're a **family of five** travelling around the world in a Catana 401 named **Vite & Rêves**.
-You can translate this name as Fast & Dreams, but it's also pronounced the same way as 'Vis tes rêves' &mdash; _Live your dreams_.
+You can translate this name as Fast & Dreams, but it's also pronounced the same way as 'Vis tes rêves' --- _Live your dreams_.
 
 Follow our adventures here!
+

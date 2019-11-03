@@ -1,5 +1,5 @@
 ---
-title: "2019-10-01 Tight Sailing"
+title: "Tight Sailing"
 date: 2019-10-01T22:21:08+03:00
 publishdate: 2019-10-01T22:21:08+03:00
 image: "IMG_7004.jpg"

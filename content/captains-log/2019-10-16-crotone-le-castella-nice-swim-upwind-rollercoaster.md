@@ -1,5 +1,5 @@
 ---
-title: "2019-10-16 Nice Swim / Upwind Rollercoaster"
+title: "Nice Swim / Upwind Rollercoaster"
 date: 2019-10-16T00:18:56+02:00
 publishdate: 2019-10-16T00:18:56+02:00
 image: "IMG_7362.jpg"

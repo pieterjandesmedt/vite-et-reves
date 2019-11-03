@@ -1,5 +1,5 @@
 ---
-title: "2019-10-23 Nightly Joyride"
+title: "Nightly Joyride"
 date: 2019-10-23T00:41:10+02:00
 publishdate: 2019-10-23T00:41:10+02:00
 image: "IMG_7475.jpg"

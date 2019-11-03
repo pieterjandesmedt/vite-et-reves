@@ -1,5 +1,5 @@
 ---
-title: "2019-10-17 The Perfect Sail"
+title: "The Perfect Sail"
 date: 2019-10-18T14:50:10+02:00
 publishdate: 2019-10-18T14:50:10+02:00
 image: "IMG_7383.jpg"

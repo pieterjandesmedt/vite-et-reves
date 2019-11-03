@@ -1,5 +1,5 @@
 ---
-title: "2019-10-11 Resting Day"
+title: "Resting Day"
 date: 2019-10-11T10:03:47+03:00
 publishdate: 2019-10-11T10:03:47+03:00
 image: "IMG_7300.jpg"

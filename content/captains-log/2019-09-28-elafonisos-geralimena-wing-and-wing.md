@@ -1,5 +1,5 @@
 ---
-title: "2019-09-28 Wing And Wing"
+title: "Wing And Wing"
 date: 2019-09-28T19:22:18+03:00
 publishdate: 2019-09-28T19:22:18+03:00
 image: "IMG_6886.jpg"

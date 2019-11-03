@@ -146,7 +146,7 @@
 							{
 								url: {{ $e.Permalink }},
 								gpx: {{ $e.Params.gpx }},
-								description: '<a href="{{ $e.Permalink }}">{{ with $e.Params.image }}<img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=400&h=200&t=square&a=attention&output=webp" />{{ end }}<h6 style="margin-top: .25em">{{- partial "_shared/title.html" $e.Params.title -}}</h6></a>',
+								description: '<a href="{{ $e.Permalink }}">{{ with $e.Params.image }}<img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/{{ . }}&w=400&h=200&t=square&a=attention&output=webp" />{{ end }}<h6 style="margin-top: .25em">{{- $e.Params.title -}}</h6></a>',
 							}
 							{{ end }}
 							]

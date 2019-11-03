@@ -1,5 +1,5 @@
 ---
-title: "2019-09-29 No Time To Waste"
+title: "No Time To Waste"
 date: 2019-09-29T02:01:58+03:00
 publishdate: 2019-09-29T02:01:58+03:00
 image: "IMG_6927.jpg"

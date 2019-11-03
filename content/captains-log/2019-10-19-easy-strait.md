@@ -1,5 +1,5 @@
 ---
-title: "2019-10-19 Easy Strait"
+title: "Easy Strait"
 date: 2019-10-19T09:21:21+02:00
 publishdate: 2019-10-19T09:21:21+02:00
 image: "IMG_7392.jpg"

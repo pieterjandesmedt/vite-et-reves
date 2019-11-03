@@ -1,5 +1,5 @@
 ---
-title: "2019-10-18 Provisioning"
+title: "Provisioning"
 date: 2019-10-18T22:03:15+02:00
 publishdate: 2019-10-18T22:03:15+02:00
 image: ""

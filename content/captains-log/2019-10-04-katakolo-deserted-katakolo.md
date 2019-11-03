@@ -1,5 +1,5 @@
 ---
-title: "2019-10-04 Deserted Katakolo"
+title: "Deserted Katakolo"
 date: 2019-10-04T20:31:38+03:00
 publishdate: 2019-10-04T20:31:38+03:00
 image: "IMG_7081.jpg"

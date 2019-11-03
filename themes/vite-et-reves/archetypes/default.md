@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | replaceRE "^[0-9]+ [0-9]+ [0-9]+ " "" | title }}"
 date: {{ .Date }}
 publishdate: {{ .Date }}
 image: ""

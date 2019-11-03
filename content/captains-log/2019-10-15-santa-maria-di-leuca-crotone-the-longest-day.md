@@ -1,5 +1,5 @@
 ---
-title: "2019-10-15 The Longest Day"
+title: "The Longest Day"
 date: 2019-10-15T10:55:49+02:00
 publishdate: 2019-10-15T10:55:49+02:00
 image: "IMG_7328.jpg"

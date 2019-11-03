@@ -1,5 +1,5 @@
 ---
-title: "2019-08-31 We Have A Boat!"
+title: "We Have A Boat!"
 date: 2019-08-31T11:40:11+02:00
 publishdate: 2019-08-31T11:40:11+02:00
 image: "IMG_6376.jpg"

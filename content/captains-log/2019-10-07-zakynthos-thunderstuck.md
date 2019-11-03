@@ -1,8 +1,8 @@
 ---
-title: "2019-10-07 Thunderstuck"
+title: "Thunderstuck"
 date: 2019-10-07T12:26:45+03:00
 publishdate: 2019-10-07T12:26:45+03:00
-image: ""
+image: "lightning.jpg"
 author: "Pieter Jan"
 gpx: ""
 summary: "We got stuck in Agios Nikolaos. There were thunderstorms all around us all day long. It rained. Our berth became untenable due te the heavy swell."

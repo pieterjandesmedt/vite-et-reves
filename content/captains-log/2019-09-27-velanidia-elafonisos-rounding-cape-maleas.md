@@ -1,5 +1,5 @@
 ---
-title: "2019-09-27 Rounding Cape Maleas"
+title: "Rounding Cape Maleas"
 date: 2019-09-28T08:36:59+03:00
 publishdate: 2019-09-28T08:36:59+03:00
 image: "sailing-ship-storm-lightning-waves-ocean.jpeg"

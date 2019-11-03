@@ -1,5 +1,5 @@
 ---
-title: "2019-10-06 Shipwreck Beach"
+title: "Shipwreck Beach"
 date: 2019-10-06T23:12:36+03:00
 publishdate: 2019-10-06T23:12:36+03:00
 image: "IMG_7127.jpg"

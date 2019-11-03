@@ -1,5 +1,5 @@
 ---
-title: "2019-10-09 Making Water"
+title: "Making Water"
 date: 2019-10-09T19:28:17+03:00
 publishdate: 2019-10-09T19:28:17+03:00
 image: "IMG_7206.jpg"

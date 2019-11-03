@@ -1,5 +1,5 @@
 ---
-title: "2019-10-10 Front Surfing"
+title: "Front Surfing"
 date: 2019-10-10T09:50:33+03:00
 publishdate: 2019-10-10T09:50:33+03:00
 image: "vlcsnap-2019-10-10-20h22m35s917.jpg"

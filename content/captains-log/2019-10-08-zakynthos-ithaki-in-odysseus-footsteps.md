@@ -1,5 +1,5 @@
 ---
-title: "2019-10-08 In Odysseus' Footsteps"
+title: "In Odysseus' Footsteps"
 date: 2019-10-08T16:50:39+03:00
 publishdate: 2019-10-08T16:50:39+03:00
 image: "IMG_7174.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "2019-10-27 Motorcrossing"
+title: "Motorcrossing"
 date: 2019-10-27T10:56:46+01:00
 publishdate: 2019-10-27T10:56:46+01:00
 image: "IMG_7518.jpg"

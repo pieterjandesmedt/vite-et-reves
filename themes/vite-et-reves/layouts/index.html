@@ -24,7 +24,7 @@
 							{{ "We're a **family of five** travelling around the world in a Catana 401 named **Vite & Rêves**. You can translate this name as Fast & Dreams, but it's also pronounced the same way as 'Vis tes rêves' &mdash; _Live your dreams_." | markdownify }}
 						</p>
 
-						{{ $firstPost := index (first 1 (where $.Site.RegularPages.ByTitle "Section" "captains-log")) 0 }}
+						{{ $firstPost := index (last 1 (where $.Site.RegularPages "Section" "captains-log")) 0 }}
 						{{ with $firstPost }}
 						<p>
 							Read from the start &raquo;

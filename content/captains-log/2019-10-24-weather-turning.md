@@ -1,5 +1,5 @@
 ---
-title: "2019-10-24 Weather Turning"
+title: "Weather Turning"
 date: 2019-10-24T09:35:16+02:00
 publishdate: 2019-10-24T09:35:16+02:00
 image: "IMG_7494.jpg"

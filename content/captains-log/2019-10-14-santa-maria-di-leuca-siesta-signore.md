@@ -1,5 +1,5 @@
 ---
-title: "2019-10-14 Siesta, Signore"
+title: "Siesta, Signore"
 date: 2019-10-14T21:15:35+02:00
 publishdate: 2019-10-14T21:15:35+02:00
 image: ""
