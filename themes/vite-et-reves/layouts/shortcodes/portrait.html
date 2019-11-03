@@ -1,0 +1,6 @@
+<div class="column is-one-third">
+{{ if .IsNamedParams }}
+	{{ $image := dict "src" (.Get "src") "alt" (.Get "alt") "ratio" (default "1x1" (.Get "ratio")) "class" (default "" (.Get "class")) }}
+	{{- partial "_shared/image.html" $image -}}
+{{ end }}
+</div>

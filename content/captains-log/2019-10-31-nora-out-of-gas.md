@@ -18,7 +18,7 @@ But first things first. Fladdertje's funeral was long overdue. The kids found a 
 
 {{< two-images src1="IMG_7624.jpg" alt1="Contemplating life and death" src2="IMG_7625_1.jpg" alt2="Fladdertje's little grave" >}}
 
-I read up on the ruins. Nora was a Phoenician, then Carthagian, then Roman city. Very rich and powerful in its day. Today it's the most important archeological site in Sardinia. I also read that tourists are hurriedly herded around by ignorant guides, possibly with cattle prods.
+I read up on the ruins. Nora was a Phoenician, then Carthaginian, then Roman city. Very rich and powerful in its day. Today it's the most important archeological site in Sardinia. I also read that tourists are hurriedly herded around by ignorant guides, possibly with cattle prods.
 
 Lucky for us, that's only the case in high season. We were left to our own devices after we payed the entrance fee. We could explore the place at our leisure.
 
@@ -42,4 +42,4 @@ We waited out a shower, then I went in search for gas. Running out of gas immedi
 
 Several cars passed by, slowed down a bit, then sped off again. At last the gas bottle van stopped. The gas guy opened the side door and revealed a choice of gas bottles. I chose one: 11 kilos of gas, 20 euros. We swapped bottles. It must've looked very shady to passers-by, but I was happy with my full bottle.
 
-I dingied back to Vite & Rêves and we cooked water for doing the dishes to celebrate.
+I dinghied back to Vite & Rêves and we cooked water for doing the dishes to celebrate.
