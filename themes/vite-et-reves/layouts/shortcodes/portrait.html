@@ -1,4 +1,4 @@
-<div class="column is-one-third">
+<div class="column is-one-third-desktop is-full-touch">
 {{ if .IsNamedParams }}
 	{{ $image := dict "src" (.Get "src") "alt" (.Get "alt") "ratio" (default "1x1" (.Get "ratio")) "class" (default "" (.Get "class")) }}
 	{{- partial "_shared/image.html" $image -}}
