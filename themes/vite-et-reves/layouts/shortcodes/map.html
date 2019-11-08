@@ -56,7 +56,7 @@
 			getJSON('https://api.roambee.com/v2/shipment/summary?uuid=d2f388be-f054-4a1b-bb18-bff615a1e7f7&apikey=069b6dee-6091-4241-90b9-b1976859e2c3',
 			function(err, data) {
 				if (err !== null) {
-					alert('Something went wrong: ' + err);
+					alert('Something went wrong. We couln\'t connect to the roambee server. (Error ' + err + ')');
 				} else {
 					var lastKnownPosition = data.geo_summary.current_location;
 					console.log('lastKnownPosition:', lastKnownPosition);
@@ -106,7 +106,7 @@
 			getJSON('/route/{{ range (readDir "static/route") }}{{ .Name }}{{ end }}',
 				function (err, data) {
 					if (err !== null) {
-						alert('Something went wrong: ' + err);
+						alert('Something went wrong. We couln\'t load the route file. (Error ' + err + ')');
 					} else {
 						map.addLayer({
 							"id": "tracks",

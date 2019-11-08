@@ -2,7 +2,7 @@
 title: "Siesta, Signore"
 date: 2019-10-14T21:15:35+02:00
 publishdate: 2019-10-14T21:15:35+02:00
-image: ""
+image: "IMG_7690.jpg"
 author: "Pieter Jan"
 gpx: ""
 summary: "We're trying to get things done. Siesta got in the way."
@@ -23,3 +23,5 @@ It's the same everywhere. I tried to check out of the marina: siesta. Went back 
 I get it --- when it's summer and it's too hot to even move. But come on, it's the middle of October. Midday temperature is a balmy 25 degrees centigrade, not a scorching 45. Besides, the sun sets at 18:00 and after sunset everyone here strolls the seafront promenade. How people get anything done here is beyond me.
 
 Actually, now that I think about it, a few hours of peace and quiet would be an excellent way to get things done on the boat. Tomorrow I will teach my kids about this wonderful siesta concept.
+
+{{< image src="IMG_7690.jpg" alt="Just when you're ready to do something productive" ratio="3x2" >}}
