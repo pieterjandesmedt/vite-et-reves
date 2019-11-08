@@ -190,7 +190,7 @@
 			getJSON('https://api.roambee.com/v2/shipment/summary?uuid=d2f388be-f054-4a1b-bb18-bff615a1e7f7&apikey=069b6dee-6091-4241-90b9-b1976859e2c3',
 			function(err, data) {
 				if (err !== null) {
-					alert('Something went wrong: ' + err);
+					alert('Something went wrong. We couln\'t connect to the roambee server. (Error ' + err + ')');
 				} else {
 					var lastKnownPosition = data.geo_summary.current_location;
 					console.log('lastKnownPosition:', lastKnownPosition);
@@ -237,10 +237,10 @@
 
 			});
 
-			getJSON('/route/route.0b9f790abdbdccb275933f57284a4b03.json',
+			getJSON('/route/route.a4ecac821c538a43019fdd96d4b5f449.json',
 				function (err, data) {
 					if (err !== null) {
-						alert('Something went wrong: ' + err);
+						alert('Something went wrong. We couln\'t load the route file. (Error ' + err + ')');
 					} else {
 						map.addLayer({
 							"id": "tracks",
@@ -344,6 +344,13 @@
 								url: "https://vite-et-reves.com/captains-log/2019-10-22-chasing-zephyrs/",
 								gpx: "Navionics_archive_export 24.gpx",
 								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-22-chasing-zephyrs\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7468.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Chasing Zephyrs</h6></a>',
+							}
+							
+							, 
+							{
+								url: "https://vite-et-reves.com/captains-log/2019-11-07-crossing-to-menorca/",
+								gpx: "Navionics_archive_export 34.gpx",
+								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-07-crossing-to-menorca\/"><h6 style="margin-top: .25em">Crossing to Menorca</h6></a>',
 							}
 							
 							, 
@@ -539,7 +546,7 @@
 							{
 								url: "https://vite-et-reves.com/captains-log/2019-10-14-santa-maria-di-leuca-siesta-signore/",
 								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-14-santa-maria-di-leuca-siesta-signore\/"><h6 style="margin-top: .25em">Siesta, Signore</h6></a>',
+								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-14-santa-maria-di-leuca-siesta-signore\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7690.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Siesta, Signore</h6></a>',
 							}
 							
 							, 
@@ -582,6 +589,13 @@
 								url: "https://vite-et-reves.com/captains-log/2019-09-26-monemvasia-velanidia-uncooperative-winds/",
 								gpx: "Navionics_archive_export 5.gpx",
 								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-26-monemvasia-velanidia-uncooperative-winds\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6827.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Uncooperative Winds</h6></a>',
+							}
+							
+							, 
+							{
+								url: "https://vite-et-reves.com/captains-log/2019-11-05-waiting-for-a-window/",
+								gpx: "",
+								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-05-waiting-for-a-window\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7701.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Waiting for a Window</h6></a>',
 							}
 							
 							, 
