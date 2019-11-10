@@ -2,7 +2,7 @@
 title: "Crossing to Menorca"
 date: 2019-11-08T12:11:28+01:00
 publishdate: 2019-11-08T12:11:28+01:00
-image: ""
+image: "IMG_7742.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 34.gpx"
 summary: "We cross from Sardinia to Menorca. It was wild but went okay."
@@ -33,15 +33,15 @@ I'm ashamed to admit that I forgot to set my 30 minute timer around midnight. Ar
 
 The next day, the waves eased off a little. Now 2 to 3 meter high, the ride was marginally more comfortable. I still didn't feel like eating for the whole day though.
 
-The wind was coming from the wrong direction --- no surprises here. We were going much more northly than we wanted to. In the late afternoon, gales started coming in. We saw them appear on the horizon. The wind shifted to the good direction before the gales, but when the rain arrived, it shifted back.
+The wind was coming from the wrong direction --- no surprises here. We were going much more northly than we wanted to. In the late afternoon, squalls started coming in. We saw them appear on the horizon. The wind shifted to the good direction before the squalls, but when the rain arrived, it shifted back.
 
-The sun set and we prepared for another night. The pattern repeated itself: Half an hour before a gale, the wind would slowly turn, and we could turn with it, lifting my spirits. We would make it! Then it started to rain, the wind shifted and we lost all progress. Around 20:00, it became clear we would not make it, not even close. The other option was sailing on to Barcelona, but the weather on the way over there looked very bad. Tired and dejected, we said: "Screw this, we're motoring the last 50 miles."
+The sun set and we prepared for another night. The pattern repeated itself: Half an hour before a squall, the wind would slowly turn, and we could turn with it, lifting my spirits. We would make it! Then it started to rain, the wind shifted and we lost all progress. Around 20:00, it became clear we would not make it, not even close. The other option was sailing on to Barcelona, but the weather on the way over there looked very bad. Tired and dejected, we said: "Screw this, we're motoring the last 50 miles."
 
 I took the night watch again. Vivid dreams about mooring, crashing, hypothermia visited me as I tried to sleep in 30 minute intervals, while Vite & Rêves was battling her way straight into the wind and the waves. Every 5 to 10 minutes, she was getting 'donkey-slapped'. A huge wave comes up and hits the bottom of the saloon floor, violently rattling everything and everyone in it. Not beneficial to one's sleep.
 
-{{< image src="IMG_7746.jpg" alt="Gales incoming" ratio="3x2" >}}
+{{< image src="IMG_7746.jpg" alt="Squalls incoming" ratio="3x2" >}}
 
-Gales kept coming, one after the other. At 4:00 there was a hailstorm. I prayed to the god I don't believe in: "A _hailstorm_, God, seriously? Why?" He answered immediately --- I've been told this is rare --- with a booming voice in my head: "Because I can, you puny mortal! Muhahahahaha!!!" He must've been in one of his Old Testament moods. I went back to sleep for 30 minutes.
+Squalls kept coming, one after the other. At 4:00 there was a hailstorm. I prayed to the god I don't believe in: "A _hailstorm_, God, seriously? Why?" He answered immediately --- I've been told this is rare --- with a booming voice in my head: "Because I can, you puny mortal! Muhahahahaha!!!" He must've been in one of his Old Testament moods. I went back to sleep for 30 minutes.
 
 At last, the sun came up. We were one hour away from the entrance to Mahón, Menorca. It was one of the most beautiful, soothing and reassuring sunrises I have ever seen.
 
