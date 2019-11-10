@@ -4,7 +4,7 @@ date: 2019-11-10T22:17:20+01:00
 publishdate: 2019-11-10T22:17:20+01:00
 image: "IMG_7788.jpg"
 author: "Pieter Jan"
-gpx: "Navionics_archive_export 35.gpx"
+gpx: "Navionics_archive_export 36.gpx"
 summary: "We play hide and seek with the storm systems of the western Mediterranean"
 ---
 
