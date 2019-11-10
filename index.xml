@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Fri, 08 Nov 2019 12:11:28 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2019 22:17:20 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,24 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
+    </item>
+    
+    <item>
+      <title>Hide and Seek</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-10-hide-and-seek/</link>
+      <pubDate>Sun, 10 Nov 2019 22:17:20 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-10-hide-and-seek/</guid>
+      <description>We play hide and seek with the storm systems of the western Mediterranean</description>
+    </item>
+    
+    <item>
+      <title>A Simple Plan</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-09-a-simple-plan/</link>
+      <pubDate>Sat, 09 Nov 2019 18:43:24 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-09-a-simple-plan/</guid>
+      <description>During the crossing from Menorca to Mallorca, the genua sheet breaks.</description>
     </item>
     
     <item>
