@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Wed, 13 Nov 2019 16:13:38 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 21:37:07 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,24 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
+    </item>
+    
+    <item>
+      <title>Reaching Mainland</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-16-reaching-mainland/</link>
+      <pubDate>Sat, 16 Nov 2019 21:37:07 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-16-reaching-mainland/</guid>
+      <description>A strong breeze on the beam hurtles us from Ibiza to Calpe</description>
+    </item>
+    
+    <item>
+      <title>Santa Eulària Des Riu</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-15-santa-eul%C3%A0ria-des-riu/</link>
+      <pubDate>Fri, 15 Nov 2019 13:23:42 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-15-santa-eul%C3%A0ria-des-riu/</guid>
+      <description>We visit the lovely town of Santa Eulària Des Riu and spend the night on the other side of the island.</description>
     </item>
     
     <item>

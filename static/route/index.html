@@ -190,7 +190,7 @@
 			getJSON('https://api.roambee.com/v2/shipment/summary?uuid=d2f388be-f054-4a1b-bb18-bff615a1e7f7&apikey=069b6dee-6091-4241-90b9-b1976859e2c3',
 			function(err, data) {
 				if (err !== null) {
-					alert('Something went wrong. We couln\'t connect to the roambee server. (Error ' + err + ')');
+					alert('Something went wrong. We couldn\'t connect to the roambee server. (Error ' + err + ')');
 				} else {
 					var lastKnownPosition = data.geo_summary.current_location;
 					console.log('lastKnownPosition:', lastKnownPosition);
@@ -237,10 +237,10 @@
 
 			});
 
-			getJSON('/route/route.75c5515e9fe074e7eb8affef77e265a1.json',
+			getJSON('/route/route.82b070803b22a1d7cbf8fa6a40750a96.json',
 				function (err, data) {
 					if (err !== null) {
-						alert('Something went wrong. We couln\'t load the route file. (Error ' + err + ')');
+						alert('Something went wrong. We couldn\'t load the route file. (Error ' + err + ')');
 					} else {
 						map.addLayer({
 							"id": "tracks",
@@ -523,6 +523,13 @@
 							
 							, 
 							{
+								url: "https://vite-et-reves.com/captains-log/2019-11-16-reaching-mainland/",
+								gpx: "Navionics_archive_export 39.gpx",
+								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-16-reaching-mainland\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7818.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Reaching Mainland</h6></a>',
+							}
+							
+							, 
+							{
 								url: "https://vite-et-reves.com/captains-log/2019-09-23-vlychada-bay-relaxing-at-vlychada-bay/",
 								gpx:  null ,
 								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-23-vlychada-bay-relaxing-at-vlychada-bay\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6752.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Relaxing At Vlychada Bay</h6></a>',
@@ -540,6 +547,13 @@
 								url: "https://vite-et-reves.com/captains-log/2019-09-27-velanidia-elafonisos-rounding-cape-maleas/",
 								gpx: "Navionics_archive_export 6.gpx",
 								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-27-velanidia-elafonisos-rounding-cape-maleas\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/sailing-ship-storm-lightning-waves-ocean.jpeg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Rounding Cape Maleas</h6></a>',
+							}
+							
+							, 
+							{
+								url: "https://vite-et-reves.com/captains-log/2019-11-15-santa-eul%C3%A0ria-des-riu/",
+								gpx: "Navionics_archive_export 38.gpx",
+								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-15-santa-eul%C3%A0ria-des-riu\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_4444.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Santa Eulària Des Riu</h6></a>',
 							}
 							
 							, 
