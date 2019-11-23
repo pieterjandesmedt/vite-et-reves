@@ -21,7 +21,7 @@ We left the rainy, stormy weather behind us...
 
 {{< image src="IMG_7834.jpg" alt="The weather in front of us" ratio="3x2" >}}
 
-The wind speed kept fluctuating between 5 and 25 knots, and Vite & Rêves answered with 3 to 10 knots boat speed. Smooth as butter because of the lack of waves. I was as happy as an Italian who invented a pair of self-removing trousers. A pod of dolphins appeared and swam along for 5 minutes, playing around the bows. It felt like nature was making amends to compensate for the gnarly past two weeks. I even mounted the Code D for a while.
+The wind speed kept fluctuating between 5 and 25 knots, and Vite & Rêves answered with 3 to 10 knots boat speed. Smooth as butter because of the lack of waves. I was as happy as an Italian who invented a pair of self-removing trousers. A pod of dolphins appeared and swam along for a few minutes, playing around the bows. It felt like nature was making amends to compensate for the gnarly past two weeks. I even mounted the Code D for a while.
 
 {{< image src="IMG_7840.jpg" alt="Arriving under Alicante's fortress" ratio="3x2" >}}
 
