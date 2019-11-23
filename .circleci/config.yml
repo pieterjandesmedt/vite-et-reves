@@ -8,13 +8,13 @@ workflows:
           html-proofer: false
           filters:
             branches:
-              ignore: gh-pages
+              only: master
       - deploy:
           requires:
             - hugo/build
           filters:
             branches:
-              ignore: gh-pages
+              only: master
 
 jobs:
   deploy:
