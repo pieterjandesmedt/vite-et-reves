@@ -7,13 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sat, 16 Nov 2019 21:37:07 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 01:04:52 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Reaching Mainland</title>
+      <title>Birthday</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-20-birthday/</link>
+      <pubDate>Thu, 21 Nov 2019 01:04:52 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-20-birthday/</guid>
+      <description>We celebrate my birthday in Alicante. My brother made a surprise appearance.</description>
+    </item>
+    
+    <item>
+      <title>Meet the Parents</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-18-meet-the-parents/</link>
+      <pubDate>Mon, 18 Nov 2019 00:03:24 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-18-meet-the-parents/</guid>
+      <description>We have a super nice sailing day to Alicante, where we meet up with my parents.</description>
+    </item>
+    
+    <item>
+      <title>Calpe</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-17-calpe/</link>
+      <pubDate>Sun, 17 Nov 2019 23:15:45 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-17-calpe/</guid>
+      <description>We spend a day in forgettable Calpe.</description>
+    </item>
+    
+    <item>
+      <title>Reaching the Mainland</title>
       <link>https://vite-et-reves.com/captains-log/2019-11-16-reaching-mainland/</link>
       <pubDate>Sat, 16 Nov 2019 21:37:07 +0100</pubDate>
       
