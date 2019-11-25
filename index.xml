@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Thu, 21 Nov 2019 01:04:52 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 22:07:24 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,33 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
+    </item>
+    
+    <item>
+      <title>Fishy Business</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-25-fishy-business/</link>
+      <pubDate>Mon, 25 Nov 2019 22:07:24 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-25-fishy-business/</guid>
+      <description>We evade a fish farm on the short trip from Gorguel Bay to Cartagena, straight into the wind.</description>
+    </item>
+    
+    <item>
+      <title>Regaining Our Sea Legs</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-24-regaining-our-sea-legs/</link>
+      <pubDate>Sun, 24 Nov 2019 18:51:51 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-24-regaining-our-sea-legs/</guid>
+      <description>We leave Alicante for Cartagena on a windy but quiet sea.</description>
+    </item>
+    
+    <item>
+      <title>Waiting in Alicante</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-23-alicante/</link>
+      <pubDate>Sat, 23 Nov 2019 18:04:11 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-23-alicante/</guid>
+      <description>We get stuck by a storm in Alicante and explore the town some more.</description>
     </item>
     
     <item>
