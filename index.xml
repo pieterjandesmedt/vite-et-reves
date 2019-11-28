@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Mon, 25 Nov 2019 22:07:24 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 17:57:43 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,7 +27,7 @@
       <pubDate>Sun, 28 Jul 2019 18:15:11 +0200</pubDate>
       
       <guid>https://vite-et-reves.com/static/crew/</guid>
-      <description>We&amp;rsquo;re a family of five traveling around the world in a Catana 401 named Vite &amp;amp; Rêves. You can translate this name as Fast &amp;amp; Dreams, but it&amp;rsquo;s also pronounced the same way as &amp;lsquo;Vis tes rêves&amp;rsquo; &amp;mdash; Live your dreams.</description>
+      <description>We&#39;re a family of five traveling around the world in a Catana 401 named Vite &amp;amp; Rêves. You can translate this name as Fast &amp;amp; Dreams, but it&#39;s also pronounced the same way as &amp;lsquo;Vis tes rêves&amp;rsquo; &amp;mdash; Live your dreams.</description>
     </item>
     
     <item>
@@ -36,7 +36,16 @@
       <pubDate>Sun, 28 Jul 2019 18:05:15 +0200</pubDate>
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
-      <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors.</description>
+      <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Cartagena</title>
+      <link>https://vite-et-reves.com/captains-log/2019-11-27-cartagena/</link>
+      <pubDate>Wed, 27 Nov 2019 17:57:43 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-11-27-cartagena/</guid>
+      <description>We visit Cartagena while we&#39;re waiting for a good wind.</description>
     </item>
     
     <item>
@@ -162,7 +171,7 @@
       <pubDate>Sun, 03 Nov 2019 18:43:38 +0100</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2019-11-03-hunkering-down/</guid>
-      <description>We&amp;rsquo;re hunkering down for the storm. Maurice, the captain of Ikigai, proves to be a veritable goldmine of Pacific Ocean knowledge.</description>
+      <description>We&#39;re hunkering down for the storm. Maurice, the captain of Ikigai, proves to be a veritable goldmine of Pacific Ocean knowledge.</description>
     </item>
     
     <item>
@@ -207,7 +216,7 @@
       <pubDate>Tue, 29 Oct 2019 20:52:58 +0100</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2019-10-29-cagliari-part-2/</guid>
-      <description>We spent a few hours provisioning and the rest of the day discovering Cagliari&amp;rsquo;s old town.</description>
+      <description>We spent a few hours provisioning and the rest of the day discovering Cagliari&#39;s old town.</description>
     </item>
     
     <item>
@@ -297,7 +306,7 @@
       <pubDate>Fri, 18 Oct 2019 14:50:10 +0200</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2019-10-17-le-castella-bova-marina-the-perfect-sail/</guid>
-      <description>A late leave turns into the perfect sailing day. So perfect I couldn&amp;rsquo;t stop and pulled and all-nighter.</description>
+      <description>A late leave turns into the perfect sailing day. So perfect I couldn&#39;t stop and pulled and all-nighter.</description>
     </item>
     
     <item>
@@ -324,7 +333,7 @@
       <pubDate>Mon, 14 Oct 2019 21:15:35 +0200</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2019-10-14-santa-maria-di-leuca-siesta-signore/</guid>
-      <description>We&amp;rsquo;re trying to get things done. Siesta got in the way.</description>
+      <description>We&#39;re trying to get things done. Siesta got in the way.</description>
     </item>
     
     <item>
@@ -531,7 +540,7 @@
       <pubDate>Sun, 22 Sep 2019 22:55:44 +0300</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2019-09-22-hydra-vlychada-bay-no-wind/</guid>
-      <description>We set sail for Monemvasia but didn&amp;rsquo;t make it because the wind died completely. We discovered a paradisiacal bay though!</description>
+      <description>We set sail for Monemvasia but didn&#39;t make it because the wind died completely. We discovered a paradisiacal bay though!</description>
     </item>
     
     <item>
@@ -540,7 +549,7 @@
       <pubDate>Sat, 21 Sep 2019 22:30:26 +0300</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2019-09-21-hydra-kissed-the-quay/</guid>
-      <description>The wind picked up so much that our anchor didn&amp;rsquo;t hold. We reanchored and visited Vlychos beach.</description>
+      <description>The wind picked up so much that our anchor didn&#39;t hold. We reanchored and visited Vlychos beach.</description>
     </item>
     
     <item>
@@ -576,7 +585,7 @@
       <pubDate>Tue, 17 Sep 2019 01:03:56 +0300</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2019-09-17-lavrion-started-in-lavrion/</guid>
-      <description>We&amp;rsquo;re getting ready to leave for our world trip. We took 5 small suitcases and 2 big ones of clothes and stuff, 3 kids and 2 Parents with us. The Parents will travel back at the end of the week.</description>
+      <description>We&#39;re getting ready to leave for our world trip. We took 5 small suitcases and 2 big ones of clothes and stuff, 3 kids and 2 Parents with us. The Parents will travel back at the end of the week.</description>
     </item>
     
     <item>
