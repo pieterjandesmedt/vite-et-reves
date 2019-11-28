@@ -1,7 +1,7 @@
 ---
 title: "Cartagena"
-date: 2019-11-28T17:57:43+01:00
-publishdate: 2019-11-28T17:57:43+01:00
+date: 2019-11-27T17:57:43+01:00
+publishdate: 2019-11-27T17:57:43+01:00
 image: "IMG_8008.jpg"
 author: "Pieter Jan"
 gpx: ""
@@ -36,4 +36,4 @@ The city has a cool car-free center, where you can turn your kids loose in the s
 
 {{< image src="IMG_8036.jpg" alt="" ratio="3x2" >}}
 
-It's also the warmest city in Europe. Average high temperatures in November are around 23 degrees centigrade. While this is chilly for the locals --- they're donning fur-lined coats and gloves --- we're happily prancing around in t-shirts. Remind me to go on a world tour if we're still here next month.
+Cartagena is also the warmest city in Europe. Average high temperatures in November are around 23 degrees centigrade. While this is chilly for the locals --- they're donning fur-lined coats and gloves --- we're happily prancing around in t-shirts. Remind me to go on a world tour if we're still here next month.
