@@ -10,11 +10,11 @@ summary: "We visit Cartagena while we're waiting for a good wind."
 
 `At: Cartagena, Spain`
 
-Hasdrubal the Fair took one look at the best natural harbor in the Western Mediteranean and said: "Alright, we'll conquer the rest from here. Build me a new town."
+Hasdrubal the Fair took one look at the best natural harbor in the Western Mediterranean and said: "Alright, we'll conquer the rest from here. Build me a new town."
 
-Thus was Cartagena (_"New Town"_) was founded. The Phoenicians apparently named all their new cities New Town, even their original city, Carthago, means "New Town". The Romans later sensibly renamed Cartagena into Nova Carthago (_"New New Town"_), to distiguish the two.
+Thus was Cartagena (_"New Town"_) was founded. The Phoenicians apparently named all their new cities New Town, even their original city, Carthago, means "New Town". The Romans later sensibly renamed Cartagena into Nova Carthago (_"New New Town"_), to distinguish the two.
 
-But I digress. It still has the best natural harbor in all of the Western Mediteranean and that's why we like it here. The marina is quite cheap to boot --- by Spanish standards anyway.
+But I digress. It still has the best natural harbor in all of the Western Mediterranean and that's why we like it here. The marina is quite cheap to boot --- by Spanish standards anyway.
 
 We're spending a few days in Cartagena. Our progress is being thwarted by a constant west wind while we want to go west. We're trying to choose interesting cities to wait it out. And Cartagena is unexpectedly interesting. It has a rich and varied past and still is a wealthy city. They're a major cruise ship destination now, which means extra money flowing in and being spent on city beautification.
 
