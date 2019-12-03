@@ -12,9 +12,9 @@ summary: "We meet new people on Cartagena marina's weekly barbecue."
 
 It takes a certain kind of person to voluntarily spend more than one week on a sailboat. Everyone in the cruising community is also completely social interaction deprived from living on said sailboat all the time. Result: It's very easy to meet new and like-minded cruisers.
 
-We discovered that our neighbor in Cartagena was a fellow Belgian. Actually, he discovered it, hearing our kids talk --- they tend to be a bit loud sometimes. Erik wanted to sail for an extended period of time. His wife wanted to live by the sea. The logical conclusion for them was to buy a sailboat and cruise the Med with their two little daughters, for 10 months.
+We discovered that our neighbor in Cartagena was a fellow Belgian. Actually, he discovered it, hearing our kids talk --- they tend to be a bit loud sometimes. Erik wanted to sail for an extended period of time. His wife wanted to live by the sea. The only logical conclusion for them was to buy a sailboat and cruise the Med with their two little daughters, for 10 months.
 
-Only then they discovered that Erik's wife gets inescapably seasick, even if the boat is lying still in the harbor. They abandoned the plan. Now Erik comes over every few weeks to single-hand around a bit, but his 43-foot Beneteau is proving a bit much to handle alone, especially the docking part. I recommended he start with a 28-footer and tried to sell him the Piece Of Cake.
+Then they discovered that Erik's wife gets inescapably seasick, even if the boat is lying still in the harbor. They abandoned the plan. Now Erik comes over every few weeks to single-hand around a bit, but his 43-foot Beneteau is proving a bit much to handle alone, especially the docking part. I recommended he start with a 28-footer and tried to sell him the Piece Of Cake.
 
 I found out the marina organizes an informal barbecue every Sunday afternoon. Everyone gets together, brings their own food and drinks and has an allround good time. It sounded like the perfect Sunday afternoon pastime.
 
