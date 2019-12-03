@@ -1,7 +1,7 @@
 </div>
 <div class="column is-12">
 {{ if .IsNamedParams }}
-	{{ $image := dict "src" (.Get "src") "alt" (.Get "alt") "ratio" (default "3x2" (.Get "ratio")) "class" (default "" (.Get "class")) }}
+	{{ $image := dict "src" (.Get "src") "alt" (.Get "alt") "ratio" (default "3x2" (.Get "ratio")) "class" (default "" (.Get "class")) "attention" (default "false" (.Get "attention")) }}
 	{{- partial "_shared/image.html" $image -}}
 {{ end }}
 </div>
