@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Wed, 27 Nov 2019 17:57:43 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 14:06:03 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Meeting People</title>
+      <link>https://vite-et-reves.com/captains-log/2019-12-01-meeting-people/</link>
+      <pubDate>Sun, 01 Dec 2019 14:06:03 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-12-01-meeting-people/</guid>
+      <description>We meet new people on Cartagena marina&#39;s weekly barbecue.</description>
     </item>
     
     <item>
