@@ -1,7 +1,7 @@
 {{ $a := index (split .ratio "x") 0 }}
 {{ $b := index (split .ratio "x") 1 }}
 
-{{ if eq (getenv "HUGO_ENV" ) "production" }}
+{{ if ne (getenv "HUGO_ENV" ) "production" }}
 	{{ $x := 1.0 }}
 	{{ $y := div (float (default 1 $b)) (float (default 1 $a)) }}
 
@@ -43,7 +43,7 @@
 			100vw"
 			type="image/jpeg"
 		/>
-	<img class="is-fullwidth" src="{{ index (last 1 $srcset) 0 }}" alt="{{ .alt }}" />
+	<img class="is-fullwidth" src="{{ index (split (index (last 1 $srcset) 0) " ") 0 }}" alt="{{ .alt }}" />
 </picture>
 {{ else }}
 <figure class="image is-fullwidth is-{{ $a }}by{{ $b }}{{ with .class }} {{ . }}{{ end }}">
