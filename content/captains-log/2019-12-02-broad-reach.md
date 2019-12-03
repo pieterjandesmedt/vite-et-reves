@@ -4,8 +4,8 @@ date: 2019-12-02T21:47:19+01:00
 publishdate: 2019-12-02T21:47:19+01:00
 image: ""
 author: "Pieter Jan"
-gpx: ""
-summary: ""
+gpx: "Navionics_archive_export 43.gpx"
+summary: "We sail the whole day on a broad reach before a storm"
 draft: true
 ---
 

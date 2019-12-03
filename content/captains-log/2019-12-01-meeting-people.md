@@ -18,15 +18,15 @@ Only then they discovered that Erik's wife gets inescapably seasick, even if the
 
 I found out the marina organizes an informal barbecue every Sunday afternoon. Everyone gets together, brings their own food and drinks and has an allround good time. It sounded like the perfect Sunday afternoon pastime.
 
-As we approached, 20 or 30 people were standing around the barbecues, talking to one another. "They all know each other!" Barbara whispered, her eyes darting furtively back to our safe place, Vite & Rêves. "It's gonna be fine," I said, smiling encouragingly. She let out a quivering sigh. Barbara's not very big on meeting new people.
+As we approached, 20 or 30 people were standing around the barbecues, talking to one another. "They all know each other!" Barbara whispered, her eyes darting furtively back to our safe place, Vite & Rêves. "It's gonna be fine," I said with a big encouraging smile I normally reserve for the first school day of a kid. She let out a quivering sigh. Barbara's not very big on meeting new people.
 
-The general strategy for meeting new people on this kind of occasion is just the same as in kindergarten: You stand around, not too far from the other kids, look approachable and smile a lot at everyone. When you're grown-up, you have the added mental support of a can of beer.
+My general strategy for meeting new people on this kind of occasion is just the same as in kindergarten: I stand around, not too far from the other kids, look approachable and smile a lot at everyone. When you're grown-up, you have the added mental support of a can of beer.
 
-Within one minute we were happily exchanging stories with an Australian lady ("Yes, there's quite a few of us Aussies here in Cartagena"). She and her husband did a world tour 20 years ago with their then 2,5 year old boy.
+It worked. Within one minute we were happily exchanging stories with an Australian lady ("Yes, there's quite a few of us Aussies here in Cartagena"). She and her husband did a world tour 20 years ago with their then 2,5 year old boy.
 
 {{< image src="IMG_6448.jpg" alt="Barbecue in the december sun" ratio="3x2" >}}
 
-Later on, when we were eating, an Irishman joined our table and regaled us with his stories. He brought a backpack full of beers. He had bought his boat in South-Africa and sailed it to Greece, partly to discover whether his girlfriend was a sailor --- she wasn't. The trip left them with a good many anecdotes though, one involving nude sunbathing on the foredeck and Libyan air force helicopters.
+Later on, when we were eating, an Irishman joined our table and regaled us with his stories and his backpack full of beers. He had bought his boat in South-Africa and sailed it to Greece, partly to discover whether his girlfriend was a sailor --- she wasn't. The trip left them with a good many anecdotes though, one involving nude sunbathing on the foredeck and Libyan air force helicopters.
 
 Meanwhile, the kids were busy building camps with other boat kids in the marina scrapyard. A good time was had by all.
 
