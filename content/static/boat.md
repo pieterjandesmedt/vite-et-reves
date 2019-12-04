@@ -38,7 +38,7 @@ It's known that every boat has her own character. Vite & Rêves is patient, play
 
 {{< image src="vite-et-reves-sailing.jpg" alt="Vite & Rêves under sail" >}}
 
-{{< image src="IMG_6197.jpg" alt="Vite & Rêves in the Lavrion marina" >}}
+{{< image src="IMG_6197.jpg" alt="Vite & Rêves in the Lavrion marina" ratio="2x3" >}}
 
 {{< image src="IMG_6209.jpg" alt="Vite & Rêves looking like a spaceship" >}}
 
