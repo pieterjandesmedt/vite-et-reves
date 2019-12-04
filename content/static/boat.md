@@ -10,32 +10,36 @@ weight: 3
 
 <br />
 
-> Everything inside the boat is made of light but robust material to keep the boat as light as possible. There are three reefs in the main and the genoa is mounted on a furler. All the running rigging comes back to the cockpit: jib tacks, main sheet and halyard and reefs. There are five winches in the cockpit, three are electric. It is easy to handle the boat alone and it is very safe.
+Vite & Rêves may have permanently damaged my ability to enjoy other sailboats. She's that good. I was used to sailing in monohulls. Vite & Rêves is the second catamaran I ever set foot on in my life. I'm never looking back.
 
-> As soon as the wind reach 15-20 knots, we expect to sail between 9 and 12 knots depending on the wind direction. It is really fun and feels very safe. Being a catamaran, it stays flat and people on board can have a normal "flat" life. The cockpit is well protected and stays very dry.
+Vite & Rêves is fast, safe and very comfortable. Her 2 meter long daggerboards can make her go to 30 degrees to the apparent wind. This is excellent even by performance monohull standards. With the daggerboards up, she draws only 70cm (2.3ft), so practically every marina, bay and beach is accessible.
 
-> We have had up to 50 knots wind in the Doro strait and always felt safe on board. We have sailed across the Adriatic sea with 40 knots wind and it was our fastest sail, top speed 20 knots surfing...
+She's faster than any boat her length and leaves even much longer monohulls in her wake. The theoretical maximum boat speed of a 40 footer is 8 knots. This is Vite & Rêves' minimum speed as soon as the wind picks up a bit. The maximum speed we did was 14 knots. The maximum speed on the speed log is 24 knots. And she sails safe and comfortably, even at those speeds.
 
-&mdash; from the previous owner
+All her systems are kept very simple and maintainable. All the lines go back to the cockpit. Hoisting the mainsail and reefing is child's play. She's easy to sail single-handedly, a big plus when you have 3 kids on board. Her double mainsheet system forgives most mistakes. If things break, repair is usually doable with your own hands, some chewing gum and a paperclip.
 
-{{< image src="vite-et-reves-sailing.jpg" alt="Vite & Rêves onder zeil" >}}
+She's said to be unsinkable, like the Titanic, not only because of the watertight compartments in the bows and the sterns, but also because the boat itself is lighter than water --- unlike the Titanic. Even fully flooded, she'll still float. In the middle of the ocean, with no land in sight for hundreds of miles, this is a great comfort.
 
-{{< image src="IMG_6197.jpg" alt="Vite & Rêves in de haven van Lavrion" >}}
+It's known that every boat has her own character. Vite & Rêves is patient, playful, enthusiastic, gentle and friendly. This is a boat that makes you feel at ease, even in big winds and big seas.
 
-{{< image src="IMG_6209.jpg" alt="Vite & Rêves vooraanzicht" >}}
-
-{{< image src="IMG_6239.jpg" alt="Vite & Rêves saloon" >}}
-
-
-### Specifications
+##### Specifications, for number lovers:
 
 - Overall length: 12.50 m
 - Waterline length: 12.00 m
 - Beam: 6.70 m
 - Light displacement: 6,200 kg
 - Draft: 0.70 - 2.00 m
-- Motors: 2 &times; 30CV
+- Engines: 2 &times; 30hp Volvo Penta
 - Water: 400 l
-- Desalinator: 500 l/d
+- Watermaker: 500 l/d
 - Fuel: 200 l
 - Designer: Christophe Barreau
+
+
+{{< image src="vite-et-reves-sailing.jpg" alt="Vite & Rêves under sail" >}}
+
+{{< image src="IMG_6197.jpg" alt="Vite & Rêves in the Lavrion marina" >}}
+
+{{< image src="IMG_6209.jpg" alt="Vite & Rêves looking like a spaceship" >}}
+
+{{< image src="IMG_6239.jpg" alt="Vite & Rêves saloon" >}}
