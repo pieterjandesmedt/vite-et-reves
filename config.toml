@@ -9,6 +9,11 @@ publishDir = "public"
 #disqusShortname = "your-shortname-here"
 googleAnalytics = "UA-149352398-1"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   logo = "logo-white.svg"
   logoGreen = "logo-green.svg"
