@@ -5,7 +5,7 @@ publishdate: 2019-11-26T11:51:53+01:00
 image: "IMG_5690.jpeg"
 author: "Barbara"
 gpx: ""
-summary: ""
+summary: "Geen gezeul met vuil wasgoed door de stad, een heerlijk warme douche wanneer we dat wilden en een toilet doorspoelen met een simpele druk op de knop. Kijk, dat maakte mij ontzettend goedgemutst."
 ---
 
 Vorige week was in vele opzichten echt een topweek. Vele factoren droegen bij aan het kleine intense geluk dat ik elke dag mocht ervaren.
