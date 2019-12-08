@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Mon, 02 Dec 2019 21:47:19 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2019 22:19:17 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,33 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Bye Europe, Hello Africa</title>
+      <link>https://vite-et-reves.com/captains-log/2019-12-07-bye-europe-hello-africa/</link>
+      <pubDate>Sat, 07 Dec 2019 22:19:17 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-12-07-bye-europe-hello-africa/</guid>
+      <description>We cross the strait of Gibraltar and arrive in one piece in Tangier.</description>
+    </item>
+    
+    <item>
+      <title>The Push</title>
+      <link>https://vite-et-reves.com/captains-log/2019-12-06-the-push/</link>
+      <pubDate>Fri, 06 Dec 2019 21:19:35 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-12-06-the-push/</guid>
+      <description>Part 2 of our push out of the Med.</description>
+    </item>
+    
+    <item>
+      <title>Sinterklaas Evening</title>
+      <link>https://vite-et-reves.com/captains-log/2019-12-05-sinterklaas-evening/</link>
+      <pubDate>Thu, 05 Dec 2019 20:16:48 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-12-05-sinterklaas-evening/</guid>
+      <description>We spend a few lost days in Almeria</description>
     </item>
     
     <item>
