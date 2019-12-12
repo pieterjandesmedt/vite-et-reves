@@ -17,7 +17,7 @@ The Strait of Gibraltar was formed some 5 million years ago, when the Atlantic O
 
 Currently, it's the favorite place for Big Ships to hang out.
 
-{{< image src="IMG_8159.jpg" alt="" ratio="16x9" >}}
+{{< image src="IMG_8159.jpg" alt="Big Ships ahoy" ratio="16x9" >}}
 
 The Rock of Gibraltar rises up from the sea like a huge [Monemvasia](/captains-log/2019-09-25-monemvasia-medieval-momemvasia). It's quite an arresting sight, were it not for the enormous amount of ships it the area. They demand more attention. At least the Rock is staying in its place.
 

@@ -25,7 +25,7 @@ On the third day, we had to leave. We had a 3 day weather window to get out of t
 
 {{< image src="IMG_8070.jpg" alt="Wing and wing sailing with the wind at our back" ratio="3x2" >}}
 
-It was dead downwind sailing all the way. The wand was blowing parallel to the land. The further out, the harder it blew. We could effectively choose our own adventure. Too boring? Go a mile out. Too wild? Just get a bit closer to land. Very controllable --- a first in 2 months of sailing. The swell was coming from behind us, so we were surfing a lot of the time.
+It was dead downwind sailing all the way. The wind was blowing parallel to the land. The further out, the harder it blew. We could effectively choose our own adventure. Too boring? Go a mile out. Too wild? Just get a bit closer to land. Very controllable --- a first in 2 months of sailing. The swell was coming from behind us, so we were surfing a lot of the time.
 
 {{< image src="IMG_8077.jpg" alt="These mountains are still under construction, or so it seems" ratio="3x2" >}}
 
