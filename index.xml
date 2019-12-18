@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Wed, 11 Dec 2019 18:17:48 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2019 22:27:19 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Tangier Part 2</title>
+      <link>https://vite-et-reves.com/captains-log/2019-12-17-tangier-part-2/</link>
+      <pubDate>Tue, 17 Dec 2019 22:27:19 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-12-17-tangier-part-2/</guid>
+      <description>We&#39;re stuck in Tangier because of the wind but we&#39;re enjoying the vacation.</description>
     </item>
     
     <item>
