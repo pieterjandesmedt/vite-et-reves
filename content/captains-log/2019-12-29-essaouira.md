@@ -32,11 +32,11 @@ Back at the boat, two more guys helped me get the diesel in the tanks. This invo
 
 {{< image src="IMG_8673.jpg" alt="Repairing the nets" ratio="3x2" >}}
 
-We took in the sights of the harbor, when one of the skiffs got loose and drifted over to Vite & Rêves. I fastened 'Fatiha 2' to our boat. After a few hours a boat full of fishermen came alongside. _"Shukran! Shukran!"_ they thanked us. We gave them some leftover pancakes.
+We took in the sights of the harbor, when one of the skiffs got loose and drifted over to Vite & Rêves. I fastened 'Fatiha²' to our boat. After a few hours a boat full of fishermen came alongside. _"Shukran! Shukran!"_ they thanked us. We gave them some leftover pancakes.
 
-{{< image src="IMG_8679.jpg" alt="Fatiha2 floats over to say hello to Vite & Rêves" ratio="3x2" >}}
+{{< image src="IMG_8679.jpg" alt="Fatiha² floats over to say hello to Vite & Rêves" ratio="3x2" >}}
 
-Half of the fishermen entered Fatiha 2 and started preparing the the boat to go fishing. This involves putting on waterproof pants, making mint tea, smoking a bamboo hash pipe and connecting a chartplotter to a car battery.
+Half of the fishermen entered Fatiha² and started preparing the the boat to go fishing. This involves putting on waterproof pants, making mint tea, smoking a bamboo hash pipe and connecting a chartplotter to a car battery.
 
 The other skiff went away and came back with a large eel that they offered us. They also explained how to cook it by showing the ingredients we needed: olives, lemon, parsley and carrots. We thanked them and said goodbye when they left port. I found someone to clean the fish in the harbor.
 
