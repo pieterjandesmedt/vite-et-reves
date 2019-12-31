@@ -47,6 +47,8 @@ I started my watch again. The first time my alarm went off, I woke up to see a r
 
 Only now did I see other lights: two green blinking lights, two yellow unblinking lights. All very close. I slalomed between them. Once I was passed I went in and checked the charts. No buoys. I added them I accurately as I could in Navionics. So, if you're sailing past Safi, at 276º from the lighthouse, 11 miles out of the coast, keep a close watch. My next 30 minutes were not spent napping.
 
+_(EDIT: Renaat let me know that the buoys were placed because of recent Jan De Nul dredging works)_
+
 The next day the weather was sunny again. We followed the Moroccan coast down to Essaouira, where we arrived around noon, after two days at sea.
 
 {{< image src="IMG_8641.jpg" alt="Arrival at Essaouira" ratio="16x9" >}}
