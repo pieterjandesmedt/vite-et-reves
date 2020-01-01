@@ -26,7 +26,7 @@ The trike may not have had working brakes. It was a challenge to evade the milli
 
 {{< image src="IMG_4523.JPG" alt="Getting diesel, Essaouira style. That smile is a cover for my terror" ratio="3x2" >}}
 
-Back at the boat, two more guys helped me get the diesel in the tanks. This involved a big hose and one of the men sucking the jerrycan opening to create a vacuum. They deserved their _bakhsheesh_.
+Back at the boat, two more guys helped me get the diesel in the tanks. This involved a big hose and one of the men sucking the jerrycan opening to create a vacuum. They deserved their _baksheesh_.
 
 {{< two-images src1="IMG_8645.jpg" alt1="So many seagulls" ratio1="1x1" src2="IMG_8647.jpg" alt2="Fishermen's skiffs" ratio2="1x1" >}}
 
@@ -36,7 +36,7 @@ We took in the sights of the harbor, when one of the skiffs got loose and drifte
 
 {{< image src="IMG_8679.jpg" alt="Fatiha² floats over to say hello to Vite & Rêves" ratio="3x2" >}}
 
-Half of the fishermen entered Fatiha² and started preparing the the boat to go fishing. This involves putting on waterproof pants, making mint tea, smoking a bamboo hash pipe and connecting a chartplotter to a car battery.
+Half of the fishermen entered Fatiha² and started preparing the the boat to go fishing. This involves putting on waterproof pants, making mint tea, smoking a bamboo hash pipe and connecting a chart plotter to a car battery.
 
 The other skiff went away and came back with a large eel that they offered us. They also explained how to cook it by showing the ingredients we needed: olives, lemon, parsley and carrots. We thanked them and said goodbye when they left port. I found someone to clean the fish in the harbor.
 
@@ -46,9 +46,9 @@ In the evening we went grocery shopping and then to a restaurant (_M'Riste Jouha
 
 {{< image src="IMG_8692.jpg" alt="Into the town" ratio="3x2" >}}
 
-Essaouira itself is a nice litte town, but very touristy. It was a bit jarring to see that many white faces again after nearly a month in Morocco. With the tourism also come less desirable aspects: aggresive begging (_"Hey you, give me one dirham"_), public drunkenness, drug dealing. I couldn't walk alone without encountering someone every twenty steps asking me if I wanted _'hashish marihuana'_. Tanger and Rabat were much more chill in this regard.
+Essaouira itself is a nice little town, but very touristy. It was a bit jarring to see that many white faces again after nearly a month in Morocco. With the tourism also come less desirable aspects: aggressive begging (_"Hey you, give me one dirham"_), public drunkenness, drug dealing. I couldn't walk alone without encountering someone every twenty steps asking me if I wanted _'hashish marihuana'_. Tanger and Rabat were much more chill in this regard.
 
-The port of Essaouira is also inexplicably expensive: 270 dirham (€ 27) for a night, that's almost double the rate of other Moroccan marinas. And it has nothing: no docks, no showers or toilets, no wifi, nothing, just a lot of people angling for baksheesh. I was not surprised to learn that a boat of Brasilians left just the week before without paying. If you're a cruiser thinking about going to Essaouira, think twice or try to anchor in the bay. Agadir is also probably a better choice.
+The port of Essaouira is also inexplicably expensive: 270 dirham (€ 27) for a night, that's almost double the rate of other Moroccan marinas. And it has nothing: no docks, no showers or toilets, no wifi, nothing, just a lot of people angling for baksheesh. I was not surprised to learn that a boat of Brazilians left just the week before without paying. If you're a cruiser thinking about going to Essaouira, think twice or try to anchor in the bay. Agadir is also probably a better choice.
 
 When we got back to the boat, we discovered that a heavy steel French ketch had moored alongside Vite & Rêves. During the night a leftover swell came into the harbor and put our mooring lines, that now had to bear this extra weight, under a lot of stress. I got up twice to readjust the lines. We felt like Vite & Rêves was being quartered and were happy to leave in the morning.
 
