@@ -29,8 +29,8 @@ Once we rounded southern Punta Pechiguera, visibility detoriated somewhat. The w
 
 As we were barreling towards Rubicon Marina at 9 knots, Barbara suddenly noticed a ferry coming straight at us. "Quick, fire a shot across their bow!", she yelled.
 
-For a moment I considered altering course, but nothing I would do would make the situation any safer. I settled on following COLREG rule 18 --- the best rule in my opinion --- _"A power-driven vessel must give way to a sailing vessel"_. After a few tense seconds the ferry made a sharp turn to our stern and passed behind us. Thanks capt'n!
+For a moment I considered altering course, but nothing I would do would make the situation any safer. I settled on following COLREG rule 18 --- the best rule in my opinion --- _"A power-driven vessel must give way to a sailing vessel"_. After a few tense seconds the ferry made a sharp turn to our stern and passed behind us. Good capt'n!
 
 {{< image src="IMG_8867.jpg" alt="" ratio="3x2" >}}
 
-In the evening we met with avid blog follower Peter and Marijke, who were in Lanzarote on holidays. We had a bottle of cava on the boat to celebrate New Year and the happy coincidence of meeting and they treated us to dinner in one of the many restaurants in the marina. We had a lovely evening with these great people. Thanks again!
+In the evening we met with avid blog follower Peter and Marijke, who were in Lanzarote on holidays. We had a bottle of cava on the boat to celebrate New Year and the happy coincidence of meeting and they treated us to dinner in one of the many restaurants in the marina. We had a great evening with these lovely people. Thanks again!
