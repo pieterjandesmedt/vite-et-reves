@@ -36,7 +36,7 @@ We took in the sights of the harbor, when one of the skiffs got loose and drifte
 
 {{< image src="IMG_8679.jpg" alt="Fatiha² floats over to say hello to Vite & Rêves" ratio="3x2" >}}
 
-Half of the fishermen entered Fatiha² and started preparing the the boat to go fishing. This involves putting on waterproof pants, making mint tea, smoking a bamboo hash pipe and connecting a chart plotter to a car battery.
+<a name="fishermen"></a>Half of the fishermen entered Fatiha² and started preparing the the boat to go fishing. This involves putting on waterproof pants, making mint tea, smoking a bamboo hash pipe and connecting a chart plotter to a car battery.
 
 The other skiff went away and came back with a large eel that they offered us. They also explained how to cook it by showing the ingredients we needed: olives, lemon, parsley and carrots. We thanked them and said goodbye when they left port. I found someone to clean the fish in the harbor.
 
