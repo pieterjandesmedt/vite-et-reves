@@ -32,7 +32,7 @@
 
 	
 	<meta name="twitter:label2" value="Read time" />
-	<meta name="twitter:data2" value="🕒 6 min" />
+	<meta name="twitter:data2" value="🕒 5 min" />
 	
 
 	
@@ -120,7 +120,7 @@
 							
 							Jul 28, 2019
 							&mdash;
-							6 min read
+							5 min read
 						</p>
 					</div>
 				</div>
@@ -154,733 +154,553 @@
 		}
 	</style>
 
-	<script src='https://api.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.js'></script>
-	<script>
-		mapboxgl.accessToken = 'pk.eyJ1IjoicGpkcyIsImEiOiJVNEdDc3RjIn0.kmBUhtCdHZI_21ySyX56CQ';
 
-		var map = new mapboxgl.Map({
-			container: 'map',
-			style: 'mapbox://styles/mapbox/light-v10'
-		});
 
-		var trackPopup = new mapboxgl.Popup({
-			
-			closeOnClick: false
-		});
+	
 
-		var getJSON = function (url, callback) {
-			var xhr = new XMLHttpRequest();
-			xhr.open('GET', url, true);
-			xhr.responseType = 'json';
-			xhr.onload = function () {
-				var status = xhr.status;
-				if (status === 200) {
-					callback(null, xhr.response);
-				} else {
-					callback(status, xhr.response);
-				}
-			};
-			xhr.send();
-		};
+	<script src="https://api.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.js"></script>
+	<script type="text/javascript">
 
-		map.on('load', function () {
-
-			getJSON('https://api.roambee.com/v2/shipment/summary?uuid=d2f388be-f054-4a1b-bb18-bff615a1e7f7&apikey=069b6dee-6091-4241-90b9-b1976859e2c3',
-			function(err, data) {
-				if (err !== null) {
-					alert('Something went wrong. We couldn\'t connect to the roambee server. (Error ' + err + ')');
-				} else {
-					var lastKnownPosition = data.geo_summary.current_location;
-					console.log('lastKnownPosition:', lastKnownPosition);
-					var geojson = {
-						"type": "FeatureCollection",
-						"features": [
-							{
-								"type": "Feature",
-								"properties": {
-									"message": "<h6>Vite & Rêves' current position</h6><br/><small>(Tracking data provided by <a href='https://www.logisticsplus.net' target=_blank>Logistics Plus</a>, thanks Fre and Read!)</small>",
-									"iconSize": [60, 60]
-								},
-								"geometry": {
-									"type": "Point",
-									"coordinates": [
-										lastKnownPosition.lng,
-										lastKnownPosition.lat
-									]
-								}
-							},
-						]
-					};
-
-					geojson.features.forEach(function(marker) {
-					
-					var el = document.createElement('div');
-					el.className = 'marker';
-					el.style.backgroundImage = 'url(//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vite-et-reves-sailing.jpg&w=60&h=60&fit=cover&mask=circle)';
-
-					el.style.width = marker.properties.iconSize[0] + 'px';
-					el.style.height = marker.properties.iconSize[1] + 'px';
-
-					var popup = new mapboxgl.Popup({ offset: 25 })
-						.setHTML(marker.properties.message)
-
-					
-					new mapboxgl.Marker(el)
-						.setLngLat(marker.geometry.coordinates)
-						.setPopup(popup) 
-						.addTo(map);
-					});
-
-				}
-
-			});
-
-			getJSON('/route/route.7c1abe63f41bbc54e3e641c1a5c8d4ca.json',
-				function (err, data) {
-					if (err !== null) {
-						alert('Something went wrong. We couldn\'t load the route file. (Error ' + err + ')');
-					} else {
-						map.addLayer({
-							"id": "tracks",
-							"type": "line",
-							"source": {
-								"type": "geojson",
-								"data": data,
-							},
-							"layout": {
-								"line-join": "round",
-								"line-cap": "round"
-							},
-							"paint": {
-								"line-color": "#67adb7",
-								"line-width": 6
-							}
-						});
-						
-						var coordinates = data.features.map(feature => feature.geometry.coordinates).reduce((p,c) => p.concat(c), []);
-
-						
-						
-						
-						
-						
-						var bounds = coordinates.reduce(function (bounds, coord) {
-							return bounds.extend(coord);
-						}, new mapboxgl.LngLatBounds(coordinates[0], coordinates[0]));
-
-						map.fitBounds(bounds, {
-							padding: 50
-						});
-
-						var posts = [
-							
-							
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-03-proti-katakolo-a-bit-of-everything/",
-								gpx: "Navionics_archive_export 10.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-03-proti-katakolo-a-bit-of-everything\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7074.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">A Bit Of Everything</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-05-katakolo-zakynthos-a-fast-run/",
-								gpx: "Navionics_archive_export 11.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-05-katakolo-zakynthos-a-fast-run\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7106.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">A Fast Run</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-20-hydra-a-fond-farewell/",
-								gpx:  null ,
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-20-hydra-a-fond-farewell\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_0354.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">A Fond Farewell</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-09-a-simple-plan/",
-								gpx: "Navionics_archive_export 35.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-09-a-simple-plan\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7771.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">A Simple Plan</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-12-kerkyra-santa-maria-di-leuca-across-the-adriatic/",
-								gpx: "Navionics_archive_export 16.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-12-kerkyra-santa-maria-di-leuca-across-the-adriatic\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7314.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Across The Adriatic</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-25-anchor-bender/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-25-anchor-bender\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7505.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Anchor Bender</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-30-bay-sail/",
-								gpx: "Navionics_archive_export 30.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-30-bay-sail\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7613.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Bay Sail</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-20-birthday/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-20-birthday\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7870_1.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Birthday</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-02-broad-reach/",
-								gpx: "Navionics_archive_export 43.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-02-broad-reach\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8048.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Broad Reach</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-07-bye-europe-hello-africa/",
-								gpx: "Navionics_archive_export 46.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-07-bye-europe-hello-africa\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8182.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Bye Europe, Hello Africa</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-28-cagliari/",
-								gpx: "Navionics_archive_export 28.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-28-cagliari\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7575.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Cagliari</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-29-cagliari-part-2/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-29-cagliari-part-2\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7586.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Cagliari Part 2</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-21-calm-milazzo/",
-								gpx: "Navionics_archive_export 23.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-21-calm-milazzo\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7438.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Calm Milazzo</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-17-calpe/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-17-calpe\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/Calpe-Marina-Alta-2019.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Calpe</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-31-canary-crossing/",
-								gpx: "Navionics_archive_export 50.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-31-canary-crossing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8778.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Canary Crossing</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-27-cartagena/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-27-cartagena\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8008.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Cartagena</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-22-chasing-zephyrs/",
-								gpx: "Navionics_archive_export 24.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-22-chasing-zephyrs\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7468.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Chasing Zephyrs</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-07-crossing-to-menorca/",
-								gpx: "Navionics_archive_export 34.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-07-crossing-to-menorca\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7742.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Crossing to Menorca</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-04-katakolo-deserted-katakolo/",
-								gpx:  null ,
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-04-katakolo-deserted-katakolo\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7081.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Deserted Katakolo</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-19-easy-strait/",
-								gpx: "Navionics_archive_export 20.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-19-easy-strait\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7392.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Easy Strait</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-29-essaouira/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-29-essaouira\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8673.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Essaouira</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-02-finding-shelter/",
-								gpx: "Navionics_archive_export 32.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-02-finding-shelter\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7668.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Finding Shelter</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-25-fishy-business/",
-								gpx: "Navionics_archive_export 42.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-25-fishy-business\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7985.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Fishy Business</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-28-flat-ocean/",
-								gpx: "Navionics_archive_export 49.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-28-flat-ocean\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8599.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Flat Ocean</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-01-flying-south/",
-								gpx: "Navionics_archive_export 31.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-01-flying-south\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7652.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Flying south</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-10-antipaxoi-kerkyra-front-surfing/",
-								gpx: "Navionics_archive_export 15.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-10-antipaxoi-kerkyra-front-surfing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vlcsnap-2019-10-10-20h22m35s917.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Front Surfing</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-24-vlychada-bay-monemvasia-gale-sailing/",
-								gpx: "Navionics_archive_export 1.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-24-vlychada-bay-monemvasia-gale-sailing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6762.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Gale Sailing</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-10-hide-and-seek/",
-								gpx: "Navionics_archive_export 36.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-10-hide-and-seek\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7788.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Hide and Seek</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-03-hunkering-down/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-03-hunkering-down\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vlcsnap-2019-11-03-19h05m15s515.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Hunkering Down</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-08-zakynthos-ithaki-in-odysseus-footsteps/",
-								gpx: "Navionics_archive_export 13.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-08-zakynthos-ithaki-in-odysseus-footsteps\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7174.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">In Odysseus\x27 Footsteps</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2020-01-01-island-rush/",
-								gpx: "Navionics_archive_export 51.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2020-01-01-island-rush\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8866.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Island Rush</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-21-hydra-kissed-the-quay/",
-								gpx:  null ,
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-21-hydra-kissed-the-quay\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_4384.JPG&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Kissed The Quay</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-30-koroni-castle/",
-								gpx:  null ,
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-30-koroni-castle\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6937.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Koroni Castle</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-13-santa-maria-di-leuca-laundry-day/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-13-santa-maria-di-leuca-laundry-day\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7326.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Laundry Day</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-19-lavrion-hydra-lazy-line-troubles/",
-								gpx: "Navionics_archive_export 3.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-19-lavrion-hydra-lazy-line-troubles\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6746.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Lazy Line Troubles</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-09-ithaki-antipaxoi-making-water/",
-								gpx: "Navionics_archive_export 14.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-09-ithaki-antipaxoi-making-water\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7206.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Making Water</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-25-monemvasia-medieval-momemvasia/",
-								gpx:  null ,
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-25-monemvasia-medieval-momemvasia\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6769.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Medieval Monemvasia</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-18-meet-the-parents/",
-								gpx: "Navionics_archive_export 40.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-18-meet-the-parents\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7844.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Meet the Parents</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-01-meeting-people/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-01-meeting-people\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6448.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Meeting People</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-27-motorcrossing/",
-								gpx: "Navionics_archive_export 27.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-27-motorcrossing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7518.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Motorcrossing</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-16-crotone-le-castella-nice-swim-upwind-rollercoaster/",
-								gpx: "Navionics_archive_export 18.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-16-crotone-le-castella-nice-swim-upwind-rollercoaster\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7362.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Nice Swim \/ Upwind Rollercoaster</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-23-nightly-joyride/",
-								gpx: "Navionics_archive_export 25.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-23-nightly-joyride\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7475.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Nightly Joyride</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-29-geralimena-koroni-no-time-to-waste/",
-								gpx: "Navionics_archive_export.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-29-geralimena-koroni-no-time-to-waste\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6927.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">No Time To Waste</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-22-hydra-vlychada-bay-no-wind/",
-								gpx: "Navionics_archive_export 2.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-22-hydra-vlychada-bay-no-wind\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_5616.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">No Wind</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-31-nora-out-of-gas/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-31-nora-out-of-gas\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7628_1.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Nora \/ Out of Gas</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-02-pylos-proti-on-achievin-calm/",
-								gpx: "Navionics_archive_export 9.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-02-pylos-proti-on-achievin-calm\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7016_1.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">On Achieving Calm</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-13-party-flight/",
-								gpx: "Navionics_archive_export 37.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-13-party-flight\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7799.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Party Flight</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-26-rabat/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-26-rabat\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8501.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Rabat</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-16-reaching-mainland/",
-								gpx: "Navionics_archive_export 39.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-16-reaching-mainland\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7818.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Reaching the Mainland</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-24-regaining-our-sea-legs/",
-								gpx: "Navionics_archive_export 41.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-24-regaining-our-sea-legs\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7956.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Regaining Our Sea Legs</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-23-vlychada-bay-relaxing-at-vlychada-bay/",
-								gpx:  null ,
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-23-vlychada-bay-relaxing-at-vlychada-bay\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6752.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Relaxing At Vlychada Bay</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-11-kerkyra-resting-day/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-11-kerkyra-resting-day\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7300.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Resting Day</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-27-velanidia-elafonisos-rounding-cape-maleas/",
-								gpx: "Navionics_archive_export 6.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-27-velanidia-elafonisos-rounding-cape-maleas\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/sailing-ship-storm-lightning-waves-ocean.jpeg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Rounding Cape Maleas</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-24-sailing-again/",
-								gpx: "Navionics_archive_export 47.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-24-sailing-again\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8395.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Sailing Again</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-15-santa-eul%C3%A0ria-des-riu/",
-								gpx: "Navionics_archive_export 38.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-15-santa-eul%C3%A0ria-des-riu\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_4444.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Santa Eulària Des Riu</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-20-scylla-and-charybdis/",
-								gpx: "Navionics_archive_export 22.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-20-scylla-and-charybdis\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7417.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Scylla and Charybdis</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-06-zakynthos-shipwreck-beach/",
-								gpx: "Navionics_archive_export 12.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-06-zakynthos-shipwreck-beach\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7127.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Shipwreck Beach</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-18-lavrion-shopping-and-provisioning/",
-								gpx: "Navionics_archive_export 4.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-18-lavrion-shopping-and-provisioning\/"><h6 style="margin-top: .25em">Shopping And Provisioning</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-14-santa-maria-di-leuca-siesta-signore/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-14-santa-maria-di-leuca-siesta-signore\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7690.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Siesta, Signore</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-05-sinterklaas-evening/",
-								gpx: "Navionics_archive_export 44.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-05-sinterklaas-evening\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8135.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Sinterklaas Evening</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-17-lavrion-started-in-lavrion/",
-								gpx:  null ,
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-17-lavrion-started-in-lavrion\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6197.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Started In Lavrion</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-11-tangier/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-11-tangier\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8219.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Tangier</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-17-tangier-part-2/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-17-tangier-part-2\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8303.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Tangier Part 2</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-15-santa-maria-di-leuca-crotone-the-longest-day/",
-								gpx: "Navionics_archive_export 17.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-15-santa-maria-di-leuca-crotone-the-longest-day\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7328.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">The Longest Day</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-17-le-castella-bova-marina-the-perfect-sail/",
-								gpx: "Navionics_archive_export 19.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-17-le-castella-bova-marina-the-perfect-sail\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7383.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">The Perfect Sail</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-12-06-the-push/",
-								gpx: "Navionics_archive_export 45.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-06-the-push\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8142.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">The Push</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-07-zakynthos-thunderstuck/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-07-zakynthos-thunderstuck\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/lightning.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Thunderstuck</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-01-koroni-pylos-tight-sailing/",
-								gpx: "Navionics_archive_export 8.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-01-koroni-pylos-tight-sailing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7004.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Tight Sailing</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-26-monemvasia-velanidia-uncooperative-winds/",
-								gpx: "Navionics_archive_export 5.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-26-monemvasia-velanidia-uncooperative-winds\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6827.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Uncooperative Winds</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-05-waiting-for-a-window/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-05-waiting-for-a-window\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7701.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Waiting for a Window</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-11-23-alicante/",
-								gpx: "",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-23-alicante\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/342766-Museo-Volvo-Ocean-Race.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Waiting in Alicante</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-08-31-we-have-a-boat/",
-								gpx:  null ,
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-08-31-we-have-a-boat\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6376.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">We Have A Boat!</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-10-24-weather-turning/",
-								gpx: "Navionics_archive_export 26.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-24-weather-turning\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7494.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Weather Turning</h6></a>',
-							}
-							
-							, 
-							{
-								url: "https://vite-et-reves.com/captains-log/2019-09-28-elafonisos-geralimena-wing-and-wing/",
-								gpx: "Navionics_archive_export 7.gpx",
-								description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-28-elafonisos-geralimena-wing-and-wing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6886.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Wing And Wing</h6></a>',
-							}
-							
-							]
-							;
-
-						map.on('mouseenter', 'tracks', function(e) {
-							var correspondingPost = posts.find(function(post) {
-								return post.gpx === e.features[0].properties.source;
-							});
-
-							if (correspondingPost) {
-								
-								map.getCanvas().style.cursor = 'pointer';
-
-								
-								var coordinates = e.features[0].geometry.coordinates[Math.floor(e.features[0].geometry.coordinates.length / 2)];
-								
-								
-								trackPopup.setLngLat(coordinates)
-									.setHTML(correspondingPost.description)
-									.addTo(map);
-							}
-						});
-					}
-				});
-		});
+		var routeFile = '/route/route.7c1abe63f41bbc54e3e641c1a5c8d4ca.json';
+		var posts = [
+		
+		
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-03-proti-katakolo-a-bit-of-everything/",
+			gpx: "Navionics_archive_export 10.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-03-proti-katakolo-a-bit-of-everything\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7074.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">A Bit Of Everything</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-05-katakolo-zakynthos-a-fast-run/",
+			gpx: "Navionics_archive_export 11.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-05-katakolo-zakynthos-a-fast-run\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7106.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">A Fast Run</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-20-hydra-a-fond-farewell/",
+			gpx:  null ,
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-20-hydra-a-fond-farewell\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_0354.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">A Fond Farewell</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-09-a-simple-plan/",
+			gpx: "Navionics_archive_export 35.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-09-a-simple-plan\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7771.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">A Simple Plan</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-12-kerkyra-santa-maria-di-leuca-across-the-adriatic/",
+			gpx: "Navionics_archive_export 16.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-12-kerkyra-santa-maria-di-leuca-across-the-adriatic\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7314.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Across The Adriatic</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-25-anchor-bender/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-25-anchor-bender\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7505.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Anchor Bender</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-30-bay-sail/",
+			gpx: "Navionics_archive_export 30.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-30-bay-sail\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7613.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Bay Sail</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-20-birthday/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-20-birthday\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7870_1.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Birthday</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-02-broad-reach/",
+			gpx: "Navionics_archive_export 43.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-02-broad-reach\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8048.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Broad Reach</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-07-bye-europe-hello-africa/",
+			gpx: "Navionics_archive_export 46.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-07-bye-europe-hello-africa\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8182.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Bye Europe, Hello Africa</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-28-cagliari/",
+			gpx: "Navionics_archive_export 28.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-28-cagliari\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7575.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Cagliari</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-29-cagliari-part-2/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-29-cagliari-part-2\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7586.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Cagliari Part 2</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-21-calm-milazzo/",
+			gpx: "Navionics_archive_export 23.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-21-calm-milazzo\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7438.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Calm Milazzo</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-17-calpe/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-17-calpe\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/Calpe-Marina-Alta-2019.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Calpe</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-31-canary-crossing/",
+			gpx: "Navionics_archive_export 50.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-31-canary-crossing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8778.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Canary Crossing</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-27-cartagena/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-27-cartagena\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8008.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Cartagena</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-22-chasing-zephyrs/",
+			gpx: "Navionics_archive_export 24.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-22-chasing-zephyrs\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7468.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Chasing Zephyrs</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-07-crossing-to-menorca/",
+			gpx: "Navionics_archive_export 34.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-07-crossing-to-menorca\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7742.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Crossing to Menorca</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-04-katakolo-deserted-katakolo/",
+			gpx:  null ,
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-04-katakolo-deserted-katakolo\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7081.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Deserted Katakolo</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-19-easy-strait/",
+			gpx: "Navionics_archive_export 20.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-19-easy-strait\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7392.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Easy Strait</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-29-essaouira/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-29-essaouira\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8673.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Essaouira</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-02-finding-shelter/",
+			gpx: "Navionics_archive_export 32.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-02-finding-shelter\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7668.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Finding Shelter</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-25-fishy-business/",
+			gpx: "Navionics_archive_export 42.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-25-fishy-business\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7985.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Fishy Business</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-28-flat-ocean/",
+			gpx: "Navionics_archive_export 49.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-28-flat-ocean\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8599.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Flat Ocean</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-01-flying-south/",
+			gpx: "Navionics_archive_export 31.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-01-flying-south\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7652.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Flying south</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-10-antipaxoi-kerkyra-front-surfing/",
+			gpx: "Navionics_archive_export 15.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-10-antipaxoi-kerkyra-front-surfing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vlcsnap-2019-10-10-20h22m35s917.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Front Surfing</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-24-vlychada-bay-monemvasia-gale-sailing/",
+			gpx: "Navionics_archive_export 1.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-24-vlychada-bay-monemvasia-gale-sailing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6762.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Gale Sailing</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-10-hide-and-seek/",
+			gpx: "Navionics_archive_export 36.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-10-hide-and-seek\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7788.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Hide and Seek</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-03-hunkering-down/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-03-hunkering-down\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/vlcsnap-2019-11-03-19h05m15s515.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Hunkering Down</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-08-zakynthos-ithaki-in-odysseus-footsteps/",
+			gpx: "Navionics_archive_export 13.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-08-zakynthos-ithaki-in-odysseus-footsteps\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7174.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">In Odysseus\x27 Footsteps</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2020-01-01-island-rush/",
+			gpx: "Navionics_archive_export 51.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2020-01-01-island-rush\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8866.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Island Rush</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-21-hydra-kissed-the-quay/",
+			gpx:  null ,
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-21-hydra-kissed-the-quay\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_4384.JPG&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Kissed The Quay</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-30-koroni-castle/",
+			gpx:  null ,
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-30-koroni-castle\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6937.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Koroni Castle</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-13-santa-maria-di-leuca-laundry-day/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-13-santa-maria-di-leuca-laundry-day\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7326.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Laundry Day</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-19-lavrion-hydra-lazy-line-troubles/",
+			gpx: "Navionics_archive_export 3.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-19-lavrion-hydra-lazy-line-troubles\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6746.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Lazy Line Troubles</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-09-ithaki-antipaxoi-making-water/",
+			gpx: "Navionics_archive_export 14.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-09-ithaki-antipaxoi-making-water\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7206.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Making Water</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-25-monemvasia-medieval-momemvasia/",
+			gpx:  null ,
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-25-monemvasia-medieval-momemvasia\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6769.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Medieval Monemvasia</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-18-meet-the-parents/",
+			gpx: "Navionics_archive_export 40.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-18-meet-the-parents\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7844.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Meet the Parents</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-01-meeting-people/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-01-meeting-people\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6448.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Meeting People</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-27-motorcrossing/",
+			gpx: "Navionics_archive_export 27.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-27-motorcrossing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7518.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Motorcrossing</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-16-crotone-le-castella-nice-swim-upwind-rollercoaster/",
+			gpx: "Navionics_archive_export 18.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-16-crotone-le-castella-nice-swim-upwind-rollercoaster\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7362.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Nice Swim \/ Upwind Rollercoaster</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-23-nightly-joyride/",
+			gpx: "Navionics_archive_export 25.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-23-nightly-joyride\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7475.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Nightly Joyride</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-29-geralimena-koroni-no-time-to-waste/",
+			gpx: "Navionics_archive_export.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-29-geralimena-koroni-no-time-to-waste\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6927.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">No Time To Waste</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-22-hydra-vlychada-bay-no-wind/",
+			gpx: "Navionics_archive_export 2.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-22-hydra-vlychada-bay-no-wind\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_5616.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">No Wind</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-31-nora-out-of-gas/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-31-nora-out-of-gas\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7628_1.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Nora \/ Out of Gas</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-02-pylos-proti-on-achievin-calm/",
+			gpx: "Navionics_archive_export 9.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-02-pylos-proti-on-achievin-calm\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7016_1.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">On Achieving Calm</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-13-party-flight/",
+			gpx: "Navionics_archive_export 37.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-13-party-flight\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7799.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Party Flight</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-26-rabat/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-26-rabat\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8501.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Rabat</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-16-reaching-mainland/",
+			gpx: "Navionics_archive_export 39.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-16-reaching-mainland\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7818.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Reaching the Mainland</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-24-regaining-our-sea-legs/",
+			gpx: "Navionics_archive_export 41.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-24-regaining-our-sea-legs\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7956.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Regaining Our Sea Legs</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-23-vlychada-bay-relaxing-at-vlychada-bay/",
+			gpx:  null ,
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-23-vlychada-bay-relaxing-at-vlychada-bay\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6752.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Relaxing At Vlychada Bay</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-11-kerkyra-resting-day/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-11-kerkyra-resting-day\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7300.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Resting Day</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-27-velanidia-elafonisos-rounding-cape-maleas/",
+			gpx: "Navionics_archive_export 6.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-27-velanidia-elafonisos-rounding-cape-maleas\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/sailing-ship-storm-lightning-waves-ocean.jpeg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Rounding Cape Maleas</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-24-sailing-again/",
+			gpx: "Navionics_archive_export 47.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-24-sailing-again\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8395.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Sailing Again</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-15-santa-eul%C3%A0ria-des-riu/",
+			gpx: "Navionics_archive_export 38.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-15-santa-eul%C3%A0ria-des-riu\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_4444.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Santa Eulària Des Riu</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-20-scylla-and-charybdis/",
+			gpx: "Navionics_archive_export 22.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-20-scylla-and-charybdis\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7417.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Scylla and Charybdis</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-06-zakynthos-shipwreck-beach/",
+			gpx: "Navionics_archive_export 12.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-06-zakynthos-shipwreck-beach\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7127.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Shipwreck Beach</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-18-lavrion-shopping-and-provisioning/",
+			gpx: "Navionics_archive_export 4.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-18-lavrion-shopping-and-provisioning\/"><h6 style="margin-top: .25em">Shopping And Provisioning</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-14-santa-maria-di-leuca-siesta-signore/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-14-santa-maria-di-leuca-siesta-signore\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7690.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Siesta, Signore</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-05-sinterklaas-evening/",
+			gpx: "Navionics_archive_export 44.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-05-sinterklaas-evening\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8135.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Sinterklaas Evening</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-17-lavrion-started-in-lavrion/",
+			gpx:  null ,
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-17-lavrion-started-in-lavrion\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6197.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Started In Lavrion</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-11-tangier/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-11-tangier\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8219.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Tangier</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-17-tangier-part-2/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-17-tangier-part-2\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8303.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Tangier Part 2</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-15-santa-maria-di-leuca-crotone-the-longest-day/",
+			gpx: "Navionics_archive_export 17.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-15-santa-maria-di-leuca-crotone-the-longest-day\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7328.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">The Longest Day</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-17-le-castella-bova-marina-the-perfect-sail/",
+			gpx: "Navionics_archive_export 19.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-17-le-castella-bova-marina-the-perfect-sail\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7383.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">The Perfect Sail</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-12-06-the-push/",
+			gpx: "Navionics_archive_export 45.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-12-06-the-push\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_8142.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">The Push</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-07-zakynthos-thunderstuck/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-07-zakynthos-thunderstuck\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/lightning.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Thunderstuck</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-01-koroni-pylos-tight-sailing/",
+			gpx: "Navionics_archive_export 8.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-01-koroni-pylos-tight-sailing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7004.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Tight Sailing</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-26-monemvasia-velanidia-uncooperative-winds/",
+			gpx: "Navionics_archive_export 5.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-26-monemvasia-velanidia-uncooperative-winds\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6827.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Uncooperative Winds</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-05-waiting-for-a-window/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-05-waiting-for-a-window\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7701.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Waiting for a Window</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-11-23-alicante/",
+			gpx: "",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-11-23-alicante\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/342766-Museo-Volvo-Ocean-Race.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Waiting in Alicante</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-08-31-we-have-a-boat/",
+			gpx:  null ,
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-08-31-we-have-a-boat\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6376.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">We Have A Boat!</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-10-24-weather-turning/",
+			gpx: "Navionics_archive_export 26.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-10-24-weather-turning\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_7494.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Weather Turning</h6></a>',
+		}
+		
+		, 
+		{
+			url: "https://vite-et-reves.com/captains-log/2019-09-28-elafonisos-geralimena-wing-and-wing/",
+			gpx: "Navionics_archive_export 7.gpx",
+			description: '<a href="https:\/\/vite-et-reves.com\/captains-log\/2019-09-28-elafonisos-geralimena-wing-and-wing\/"><img src="//images.weserv.nl/?url=https://vite-et-reves.s3.eu-west-3.amazonaws.com/IMG_6886.jpg&w=400&h=200&t=square&a=attention&output=webp" /><h6 style="margin-top: .25em">Wing And Wing</h6></a>',
+		}
+		
+		]
+		;
 
 	</script>
-
+	<script type="text/javascript" src="/js/map.min.f437388a9561f53cf8c85dc87c25a5d6412ee60dbede1f21b9ca66ac28f438e7.js" integrity="sha256-9Dc4ipVh9Tz4yF3IfCWl1kEu5g2&#43;3h8hucpmrCj0OOc="></script>
 
 </div>
 <div class="column is-8 is-offset-2">
 
-<p>Voorlopig ziet de planning er zo uit:</p>
-<h5 id="september">September</h5>
+<h3 id="next-up">Next up</h3>
+<h5 id="january">January</h5>
 <ul>
-<li>Griekenland</li>
+<li>Canary Islands</li>
+<li>Cape Verde</li>
 </ul>
-<h5 id="oktober">Oktober</h5>
+<h5 id="february">February</h5>
 <ul>
-<li>Italië</li>
-<li>Frankrijk</li>
-</ul>
-<h5 id="november">November</h5>
-<ul>
-<li>Spanje</li>
-<li>Ibiza</li>
-<li>Canarische eilanden</li>
-</ul>
-<h5 id="december">December</h5>
-<ul>
-<li>Kaapverdische eilanden</li>
-<li>Oostelijke caraïben</li>
-<li>Dominicaanse Republiek</li>
-</ul>
-<h5 id="januari">Januari</h5>
-<ul>
-<li>Jamaica</li>
-<li>Cuba</li>
-<li>Belize</li>
-</ul>
-<h5 id="februari">Februari</h5>
-<ul>
-<li>Honduras</li>
-<li>Costa Rica</li>
-<li>Panama</li>
-</ul>
-<h5 id="maart">Maart</h5>
-<ul>
-<li>Galapagos eilanden</li>
-</ul>
-<h5 id="april">April</h5>
-<ul>
-<li>Marquesas eilanden</li>
-<li>Frans-Polynesië</li>
-</ul>
-<h5 id="mei">Mei</h5>
-<ul>
-<li>Cook eilanden</li>
-<li>Tonga</li>
-</ul>
-<h5 id="juni">Juni</h5>
-<ul>
-<li>Nieuw Zeeland</li>
-<li>Sydney</li>
-</ul>
-<h5 id="juli">Juli</h5>
-<ul>
-<li>Brisbane</li>
-<li>Papua Nieuw Guinea</li>
-<li>Darwin</li>
+<li>Atlantic Crossing</li>
+<li>Grenada and the Grenadines</li>
 </ul>
 
 
