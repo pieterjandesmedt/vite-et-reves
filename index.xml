@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sun, 29 Dec 2019 14:04:09 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 13:05:04 +0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Canary Crossing</title>
+      <link>https://vite-et-reves.com/captains-log/2019-12-31-canary-crossing/</link>
+      <pubDate>Tue, 31 Dec 2019 13:05:04 +0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2019-12-31-canary-crossing/</guid>
+      <description>We make a pleasant crossing from Morocco to the Canary Islands in the start of the trade winds.</description>
     </item>
     
     <item>
