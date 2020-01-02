@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 13:05:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 22:17:36 +0000</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Island Rush</title>
+      <link>https://vite-et-reves.com/captains-log/2020-01-01-island-rush/</link>
+      <pubDate>Wed, 01 Jan 2020 22:17:36 +0000</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-01-01-island-rush/</guid>
+      <description>We probably broke our average speed record between La Graciosa and the south of Lanzarote</description>
+    </item>
     
     <item>
       <title>Canary Crossing</title>

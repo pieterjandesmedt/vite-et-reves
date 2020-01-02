@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 13:05:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 22:17:36 +0000</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Island Rush</title>
+      <link>https://vite-et-reves.com/captains-log/2020-01-01-island-rush/</link>
+      <pubDate>Wed, 01 Jan 2020 22:17:36 +0000</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-01-01-island-rush/</guid>
+      <description>We probably broke our average speed record between La Graciosa and the south of Lanzarote</description>
     </item>
     
     <item>
