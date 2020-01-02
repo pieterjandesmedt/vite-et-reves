@@ -38,5 +38,5 @@ You can translate this name as Fast & Dreams, but it's also pronounced the same 
 
 <div class="columns portrait is-multiline">
 	{{< portrait src="IMG_6850.jpg" alt="Mira" >}}
-	<div class="column">Mira is our youngest. 3 years old. Fiery, loud, smart, funny, with a great imagination. Will probably try to startle you or throw one of her cuddly toys at you when you set foot on the boat. Catch this, new friend!</div>
+	<div class="column">Mira is our youngest. 4 years old. Fiery, loud, smart, funny, with a great imagination. Will probably try to startle you or throw one of her cuddly toys at you when you set foot on the boat. Catch this, new friend!</div>
 </div>
