@@ -4,7 +4,7 @@ date: 2019-12-28T19:01:41+01:00
 publishdate: 2019-12-28T19:01:41+01:00
 image: "IMG_8599.jpg"
 author: "Pieter Jan"
-gpx: ""
+gpx: "Navionics_archive_export 49.gpx"
 summary: "We spend two days motoring to Essaouira on a glassy ocean"
 ---
 
