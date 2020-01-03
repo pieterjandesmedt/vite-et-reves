@@ -39,11 +39,11 @@ We sailed into the sunset. I took the night watch as usual. The wind increased a
 
 {{< image src="IMG_8783.jpg" alt="Sunset of the first day of the crossing" ratio="3x2" >}}
 
-In the morning the wind was coming almost from behind us. We switched the code D for the spinnaker and took down the mainsail. We encountered a few big ships on the Spain-Senegal route. We also saw an American military ship doing air exercises in the distance. They asked everybody to give them some space because they couldn't manoever well when the helicopter was trying to land.
+In the morning the wind was coming almost from behind us. We switched the code D for the spinnaker and took down the mainsail. We encountered a few big ships on the Spain-Senegal route. We also saw an American military ship doing air exercises in the distance. They asked everybody to give them some space because they couldn't manoeuvre well while the helicopter was trying to land.
 
 {{< image src="f10137984.jpg" alt="Crossing the Spain-Senegal seaway" ratio="16x9" >}}
 
-But other than that, noting much happened. The wind shifted to southeast, so we gibed the spi to the other side. That was the sailing action of the day. Vite & Rêves continued happily.
+But other than that, nothing much happened. The wind shifted to southeast, so we gibed the spi to the other side. That was the sailing action of the day. Vite & Rêves continued happily.
 
 {{< image src="f10510272.jpg" alt="Reading the last of the 15 Karin Slaughter books" ratio="3x2" >}}
 
