@@ -29,7 +29,7 @@ Once we rounded southern Punta Pechiguera, visibility detoriated somewhat. The w
 
 As we were barreling towards Rubicon Marina at 9 knots, Barbara suddenly noticed a ferry coming straight at us. "Quick, fire a shot across their bow!", she yelled.
 
-For a moment I considered altering course, but nothing I would do would make the situation any safer. I settled on following COLREG rule 18 --- the best rule in my opinion --- _"A power-driven vessel must give way to a sailing vessel"_. After a few tense seconds the ferry made a sharp turn to our stern and passed behind us. Good capt'n!
+For a moment I considered altering course, but nothing I could do would make the situation any safer. I settled on following COLREG rule 18 --- the best rule in my opinion --- _"A power-driven vessel must give way to a sailing vessel"_. After a few tense seconds the ferry made a sharp turn to our stern and passed behind us. Good capt'n!
 
 {{< image src="IMG_8867.jpg" alt="" ratio="3x2" >}}
 
