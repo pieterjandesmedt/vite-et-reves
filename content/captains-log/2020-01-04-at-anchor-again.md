@@ -27,6 +27,6 @@ We left Rubicon Marina in the afternoon after provisioning and motored over to P
 
 {{< image src="IMG_8931.jpg" alt="Sunsets at anchor are the best" ratio="3x2" >}}
 
-I noticed the boat next to us had a Belgian flag. I googled 'Puff sailboat' and found they're also keeping [a blog](https://sypuff.wordpress.com) with their experiences. Kris and Ingrid looked like nice people, so I dingied over for a chat and invited them to Vite & Rêves. They rowed over in the evening after dinner, brought some beers. We had a great evening and a lot of laughts swapping sailing stories and mishaps.
+I noticed the boat next to us had a Belgian flag. I googled 'Puff sailboat' and found they're also keeping [a blog](https://sypuff.wordpress.com) with their experiences. Kris and Ingrid looked like nice people, so I dingied over for a chat and invited them to Vite & Rêves. They rowed over after dinner and brought some beers. We had a great evening and a lot of laughts swapping sailing stories and mishaps.
 
 {{< image src="IMG_8932.jpg" alt="Puff the magic dragon" ratio="3x2" >}}
