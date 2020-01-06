@@ -29,7 +29,8 @@
 	<script src="https://api.mapbox.com/mapbox-gl-js/v1.3.1/mapbox-gl.js"></script>
 	<script type="text/javascript">
 
-		var routeFile = '/route/{{ range (readDir "static/route") }}{{ .Name }}{{ end }}';
+		var routeFiles = '{{ range (readDir "static/route") }}{{ .Name }}|{{ end }}'.split('|').filter(n => n);
+
 		var posts = [
 		{{ range $index, $e := (where .Site.RegularPages.ByTitle "Section" "captains-log" ) }}
 		{{ if $index }}, {{ end }}
