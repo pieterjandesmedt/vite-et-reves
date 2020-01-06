@@ -33,7 +33,7 @@ On top of that was the hydrogenerator now generating so much electricity that th
 
 Time for a sail change. We had crossed the traffic separation system now anyway. I woke Barbara, who was just dreaming about a heavy metal concert, on account of the loud rumbling noise near her head. We waited for a brief lull in wind speed, quickly rolled in the spi and unfurled the normal foresail before Vite & Rêves had time to stop. Our speed dropped to a more reassuring 5 to 6 knots.
 
-The rest of the night was spent in short, dreamful 20 minute naps until we arrived early in the morning at Las Palmas de Gran Canaria.
+The rest of the night was spent in short, dreamful 20 minute naps until we arrived early in the morning at Las Palmas de Gran Canaria. There was no room for us in the marina, so we joined the 20 or so yachts waiting in the bay outside.
 
 {{< image src="IMG_8961.jpg" alt="A lot of big ships anchored in front of the harbor" ratio="3x2" >}}
 
