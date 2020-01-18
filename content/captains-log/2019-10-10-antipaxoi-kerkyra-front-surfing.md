@@ -15,7 +15,7 @@ Our alarm sound of this morning was a gentle grating of our boat against the anc
 
 When I came on deck, I saw the other captain trying to stare me to death. We had three options: shorten our chain, reanchor or leave. Barbara said, "If we reanchor we're gonna be wide awake anyway. The wind is good. Let's just go."
 
-We pulled in the anchor, deployed the Code D and sailed off. Barbara gave a little wave to the grumpy captain. He didn't wave back.
+We pulled in the anchor, deployed the Code D and sailed off. Barbara gave a little wave to the grumpy captain, who was still busy giving us the death stare. He didn't wave back.
 
 {{< two-images src1="IMG_7288.jpg" alt1="Slowly waking up" src2="IMG_7291.jpg" alt2="Tea for breakfast" >}}
 

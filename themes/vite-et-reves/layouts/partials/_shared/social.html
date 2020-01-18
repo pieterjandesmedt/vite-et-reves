@@ -1,4 +1,7 @@
 <section class="follow-us">
+	{{ with .Site.Params.social.noforeignland }}
+		<a href="https://www.noforeignland.com/boat/{{ . }}" class="icon icon-compass" target="_blank"></a>
+	{{ end }}
 	{{ with .Site.Params.social.youtube }}
 		<a href="https://www.youtube.com/channel/{{ . }}" class="icon icon-youtube-play" target="_blank"></a>
 	{{ end }}

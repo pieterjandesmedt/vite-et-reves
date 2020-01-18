@@ -12,7 +12,19 @@ summary: "We're stuck in Tangier because of the wind but we're enjoying the vaca
 
 We're stuck in Tangier because of the wind. Some December storms are coming along and they're bringing strong southwestern winds, the direction we want to go. So we're still taking it easy here.
 
-The days are melting into one another, the way they do when you're on vacation. "What day is it today?" "No idea, Wednesday maybe?" We do make a distinction between _Rainyday_ and _Sunnyday_. Luckily the latter prevails.
+The days are melting into one another, the way they do when you're on vacation.
+
+> "What day is it today?"
+
+> "No idea, Wednesday maybe?"
+
+> "I think it's Saturday."
+
+> "Want me to check?"
+
+> "_Nah..._"
+
+We do make a distinction between _Rainyday_ and _Sunnyday_. Luckily the latter prevails.
 
 We read a lot, I play the piano, we watch series and movies. The kids are playing with legos and playmobil or take the dingy out for a ride in the harbor.
 

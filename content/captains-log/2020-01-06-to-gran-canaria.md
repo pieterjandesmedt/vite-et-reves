@@ -27,7 +27,11 @@ The sun went down and the wind picked up to a decent 10 knots. Vite & Rêves con
 
 Around 2:30 the wind picked up a notch. It was now consistently over 15 knots and Vite & Rêves was flying at 8 to 10 knots. We were just crossing a traffic separation system, so the extra speed was welcome, but blasting through the night at 10 knots on spinnaker alone was a bit perturbing. 15 knots apparent wind from behind plus 10 knots of boat equals 25 knots of true wind speed.
 
-I checked the boat manual. _"The maximum speed for which the spinnaker is designed is 20 knots apparent, but anything above 15 knots is considered sporty sailing."_ I don't consider myself a sporty sailor, especially not at night.
+I checked the boat manual.
+
+> _"The maximum speed for which the spinnaker is designed is 20 knots apparent, but anything above 15 knots is considered sporty sailing."_
+
+I don't consider myself a sporty sailor, especially not at night.
 
 On top of that was the hydrogenerator now generating so much electricity that the batteries couldn't absorb it anymore. When this happens, the generator starts to freewheel, which produces a low rumbling sound throughout the boat.
 

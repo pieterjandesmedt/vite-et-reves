@@ -33,9 +33,29 @@ And it was quiet, like a ghost ship. I couldn't see what I was dealing with, but
 
 My mind was racing. I paid my taxes, right? I took the wind out of the sails to slow us down. I went inside to get the radio and tried to hail them. "Guardia Finanza, this is sailing vessel Vite & Rêves". No answer. I tried with another radio. No answer. Just the boat silently following at 10 meter distance with a blinding searchlight in my face. It was spooky.
 
-The blue flashing lights came on. Luckily, Barbara had waken up by then. I called her outside. With her by my side, I always look less like a criminal. Seeing Barbara seemed to convince the Guardia that I was not dangerous. A guy came out and shouted: "How many people on board?" "Us two and our three children!" "Three children?!" "Yes, _our_ children!"
+The blue flashing lights came on. Luckily, Barbara had waken up by then. I called her outside. With her by my side, I always look less like a criminal. Seeing Barbara seemed to convince the Guardia that I was not dangerous. A guy came out and shouted: "How many people on board?"
 
-A brief pause. "Where do you come from?" "Le Castella this morning!" "Where are you going?" "Sicily!" Pause. "Okay, goodnight!" And they were off.
+> "Us two and our three children!"
+
+> "Three children?!"
+
+> "Yes, _our_ children!"
+
+A brief pause.
+
+> "Where do you come from?"
+
+> "Le Castella this morning."
+
+> "Where are you going?"
+
+> "Sicily."
+
+Pause.
+
+> "Okay, goodnight!"
+
+And they were off.
 
 "Well that was weird," I said to Barbara, "glad you came outside at the right time." "They probably thought we were smugglers or traffickers." Can't people sail unsuspectedly at night anymore?
 

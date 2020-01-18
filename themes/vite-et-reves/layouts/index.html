@@ -37,6 +37,8 @@
 		</section>
 		{{ end }}
 
+		{{- partial "_shared/social.html" . -}}
+
 		{{ $section := where .Site.RegularPages "Section" "in" (slice "captains-log" "first-mates-log") }}
 		<section class="recent-posts">
 			<div class="row listrecent">
@@ -49,7 +51,6 @@
 		{{- partial "list-partials/pagination.html" $post_paginator -}}
 
     </div>
-    {{- partial "_shared/social.html" . -}}
 {{end}}
 
 {{ define "footer" }}

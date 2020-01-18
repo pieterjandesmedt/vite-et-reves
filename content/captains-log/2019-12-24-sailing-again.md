@@ -31,7 +31,13 @@ Barbara went to sleep as I took the night watch. Around 4:00 I thought I heard s
 
 Around 6:00 we sailed into a thick fog bank. Visibility was reduced to 50 meters. "Well, so much for checking for fishing boats," I thought and went back to a 30 minute nap. What can you do?
 
-The wind fell away around 7:00. Barbara woke and we turned on the engines. "How do you watch out for fishing boats in this fog?" "I don't" "_Okay..._"
+The wind fell away around 7:00. Barbara woke and we turned on the engines.
+
+> "How do you watch out for fishing boats in this fog?"
+
+> "I don't."
+
+> "_Okay..._"
 
 {{< image src="IMG_8400.jpg" alt="Sunrise above Morocco" ratio="3x2" >}}
 

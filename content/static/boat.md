@@ -4,17 +4,15 @@ date: 2019-07-28T18:05:15+02:00
 weight: 3
 ---
 
-> Sailing  the  Catana  401  shows  her  to  be  very fast  with  frank  accelerations.  She  is  easy  to handle, both  under  sail  and with  motors. The gentle steering and comfort make it possible to be at  the  helm for long hours  without  fatigue. Unquestionably, this boat is very lively, efficient and safe.
+> _Sailing  the  Catana  401  shows  her  to  be  very fast  with  frank  accelerations.  She  is  easy  to handle, both  under  sail  and with  motors. The gentle steering and comfort make it possible to be at  the  helm for long hours  without  fatigue. Unquestionably, this boat is very lively, efficient and safe._
 
 &mdash; from MultihullsWorld's [Catana 401 Review](/documents/Catana401.pdf)
-
-<br />
 
 Vite & Rêves may have permanently damaged my ability to enjoy other sailboats. She's that good. I was used to sailing in monohulls. Vite & Rêves is the second catamaran I ever set foot on in my life. I'm never looking back.
 
 Vite & Rêves is fast, safe and very comfortable. Her 2 meter long daggerboards can make her go to 30 degrees to the apparent wind. This is excellent even by performance monohull standards. With the daggerboards up, she draws only 70cm (2.3ft), so practically every marina, bay and beach is accessible.
 
-She's faster than any boat her length and leaves even much longer monohulls in her wake. The theoretical maximum boat speed of a 40 footer is 8 knots. This is Vite & Rêves' minimum speed as soon as the wind picks up a bit. The maximum speed we did was 14 knots. The maximum speed on the speed log is 24 knots. And she sails safe and comfortably, even at those speeds.
+She's faster than any boat her length and leaves even much longer monohulls in her wake. The theoretical maximum boat speed of a 40 footer is 8 knots. This is Vite & Rêves' minimum speed as soon as the wind picks up a bit. The maximum speed we did was 14 knots. The maximum speed on the speed log is 24 knots. And she sails safely and comfortably, even at those speeds.
 
 All her systems are kept very simple and maintainable. All the lines go back to the cockpit. Hoisting the mainsail and reefing is child's play. She's easy to sail single-handedly, a big plus when you have 3 kids on board. Her double mainsheet system forgives most mistakes. If things break, repair is usually doable with your own hands, some chewing gum and a paperclip.
 

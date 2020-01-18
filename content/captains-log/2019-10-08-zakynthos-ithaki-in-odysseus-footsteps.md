@@ -11,9 +11,17 @@ summary: "We discovered the palace of Odysseus on the island of Ithaki after a v
 `From: Agios Nikolaos, Zakynthos island, Greece`<br/>
 `To: Polis bay, Ithaki island, Greece`
 
-On a boat, every day you wake up with different sounds. Sometimes it's the gentle lapping of waves on the hull. Sometimes it's the faraway surf crashing on the beach. Or crickets in the nearby woods. This morning, 8 AM, it was a guy hitting the hull with a paddle and yelling.
+On a boat, every day you wake up with different sounds. Sometimes it's the gentle lapping of waves on the hull. Sometimes it's the faraway surf crashing on the beach. Or crickets in the nearby woods. This morning, 8 AM, it was a guy in a kayak hitting the hull with a paddle and yelling.
 
-"HEY! HEY YOU! THIS IS _MY_ BUOY!! This is a private mooring! My boat is coming in 10 minutes!!" "What the hell are you doing on a kayak then", I thought but I said: "Alright alright, we're going." "YOU GO NOW MY BOAT IS COMING!" "Yes, I _said_ I was going." I guess he was one of the rare inhospitable Greeks.
+> "HEY! HEY YOU! THIS IS _MY_ BUOY!! This is a private mooring! My boat is coming in 10 minutes!!"
+
+> "Sir, you're in a kayak, your boat is under you."
+
+> "YOU GO NOW MY BOAT IS COMING!"
+
+> "Alright, I'm going, we're going."
+
+I guess he is one of the rare inhospitable Greeks.
 
 We started the engines, untangled the triple backup lines and left. The whole time the guy was paddling around watching our every move.
 

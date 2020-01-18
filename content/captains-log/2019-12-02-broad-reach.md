@@ -39,7 +39,7 @@ Not so on Vite & Rêves. Her double main sheets always catch the boom before it 
 
 We did a third gibe, intentionally this time, around Cabo de Gata, and sped on in a straight line to Almeria harbor. By now it was dark. The moon was too small to penetrate the thick cloud cover. It started to rain. Then a thunderstorm crept up from behind us. I never looked at it, instead kept my eyes on the Almeria city lights in the distance. If nothing else works, a total unwillingness to look facts in the face will see us through. Vite & Rêves lived up to her name and outran the thunderstorm. It rumbled in frustration and electrocuted a few sardines.
 
-On our arrival in Almeria, around 0:30, it started raining harder and harder. We tried the marina. A guy came out in his car and yelled at us _"No es posible! Something something catamarán"_. I pointed at a spot that was obviously big enough to hold our _catamarán_. _"No es posible!"_
+On our arrival in Almeria, around 0:30, it started raining harder and harder. We tried the marina. A guy came out in his car and yelled at us: _"No es posible! Something something catamarán"_. I pointed at a spot that was obviously big enough to hold our _catamarán_. _"No es posible!"_
 
 Dejected, we exited the marina and tried to anchor next to it. But the place was too deep, too narrow and our anchor didn't take hold. I didn't want to take any chances with the storm coming and after 3 tries I said: "Screw this, I'm tired of this situation. I'm tying off to the forking fuel dock. Funk it." I may have used slightly stronger language. By now the rain was bucketing down.
 

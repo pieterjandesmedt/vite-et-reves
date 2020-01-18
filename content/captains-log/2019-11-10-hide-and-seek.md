@@ -15,9 +15,17 @@ We had a lazy morning inside the boat. It was raining and cold outside, so we el
 
 Around noon, it started to clear up a bit. Suddenly, we heard a loud knocking on the hull. When somebody knocks on the hull here, it's usually not a good sign. I stuck my head outside.
 
-"Sir! You cannot anchor here!" "Really? My charts say I can from November to April" "No sir, it's protected here because of the sea grass." Wait what? The obnoxious weed that gets in the way of every good anchor spot is actually protected? Turns out _Posidonia oceanica_ and the common cruiser have the same habitat: shallow bays in the Mediterranean. Around here, the grass gets precedence.
+> "Sir! You cannot anchor here!"
 
-"You can go to the other side of the bay, anchor in sand." Thanks but no thanks, Señor Seagrass. The other side of the bay is too narrow and exposed to swell. We'll be on our way.
+> "Really? My charts say I can from November to April"
+
+> "No sir, it's protected here because of the sea grass."
+
+Wait what? The obnoxious weed that gets in the way of every good anchor spot is actually protected? Turns out _Posidonia oceanica_ and the common cruiser have the same habitat: shallow bays in the Mediterranean. Around here, the grass gets precedence.
+
+> "You can go to the other side of the bay, anchor in sand."
+
+Thanks but no thanks, Señor Seagrass. The other side of the bay is too narrow and exposed to swell. We'll be on our way.
 
 I cut two new genua sheets from a big reel of dyneema that the previous owner had left on the boat (thanks!) and off we went.
 
