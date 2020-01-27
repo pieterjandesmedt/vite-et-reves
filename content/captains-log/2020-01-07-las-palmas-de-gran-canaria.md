@@ -2,10 +2,10 @@
 title: "Las Palmas"
 date: 2020-01-07T22:57:39Z
 publishdate: 2020-01-07T22:57:39Z
-image: ""
+image: "IMG_8965.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: ""
+summary: "We encounter the slowest marina officials to date in Las Palmas."
 ---
 
 `At: Las Palmas, Gran Canaria, Canary Islands`
@@ -28,6 +28,8 @@ I explained we arrived the day before and were waiting in the bay, and if there 
 
 > "Ok, but I only want to stay a couple of days."
 
+The guy looked at Andreas and Helder, who used their most convincing puppy eyes.
+
 > "Oh, only a couple of days, why didn't you say so? We have room for you for a couple of days."
 
 How these people are still in business I will never know.
@@ -41,3 +43,8 @@ How these people are still in business I will never know.
 Now I know how they are still in business. On the way out I overheard someone saying he had been waiting in the bay for a week. Easy money.
 
 I brought Vite & Rêves to the reception pier and went in again. I spent more than an hour in what must be the slowest check-in to this day. Morocco was lighting fast compared to these guys. In the end they informed me that they had no room in the marina. I needed to go to the marina next door.
+
+{{< image src="DJI_0820.jpg" alt="Vite & Rêves from the air" ratio="16x9" >}}
+
+{{< image src="IMG_8965.jpg" alt="Vite & Rêves in Vela Latina marina" ratio="3x2" >}}
+

@@ -18,3 +18,5 @@ We're out of internet data because of a slight miscalculation at our arrival in 
 We're starting our journey to Cape Verde today. We hope to arrive in a bit less than a week, so no updates until then.
 
 See you next week!
+
+_EDIT: We arrived safely in Mindelo on São Vicente! More details about the passage will follow soon!_
