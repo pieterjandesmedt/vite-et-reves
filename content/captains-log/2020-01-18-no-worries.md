@@ -6,6 +6,7 @@ image: ""
 author: "Pieter Jan"
 gpx: ""
 summary: ""
+draft: true
 ---
 
 `From: Las Palmas, Gran Canaria, Canary Islands`<br/>
