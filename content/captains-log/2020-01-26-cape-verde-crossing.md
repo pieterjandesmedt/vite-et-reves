@@ -1,15 +1,15 @@
 ---
-title: "Cape Verde Crossing"
+title: "Cabo Verde Crossing"
 date: 2020-01-22T10:09:12Z
 publishdate: 2020-01-22T10:09:12Z
 image: "DSC04368.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 55.gpx"
-summary: "We cross from the Canary Islands to Cape Verde."
+summary: "We cross from the Canary Islands to Cabo Verde."
 ---
 
 `From: Las Palmas, Gran Canaria, Canary Islands`<br/>
-`To: Mindelo, São Antão, Cape Verde`
+`To: Mindelo, São Antão, Cabo Verde`
 
 #### 2020-01-18
 
