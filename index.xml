@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Tue, 28 Jan 2020 10:37:02 -0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 20:04:03 -0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>São Pedro Bay</title>
+      <link>https://vite-et-reves.com/captains-log/2020-02-02-sao-pedro-bay/</link>
+      <pubDate>Mon, 03 Feb 2020 20:04:03 -0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-02-02-sao-pedro-bay/</guid>
+      <description>We anchor in a beautiful bay and are astonished by the local wildlife.</description>
+    </item>
+    
+    <item>
       <title>Mindelo</title>
       <link>https://vite-et-reves.com/captains-log/2020-01-28-mindelo/</link>
       <pubDate>Tue, 28 Jan 2020 10:37:02 -0100</pubDate>
@@ -49,12 +58,12 @@
     </item>
     
     <item>
-      <title>Cape Verde Crossing</title>
+      <title>Cabo Verde Crossing</title>
       <link>https://vite-et-reves.com/captains-log/2020-01-26-cape-verde-crossing/</link>
       <pubDate>Wed, 22 Jan 2020 10:09:12 +0000</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2020-01-26-cape-verde-crossing/</guid>
-      <description>We cross from the Canary Islands to Cape Verde.</description>
+      <description>We cross from the Canary Islands to Cabo Verde.</description>
     </item>
     
     <item>
