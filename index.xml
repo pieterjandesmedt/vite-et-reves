@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Fri, 07 Feb 2020 10:13:22 -0100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 16:35:30 -0100</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,13 +40,31 @@
     </item>
     
     <item>
-      <title>About to Cross the Atlantic</title>
-      <link>https://vite-et-reves.com/captains-log/2020-02-07-about-to-cross-the-atlantic/</link>
-      <pubDate>Fri, 07 Feb 2020 10:13:22 -0100</pubDate>
+      <title>Scarborough</title>
+      <link>https://vite-et-reves.com/captains-log/2020-02-24-scarborough/</link>
+      <pubDate>Mon, 24 Feb 2020 16:35:30 -0100</pubDate>
       
-      <guid>https://vite-et-reves.com/captains-log/2020-02-07-about-to-cross-the-atlantic/</guid>
-      <description>From: Mindelo, São Vicente, Cabo Verde To: ?, Caribbean Sea
-We&amp;rsquo;re going to cross the Atlantic Ocean. It&amp;rsquo;s happening! See you in 2 to 3 weeks, dear reader.</description>
+      <guid>https://vite-et-reves.com/captains-log/2020-02-24-scarborough/</guid>
+      <description>From: Charlotteville, Tobago To: Scarborough, Tobago
+Today, we wanted to go to Scarborough, to check out the carnival. Carnival is a big deal around here, probably the most important holiday of the year.</description>
+    </item>
+    
+    <item>
+      <title>Charlotteville</title>
+      <link>https://vite-et-reves.com/captains-log/2020-02-23-charlotteville/</link>
+      <pubDate>Sun, 23 Feb 2020 21:13:09 -0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-02-23-charlotteville/</guid>
+      <description>We clear in into Tobago and explore the offbeat village of Charlotteville.</description>
+    </item>
+    
+    <item>
+      <title>Across the Atlantic Ocean</title>
+      <link>https://vite-et-reves.com/captains-log/2020-02-23-across-the-atlantic-ocean/</link>
+      <pubDate>Sun, 23 Feb 2020 11:30:18 -0100</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-02-23-across-the-atlantic-ocean/</guid>
+      <description>We cross the Atlantic Ocean</description>
     </item>
     
     <item>
