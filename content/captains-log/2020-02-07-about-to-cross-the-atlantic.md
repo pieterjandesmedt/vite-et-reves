@@ -6,6 +6,7 @@ image: ""
 author: "Pieter Jan"
 gpx: ""
 summary: ""
+draft: true
 ---
 
 `From: Mindelo, São Vicente, Cabo Verde`<br/>
