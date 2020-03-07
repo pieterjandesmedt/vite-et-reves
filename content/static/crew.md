@@ -28,7 +28,7 @@ You can translate this name as Fast & Dreams, but it's also pronounced the same 
 
 <div class="columns portrait is-multiline">
 	{{< portrait src="IMG_6991.jpg" alt="Andreas" >}}
-	<div class="column">Andreas is our eldest son. 8 years old, endlessly inquisitive, will take nothing at face value, a joker and a storyteller, likes to learn and show off his knowledge. Keeps us on our toes and makes sure we triple-check our explanations, because he will catch any logical error.</div>
+	<div class="column">Andreas is our eldest son. 9 years old, endlessly inquisitive, will take nothing at face value, a joker and a storyteller, likes to learn and show off his knowledge. Keeps us on our toes and makes sure we triple-check our explanations, because he will catch any logical error.</div>
 </div>
 
 <div class="columns portrait is-multiline">
@@ -40,3 +40,5 @@ You can translate this name as Fast & Dreams, but it's also pronounced the same 
 	{{< portrait src="IMG_6850.jpg" alt="Mira" >}}
 	<div class="column">Mira is our youngest. 4 years old. Fiery, loud, smart, funny, with a great imagination. Will probably try to startle you or throw one of her cuddly toys at you when you set foot on the boat. Catch this, new friend!</div>
 </div>
+
+{{< image src="vlcsnap-2020-03-07-14h30m38s368.jpg" alt="Sunset on São Pedro beach, São Vicente, Cabo Verde" ratio="21x9" >}}
