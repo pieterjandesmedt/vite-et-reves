@@ -2,10 +2,10 @@
 title: "Buccoo Reef"
 date: 2020-03-07T17:42:28-04:00
 publishdate: 2020-03-07T17:42:28-04:00
-image: ""
+image: "vlcsnap-2020-03-07-16h53m39s548.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 68.gpx"
-summary: ""
+summary: "We visit the now very dead Buccoo Reef, to our great disappointment"
 ---
 
 `From: Buccoo, Tobago`<br/>
