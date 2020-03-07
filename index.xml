@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Mon, 24 Feb 2020 16:35:30 -0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 17:42:28 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,25 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Buccoo Reef</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-04-buccoo-reef/</link>
+      <pubDate>Sat, 07 Mar 2020 17:42:28 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-04-buccoo-reef/</guid>
+      <description>From: Buccoo, Tobago To: Pigeon Point, Tobago
+We wanted to go snorkeling on the Buccoo Reef, so we moved the boat to Pigeon Point on the other side of the reef, close to one of its entrances.</description>
+    </item>
+    
+    <item>
+      <title>Buccoo</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-01-buccoo/</link>
+      <pubDate>Sun, 01 Mar 2020 16:18:14 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-01-buccoo/</guid>
+      <description>We sail south to meet up with Hannah and Antoine in Buccoo</description>
     </item>
     
     <item>
