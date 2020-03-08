@@ -23,7 +23,7 @@ We arrived in the late afternoon, anchored without a problem in the sandy bottom
 
 Next morning, Antoine's excited shouts woke me up: "Manta ray!!!" A curious manta ray, about 3 meters wingspan, was slowly gliding around Vite & Rêves --- no doubt checking out her gracious curves. She made a few elegant turns and our morning.
 
-In the afternoon we went to the beach. The surf was quite heavy, but with the right timing and a bit of luck we surfed onto the sand. Everybody was so excited by the more or less dry landing that we forget about the next wave. It filled the dingy about five seconds later. We were thoroughly soaked.
+In the afternoon we went to the beach. The surf was quite heavy, but with the right timing and a bit of luck we surfed onto the sand. Everybody was so excited by the more or less dry landing that we forgot about the next wave, which filled the dingy about five seconds later. We got thoroughly soaked.
 
 {{< two-images src1="DSC03625.jpg" alt1="Helder really enjoys outrunning the waves" ratio1="2x3" src2="IMG_9167_1.jpg" alt2="Back in time for the non-hazy sunset today" ratio2="2x3" >}}
 
