@@ -12,12 +12,22 @@ weight: 1
 
 ### Next up
 
-##### January
+##### March
 
-- Canary Islands
-- Cape Verde
+- Grenada
+- St. Vincent and the Grenadines
+- St. Lucia
+- Martinique
 
-##### February
+##### April
 
-- Atlantic Crossing
-- Grenada and the Grenadines
+- Dominica
+- Guadeloupe
+- Virgin Islands
+
+##### May
+
+- Puerto Rico
+- Dominican Republic
+- Jamaica
+
