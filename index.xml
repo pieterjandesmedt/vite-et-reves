@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sun, 08 Mar 2020 14:42:16 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 14:22:45 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,26 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Immigration Blues</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-10-immigration-blues/</link>
+      <pubDate>Sat, 14 Mar 2020 14:22:45 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-10-immigration-blues/</guid>
+      <description>From: Woburn Bay, Grenada To: Le Phare Blue marina, Grenada
+We really needed to clear in to Grenada, so we moved the boat to the Phare Blue marina on Monday.</description>
+    </item>
+    
+    <item>
+      <title>Saint George</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-12-saint-george/</link>
+      <pubDate>Thu, 12 Mar 2020 11:46:57 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-12-saint-george/</guid>
+      <description>From: Le Phare Blue Marina, Grenada To: Saint George, Grenada
+    </description>
     </item>
     
     <item>
