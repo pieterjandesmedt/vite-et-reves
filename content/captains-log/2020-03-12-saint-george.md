@@ -6,6 +6,7 @@ image: ""
 author: "Pieter Jan"
 gpx: ""
 summary: ""
+draft: true
 ---
 
 `From: Le Phare Blue Marina, Grenada`<br/>

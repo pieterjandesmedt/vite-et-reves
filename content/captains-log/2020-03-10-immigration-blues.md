@@ -1,11 +1,11 @@
 ---
 title: "Immigration Blues"
-date: 2020-03-14T14:22:45-04:00
-publishdate: 2020-03-14T14:22:45-04:00
-image: ""
+date: 2020-03-10T14:22:45-04:00
+publishdate: 2020-03-10T14:22:45-04:00
+image: "4968572_18051201220065372966.jpg"
 author: "Pieter Jan"
-gpx: ""
-summary: ""
+gpx: "Navionics_archive_export 73.gpx"
+summary: "Immigration in Grenada proves to be a bit of an ordeal."
 ---
 
 `From: Woburn Bay, Grenada`<br/>
