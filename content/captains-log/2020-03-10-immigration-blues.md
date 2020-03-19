@@ -107,6 +107,8 @@ I went to the bar to exchange EC$20.
 
 _P.S. Le Phare Blue is a nice marina, if a little expensive. It has a pool, hot showers and the Tropical Fever bar has great cocktails and tasty food. We stayed for a few days._
 
+{{< two-images src1="f18f8775-4ae3-42e1-a97a-74701fc3ec51.jpg" alt1="Enjoying cocktails..." ratio1="1x1" src2="IMG_7488.jpg" alt2="...in the pool" ratio2="1x1" >}}
+
 {{< image src="le-phare-bleu-3.jpeg" alt="Tropical Fever bar" ratio="3x2" >}}
 
 {{< image src="4968572_18051201220065372966.jpg" alt="The Phare Blue lightship" ratio="3x2" >}}
