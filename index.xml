@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Thu, 12 Mar 2020 11:46:57 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 11:52:42 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Grand Anse Bay</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-14-grand-anse-bay/</link>
+      <pubDate>Sat, 14 Mar 2020 11:52:42 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-14-grand-anse-bay/</guid>
+      <description>We move the boat out of the marina to Grand Anse Bay.</description>
     </item>
     
     <item>

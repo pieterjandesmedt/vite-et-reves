@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Thu, 12 Mar 2020 11:46:57 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 11:52:42 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grand Anse Bay</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-14-grand-anse-bay/</link>
+      <pubDate>Sat, 14 Mar 2020 11:52:42 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-14-grand-anse-bay/</guid>
+      <description>We move the boat out of the marina to Grand Anse Bay.</description>
+    </item>
     
     <item>
       <title>Saint George</title>
