@@ -13,7 +13,7 @@ summary: "Immigration in Grenada proves to be a bit of an ordeal."
 
 We really needed to clear in to Grenada, so we moved the boat to the Phare Blue marina on Monday. Navionics warned me about Customs and Immigration in Phare Blue: _"Very lazy workers. I was fined EC$ 700 (about €250) for late check in. Hateful people work here."_ Full of trepidation, I went to the office. By the time I got to the office though, Immigration had left the building. Granted, it _was_ 15:55. Then again, opening hours where nowhere to be seen.
 
-The customs officer didn't seem too chuffed at my late arrival. Even though the stickers on the door proudly proclaimed "We accept Visa and Mastercard", the officer did not. He would only accept cash.
+The customs officer didn't seem too chuffed with my late arrival. Even though the stickers on the door proudly proclaimed "We accept Visa and Mastercard", the officer did not. He would only accept cash.
 
 > "I don't have cash."
 
