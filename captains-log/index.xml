@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Tue, 10 Mar 2020 14:22:45 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 11:46:57 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Saint George</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-12-saint-george/</link>
+      <pubDate>Thu, 12 Mar 2020 11:46:57 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-12-saint-george/</guid>
+      <description>We sail with the Parents around the southern part of the island to Saint George.</description>
+    </item>
     
     <item>
       <title>Immigration Blues</title>
