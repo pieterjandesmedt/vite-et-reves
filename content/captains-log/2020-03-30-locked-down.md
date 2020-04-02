@@ -47,4 +47,4 @@ Rookie mistake.
 
 We sailed on to Gouyave, where we anchored in a large patch of sand in clear water, a little way from the village. Close to the shore, but very quiet.
 
-By the evening, the back of my legs were an interesting shade of purple. I had my dinner standing up.
+By the evening, the back of my legs was an interesting shade of purple. I had my dinner standing up.
