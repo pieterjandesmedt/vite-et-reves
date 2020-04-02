@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 10:20:04 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 11:14:41 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Living statues</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-30-locked-down/</link>
+      <pubDate>Mon, 30 Mar 2020 11:14:41 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-30-locked-down/</guid>
+      <description>We try to escape the St. George lockdown and sail to Gouyave.</description>
     </item>
     
     <item>

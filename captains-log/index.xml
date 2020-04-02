@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 10:20:04 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 11:14:41 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Living statues</title>
+      <link>https://vite-et-reves.com/captains-log/2020-03-30-locked-down/</link>
+      <pubDate>Mon, 30 Mar 2020 11:14:41 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-03-30-locked-down/</guid>
+      <description>We try to escape the St. George lockdown and sail to Gouyave.</description>
+    </item>
     
     <item>
       <title>Virus vexation</title>
