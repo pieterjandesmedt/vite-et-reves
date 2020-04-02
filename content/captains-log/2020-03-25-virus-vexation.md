@@ -8,8 +8,7 @@ gpx: ""
 summary: "In which a coronavirus makes it very difficult for the Parents to get back home."
 ---
 
-`From: St. George, Grenada`<br/>
-`To: Gouyave, Grenada`
+`At: St. George, Grenada`
 
 For those who thought we have succumbed to Covid19, fear not! All is well. But it was an enormous hassle to get the Parents back home, amidst panicking governments and bumbling travel agencies. There will be some stern naming and shaming in the following paragraphs.
 
@@ -19,7 +18,7 @@ When the idiot Trump uselessly decided that no foreigner could enter 'Murica ---
 
 At Connections, they said: "We can't help you. Book another flight through British Airways (€3000+)." At American Airlines, they said: "Sorry, nothing we can do. The POTUS, in his infinity idiocy, has spoken." Embassies and consulates were called. Some said, "It's not going to be a problem." Others said, "Yeah, this is going to be a problem."
 
-We found another flight on Tuesday morning via Barbados through Toronto to London. On Sunday we heard that Grenada would close its airport on Monday evening. We jumped on a bus to the airport --- an adventure in itself for the Parents, who are use to taking a taxi. We had the ticket changed to Monday without hassle. Do use LIAT airlines when in the Caribbean. They're friendly and understanding (though their website sucks doggie balls and will leave you hanging after you think you bought tickets).
+We found another flight on Tuesday morning via Barbados through Toronto to London. On Sunday we heard that Grenada would close its airport on Monday evening. We jumped on a bus to the airport --- an adventure in itself for the Parents, who are used to taking a taxi. We had the ticket changed to Monday without hassle. Do use LIAT airlines when in the Caribbean. They're friendly and understanding (though their website sucks doggie balls and will leave you hanging after you think you bought tickets).
 
 I booked a place via AirBnb for them to spend a night on Barbados. The owner didn't want to meet them in person because of the virus scare and directed the taxi driver to a place that was not at all like the ad. My Parents wisely refused the shady 'alternative' and went to a hotel.
 
