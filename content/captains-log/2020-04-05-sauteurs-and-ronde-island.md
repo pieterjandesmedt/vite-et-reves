@@ -1,0 +1,50 @@
+---
+title: "Sauteurs"
+date: 2020-04-04T20:43:42-04:00
+publishdate: 2020-04-04T20:43:42-04:00
+image: "IMG_4643.jpg"
+author: "Pieter Jan"
+gpx: "Navionics_archive_export 78.gpx"
+summary: "We try to get water in Sauteurs."
+---
+
+`From: Duquesne Bay, Grenada`<br/>
+`To: Sauteurs, Grenada`
+
+We left Duquesne Bay to go to Sauteurs, around the corner. Just 3 miles away and against the wind, so we didn't bother with the sails. We'd try to get water and some food. The curfew rules mentioned that you can only go shopping on 'grocery days', but nowhere is mentioned what grocery days are exactly. Every day except Sunday, was my best guess.
+
+{{< image src="IMG_9834.jpg" alt="Leaving Duquesne Bay" ratio="16x9" >}}
+
+As we were anchoring in front of Sauteurs, I saw a few policemen standing next to the pier, keeping a close eye on our maneuvers. But they had disappeared by the time I got the dinghy and our papers ready.
+
+I went into the town. It was completely deserted. No one on the streets, except the village madman, who was making birds-like sounds to himself.
+
+I walked down the main street. The village madman started following me at a distance. "Coooo. Cooooooooooooo. Hubbadubbadubbadubba. Coooooooo!" It reminded me of that zombie series, The Walking Dead.
+
+I checked the opening hours of the main store: 9am to 4pm. Strange. It should be open but it was closed. A jeep with 6 passengers stopped next to me and everyone got out. A policeman, a woman in camouflage clothing (military?), two traffic wardens and two people whose function was not immediately clear to me. The driver stayed put. "Exemplary social distancing," I thought, but I took out my papers.
+
+The military woman donned a surgical mask and gloves and proceeded to check my papers and ask questions. As usual, they relaxed when I explained we were in Grenada for almost a month. By now, the village idiot had joined the little party and was following the conversation, cooing softly every now and again. She asked what I was doing on the street.
+
+> "Well, I was hoping to get some groceries. And water, we're almost out of water on the boat."
+
+> "You can't be on the streets except on grocery days." ("Coooooooo")
+
+> "Oh. What are grocery days?"
+
+> "Monday, Wednesday and Friday." ("Hubbadubbadubba")
+
+> "I didn't know that. I guess we and our _three young children_ can make the little water we have last 'til Monday..."
+
+I used my most convincing puppy eyes. They consulted amongst one another. Then the policeman said: "We'll call somebody to sell you water." Score!
+
+In the end, they opened a whole grocery store for me. Very thirsty by now, I bought 30 liters of water and various other drinks. The policemen used the opportunity to do some shopping themselves.
+
+> "You're a very lucky man," they said.
+
+> "Yes, thank you so much for opening the store."
+
+> "Ah, that's just who we are."
+
+The shop owner drove me and my heavy shopping back to the pier. When I told them we came all the way from Greece, he looked at me as if I was mad. Sail for over 10.000 km to come to this village and drag shopping bags around? I guess there are saner things to do with your life.
+
+{{< image src="IMG_4643.jpg" alt="Vite & Rêves anchored in Sauteurs Bay" ratio="16x9" >}}
