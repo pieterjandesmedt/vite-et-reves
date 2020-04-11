@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Fri, 03 Apr 2020 12:35:13 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 20:43:42 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sauteurs</title>
+      <link>https://vite-et-reves.com/captains-log/2020-04-05-sauteurs-and-ronde-island/</link>
+      <pubDate>Sat, 04 Apr 2020 20:43:42 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-04-05-sauteurs-and-ronde-island/</guid>
+      <description>We try to get water in Sauteurs.</description>
+    </item>
     
     <item>
       <title>Duquesne Bay</title>

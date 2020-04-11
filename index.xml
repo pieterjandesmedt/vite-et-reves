@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Fri, 03 Apr 2020 12:35:13 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 20:43:42 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,15 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Sauteurs</title>
+      <link>https://vite-et-reves.com/captains-log/2020-04-05-sauteurs-and-ronde-island/</link>
+      <pubDate>Sat, 04 Apr 2020 20:43:42 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-04-05-sauteurs-and-ronde-island/</guid>
+      <description>We try to get water in Sauteurs.</description>
     </item>
     
     <item>
