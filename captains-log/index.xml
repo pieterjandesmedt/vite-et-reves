@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sat, 04 Apr 2020 20:43:42 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 20:49:14 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Ronde Island</title>
+      <link>https://vite-et-reves.com/captains-log/2020-04-05-ronde-island/</link>
+      <pubDate>Sun, 05 Apr 2020 20:49:14 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-04-05-ronde-island/</guid>
+      <description>We find a quiet beach to ourselves at Ronde Island.</description>
+    </item>
+    
+    <item>
       <title>Sauteurs</title>
-      <link>https://vite-et-reves.com/captains-log/2020-04-05-sauteurs-and-ronde-island/</link>
+      <link>https://vite-et-reves.com/captains-log/2020-04-04-sauteurs/</link>
       <pubDate>Sat, 04 Apr 2020 20:43:42 -0400</pubDate>
       
-      <guid>https://vite-et-reves.com/captains-log/2020-04-05-sauteurs-and-ronde-island/</guid>
+      <guid>https://vite-et-reves.com/captains-log/2020-04-04-sauteurs/</guid>
       <description>We try to get water in Sauteurs.</description>
     </item>
     
