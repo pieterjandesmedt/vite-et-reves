@@ -1,25 +1,42 @@
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-  <span class="navigation" role="navigation">
-    {{ if gt .TotalPages 1 }}
-      <div class="pagination">
-        {{ if .HasPrev }}
-          <a class="ml-1 mr-1" href="{{.Prev.URL}}">&laquo; Prev</a>
-          <a class="ml-1 mr-1" href="{{.Prev.URL}}">{{ .Prev.PageNumber }}</a>
-        {{ else }}
-          <span>&laquo; Prev</span>
-        {{ end }}
-
-        <span class="ml-1 mr-1">{{ .PageNumber }}</span>
-
-        {{ if .HasNext }}
-          <a class="ml-1 mr-1" href="{{.Next.URL}}">{{ .Next.PageNumber }}</a>
-          <a class="ml-1 mr-1" href="{{.Next.URL}}">Next &raquo;</a>
-        {{ else }}
-          <span>Next &raquo;</span>
-        {{ end }}
-      </div>
-    {{ end }}
-  </span>
+	<nav class="pagination is-centered" role="navigation" aria-label="pagination">
+		{{ if gt .TotalPages 1 }}
+		{{ if .HasPrev }}
+			<a class="pagination-previous" href="{{ .Prev.URL }}">Previous</a>
+		{{ else }}
+			<a class="pagination-previous" disabled>Previous</a>
+		{{ end }}
+		{{ if .HasNext }}
+			<a class="pagination-next" href="{{ .Next.URL }}">Next</a>
+		{{ else }}
+			<a class="pagination-next" disabled>Next</a>
+		{{ end }}
+		{{ $currentPage := .PageNumber }}
+		<ul class="pagination-list">
+			{{ range .Pagers }}
+			<li><a class="pagination-link{{ if eq .PageNumber $currentPage }} is-current{{ end }}"
+					aria-label="Goto page {{ .PageNumber }}" href="{{ .URL }}">{{ .PageNumber }}</a></li>
+			{{ end }}
+		</ul>
+		{{ end }}
+	</nav>
 </div>
+
+<script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script>
+
+<script>
+	var elem = document.querySelector('.listrecent');
+	var infScroll = new InfiniteScroll(elem, {
+		// options
+		path: '.pagination-next',
+		append: '.post',
+		hideNav: '.bottompagination',
+		history: false,
+	});
+
+	infScroll.on( 'append', function() {
+		observer.observe();
+	});
+</script>

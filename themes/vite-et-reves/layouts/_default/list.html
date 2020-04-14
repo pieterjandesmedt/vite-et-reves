@@ -8,7 +8,7 @@
         ================================================== -->
         <section class="recent-posts">
             <div class="row listrecent">
-                {{ $post_paginator := .Paginate (.Pages) 100 }}
+                {{ $post_paginator := .Paginate (.Pages) 10 }}
                 {{ range $post_paginator.Pages }}
                     {{- partial "list-partials/postbox.html" . -}}
                 {{end}}

@@ -1,7 +1,8 @@
+var observer = null;
+
 document.addEventListener('DOMContentLoaded', () => {
 
 	// NAV BAR HIDE ON SCROLL
-
 
 	// grab an element
 	var myElement = document.getElementById("navbar");
@@ -39,12 +40,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	// IMAGES LAZY LOADING
 
-	lozad('.lozad', {
+	observer = lozad('.lozad', {
+		rootMargin: '500px 0px',
 		loaded: function (el) {
 			el.classList.add('fade')
 		}
-	}).observe()
+	})
 
+	observer.observe();
 });
 
 /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
