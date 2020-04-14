@@ -48,7 +48,7 @@
 					{{ $context := . }}
 					{{with .NextInSection}}
 					<div class="column {{ if $context.PrevInSection }}is-6 {{ end }}has-text-right is-paddingless">
-						<a class="" href="{{.Permalink}}">Next: {{ .Title }} &raquo;</a>
+						<a class="article-next" href="{{.Permalink}}">Next: {{ .Title }} &raquo;</a>
 					</div>
 					{{end}}
 					<div class="clearfix"></div>

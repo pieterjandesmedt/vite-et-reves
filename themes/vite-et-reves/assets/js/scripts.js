@@ -47,25 +47,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	observer.observe();
 
-
 	// INFINITE SCROLL ON PAGINATED PAGES
 
-	var elem = document.querySelector('.listrecent');
-	var infScroll = new InfiniteScroll(elem, {
-		// options
-		path: '.pagination-next',
-		append: '.post',
-		hideNav: '.pagination',
-		history: false,
-		status: '.page-load-status',
-		checkLastPage: true,
-	});
+	var listScroll = document.querySelector('.listrecent');
 
-	infScroll.on( 'append', function() {
-		observer.observe();
-	});
-
-
+	if(listScroll) {
+		var infScroll = new InfiniteScroll(listScroll, {
+			// options
+			path: '.pagination-next',
+			append: '.post',
+			hideNav: '.pagination',
+			history: false,
+			status: '.page-load-status',
+			checkLastPage: true,
+		});
+		infScroll.on( 'append', function() {
+			observer.observe();
+		});
+	}
 });
 
 /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
