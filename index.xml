@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sun, 05 Apr 2020 20:49:14 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 22:37:11 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,24 @@
       
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>Sailing the Catana 401 shows her to be very fast with frank accelerations. She is easy to handle, both under sail and with motors. The gentle steering and comfort make it possible to be at the helm for long hours without fatigue.</description>
+    </item>
+    
+    <item>
+      <title>Stuck</title>
+      <link>https://vite-et-reves.com/captains-log/2020-04-13-stuck/</link>
+      <pubDate>Mon, 13 Apr 2020 22:37:11 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-04-13-stuck/</guid>
+      <description>We make the best of the lockdown in Grenada</description>
+    </item>
+    
+    <item>
+      <title>Going South</title>
+      <link>https://vite-et-reves.com/captains-log/2020-04-08-going-south/</link>
+      <pubDate>Wed, 08 Apr 2020 20:43:18 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-04-08-going-south/</guid>
+      <description>We sail south again on the windward side of the island</description>
     </item>
     
     <item>
