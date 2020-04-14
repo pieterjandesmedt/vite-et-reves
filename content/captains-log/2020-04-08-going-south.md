@@ -21,7 +21,7 @@ The tide was going out. Around London Bridge the currents were going against the
 
 {{< image src="IMG_9944.jpg" alt="Mira taking a nap" ratio="3x2" >}}
 
-We passed many uninhabited islands along the way. They would be excellent for self-isolation in this troubled times. And they all have cool piraty names.
+We passed many uninhabited islands along the way. They would be excellent for self-isolation in these troubled times. And they all have cool piraty names.
 
 {{< two-images src1="IMG_9924.jpg" alt1="Sandy Island" ratio1="16x9" src2="IMG_9928.jpg" alt2="Anthony Rock" ratio2="16x9" >}}
 
