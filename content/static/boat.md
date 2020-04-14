@@ -12,7 +12,7 @@ Vite & Rêves may have permanently damaged my ability to enjoy other sailboats. 
 
 Vite & Rêves is fast, safe and very comfortable. Her 2 meter long daggerboards can make her go to 30 degrees to the apparent wind. This is excellent even by performance monohull standards. With the daggerboards up, she draws only 70cm (2.3ft), so practically every marina, bay and beach is accessible.
 
-She's faster than any boat her length and leaves even much longer monohulls in her wake. The theoretical maximum boat speed of a 40 footer is 8 knots. This is Vite & Rêves' minimum speed as soon as the wind picks up a bit. The maximum speed we did was 14 knots. The maximum speed on the speed log is 24 knots. And she sails safely and comfortably, even at those speeds.
+She's faster than any boat her length and leaves even much longer monohulls in her wake. The theoretical maximum boat speed of a 40 footer is 8 knots. This is Vite & Rêves' minimum speed as soon as the wind picks up a bit. The maximum speed we did was 20 knots, during our Atlantic crossing. The maximum speed on the speed log is 24 knots. And she sails safely and comfortably, even at those speeds.
 
 All her systems are kept very simple and maintainable. All the lines go back to the cockpit. Hoisting the mainsail and reefing is child's play. She's easy to sail single-handedly, a big plus when you have 3 kids on board. Her double mainsheet system forgives most mistakes. If things break, repair is usually doable with your own hands, some chewing gum and a paperclip.
 
@@ -29,12 +29,12 @@ It's known that every boat has her own character. Vite & Rêves is patient, play
 - Draft: 0.70 - 2.00 m
 - Engines: 2 &times; 30hp Volvo Penta
 - Water: 400 l
-- Watermaker: 500 l/d
+- Watermaker: Schenker Zen 30 l/h
 - Fuel: 200 l
 - Designer: Christophe Barreau
 
 
-{{< image src="vite-et-reves-sailing.jpg" alt="Vite & Rêves under sail" >}}
+{{< image src="DJI_0842.jpg" alt="Vite & Rêves in Tobago" ratio="3x2" >}}
 
 {{< image src="IMG_6197.jpg" alt="Vite & Rêves in the Lavrion marina" ratio="2x3" >}}
 

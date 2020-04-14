@@ -12,22 +12,6 @@ weight: 1
 
 ### Next up
 
-##### March
-
-- Grenada
-- St. Vincent and the Grenadines
-- St. Lucia
-- Martinique
-
 ##### April
 
-- Dominica
-- Guadeloupe
-- Virgin Islands
-
-##### May
-
-- Puerto Rico
-- Dominican Republic
-- Jamaica
-
+- Waiting out this corona thinghy in Grenada
