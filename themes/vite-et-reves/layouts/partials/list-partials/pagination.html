@@ -5,13 +5,9 @@
 		{{ if gt .TotalPages 1 }}
 		{{ if .HasPrev }}
 			<a class="pagination-previous" href="{{ .Prev.URL }}">Previous</a>
-		{{ else }}
-			<a class="pagination-previous" disabled>Previous</a>
 		{{ end }}
 		{{ if .HasNext }}
 			<a class="pagination-next" href="{{ .Next.URL }}">Next</a>
-		{{ else }}
-			<a class="pagination-next" disabled>Next</a>
 		{{ end }}
 		{{ $currentPage := .PageNumber }}
 		<ul class="pagination-list">
@@ -22,21 +18,11 @@
 		</ul>
 		{{ end }}
 	</nav>
+	{{ if gt .TotalPages 1 }}
+	<div class="page-load-status has-text-centered">
+		<p class="infinite-scroll-request">Loading more posts...</p>
+		<p class="infinite-scroll-last">^ Start reading here ^</p>
+		<p class="infinite-scroll-error">Error loading more posts</p>
+	  </div>
+	  {{ end }}
 </div>
-
-<script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script>
-
-<script>
-	var elem = document.querySelector('.listrecent');
-	var infScroll = new InfiniteScroll(elem, {
-		// options
-		path: '.pagination-next',
-		append: '.post',
-		hideNav: '.bottompagination',
-		history: false,
-	});
-
-	infScroll.on( 'append', function() {
-		observer.observe();
-	});
-</script>

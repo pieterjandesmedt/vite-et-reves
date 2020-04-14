@@ -1,5 +1,3 @@
-var observer = null;
-
 document.addEventListener('DOMContentLoaded', () => {
 
 	// NAV BAR HIDE ON SCROLL
@@ -40,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	// IMAGES LAZY LOADING
 
-	observer = lozad('.lozad', {
+	var observer = lozad('.lozad', {
 		rootMargin: '500px 0px',
 		loaded: function (el) {
 			el.classList.add('fade')
@@ -48,6 +46,26 @@ document.addEventListener('DOMContentLoaded', () => {
 	})
 
 	observer.observe();
+
+
+	// INFINITE SCROLL ON PAGINATED PAGES
+
+	var elem = document.querySelector('.listrecent');
+	var infScroll = new InfiniteScroll(elem, {
+		// options
+		path: '.pagination-next',
+		append: '.post',
+		hideNav: '.pagination',
+		history: false,
+		status: '.page-load-status',
+		checkLastPage: true,
+	});
+
+	infScroll.on( 'append', function() {
+		observer.observe();
+	});
+
+
 });
 
 /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */

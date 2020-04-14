@@ -2,8 +2,9 @@
 
 {{ $lozad := resources.Get "js/lozad.js" }}
 {{ $headroom := resources.Get "js/headroom.min.js" }}
+{{ $infscroll := resources.Get "js/infinite-scroll.pkgd.min.js" }}
 {{ $customjs := resources.Get "js/scripts.js" }}
 
-{{ $scripts := slice $lozad $headroom $customjs | resources.Concat "js/script.js" | minify | fingerprint }}
+{{ $scripts := slice $lozad $headroom $infscroll $customjs | resources.Concat "js/script.js" | minify | fingerprint }}
 
 <script type="text/javascript" src="{{ $scripts.RelPermalink }}" integrity="{{ $scripts.Data.Integrity }}"></script>
