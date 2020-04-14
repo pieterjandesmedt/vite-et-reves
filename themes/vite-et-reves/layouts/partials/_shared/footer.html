@@ -19,7 +19,7 @@
 {{ $style := slice $bulma $inline $custom | resources.Concat "css/style.css" | minify | fingerprint }}
 
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
-<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="preload" as="style"  onload="this.onload=null;this.rel='stylesheet'">
+<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap" rel="preload" as="style"  onload="this.onload=null;this.rel='stylesheet'">
 
 <noscript>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap">
