@@ -34,3 +34,7 @@ The kids made cherry crumble while we waited for the sun to burn a bit less enth
 And then, finally, after being cooped up on the boat for days, we could explore land again. We pranced like foals up and down our private little beach. The crabs looked very disturbed and disapproving, but we didn't care. Free at last!
 
 While I was snorkeling I noticed that, because of the shifting winds in the bay, the anchor chain got caught underneath an old corral head. I carefully maneuvered Vite & Rêves first sideways and then backwards until she made a 270 degree turn and got her untangled. Our second anchoring attempt of the day went off without a hitch.
+
+We sailed back to Sauteurs the next day, because the anchorage at Ronde Island became quite rolly due to a slight wind shift.
+
+{{< image src="IMG_9909.jpg" alt="Moonrise above Sauteurs" ratio="3x2" >}}
