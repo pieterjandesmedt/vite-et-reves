@@ -5,7 +5,7 @@ publishdate: 2019-10-14T21:15:35+02:00
 image: "IMG_7690.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We're trying to get things done. Siesta got in the way."
+summary: "The Vite & Rêves crew are trying to get things done. Siesta got in the way."
 ---
 
 `At: Santa Maria di Leuca, Italy`

@@ -5,7 +5,7 @@ publishdate: 2019-10-01T22:21:08+03:00
 image: "IMG_7004.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 8.gpx"
-summary: "We ended up in Pylos but there was no room for us in the marina."
+summary: "The Vite & Rêves crew ended up in Pylos but there was no room for them in the marina."
 ---
 
 `From: Koroni, Western Peloponnesos, Greece`<br/>

@@ -5,7 +5,7 @@ publishdate: 2019-12-02T21:47:19+01:00
 image: "IMG_8048.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 43.gpx"
-summary: "We sail the whole day on a broad reach before a storm"
+summary: "Vite & Rêves sails the whole day on a broad reach before a storm."
 ---
 
 `From: Cartagena, Spain`<br/>

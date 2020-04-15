@@ -5,7 +5,7 @@ publishdate: 2020-02-23T11:30:18-01:00
 image: "IMG_9312.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 63.gpx"
-summary: "We cross the Atlantic Ocean"
+summary: "Vite & Rêves crosses the Atlantic Ocean in 14 days. It was... interesting."
 ---
 
 `From: Mindelo, São Vicente, Cabo Verde`<br/>

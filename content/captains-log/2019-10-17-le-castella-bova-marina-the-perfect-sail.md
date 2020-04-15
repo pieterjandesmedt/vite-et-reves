@@ -5,7 +5,7 @@ publishdate: 2019-10-18T14:50:10+02:00
 image: "IMG_7383.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 19.gpx"
-summary: "A late leave turns into the perfect sailing day. So perfect I couldn't stop and pulled and all-nighter."
+summary: "A late leave turns into the perfect sailing day. So perfect Pieter Jan couldn't stop sailing and pulled and all-nighter."
 ---
 
 `From: Le Castella, Italy`<br/>

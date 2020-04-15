@@ -5,7 +5,7 @@ publishdate: 2019-10-21T00:00:28+02:00
 image: "IMG_7438.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 23.gpx"
-summary: "Milazzo castle was closed, so we found a big supermarket and motor a bit in the right direction."
+summary: "Milazzo castle was closed, so the Vite & Rêves crew found a big supermarket and motor a bit in the right direction."
 ---
 
 `From: Milazzo, Sicily, Italy`<br/>

@@ -5,7 +5,7 @@ publishdate: 2019-12-07T22:19:17+01:00
 image: "IMG_8182.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 46.gpx"
-summary: "We cross the strait of Gibraltar and arrive in one piece in Tangier."
+summary: "Vite & Rêves crosses the strait of Gibraltar and arrives in one piece in Tangier."
 ---
 
 `From: Marbella, Spain`<br/>

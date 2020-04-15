@@ -5,7 +5,7 @@ publishdate: 2020-02-05T00:20:48-01:00
 image: "IMG_9284.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 59.gpx"
-summary: "We want to see a bit of Sant'Antão as well and sail te Tarrafal."
+summary: "The Vite & Rêves crew want to see a bit of Sant'Antão as well and sail to Tarrafal."
 ---
 
 `From: São Pedro, São Vicente, Cabo Verde`<br/>

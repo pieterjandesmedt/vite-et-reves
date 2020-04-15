@@ -5,7 +5,7 @@ publishdate: 2019-12-24T12:33:53+01:00
 image: "IMG_8395.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 47.gpx"
-summary: "We sail south from Tangier to Rabat."
+summary: "Vite & Rêves sails south from Tangier to Rabat."
 ---
 
 `From: Tangier, Morocco`<br/>

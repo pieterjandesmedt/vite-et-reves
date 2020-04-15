@@ -5,7 +5,7 @@ publishdate: 2020-03-04T17:42:28-04:00
 image: "vlcsnap-2020-03-07-16h53m39s548.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 68.gpx"
-summary: "We visit the now very dead Buccoo Reef, to our great disappointment"
+summary: "The Vite & Rêves crew visit the now very dead Buccoo Reef, to their great disappointment."
 ---
 
 `From: Buccoo, Tobago`<br/>

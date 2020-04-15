@@ -5,7 +5,7 @@ publishdate: 2019-12-17T22:27:19+01:00
 image: "IMG_8303.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We're stuck in Tangier because of the wind but we're enjoying the vacation."
+summary: "The Vite & Rêves crew are stuck in Tangier because of the wind but they're enjoying the vacation."
 ---
 
 `At: Tangier, Morocco`

@@ -5,7 +5,7 @@ publishdate: 2020-04-05T20:49:14-04:00
 image: "IMG_4644.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 79.gpx"
-summary: "We find a quiet beach to ourselves at Ronde Island."
+summary: "The Vite & Rêves crew find a quiet beach at uninhabited Ronde Island."
 ---
 
 `From: Sauteurs, Grenada`<br/>

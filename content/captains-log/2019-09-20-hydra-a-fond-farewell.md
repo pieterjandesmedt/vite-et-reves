@@ -4,7 +4,7 @@ date: 2019-09-20T21:38:58+03:00
 publishdate: 2019-09-20T21:38:58+03:00
 image: "IMG_0354.jpg"
 author: "Pieter Jan"
-summary: "We maved the Vite & Rêves to the lovely Hydra port and said goodbye to the Parents."
+summary: "The Vite & Rêves crew moved the boat to the lovely Hydra port and said goodbye to the Parents."
 ---
 
 

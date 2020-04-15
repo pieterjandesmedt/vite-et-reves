@@ -5,7 +5,7 @@ publishdate: 2019-10-15T10:55:49+02:00
 image: "IMG_7328.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 17.gpx"
-summary: "A long crossing turned into an upwind slog at night. We dodged gas platforms before arriving in Crotone."
+summary: "A long crossing turned into an upwind slog at night. The Vite & Rêves crew dodged gas platforms before arriving in Crotone."
 ---
 
 `From: Santa Maria di Leuca, Italy`<br/>

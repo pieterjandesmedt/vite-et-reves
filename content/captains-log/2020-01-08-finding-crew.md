@@ -5,7 +5,7 @@ publishdate: 2020-01-08T10:44:03Z
 image: "IMG_8989.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: ""
+summary: "The Vite & Rêves crew want to find more crew members to help with the crossing."
 ---
 
 `At: Las Palmas, Gran Canaria, Canary Islands`

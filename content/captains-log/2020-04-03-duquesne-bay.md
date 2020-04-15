@@ -5,7 +5,7 @@ publishdate: 2020-04-03T12:35:13-04:00
 image: "IMG_9812.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 77.gpx"
-summary: "In search of a deserted beach, we end up in Duquesne Bay"
+summary: "In search of a deserted beach, Vite & Rêves ends up in Duquesne Bay. It was not deserted after all."
 ---
 
 `From: Gouyave, Grenada`<br/>

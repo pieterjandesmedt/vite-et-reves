@@ -5,7 +5,7 @@ publishdate: 2019-11-01T20:37:40+01:00
 image: "IMG_7652.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 31.gpx"
-summary: "We fly a bit further south and give Véronique a small taste of open sea sailing."
+summary: "Vite & Rêves flies a bit further south and gives Véronique a small taste of open sea sailing."
 ---
 
 `From: Nora, Sardinia, Italy`<br/>

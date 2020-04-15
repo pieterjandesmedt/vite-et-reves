@@ -5,7 +5,7 @@ publishdate: 2019-09-26T22:07:20+03:00
 image: "IMG_6827.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 5.gpx"
-summary: "We set sail for the island of Kythira but ended up in the tiny industrial port of Velanidia."
+summary: "The Vite & Rêves crew set sail for the island of Kythira but ended up in the tiny industrial port of Velanidia."
 ---
 
 `From: Monemvasia, Western Peloponnesos, Greece`<br/>

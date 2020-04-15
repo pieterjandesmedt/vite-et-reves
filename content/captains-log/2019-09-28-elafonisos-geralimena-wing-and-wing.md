@@ -5,7 +5,7 @@ publishdate: 2019-09-28T19:22:18+03:00
 image: "IMG_6886.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 7.gpx"
-summary: "We set sail for the very relaxed village of Geralimena."
+summary: "The Vite & Rêves crew set sail for the very relaxed village of Geralimena."
 ---
 
 `From: Island Elafonisos, Southern Peloponnesos, Greece`<br/>

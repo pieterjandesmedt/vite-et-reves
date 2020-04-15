@@ -5,7 +5,7 @@ publishdate: 2019-12-31T13:05:04+01:00
 image: "IMG_8778.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 50.gpx"
-summary: "We make a pleasant crossing from Morocco to the Canary Islands in the start of the trade winds."
+summary: "Vite & Rêves makes a pleasant crossing from Morocco to the Canary Islands in the start of the trade winds."
 ---
 
 `From: Essaouira, Morocco`<br/>

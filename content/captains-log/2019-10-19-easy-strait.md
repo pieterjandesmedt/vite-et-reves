@@ -5,7 +5,7 @@ publishdate: 2019-10-19T09:21:21+02:00
 image: "IMG_7392.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 20.gpx"
-summary: "A slow spinnaker sail thorugh Messina Strait"
+summary: "A slow spinnaker sail through Messina Strait."
 ---
 
 `From: Bova Marina, Italy`<br/>

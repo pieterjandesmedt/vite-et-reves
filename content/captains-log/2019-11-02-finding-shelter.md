@@ -5,7 +5,7 @@ publishdate: 2019-11-02T16:44:29+01:00
 image: "IMG_7668.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 32.gpx"
-summary: "We go a little more westward to hunker down for the coming storm"
+summary: "The Vite & Rêves crew go a little more westward to hunker down for the coming storm."
 ---
 
 `From: Porto Teulada, Sardinia, Italy`<br/>

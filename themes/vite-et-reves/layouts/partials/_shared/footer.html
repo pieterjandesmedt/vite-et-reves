@@ -15,8 +15,9 @@
 {{ $bulma := resources.Get "css/bulma.sass" | toCSS }}
 {{ $inline := resources.Get "css/inline.scss" | toCSS }}
 {{ $custom := resources.Get "css/style.scss" | toCSS }}
+{{ $icons := resources.Get "css/styles.css" }}
 
-{{ $style := slice $bulma $inline $custom | resources.Concat "css/style.css" | minify | fingerprint }}
+{{ $style := slice $bulma $inline $custom $icons | resources.Concat "css/style.css" | minify | fingerprint }}
 
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
 <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap" rel="preload" as="style"  onload="this.onload=null;this.rel='stylesheet'">

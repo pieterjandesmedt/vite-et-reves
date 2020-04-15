@@ -19,13 +19,9 @@
 
 
 				<!-- Post Content -->
-				The page you're looking for is lost at sea...
+				<p>The page you're looking for is lost at sea...</p>
 
-				{{ $firstPost := index (first 1 (where .Site.RegularPages.ByTitle "Section" "captains-log")) 0 }}
-				{{ with $firstPost }}
-					You can read from the start here &raquo;
-					<a class="" href="{{.Permalink}}"> {{- partial "_shared/title" . -}}</a>
-				{{ end }}
+				<p>You can read from the start here &raquo; {{- partial "_shared/firstpost" $ -}}</p>
 
 			</div>
 			<div class="column is-12">

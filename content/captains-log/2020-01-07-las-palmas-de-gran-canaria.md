@@ -5,7 +5,7 @@ publishdate: 2020-01-07T22:57:39Z
 image: "IMG_8965.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We encounter the slowest marina officials to date in Las Palmas."
+summary: "The Vite & Rêves crew encounter the slowest marina officials to date in Las Palmas."
 ---
 
 `At: Las Palmas, Gran Canaria, Canary Islands`

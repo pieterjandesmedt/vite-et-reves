@@ -5,7 +5,7 @@ publishdate: 2019-11-08T12:11:28+01:00
 image: "IMG_7742.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 34.gpx"
-summary: "We cross from Sardinia to Menorca. It was wild but went okay."
+summary: "The Vite & Rêves crew cross from Sardinia to Menorca. It was wild but went okay."
 ---
 
 `From: Porto Di Sant' Antioco, Sardinia, Italy`<br/>

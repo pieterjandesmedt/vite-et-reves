@@ -5,7 +5,7 @@ publishdate: 2019-10-22T00:41:04+02:00
 image: "IMG_7468.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 24.gpx"
-summary: "We spent a day chasing very light winds, without much success."
+summary: "The Vite & Rêves crew spent a day chasing very light winds, without much success."
 ---
 
 `From: Capo Calava, Sicily, Italy`<br/>

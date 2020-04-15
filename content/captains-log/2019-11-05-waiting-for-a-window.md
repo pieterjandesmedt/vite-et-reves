@@ -5,7 +5,7 @@ publishdate: 2019-11-05T12:10:01+01:00
 image: "IMG_7701.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We wait a couple of days for a good weather window to make the crossing to Menorca."
+summary: "The Vite & Rêves crew wait a couple of days for a good weather window to make the crossing to Menorca."
 ---
 
 `At: Porto Di Sant' Antioco, Sardinia, Italy`

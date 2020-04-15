@@ -5,7 +5,7 @@ publishdate: 2019-11-15T13:23:42+01:00
 image: "IMG_4444.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 38.gpx"
-summary: "We visit the lovely town of Santa Eulària Des Riu and spend the night on the other side of the island."
+summary: "The Vite & Rêves crew visit the lovely town of Santa Eulària Des Riu and spend the night on the other side of the island."
 ---
 
 `From: Santa Eulària des Riu, Ibiza, Spain`<br/>

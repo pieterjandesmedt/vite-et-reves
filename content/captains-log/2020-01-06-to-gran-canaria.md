@@ -5,7 +5,7 @@ publishdate: 2020-01-06T11:40:11Z
 image: "IMG_8961.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 53.gpx"
-summary: "We do a night sail from Lanzarote to Gran Canaria."
+summary: "The Vite & Rêves crew do a night sail from Lanzarote to Gran Canaria."
 ---
 
 `From: Papagayo beach, Lanzarote, Canary Islands`<br/>

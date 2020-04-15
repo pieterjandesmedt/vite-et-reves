@@ -4,7 +4,7 @@ date: 2019-09-21T22:30:26+03:00
 publishdate: 2019-09-21T22:30:26+03:00
 image: "IMG_4384.JPG"
 author: "Pieter Jan"
-summary: "The wind picked up so much that our anchor didn't hold. We reanchored and visited Vlychos beach."
+summary: "The wind picked up so much that our anchor didn't hold. The Vite & Rêves crew reanchored and visited Vlychos beach."
 ---
 
 `At: Hydra, island Hydra, Greece`

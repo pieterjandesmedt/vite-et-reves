@@ -5,7 +5,7 @@ publishdate: 2019-12-28T19:01:41+01:00
 image: "IMG_8599.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 49.gpx"
-summary: "We spend two days motoring to Essaouira on a glassy ocean"
+summary: "The Vite & Rêves crew spend two days motoring to Essaouira on a glassy ocean."
 ---
 
 `From: Rabat, Morocco`<br/>

@@ -5,7 +5,7 @@ publishdate: 2020-01-05T14:33:49Z
 image: "IMG_8931.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 52.gpx"
-summary: "After a month on the ocean and in marinas, we finally can anchor again."
+summary: "After a month on the ocean and in marinas, the Vite & Rêves crew finally can anchor in a bay again."
 ---
 
 `From: Rubicon Marina, Lanzarote, Canary Islands`<br/>

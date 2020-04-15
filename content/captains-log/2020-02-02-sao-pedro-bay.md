@@ -5,7 +5,7 @@ publishdate: 2020-02-03T20:04:03-01:00
 image: "vlcsnap-2020-02-06-23h48m07s138.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 58.gpx"
-summary: "We anchor in a beautiful bay and are astonished by the local wildlife."
+summary: "Vite & Rêves anchors in a beautiful bay. The crew are astonished by the local wildlife."
 ---
 
 `From: Mindelo, São Vicente, Cabo Verde`<br/>

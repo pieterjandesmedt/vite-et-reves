@@ -5,7 +5,7 @@ publishdate: 2020-02-23T21:13:09-01:00
 image: "IMG_7398.JPG"
 author: "Pieter Jan"
 gpx: ""
-summary: "We clear in into Tobago and explore the offbeat village of Charlotteville."
+summary: "Vite & Rêves clears in into Tobago and the crew explore the offbeat village of Charlotteville."
 ---
 
 `At: Charlotteville, Tobago`

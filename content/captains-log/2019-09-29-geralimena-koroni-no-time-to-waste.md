@@ -5,7 +5,7 @@ publishdate: 2019-09-29T02:01:58+03:00
 image: "IMG_6927.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export.gpx"
-summary: "We saw a dolphin on the way to Koroni."
+summary: "The Vite & Rêves crew saw a dolphin on the way to Koroni."
 ---
 
 `From: Geralimena, Southern Peloponnesos, Greece`<br/>

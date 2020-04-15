@@ -5,7 +5,7 @@ publishdate: 2019-10-23T00:41:10+02:00
 image: "IMG_7475.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 25.gpx"
-summary: "A very calm day ended with an exhilarating joyride past Palermo."
+summary: "A very calm day ends with an exhilarating joyride past Palermo."
 ---
 
 `From: Tusa, Sicily, Italy`<br/>

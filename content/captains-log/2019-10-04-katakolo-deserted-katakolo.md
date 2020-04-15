@@ -4,7 +4,7 @@ date: 2019-10-04T20:31:38+03:00
 publishdate: 2019-10-04T20:31:38+03:00
 image: "IMG_7081.jpg"
 author: "Pieter Jan"
-summary: "We are stuck for a day in the eery town of Katakolo. We did meet a nice local who sold us vegetables straight from his garden."
+summary: "The Vite & Rêves crew are stuck for a day in the eery town of Katakolo. They did meet a nice local who sold them vegetables straight from his garden."
 ---
 
 `At: Katakolo, Western Peloponnesos, Greece`

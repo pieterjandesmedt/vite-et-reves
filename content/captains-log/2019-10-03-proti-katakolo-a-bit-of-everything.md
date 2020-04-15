@@ -5,7 +5,7 @@ publishdate: 2019-10-03T23:00:11+03:00
 image: "IMG_7074.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 10.gpx"
-summary: "We encountered several waterspouts on the way to Zakynthos. Due to a 360 degree wind shift, we ended up in Katakolo."
+summary: "The Vite & Rêves crew encountered several waterspouts on the way to Zakynthos. Due to a 360 degree wind shift, they ended up in Katakolo."
 ---
 
 `From: Panagoula bay, Proti island, Greece`<br/>

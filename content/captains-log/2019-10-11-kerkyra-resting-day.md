@@ -5,7 +5,7 @@ publishdate: 2019-10-11T10:03:47+03:00
 image: "IMG_7300.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We took a day of rest and provisioning in Palaiokastrita before our crossing to Italy"
+summary: "The Vite & Rêves crew took a day of rest and provisioning in Palaiokastrita before our crossing to Italy."
 ---
 
 `At: Palaiokastrita (Alipa), Kerkyra (Corfu), Greece`

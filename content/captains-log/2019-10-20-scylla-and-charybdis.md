@@ -5,7 +5,7 @@ publishdate: 2019-10-20T19:05:42+02:00
 image: "IMG_7417.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 22.gpx"
-summary: "We dodge traffic in the Strait of Messina and safely pass Scilla and Charybdis.	"
+summary: "The Vite & Rêves crew dodge traffic in the Strait of Messina and safely pass Scilla and Charybdis."
 ---
 
 `From: Archi, Italy`<br/>

@@ -5,7 +5,7 @@ publishdate: 2020-02-24T16:35:30-01:00
 image: "IMG_9455.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: ""
+summary: "The Vite & Rêves crew try to find a sim card and the carnival in Scarburough."
 ---
 
 `From: Charlotteville, Tobago`<br/>

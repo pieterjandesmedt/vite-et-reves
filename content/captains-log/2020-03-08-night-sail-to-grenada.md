@@ -5,7 +5,7 @@ publishdate: 2020-03-08T14:42:16-04:00
 image: "IMG_9550.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 72.gpx"
-summary: "An easy night sail brings us from Tobago to Grenada"
+summary: "An easy night sail brings Vite & Rêves from Tobago to Grenada"
 ---
 
 `From: Charlotteville, Tobago`<br/>

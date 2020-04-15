@@ -5,7 +5,7 @@ publishdate: 2019-12-29T14:04:09+01:00
 image: "IMG_8673.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "The town of Essaouira leaves us with mixed feelings."
+summary: "The town of Essaouira leaves the Vite & Rêves crew with mixed feelings."
 ---
 
 `At: Essaouira, Morocco`

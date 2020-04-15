@@ -5,7 +5,7 @@ publishdate: 2019-11-24T18:51:51+01:00
 image: "IMG_7956.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 41.gpx"
-summary: "We leave Alicante for Cartagena on a windy but quiet sea."
+summary: "The Vite & Rêves crew leave Alicante for Cartagena on a windy but quiet sea."
 ---
 
 `From: Alicante, Spain`<br/>

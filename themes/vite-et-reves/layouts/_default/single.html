@@ -3,15 +3,12 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="main-content article">
+<article class="main-content article">
 	<!-- Begin Article
         ================================================== -->
 	<div class="container">
 		<div class="columns is-multiline">
-			<!-- Post Share -->
-			<!-- <div class="column is-1 is-offset-1">
-				{{- partial "single-partials/share.html" . -}}
-			</div> -->
+
 			<!-- Post -->
 			<div class="column is-8 is-offset-2">
 				<div class="mainheading columns">
@@ -26,23 +23,20 @@
 							&mdash;
 							{{ .ReadingTime }} min read
 						</p>
+						<p class="subtitle is-size-7">
+							{{- partial "single-partials/share.html" . -}}
+						</p>
 					</div>
 				</div>
-
-				<!-- Post Featured Image -->
-				<!-- {{with .Params.image}}
-				<img class="featured-image img-fluid" src="{{ . | urlize | relURL }}" alt="thumbnail for this post">
-				{{end}} -->
-				<!-- End Featured Image -->
 
 				<!-- Post Content -->
 				{{ .Content}}
 
 				<!-- Next and PrevPage inside current section -->
-				<div class="prev-next column columns is-mobile">
+				<nav class="prev-next column columns is-mobile">
 					{{with .PrevInSection}}
 					<div class="column is-6 has-text-left is-paddingless">
-						<a class="" href="{{.Permalink}}"> &laquo; Previous: {{ .Title }}</a>
+						<a class="article-prev" href="{{.Permalink}}"> &laquo; Previous: {{ .Title }}</a>
 					</div>
 					{{end}}
 					{{ $context := . }}
@@ -52,7 +46,7 @@
 					</div>
 					{{end}}
 					<div class="clearfix"></div>
-				</div>
+				</nav>
 				<!-- End Next and PrevPage -->
 			</div>
 			<!-- End Post -->
@@ -60,7 +54,7 @@
 	</div>
 	<!-- End Article
         ================================================== -->
-</div>
+</article>
 {{ end }}
 
 {{ define "footer"}}

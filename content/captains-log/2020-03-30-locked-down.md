@@ -5,7 +5,7 @@ publishdate: 2020-03-30T11:14:41-04:00
 image: "9939728074_c824ceaa58_o.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 76.gpx"
-summary: "We try to escape the St. George lockdown and sail to Gouyave."
+summary: "The Vite & Rêves crew try to escape the St. George lockdown and sail to Gouyave."
 ---
 
 `From: St. George, Grenada`<br/>

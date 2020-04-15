@@ -5,7 +5,7 @@ publishdate: 2019-11-16T21:37:07+01:00
 image: "IMG_7818.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 39.gpx"
-summary: "A strong breeze on the beam hurtles us from Ibiza to Calpe"
+summary: "A strong breeze on the beam hurtles Vite & Rêves from Ibiza to Calpe."
 ---
 
 `From: Es Jondal bay, Ibiza, Spain`<br/>

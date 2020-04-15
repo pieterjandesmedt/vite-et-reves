@@ -5,7 +5,7 @@ publishdate: 2019-11-03T18:43:38+01:00
 image: "vlcsnap-2019-11-03-19h05m15s515.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We're hunkering down for the storm. Maurice, the captain of Ikigai, proves to be a veritable goldmine of Pacific Ocean knowledge."
+summary: "The Vite & Rêves crew are hunkering down for the storm. Maurice, the captain of Ikigai, proves to be a veritable goldmine of Pacific Ocean knowledge."
 ---
 
 `At: Porto Di Sant' Antioco, Sardinia, Italy`

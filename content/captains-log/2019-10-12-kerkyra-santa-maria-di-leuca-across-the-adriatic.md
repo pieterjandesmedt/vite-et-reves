@@ -5,7 +5,7 @@ publishdate: 2019-10-12T16:08:01+03:00
 image: "IMG_7314.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 16.gpx"
-summary: "We cross the Adriatic Sea to Italy on a fast clip."
+summary: "The Vite & Rêves crew cross the Adriatic Sea to Italy on a fast clip."
 ---
 
 `From: Palaiokastrita (Alipa), Kerkyra (Corfu), Greece`<br/>

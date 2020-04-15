@@ -5,7 +5,7 @@ publishdate: 2020-01-16T21:01:41Z
 image: ""
 author: "Pieter Jan"
 gpx: ""
-summary: "I install a new, more efficient, watermaker in Vite & Rêves"
+summary: "Pieter Jan installs a new, more efficient, watermaker in Vite & Rêves"
 draft: true
 ---
 

@@ -5,7 +5,7 @@ publishdate: 2019-12-01T14:06:03+01:00
 image: "IMG_6448.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We meet new people on Cartagena marina's weekly barbecue."
+summary: "The Vite & Rêves crew meet new people on Cartagena marina's weekly barbecue."
 ---
 
 `At: Cartagena, Spain`

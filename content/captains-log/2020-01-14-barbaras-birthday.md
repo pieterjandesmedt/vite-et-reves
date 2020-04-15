@@ -5,7 +5,7 @@ publishdate: 2020-01-14T20:59:52Z
 image: "IMG_8976.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We celebrate Barbara's birthday with a veritable sailing village of Dutch sailors."
+summary: "The Vite & Rêves crew celebrate Barbara's birthday with a veritable sailing village of Dutch sailors."
 ---
 
 `At: Las Palmas, Gran Canaria, Canary Islands`

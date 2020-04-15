@@ -4,7 +4,7 @@ date: 2019-09-23T23:44:02+03:00
 publishdate: 2019-09-23T23:44:02+03:00
 image: "IMG_6752.jpg"
 author: "Pieter Jan"
-summary: "Vlychada bay was so nice we decided to stay for a day."
+summary: "Vlychada bay was so nice that the Vite & Rêves crew decided to stay for a day."
 ---
 
 `At: Vlychada bay, Western Peloponnesos, Greece`

@@ -5,7 +5,7 @@ publishdate: 2020-01-22T10:09:12Z
 image: "DSC04368.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 55.gpx"
-summary: "We cross from the Canary Islands to Cabo Verde."
+summary: "The Vite & Rêves crew cross from the Canary Islands to Cabo Verde."
 ---
 
 `From: Las Palmas, Gran Canaria, Canary Islands`<br/>

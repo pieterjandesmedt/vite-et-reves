@@ -5,7 +5,7 @@ publishdate: 2019-10-05T21:50:04+03:00
 image: "IMG_7106.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 11.gpx"
-summary: "A close-hauled sail took us to Zakythos."
+summary: "A close-hauled sail took the Vite & Rêves crew to Zakythos."
 ---
 
 `From: Katakolo, Western Peloponnesos, Greece`<br/>

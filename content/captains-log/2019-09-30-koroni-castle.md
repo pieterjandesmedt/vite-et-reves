@@ -4,7 +4,7 @@ date: 2019-09-30T21:47:18+03:00
 publishdate: 2019-09-30T21:47:18+03:00
 image: "IMG_6937.jpg"
 author: "Pieter Jan"
-summary: "We visited the huge castle of Koroni."
+summary: "The Vite & Rêves crew visited the huge castle of Koroni."
 ---
 
 `At: Koroni, Western Peloponnesos, Greece`

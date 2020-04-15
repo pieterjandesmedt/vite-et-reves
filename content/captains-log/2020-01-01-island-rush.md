@@ -5,7 +5,7 @@ publishdate: 2020-01-01T22:17:36Z
 image: "IMG_8866.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 51.gpx"
-summary: "We probably broke our average speed record between La Graciosa and the south of Lanzarote."
+summary: "Vite & Rêves probably broke her average speed record between La Graciosa and the south of Lanzarote."
 ---
 
 `From: Caleta de Sebo, La Graciosa, Canary Islands`<br/>

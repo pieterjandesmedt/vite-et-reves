@@ -5,7 +5,7 @@ publishdate: 2020-01-03T19:43:30Z
 image: "IMG_8874.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We're getting reorganized in Rubicon Marina and take a long walk along the south coast of Lanzarote."
+summary: "The Vite & Rêves crew are getting reorganized in Rubicon Marina and take a long walk along the south coast of Lanzarote."
 ---
 
 `At: Rubicon Marina, Lanzarote, Canary Islands`

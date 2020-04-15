@@ -24,13 +24,9 @@
 							{{ "We're a **family of five** traveling around the world in a Catana 401 named **Vite & Rêves**. You can translate this name as Fast & Dreams, but it's also pronounced the same way as 'Vis tes rêves' &mdash; _Live your dreams_." | markdownify }}
 						</p>
 
-						{{ $firstPost := index (last 1 (where $.Site.RegularPages "Section" "captains-log")) 0 }}
-						{{ with $firstPost }}
 						<p>
-							Read from the start &raquo;
-							<a class="" href="{{.Permalink}}"> {{- partial "_shared/title" .Title -}}</a>
+							Read from the start &raquo; {{- partial "_shared/firstpost" $ -}}
 						</p>
-						{{ end }}
 					</div>
 				</div>
 			</div>

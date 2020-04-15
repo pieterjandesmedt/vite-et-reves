@@ -1,6 +1,6 @@
 {{ $a := index (split .ratio "x") 0 }}
 {{ $b := index (split .ratio "x") 1 }}
-
+<figure>
 {{ if eq (getenv "HUGO_ENV" ) "production" }}
 	{{ $x := 1.0 }}
 	{{ $y := div (float (default 1 $b)) (float (default 1 $a)) }}
@@ -26,28 +26,29 @@
 		{{ $srcsetWebP = $srcsetWebP | append $srcWebP }}
 		{{ $srcset = $srcset | append $src }}
 	{{ end }}
-<picture class="image is-fullwidth is-{{ $a }}by{{ $b }}{{ with .class }} {{ . }}{{ end }}">
-	<source class="lozad"
-		data-srcset="{{ delimit $srcsetWebP ", " }}"
-		sizes="(min-width: 1024px) calc(960px - 1.5rem),
-			(min-width: 1216px) calc(1152px - 1.5rem),
-			(min-width: 1408px) calc(1344px - 1.5rem),
-			100vw"
-		type="image/webp"
-		/>
-	<source class="lozad"
-		data-srcset="{{ delimit $srcset ", " }}"
-		sizes="(min-width: 1024px) calc(960px - 1.5rem),
-			(min-width: 1216px) calc(1152px - 1.5rem),
-			(min-width: 1408px) calc(1344px - 1.5rem),
-			100vw"
-			type="image/jpeg"
-		/>
-	<img class="is-fullwidth" src="{{ index (split (index (last 1 $srcset) 0) " ") 0 }}" alt="{{ .alt }}" />
-</picture>
+	<picture class="image is-fullwidth is-{{ $a }}by{{ $b }}{{ with .class }} {{ . }}{{ end }}">
+		<source class="lozad"
+			data-srcset="{{ delimit $srcsetWebP ", " }}"
+			sizes="(min-width: 1024px) calc(960px - 1.5rem),
+				(min-width: 1216px) calc(1152px - 1.5rem),
+				(min-width: 1408px) calc(1344px - 1.5rem),
+				100vw"
+			type="image/webp"
+			/>
+		<source class="lozad"
+			data-srcset="{{ delimit $srcset ", " }}"
+			sizes="(min-width: 1024px) calc(960px - 1.5rem),
+				(min-width: 1216px) calc(1152px - 1.5rem),
+				(min-width: 1408px) calc(1344px - 1.5rem),
+				100vw"
+				type="image/jpeg"
+			/>
+		<img class="is-fullwidth" src="{{ index (split (index (last 1 $srcset) 0) " ") 0 }}" alt="{{ .alt }}" />
+	</picture>
 {{ else }}
-<figure class="image is-fullwidth is-{{ $a }}by{{ $b }}{{ with .class }} {{ . }}{{ end }}">
-	<img class="lozad" style="object-fit: cover;" data-src="/images/{{ .src }}" alt="{{ .alt }}" loading="lazy" />
-</figure>
+	<picture class="image is-fullwidth is-{{ $a }}by{{ $b }}{{ with .class }} {{ . }}{{ end }}">
+		<img class="lozad" style="object-fit: cover;" data-src="/images/{{ .src }}" alt="{{ .alt }}" loading="lazy" />
+	</picture>
 {{ end }}
-<div class="caption">{{ .alt }}</div>
+	<figcaption class="caption">{{ .alt }}</figcaption>
+</figure>

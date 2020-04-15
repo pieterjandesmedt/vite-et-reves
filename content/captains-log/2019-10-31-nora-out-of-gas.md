@@ -5,7 +5,7 @@ publishdate: 2019-10-31T20:01:26+01:00
 image: "IMG_7628_1.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We visit the most important archeological site in Sardinia and go on a quest for gas."
+summary: "The Vite & Rêves crew visit the most important archeological site in Sardinia and go on a quest for cooking gas."
 ---
 
 `At: Nora, Sardinia, Italy`

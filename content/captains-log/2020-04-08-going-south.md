@@ -5,7 +5,7 @@ publishdate: 2020-04-08T20:43:18-04:00
 image: "IMG_9922.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 81.gpx"
-summary: "We sail south again on the windward side of the island"
+summary: "Vite & Rêves sails south again on the windward side of the island."
 ---
 
 `From: Sauteurs, Grenada`<br/>

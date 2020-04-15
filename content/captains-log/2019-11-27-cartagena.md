@@ -5,7 +5,7 @@ publishdate: 2019-11-27T17:57:43+01:00
 image: "IMG_8008.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We visit Cartagena while we're waiting for a good wind."
+summary: "The Vite & Rêves crew visit Cartagena while they're waiting for a good wind."
 ---
 
 `At: Cartagena, Spain`

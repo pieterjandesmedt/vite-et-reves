@@ -5,7 +5,7 @@ publishdate: 2019-10-27T10:56:46+01:00
 image: "IMG_7518.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 27.gpx"
-summary: "We cross the Tyrrhenian sea to Sardinia, sadly largely on engine."
+summary: "The Vite & Rêves crew cross the Tyrrhenian sea to Sardinia, sadly largely on engine."
 ---
 
 `From: San Vito Lo Capo, Sicily, Italy`<br/>

@@ -5,7 +5,7 @@ publishdate: 2019-09-18T18:51:46+03:00
 image: ""
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 4.gpx"
-summary: "We moved the boat to Lavrion port and went Ikea shopping."
+summary: "The Vite & Rêves crew moved the boat to Lavrion port and went Ikea shopping."
 ---
 
 `From: Lavrion Olympic Marine, Greece`<br/>

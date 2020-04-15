@@ -5,7 +5,7 @@ publishdate: 2019-10-10T09:50:33+03:00
 image: "vlcsnap-2019-10-10-20h22m35s917.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 15.gpx"
-summary: "We anchored too close to another boat and had to leave for Corfu. The day was sharply divided in a nice spinnaker sail and an exhilarating surf down thunderstorm waves."
+summary: "The Vite & Rêves crew anchored too close to another boat and had to leave for Corfu. The day was sharply divided in a nice spinnaker sail and an exhilarating surf down thunderstorm waves."
 ---
 
 `From: Agrapidia bay, Antipaxoi island, Greece`<br/>

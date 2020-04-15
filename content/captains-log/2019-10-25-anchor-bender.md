@@ -5,7 +5,7 @@ publishdate: 2019-10-26T08:49:01+02:00
 image: "IMG_7505.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "Fixing a bent anchor and provisioning between thunderstorms"
+summary: "The Vite & Rêves crew fix a bent anchor and provision between thunderstorms."
 ---
 
 `At: San Vito Lo Capo, Sicily, Italy`

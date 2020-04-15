@@ -5,7 +5,7 @@ publishdate: 2019-11-18T00:03:24+01:00
 image: "IMG_7844.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 40.gpx"
-summary: "We have a super nice sailing day to Alicante, where we meet up with my parents."
+summary: "The Vite & Rêves crew have a super nice sailing day to Alicante, where they meet up with the Parents."
 ---
 
 `From: Calpe, Spain`<br/>

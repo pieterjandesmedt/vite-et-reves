@@ -5,7 +5,7 @@ publishdate: 2019-10-29T20:52:58+01:00
 image: "IMG_7586.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We spent a few hours provisioning and the rest of the day discovering Cagliari's old town."
+summary: "The Vite & Rêves crew spent a few hours provisioning and the rest of the day discovering Cagliari's old town."
 ---
 
 `At: Cagliari, Sardinia, Italy`

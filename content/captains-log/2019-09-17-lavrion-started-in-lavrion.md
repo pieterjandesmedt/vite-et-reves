@@ -4,7 +4,7 @@ date: 2019-09-17T01:03:56+03:00
 publishdate: 2019-09-17T01:03:56+03:00
 image: "IMG_6197.jpg"
 author: "Pieter Jan"
-summary: "We're getting ready to leave for our world trip. We took 5 small suitcases and 2 big ones of clothes and stuff, 3 kids and 2 Parents with us. The Parents will travel back at the end of the week."
+summary: "The Vite & Rêves crew are getting ready to leave for our world trip. They took 5 small suitcases and 2 big ones of clothes and stuff, 3 kids and 2 Parents with us. The Parents will travel back at the end of the week."
 ---
 
 `At: Lavrion Olympic Marine, Greece`

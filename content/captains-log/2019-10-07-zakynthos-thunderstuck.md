@@ -5,7 +5,7 @@ publishdate: 2019-10-07T12:26:45+03:00
 image: "lightning.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: "We got stuck in Agios Nikolaos. There were thunderstorms all around us all day long. It rained. Our berth became untenable due te the heavy swell."
+summary: "The Vite & Rêves crew got stuck in Agios Nikolaos. There were thunderstorms all around us all day long. It rained. The berth became untenable due te the heavy swell."
 ---
 
 `At: Agios Nikolaos, Zakynthos island, Greece`

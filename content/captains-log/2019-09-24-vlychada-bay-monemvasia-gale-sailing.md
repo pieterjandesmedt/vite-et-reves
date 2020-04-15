@@ -5,7 +5,7 @@ publishdate: 2019-09-24T22:37:10+03:00
 image: "IMG_6762.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 1.gpx"
-summary: "We set sail for Monemvasia and arrived in a Gale, just before a thunderstorm broke loose."
+summary: "The Vite & Rêves crew set sail for Monemvasia and arrived in a Gale, just before a thunderstorm broke loose."
 ---
 
 `From: Vlychada bay, Peloponnesos, Greece`<br/>

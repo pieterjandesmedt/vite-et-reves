@@ -5,7 +5,7 @@ publishdate: 2019-11-25T22:07:24+01:00
 image: "IMG_7985.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 42.gpx"
-summary: "We evade a fish farm on the short trip from Gorguel Bay to Cartagena, straight into the wind."
+summary: "The Vite & Rêves crew evade a fish farm on the short trip from Gorguel Bay to Cartagena, straight into the wind."
 ---
 
 `From: Gorguel bay, Spain`<br/>

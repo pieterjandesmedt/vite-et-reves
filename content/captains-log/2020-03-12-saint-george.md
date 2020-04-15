@@ -5,7 +5,7 @@ publishdate: 2020-03-12T11:46:57-04:00
 image: "IMG_9570_1.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 74.gpx"
-summary: "We sail with the Parents around the southern part of the island to Saint George."
+summary: "The Vite & Rêves crew sail with the Parents around the southern part of the island to Saint George."
 ---
 
 `From: Le Phare Blue Marina, Grenada`<br/>

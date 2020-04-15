@@ -5,7 +5,7 @@ publishdate: 2020-03-14T11:52:42-04:00
 image: "IMG_9610.jpg"
 author: "Pieter Jan"
 gpx: "Navionics_archive_export 75.gpx"
-summary: "We move the boat out of the marina to Grand Anse Bay."
+summary: "Vite & Rêves moves out of the marina to Grand Anse Bay."
 ---
 
 `From: Saint George, Grenada`<br/>
