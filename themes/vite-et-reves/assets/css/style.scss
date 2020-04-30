@@ -52,37 +52,38 @@ a.icon {
 	}
 }
 
+@media (prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference) {
+	.follow-us, .share-us {
+		text-align: center;
 
-.follow-us, .share-us {
-	text-align: center;
-
-	.icon {
-		color: white;
-
-		&:hover {
-			opacity: 0.7;
+		.icon {
 			color: white;
+
+			&:hover {
+				opacity: 0.7;
+				color: white;
+			}
 		}
-	}
 
-	.icon-noforeignland {
-		background: #333;
-	}
+		.icon-noforeignland {
+			background: #333;
+		}
 
-	.icon-facebook {
-		background: #3b5998;
-	}
+		.icon-facebook {
+			background: #3b5998;
+		}
 
-	.icon-youtube {
-		background: #bb0000;
-	}
+		.icon-youtube {
+			background: #bb0000;
+		}
 
-	.icon-instagram {
-		background: #3f729b;
-	}
+		.icon-instagram {
+			background: #3f729b;
+		}
 
-	.icon-twitter {
-		background: #1da1f2;
+		.icon-twitter {
+			background: #1da1f2;
+		}
 	}
 }
 
@@ -147,6 +148,21 @@ a.icon {
 
 		.button {
 			margin-top: 1rem;
+		}
+	}
+}
+
+@media (prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference) {
+	.post {
+		.post-text {
+			color: white;
+			text-shadow: 0 0 .5px black, 0 0 30px black;
+			p {
+				text-shadow: 0 0 .5px black, 0 0 15px black;
+			}
+			a, a:hover {
+				color: white;
+			}
 		}
 	}
 }
