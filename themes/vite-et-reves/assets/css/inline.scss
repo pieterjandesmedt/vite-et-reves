@@ -136,6 +136,19 @@ video#hero-video {
 
 }
 
+@media (prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference) {
+	.hero {
+		svg {
+			fill: white;
+			filter: drop-shadow(0 0 30px black);
+		}
+		.subtitle {
+			color: white;
+			text-shadow: 0 0 30px black;
+		}
+	}
+}
+
 .shadow {
 	filter: drop-shadow(0 0 30px black);
 }
