@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	var observer = lozad('.lozad', {
 		rootMargin: '500px 0px',
 		loaded: function (el) {
-			el.classList.add('fade')
+			el.classList.add('fully-loaded');
 		}
 	})
 

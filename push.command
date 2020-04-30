@@ -12,6 +12,9 @@ git add .
 git commit -a -m "$MESSAGE"
 git push
 
+echo -e "${YELLOW}\nCreating LQIPs...${NOCOLOR}"
+./makethumb.sh
+
 echo -e "${YELLOW}\nResizing images...${NOCOLOR}"
 ./resize.sh
 

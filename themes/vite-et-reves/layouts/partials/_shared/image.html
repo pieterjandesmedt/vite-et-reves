@@ -1,5 +1,6 @@
 {{ $a := index (split .ratio "x") 0 }}
 {{ $b := index (split .ratio "x") 1 }}
+{{ $svg := delimit (slice (index (split .src ".") 0) "svg") "." }}
 <figure>
 {{ if eq (getenv "HUGO_ENV" ) "production" }}
 	{{ $x := 1.0 }}
@@ -43,11 +44,16 @@
 				100vw"
 				type="image/jpeg"
 			/>
-		<img class="is-fullwidth" src="{{ index (split (index (last 1 $srcset) 0) " ") 0 }}" alt="{{ .alt }}" />
+		<img class="is-fullwidth" src="/images/lqip/{{ $svg }}" alt="{{ .alt }}" />
 	</picture>
 {{ else }}
 	<picture class="image is-fullwidth is-{{ $a }}by{{ $b }}{{ with .class }} {{ . }}{{ end }}">
-		<img class="lozad" style="object-fit: cover;" data-src="/images/{{ .src }}" alt="{{ .alt }}" loading="lazy" />
+		<source class="lozad"
+			data-srcset="/images/{{ .src }}"
+			sizes="100vw"
+				type="image/jpeg"
+			/>
+		<img class="is-fullwidth" style="object-fit: cover;" src="/images/lqip/{{ $svg }}" alt="{{ .alt }}" />
 	</picture>
 {{ end }}
 	<figcaption class="caption">{{ .alt }}</figcaption>
