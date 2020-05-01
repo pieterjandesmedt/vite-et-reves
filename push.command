@@ -6,14 +6,14 @@ GREEN="\033[0;32m"
 YELLOW="\033[1;33m"
 NOCOLOR="\033[0m"
 
+echo -e "${YELLOW}\nCreating LQIPs...${NOCOLOR}"
+./makethumb.sh
+
 cd "`dirname "$0"`"
 echo -e "${YELLOW}\nPushing texts...${NOCOLOR}"
 git add .
 git commit -a -m "$MESSAGE"
 git push
-
-echo -e "${YELLOW}\nCreating LQIPs...${NOCOLOR}"
-./makethumb.sh
 
 echo -e "${YELLOW}\nResizing images...${NOCOLOR}"
 ./resize.sh
