@@ -1,12 +1,11 @@
 ---
 title: "What Day Is This?"
-date: 2020-04-26T17:15:19-04:00
-publishdate: 2020-04-26T17:15:19-04:00
-image: ""
+date: 2020-05-01T07:15:19-04:00
+publishdate: 2020-05-01T07:15:19-04:00
+image: "IMG_0029.jpg"
 author: "Pieter Jan"
-gpx: ""
-summary: ""
-draft: true
+gpx: "Navionics_archive_export 82.gpx"
+summary: "The Vite & Rêves crew is starting to suffer from quarantine fatigue."
 ---
 
 `From: Woburn Bay, Grenada`<br/>
@@ -14,22 +13,16 @@ draft: true
 
 What day is this? What month? Still 2020? At least still 2020, of that I'm quite sure. The days merge into one another like they have never done before.
 
-{{< image src="" alt="" ratio="3x2" >}}
+The seasons seem to be changing slowly. Grenada has two seasons: wet and dry. The dry season is ending and the wet season will start next month. We're got a little more rain in the last week. At least, it makes for beautiful sunsets and keeps the boat clean.
 
-speed of light = speed of causality
+{{< image src="IMG_0029.jpg" alt="Sunset after a rainy day" ratio="3x2" >}}
 
-some things are causal, some things not e.g. quantum things like radioactive decay
-some things == big things? i.e. many things together?
-is causality a superposition of non-causality?
-do non-causal things have a speed limit?
-if not, how does the speed of causality get 'generated' by superposition of many non-causal things?
-is there something like a probability field?
-what is the relationship between causality and time?
-is time real or an illusion?
-time vs entropy?
-the map is not the territory - the model is not the thing
-does it have anything to do with quantum fluctuations? (re entropy and non-causality)
-are non-causal things simply in different lightcones?
-what causes locality?
+Speaking of clean, one of my new hobbies during the lockdown is cleaning the hulls. It's nasty work. It involves diving under the boat repeatedly, scraping off barnacles with a scraper, brushing off seaweed with a stiff brush, holding on to a suction pad and getting dragged through the water by the moving boat.
 
+The little shrimps and crabs living between the weeds don't take kindly to the destruction of their habitat and fling themselves at me with reckless abandon. Cleaning one hull takes the better part of an hour. After a week, the growth is back. Repeat.
 
+{{< image src="IMG_0033.jpg" alt="Tools of the trade" ratio="3x2" >}}
+
+As for the rest, we're still stuck in paradise limbo. Things would be easier if people just accepted that yes, life expectancy has just gone down a bit, and carry on. It has been going up for the last century, so we're still ahead.
+
+Sitting inside for weeks on end is not living. After all, it's not the years in your life that count, but the life in your years.
