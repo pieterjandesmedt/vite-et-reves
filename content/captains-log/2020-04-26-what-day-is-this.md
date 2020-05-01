@@ -13,7 +13,7 @@ summary: "The Vite & Rêves crew is starting to suffer from quarantine fatigue."
 
 What day is this? What month? Still 2020? At least still 2020, of that I'm quite sure. The days merge into one another like they have never done before.
 
-The seasons seem to be changing slowly. Grenada has two seasons: wet and dry. The dry season is ending and the wet season will start next month. We're got a little more rain in the last week. At least, it makes for beautiful sunsets and keeps the boat clean.
+The seasons seem to be changing slowly. Grenada has two seasons: wet and dry. The dry season is ending and the wet season will start next month. We've gotten a little more rain in the last week. At least, it makes for beautiful sunsets and keeps the boat clean.
 
 {{< image src="IMG_0029.jpg" alt="Sunset after a rainy day" ratio="3x2" >}}
 
