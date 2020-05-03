@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 22:37:11 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 07:15:19 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What Day Is This?</title>
+      <link>https://vite-et-reves.com/captains-log/2020-04-26-what-day-is-this/</link>
+      <pubDate>Fri, 01 May 2020 07:15:19 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-04-26-what-day-is-this/</guid>
+      <description>The Vite &amp;amp; Rêves crew is starting to suffer from quarantine fatigue.</description>
+    </item>
     
     <item>
       <title>Stuck</title>
@@ -19,6 +28,15 @@
       
       <guid>https://vite-et-reves.com/captains-log/2020-04-13-stuck/</guid>
       <description>The Vite &amp;amp; Rêves crew make the best of the lockdown in Grenada.</description>
+    </item>
+    
+    <item>
+      <title>Easter</title>
+      <link>https://vite-et-reves.com/captains-log/2020-04-12-easter/</link>
+      <pubDate>Sun, 12 Apr 2020 15:03:47 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-04-12-easter/</guid>
+      <description>The Easter bunny did find the Vite &amp;amp; Rêves crew after all.</description>
     </item>
     
     <item>
