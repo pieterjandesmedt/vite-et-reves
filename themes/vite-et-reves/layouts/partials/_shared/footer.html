@@ -12,6 +12,8 @@
 	</div>
 </footer>
 
+{{/* for resources.Get to work, resources should be in the /assets subdirectory of your theme */}}
+
 {{ $bulma := resources.Get "css/bulma.sass" | toCSS }}
 {{ $inline := resources.Get "css/inline.scss" | toCSS }}
 {{ $custom := resources.Get "css/style.scss" | toCSS }}
