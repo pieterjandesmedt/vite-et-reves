@@ -10,7 +10,7 @@ summary: "Grenada beaches are open again! Finally!"
 
 `At: Grand Anse Bay, Grenada`
 
-Living space on Vite & Rêves is about 30m<sup>2</sup>. This works out to about 2 by 3 meters per person. Imagine living on 2 by 3 meters for more than a month. The United Nations has condemned countries for less. Amnesty International would write some _very_ angry letters.
+Living space on Vite & Rêves is about 30m<sup>2</sup>. This works out to about 6m<sup>2</sup> per person. Imagine living on 2 by 3 m for more than a month. The United Nations has condemned countries for less. Amnesty International would write some _very_ angry letters.
 
 To put things in perspective: out of 120 000 inhabitants, 7 currently have covid19. All are quarantined and doing well. Contact tracing is continuous and extensive. In short: There's zero risk.
 
