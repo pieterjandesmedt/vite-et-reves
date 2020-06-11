@@ -5,7 +5,7 @@ publishdate: 2020-06-10T20:20:44-04:00
 image: "pexels-photo-839195.jpeg"
 author: "Pieter Jan"
 gpx: ""
-summary: ""
+summary: "The Vite & Rêves crew try to decide what's next for them and the boat."
 ---
 
 `At: Woburn Bay, Grenada`
