@@ -19,4 +19,4 @@ Vite & Rêves is starting to resemble a caged lion, going in circles around Gren
 
 Visibility was good and the sun was high is the sky, so I decided to go carefully between the reefs instead of around. The sea is much calmer there. I kept an eye on the charts the whole time. It was a bit stressy when the depth decreased to 1.5 meters. With the daggers up, Vite & Rêves only draws 70 centimeters, but still a bit shallow for my liking. We made it without incident to Woburn Bay.
 
-{{< image src="IMG_0158.jpg" alt="A nice reef can make anyone look good, even with a covid beard" ratio="3x2" >}}
+{{< image src="IMG_0158.jpg" alt="A nice reef can make anyone look good, even with a corona beard" ratio="3x2" >}}
