@@ -14,7 +14,11 @@ The picture below perfectly captures why I despair about the future of the human
 
 {{< image src="IMG_4682.jpg" alt="4 different cooking gas regulators. We actually have two more, not pictured." ratio="16x9" >}}
 
-Almost every country in the world has their own type of gas valve. Why is this a problem? Apart from seriously triggering my aversion for inefficiency, all gas merchants give you a full bottle when you return an empty one. If the empty one has the wrong valve, they won't accept it and you'll have to buy the gas and the bottle --- which is usually ridiculously expensive.
+Almost every country in the world has their own type of gas valve. Now let me ask you:
+
+**Why don't we have ONE WORLD STANDARD for such a simple thing?**
+
+Apart from seriously triggering my aversion for inefficiency, all gas merchants give you a full bottle when you return an empty one. If the empty one has the wrong valve, they won't accept it and you'll have to buy the gas and the bottle --- which is usually ridiculously expensive.
 
 I have another beef with gas bottles: in some countries they're ultra cheap, in other countries they're positively extortionate. You never know what you're going to get. For the rest of the story, keep in mind that the amount of gas we buy should cost €5 per bottle.
 
