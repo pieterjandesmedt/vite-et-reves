@@ -18,24 +18,21 @@
 	"Image": {
 		"prefix": "img",
 		"body": [
-			"{{< image src=\"$1\" alt=\"\" ratio=\"3x2\" >}}",
-			"$2"
+			"{{< image src=\"$1\" alt=\"$2\" ratio=\"${3:3x2}\" >}}"
 		],
 		"description": "Add image shortcode"
 	},
 	"Two Images": {
 		"prefix": "img2",
 		"body": [
-			"{{< two-images src1=\"\" alt1=\"\" ratio1=\"\" src2=\"\" alt2=\"\" ratio2=\"\" >}}",
-			"$2"
+			"{{< two-images src1=\"$1\" alt1=\"$2\" ratio1=\"${3:2x3}\" src2=\"$4\" alt2=\"$5\" ratio2=\"${3:2x3}\" >}}"
 		],
 		"description": "Add two-images shortcode"
 	},
 	"Three Images": {
 		"prefix": "img3",
 		"body": [
-			"{{< three-images src1=\"\" alt1=\"\" ratio1=\"\" src2=\"\" alt2=\"\" ratio2=\"\" src3=\"\" alt3=\"\" ratio3=\"\" >}}",
-			"$2"
+			"{{< three-images src1=\"$1\" alt1=\"$2\" ratio1=\"${3:1x1}\" src2=\"$4\" alt2=\"$5\" ratio2=\"${3:1x1}\" src3=\"$6\" alt3=\"$7\" ratio3=\"${3:1x1}\" >}}"
 		],
 		"description": "Add three-images shortcode"
 	},
