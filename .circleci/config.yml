@@ -30,7 +30,7 @@ jobs:
       - run:
           name: Install and configure dependencies
           command: |
-            npm install -D deploy-to-github-pages
+            npm install -g deploy-to-github-pages
             git config --global user.email "$GH_EMAIL"
             git config --global user.name "$GH_USER"
       - run:
