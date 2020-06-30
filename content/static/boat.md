@@ -10,7 +10,7 @@ weight: 3
 
 &mdash; from MultihullsWorld's [Catana 401 Review](/documents/Catana401.pdf)
 
-Vite & Rêves may have permanently damaged my ability to enjoy other sailboats. She's that good. I was used to sailing in monohulls. Vite & Rêves is the second catamaran I ever set foot on in my life. I'm never looking back.
+I was used to sailing in monohulls. Vite & Rêves is the second catamaran I ever set foot on in my life. I'm never looking back. She's that good.
 
 Vite & Rêves is fast, safe and very comfortable. Her 2 meter long daggerboards can make her go to 30 degrees to the apparent wind. This is excellent even by performance monohull standards. With the daggerboards up, she draws only 70cm (2.3ft), so practically every marina, bay and beach is accessible.
 
