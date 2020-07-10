@@ -10,6 +10,7 @@
 		<a href="{{ .Permalink }}">
 			<div>
 				<h1 class="is-size-1-desktop is-size-2-tablet is-size-5-mobile">{{- .Title -}}</h1>
+				{{ with .Params.subtitle }}<h2 class="is-size-3-desktop is-size-4-tablet is-size-6-mobile">{{- . -}}</h2>{{ end }}
 				<p class="post-date is-size-7">
 					{{ with .Params.author }}
 					Written by {{ . }} on

@@ -14,7 +14,7 @@
 				<div class="mainheading columns">
 					<!-- Post Title -->
 					<div class="column">
-						<h1 class="is-size-1-desktop is-size-2-tablet is-size-4-mobile">{{ .Title }}</h1>
+						<h1 class="is-size-1-desktop is-size-2-tablet is-size-4-mobile">{{ .Title }}{{ with .Params.subtitle }} {{ . }}{{ end }}</h1>
 						<p class="subtitle is-size-7">
 							{{ with .Params.author }}
 							Written by {{ . }} on

@@ -24,6 +24,8 @@ We passed the time walking along the beach. As it was a Sunday, the whole town w
 
 We tried to have a bite in restaurant _'Suck Hole'_, but the kitchen was running on island time and after nursing our beers for the best part of an hour, we had to leave empty-stomached for immigration. It was 14:00.
 
+<a name="machete-time"></a>
+
 We walked past a stall that sold coconuts for $TT 8 (around €1). Naturally, we had to have a coconut. The lady hacked a piece out of every coconut with a machete and we drank the water straight from the nut. Afterwards, she skillfully cut two razor sharp spoons from the husk to scoop out the coconut flesh.
 
 {{< image src="IMG_7396.jpg" alt="Machete time" ratio="3x2" >}}

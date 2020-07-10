@@ -12,6 +12,6 @@ weight: 1
 
 ### Next up
 
-##### April
+##### August
 
-- Waiting out this corona thinghy in Grenada
+- Sell the boat and go back to being landlubbers... for now.
