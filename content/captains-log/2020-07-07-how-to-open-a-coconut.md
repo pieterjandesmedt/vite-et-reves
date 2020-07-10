@@ -7,7 +7,6 @@ image: "IMG_0324.jpg"
 author: "Pieter Jan"
 gpx: ""
 summary: "The Vite & Rêves crew learns how to open a coconut."
-draft: true
 ---
 
 `At: Hog Island, Grenada`
