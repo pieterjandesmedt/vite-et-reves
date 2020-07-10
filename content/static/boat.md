@@ -4,7 +4,7 @@ date: 2019-07-28T18:05:15+02:00
 weight: 3
 ---
 
-**UPDATE: Vite & Rêves is for sale!**
+**UPDATE: Vite & Rêves is for sale!** Asking price is **€198.000**. Make us an offer!
 
 > _Sailing  the  Catana  401  shows  her  to  be  very fast  with  frank  accelerations.  She  is  easy  to handle, both  under  sail  and with  motors. The gentle steering and comfort make it possible to be at  the  helm for long hours  without  fatigue. Unquestionably, this boat is very lively, efficient and safe._
 
@@ -16,7 +16,7 @@ Vite & Rêves is fast, safe and very comfortable. Her 2 meter long daggerboards 
 
 She's faster than any boat her length and leaves even much longer monohulls in her wake. The theoretical maximum boat speed of a 40 footer is 8 knots. This is Vite & Rêves' minimum speed as soon as the wind picks up a bit. The maximum speed we did was 20 knots, during our Atlantic crossing. The maximum speed on the speed log is 24 knots. And she sails safely and comfortably, even at those speeds.
 
-All her systems are kept very simple and maintainable. All the lines go back to the cockpit. Hoisting the mainsail and reefing is child's play. She's easy to sail single-handedly, a big plus when you have 3 kids on board. Her double mainsheet system forgives most mistakes. If things break, repair is usually doable with your own hands, some chewing gum and a paperclip.
+All her systems are kept very simple and maintainable. All the lines go back to the cockpit. Hoisting the mainsail and reefing is child's play. She's easy to sail single-handedly, a big plus when you have 3 kids on board. Her double mainsheet system forgives most mistakes.
 
 She's unsinkable, not only because of the watertight compartments in the bows and the sterns, but also because the boat itself is lighter than water. Even fully flooded, she'll still float. In the middle of the ocean, with no land in sight for hundreds of miles, this is a great comfort.
 
