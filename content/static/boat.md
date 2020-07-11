@@ -71,7 +71,7 @@ It's known that every boat has her own character. Vite & Rêves is patient, play
 - Two Jabsco manual toilets
 - Two water heaters 20 liters on engine cooling and 220 Volts
 - Two fresh water pumps (one in each engine room) with bypass from one hull to the other
-- One new water maker Schenker Zen 30 liter/hour using only 9amps/h, with extra filters (dec 2019)
+- One new water maker Schenker Zen 30 liter/hour using only 9amps/h, with extra filters (2020)
 - One fresh water deck shower aft starboard scoop
 - Sea water pump to the kitchen sink and aft starboard scoop
 
