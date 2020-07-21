@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Thu, 09 Jul 2020 15:36:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 15:49:38 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Incoming!</title>
+      <link>https://vite-et-reves.com/captains-log/2020-07-21-incoming/</link>
+      <pubDate>Tue, 21 Jul 2020 15:49:38 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-07-21-incoming/</guid>
+      <description>The Vite &amp;amp; Rêves crew prepares for a possible tropical depression.</description>
+    </item>
     
     <item>
       <title>Mount Carmel Waterfalls</title>
