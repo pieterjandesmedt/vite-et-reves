@@ -2,10 +2,10 @@
 title: "Island Tour"
 date: 2020-07-23T14:23:55-04:00
 publishdate: 2020-07-23T14:23:55-04:00
-image: ""
+image: "IMG_0650.jpg"
 author: "Pieter Jan"
 gpx: ""
-summary: ""
+summary: "The Vite & Rêves crew visit the island with friends under the expert guidance of Mr. Cutty."
 ---
 
 `All around Grenada`
