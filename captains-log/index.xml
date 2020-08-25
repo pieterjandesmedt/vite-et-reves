@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Tue, 21 Jul 2020 15:49:38 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 12:35:39 -0400</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tropical Storm Gonzalo</title>
+      <link>https://vite-et-reves.com/captains-log/2020-07-22-tropical-storm-gonzalo/</link>
+      <pubDate>Wed, 22 Jul 2020 12:35:39 -0400</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-07-22-tropical-storm-gonzalo/</guid>
+      <description>The Vite &amp;amp; Rêves crew put the boat safely in the mangroves for the coming storm.</description>
+    </item>
     
     <item>
       <title>Incoming!</title>
