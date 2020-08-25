@@ -14,11 +14,11 @@ I was used to sailing in monohulls. Vite & Rêves is the second catamaran I ever
 
 Vite & Rêves is fast, safe and very comfortable. Her 2 meter long daggerboards can make her go to 30 degrees to the apparent wind. This is excellent even by performance monohull standards. With the daggerboards up, she draws only 70cm (2.3ft), so practically every marina, bay and beach is accessible.
 
-She's faster than any boat her length and leaves even much longer monohulls in her wake. The theoretical maximum boat speed of a 40 footer is 8 knots. This is Vite & Rêves' minimum speed as soon as the wind picks up a bit. The maximum speed we did was 20 knots, during our Atlantic crossing. The maximum speed on the speed log is 24 knots. And she sails safely and comfortably, even at those speeds.
+She's faster than any boat her length and leaves even much longer monohulls in her wake. The theoretical maximum boat speed of a 40 footer is 8 knots. This is Vite & Rêves' minimum speed as soon as the wind picks up a bit. The maximum speed we did was 20 knots, during our Atlantic crossing. And here's the crazy part: we didn't even feel it inside. All 7 of us were having a nice freshly made dinner at the time. The maximum speed on the speed log is 24 knots. She sails safely and comfortably, even at those speeds.
 
-All her systems are kept very simple and maintainable. All the lines go back to the cockpit. Hoisting the mainsail and reefing is child's play. She's easy to sail single-handedly, a big plus when you have 3 kids on board. Her double mainsheet system forgives most mistakes.
+All her systems are kept very simple and maintainable. All the lines go back to the cockpit. Hoisting the mainsail and reefing is child's play. Sailing close-hauled in 50 knots in an acceleration zone in the Med? No problem. Just put the three reefs in both sails yourself while the kids are playing inside and enjoy the sunset. She's easy to sail single-handedly, a big plus when you have 3 kids on board. Her double mainsheet system forgives most mistakes.
 
-She's unsinkable, not only because of the watertight compartments in the bows and the sterns, but also because the boat itself is lighter than water. Even fully flooded, she'll still float. In the middle of the ocean, with no land in sight for hundreds of miles, this is a great comfort.
+She's unsinkable, not only because of the watertight compartments in the bows and the sterns, but also because the boat itself is lighter than water. Even fully flooded, she'll still float. In the middle of the ocean, with no land in sight for hundreds of miles, this is a great mental comfort.
 
 It's known that every boat has her own character. Vite & Rêves is patient, playful, enthusiastic, gentle and friendly. This is a boat that makes you feel at ease, even in big winds and big seas.
 
