@@ -20,7 +20,7 @@ Jenny lives in a colonial-style open house overlooking the ocean. A very narrow 
 
 Like most houses in Grenada, this one is also built on stilts. Under the house live several ducks, chickens, donkeys and a huge pig name Priscilla, Queen of the Jungle. Jenny also cares a lot for stray dogs. At least 15 live in and around the house. A charity is set up to sterilize them as to not exacerbate the stray dog problem on the island.
 
-The house has no windows, only shutters, so the wildlife is also welcomed inside. The bedroom houses several bats during the day. At night, they fly out.
+The house has no windows, only shutters, so the wildlife is also welcomed inside. The bedroom houses several bats during the day. At night, they fly out. Each bat eats about 600 mosquitoes per hour. Beats DEET spray.
 
 {{< image src="IMG_9358.JPG" alt="Priscilla the pig" ratio="3x2" >}}
 
