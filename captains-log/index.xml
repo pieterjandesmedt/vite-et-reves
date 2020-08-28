@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sat, 15 Aug 2020 13:33:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 16:55:46 +0200</lastBuildDate>
     
 	<atom:link href="https://vite-et-reves.com/captains-log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 Things We Will Miss</title>
+      <link>https://vite-et-reves.com/captains-log/2020-08-17-7-things-we-will-miss/</link>
+      <pubDate>Mon, 17 Aug 2020 16:55:46 +0200</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-08-17-7-things-we-will-miss/</guid>
+      <description>The Vite &amp;amp; Rêves crew muses about Grenadian things that cannot be found elsewhere.</description>
+    </item>
     
     <item>
       <title>Jenny&#39;s Farm</title>
