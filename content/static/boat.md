@@ -4,7 +4,7 @@ date: 2019-07-28T18:05:15+02:00
 weight: 3
 ---
 
-**UPDATE: Vite & Rêves is for sale!** Link to the listing will follow soon. Make us an offer!
+**UPDATE: Vite & Rêves is for sale!** [Link to the listing is here.](https://grenada.boatshed.com/catana_c401-boat-274342.html) Make us an offer!
 
 > _Sailing  the  Catana  401  shows  her  to  be  very fast  with  frank  accelerations.  She  is  easy  to handle, both  under  sail  and with  motors. The gentle steering and comfort make it possible to be at  the  helm for long hours  without  fatigue. Unquestionably, this boat is very lively, efficient and safe._
 
