@@ -28,16 +28,16 @@ var getJSON = function (url, callback) {
 
 map.on('load', function () {
 
-	getJSON('https://api.roambee.com/v2/shipment/summary?uuid=d2f388be-f054-4a1b-bb18-bff615a1e7f7&apikey=069b6dee-6091-4241-90b9-b1976859e2c3',
-	function(err, data) {
-		if (err !== null) {
-			console.error('Something went wrong. The map couldn\'t connect to the roambee server. (Error ' + err + '). Vite & Rêves last known position cannot be plotted.\n\nDon\'t worry. This will probably work again soon.');
-		} else {
-			var lastKnownPosition = data.geo_summary.current_location;
-			console.log('lastKnownPosition:', lastKnownPosition);
-			plotPosition(lastKnownPosition);
-		}
-	});
+	// getJSON('https://api.roambee.com/v2/shipment/summary?uuid=d2f388be-f054-4a1b-bb18-bff615a1e7f7&apikey=069b6dee-6091-4241-90b9-b1976859e2c3',
+	// function(err, data) {
+	// 	if (err !== null) {
+	// 		console.error('Something went wrong. The map couldn\'t connect to the roambee server. (Error ' + err + '). Vite & Rêves last known position cannot be plotted.\n\nDon\'t worry. This will probably work again soon.');
+	// 	} else {
+	// 		var lastKnownPosition = data.geo_summary.current_location;
+	// 		console.log('lastKnownPosition:', lastKnownPosition);
+	// 		plotPosition(lastKnownPosition);
+	// 	}
+	// });
 
 	const callbacks = [];
 	const routeData = [];
