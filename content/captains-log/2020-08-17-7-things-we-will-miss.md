@@ -15,7 +15,7 @@ summary: "The Vite & Rêves crew muses about Grenadian things that cannot be fou
 
 {{< image src="IMG_0520.jpg" alt="Imagine waking up to this. Well, you don't have too. It really exists." ratio="3x2" >}}
 
-Cruising on a sailboat naturally leads you to the most beautiful and unspoiled places in the world. You can got to the spots where no one else can come. And those spots, on the boundary between land and sea, are magnificent.
+Cruising on a sailboat naturally leads you to the most beautiful and unspoiled places in the world. You can go to the spots where no one else can come. And those spots, on the boundary between land and sea, are magnificent.
 
 For me, the most alluring of those places are piraty tropical volcano islands, like Grenada. The mountains are steep and dramatic, but covered in the most eye-popping, greenest jungle you can imagine. The sea and the sky are a deep blue hue. The boats of fellow cruisers add romantic accents of bright white to the landscape.
 
