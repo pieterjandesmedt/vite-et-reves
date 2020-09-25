@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Sun, 28 Jul 2019 18:15:43 +0200</lastBuildDate>
-    
-	<atom:link href="https://vite-et-reves.com/static/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 28 Jul 2019 18:15:43 +0200</lastBuildDate><atom:link href="https://vite-et-reves.com/static/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Route</title>
       <link>https://vite-et-reves.com/static/route/</link>

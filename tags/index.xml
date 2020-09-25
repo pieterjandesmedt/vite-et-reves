@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Vite &amp; Rêves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
-    <copyright>Vite &amp; Rêves</copyright>
-    
-	<atom:link href="https://vite-et-reves.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Vite &amp; Rêves</copyright><atom:link href="https://vite-et-reves.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

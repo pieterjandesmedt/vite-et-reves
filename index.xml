@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <copyright>Vite &amp; Rêves</copyright>
-    <lastBuildDate>Mon, 17 Aug 2020 16:55:46 +0200</lastBuildDate>
-    
-	<atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 26 Aug 2020 10:03:28 +0200</lastBuildDate><atom:link href="https://vite-et-reves.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Route</title>
       <link>https://vite-et-reves.com/static/route/</link>
@@ -38,6 +34,15 @@
       <guid>https://vite-et-reves.com/static/boat/</guid>
       <description>UPDATE: Vite &amp;amp; Rêves is for sale! Link to the listing is here. Make us an offer!
  Sailing the Catana 401 shows her to be very fast with frank accelerations.</description>
+    </item>
+    
+    <item>
+      <title>The End</title>
+      <link>https://vite-et-reves.com/captains-log/2020-08-26-the-end/</link>
+      <pubDate>Wed, 26 Aug 2020 10:03:28 +0200</pubDate>
+      
+      <guid>https://vite-et-reves.com/captains-log/2020-08-26-the-end/</guid>
+      <description>The Vite &amp;amp; Rêves crew flies back to Belgium.</description>
     </item>
     
     <item>
@@ -201,7 +206,7 @@ We spend a lot of evenings on Hog Island beach these days. A few days ago, an im
       <pubDate>Thu, 14 May 2020 00:07:39 -0400</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2020-05-14-karrewiet/</guid>
-      <description>The Vite &amp;amp; Rêves kids made an appearance in Belgium&amp;rsquo;s kids&amp;rsquo; television news.</description>
+      <description>The Vite &amp;amp; Rêves kids made an appearance in Belgium&amp;rsquo;s kids&#39; television news.</description>
     </item>
     
     <item>
@@ -624,7 +629,7 @@ We spend a lot of evenings on Hog Island beach these days. A few days ago, an im
       <pubDate>Fri, 06 Dec 2019 21:19:35 +0100</pubDate>
       
       <guid>https://vite-et-reves.com/captains-log/2019-12-06-the-push/</guid>
-      <description>Part 2 of Vite &amp;amp; Rêves&amp;rsquo; final push out of the Mediterranean Sea.</description>
+      <description>Part 2 of Vite &amp;amp; Rêves&#39; final push out of the Mediterranean Sea.</description>
     </item>
     
     <item>
