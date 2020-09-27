@@ -15,7 +15,7 @@ Here's the thing with industrial little harbors: kids don't mind it one bit. For
 
 {{< image src="IMG_6835.jpg" alt="A tug, a barge and Vite & Rêves" ratio="3x2" >}}
 
-We figured, why not? The kids had been on the boat the whole day before, so there little hyperactive bodies needed the exercise like a desert island castaway needs fresh coconuts.
+We figured, why not? The kids had been on the boat the whole day before, so their little hyperactive bodies needed the exercise like a desert island castaway needs fresh coconuts.
 
 {{< two-images src1="IMG_6843.jpg" alt1="Climbing!" src2="IMG_6849.jpg" alt2="Rusty machinery!">}}
 
