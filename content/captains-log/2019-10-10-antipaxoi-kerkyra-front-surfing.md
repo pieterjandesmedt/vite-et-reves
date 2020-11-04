@@ -13,7 +13,7 @@ summary: "The Vite & Rêves crew anchored too close to another boat and had to l
 
 Our alarm sound of this morning was a gentle grating of our boat against the anchor chain of another boat. The wind had turned during the night. The other boat had less chain out than we did and so their turning circle was smaller than ours. Result: Our boats were getting really intimate with each other.
 
-When I came on deck, I saw the other captain trying to stare me to death. We had three options: shorten our chain, reanchor or leave. Barbara said, "If we reanchor we're gonna be wide awake anyway. The wind is good. Let's just go."
+When I came on deck, I saw the other captain trying to stare me to death. We had three options: shorten our chain, reanchor or leave. The staring captain had obviously no intention of letting out a few meters of chain to disentangle our boats. I could almost hear him think: "I was here first, I'm not moving a single inch." Barbara said, "If we reanchor we're gonna be wide awake anyway. The wind is good. Let's just go."
 
 We pulled in the anchor, deployed the Code D and sailed off. Barbara gave a little wave to the grumpy captain, who was still busy giving us the death stare. He didn't wave back.
 
@@ -25,7 +25,7 @@ The wind wasn't much, but it came from behind us and the sea was flat, so we mad
 
 After a morning of very pleasant spinnaker sailing, we saw a front approaching from behind. The front was pushing a thunderstorm with our name on it. It was thundering ominously.
 
-We rolled in the spinnaker and turned the engines on. If the boat gets hit by lighting, it could be impossible to start the engines. But being diesels they don't need electricity to keep running once they're started. I also steered closer to land to have some high mountains near us. Just our luck that we were passing the lowest point of Corfu right then.
+We rolled in the spinnaker and turned the engines on. If the boat gets hit by lighting, it's impossible to start the engines. But being diesels they don't need electricity to keep running once they're started. I also steered closer to land to have some high mountains near us to act as lightning rods. Just our luck that we were passing the lowest point of Corfu right then.
 
 The wind picked up. It started pouring down. We closed the door and let the autopilot take care of it. Barbara discovered the forward berths have a pretty good view even in heavy rain. It becomes impossible to see out of the saloon windows if it's raining heavily.
 

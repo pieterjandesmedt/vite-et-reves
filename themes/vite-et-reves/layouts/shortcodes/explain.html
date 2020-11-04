@@ -1,0 +1,1 @@
+{{- if len .Params | eq 2 -}}<span class="has-tooltip">{{.Get 0}}</span><span class="tooltip"> ({{.Get 1}})</span>{{- else -}}{{.Get 0}}{{- end -}}

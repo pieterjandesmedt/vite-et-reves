@@ -25,11 +25,11 @@ I guess he is one of the rare inhospitable Greeks.
 
 We started the engines, untangled the triple backup lines and left. The whole time the guy was paddling around watching our every move.
 
-The swell was still huge and the wind not much to speak of. But that changed once we rounded Cape Mounta on the south of Kefalonia. In their typical dry way, the charts warn about the cape: "BEWARE. Boats run aground here every year". We gave it a wide berth. The wind fell to nothing, then increased to 20 knots. This pattern is familiar by now. And it was a useable 20 knots! I opened the foresail and Vite & Rêves, glad to be sailing again, didn't hesitate. We sailed, surrounded by squalls, into the channel between Kefalonia and Ithaki.
+The swell was still huge and the wind not much to speak of. But that changed once we rounded Cape Mounta on the south of Kefalonia. In their typical dry way, the charts warn about the cape: "BEWARE. Boats run aground here every year". We gave it a wide berth. The wind fell to nothing, then increased to 20 knots. This cape wind pattern is familiar by now. And it was a useable 20 knots! I opened the foresail and Vite & Rêves, glad to be sailing again, didn't hesitate. We sailed, surrounded by squalls, into the channel between Kefalonia and Ithaki.
 
 {{< image src="IMG_7159.jpg" alt="A squall creeping up one of the Kefalonia mountains" ratio="3x2" >}}
 
-Once we were in the channel, pure joy! The wind decreased to the perfect 15 knots, the waves fell away, the clouds disappeared and the sun came out. It was like sailing into a different world. All of a sudden, dozens of sailboats were sailing around us too, as if to emphasize the fact that this was the perfect sailing spot.
+Once we were in the channel, pure joy! The wind decreased to the perfect 15 knots, the waves fell away, the clouds disappeared and the sun came out. It was like sailing into a different world. For a moment, I thought we had run around, died and gone to heaven. All of a sudden, dozens of sailboats were sailing around us too, as if to emphasize the fact that this was the perfect sailing spot.
 
 I spotted a sailboat going the same direction as us. Every time this happens, as every sailor knows, it's a race. "It's Code D time!", I shouted to Barbara, grinning from ear to ear. As soon as the Code D was deployed, Vite & Rêves accelerated to 10 knots, leaving the other guys in the dust. My arm felt sore from all the fist-pumping I did. Two fighter jets flew over, reminding me of those warning signs in California: "Speed limit enforced by aircraft".
 
