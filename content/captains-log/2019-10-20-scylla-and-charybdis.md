@@ -11,7 +11,9 @@ summary: "The Vite & Rêves crew dodge traffic in the Strait of Messina and safe
 `From: Archi, Italy`<br/>
 `To: Milazzo, Sicily, Italy`
 
-Again very little wind this morning. We put up the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}} and were calmly bobbing around, when I saw black sails appear on the horizon. They seemed to gaining quite fast on us. Pirates? It turned out to be Rambler 88, a 30 m racing boat, participating in the Middle Sea Race. They passed us at a cool 8 knots, while we were struggling to make 3 knots. Watching them {{% explain "gibe" "turn so the wind comes from the other direction" %}} is quite impressive. They furl that huge genua of theirs in 2 seconds, gibe the boat and unfurl it again in two seconds. The whole maneuver takes about 6 seconds.
+Again very little wind this morning. We put up the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}} and were calmly bobbing around, when I saw black sails appear on the horizon. They seemed to gaining quite fast on us. Pirates?
+
+It turned out to be Rambler 88, a 30 m racing boat, participating in the Middle Sea Race. They passed us at a cool 8 knots, while we were struggling to make 3 knots. Watching them {{% explain "gibe" "turn so the wind comes from the other direction" %}} is quite impressive. They furl that huge {{% explain "genua" "the foresail" %}} of theirs in two seconds, gibe the boat and unfurl it again in two seconds. The whole maneuver takes about 6 seconds. Makes my heart sing.
 
 {{< image src="IMG_7417.jpg" alt="Chilling on the foredeck of Rambler 88" ratio="3x2" >}}
 

@@ -15,7 +15,7 @@ Salvatore came back in the morning, the bent anchor straightened again. I was ve
 
 {{< image src="IMG_7507.jpg" alt="Straightened out" ratio="3x2" >}}
 
-The grib predictions promised 10 knots at our back the whole way. There were two huge leftover swells from the thunderstorms of the day before, one coming from the front, one from behind us. They interfered with each other, creating a confused pattern. Luckily the swell waves were long and lazy, so it was bearable, if a little unbalancing at times.
+The {{% explain "grib" "a small file that contains weather predictions" %}} predictions promised 10 knots at our back the whole way. There were two huge leftover swells from the thunderstorms of the day before, one coming from the front, one from behind us. They interfered with each other, creating a confused pattern. Luckily the swell waves were long and lazy, so it was bearable, if a little unbalancing at times.
 
 We put up the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}} and made an average of 2 knots. Vite & Rêves was held back by the hilly ride. This would mean the crossing would take 3,5 days of sailing. Sighing, I turned on the engines, hoping for more wind once we left Sicily's wind shadow.
 

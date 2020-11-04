@@ -15,7 +15,7 @@ We left Capo Calava in the slightest of breezes, barely enough to keep the sails
 
 {{< image src="IMG_7463.jpg" alt="Capo Calava" ratio="3x2" >}}
 
-According to the grib predictions, we needed to go north 10 miles, almost to the Aeolian islands, to find better wind. We tried sailing there. We had to beat into the wind anyway, completely contrary to the grib predictions.
+According to the {{% explain "grib" "a small file that contains weather predictions" %}} predictions, we needed to go north 10 miles, almost to the Aeolian islands, to find better wind. We tried sailing there. We had to beat into the wind anyway, completely contrary to the grib predictions.
 
 {{< image src="IMG_7465.jpg" alt="Capo d'Orlando" ratio="3x2" >}}
 

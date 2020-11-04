@@ -25,7 +25,7 @@ A stunt plane flew by, did a tour around the boat. It flew so close we could cle
 
 When we neared cape Spartivento, the wind did a predictable but still surprising 120 degree shift. We rolled in the gennaker just in time. The wind increased to 22 knots, Vite & Rêves sped up to 9 knots. The waves became a lot higher when we flew past the cape. Véronique got a taste of open sea sailing.
 
-We sailed about 45 degrees off the wind, with the daggerboards halfway down. The wind now strengthened to the low 30's. With one {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} in the main, and sometimes one in the genua too, the ride remained comfortable, even with the large waves.
+We sailed about 45 degrees off the wind, with the daggerboards halfway down. The wind now strengthened to the low 30's. With one {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} in the main, and sometimes one in the {{% explain "genua" "the foresail" %}} too, the ride remained comfortable, even with the large waves.
 
 {{< image src="IMG_7662.jpg" alt="The safe port of Porto Teulada" ratio="3x2" >}}
 

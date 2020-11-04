@@ -27,7 +27,7 @@ We continued along the coast. The sun set behind the mountains under a few thin 
 
 {{< image src="IMG_7958.jpg" alt="At last, another sunset!" ratio="3x2" >}}
 
-The wind fell once we rounded cape Palos. Our ETA to Cartagena went up from 22:30 to 01:00. I checked the charts and found a little protected bay not too far away. Rather than arrive at night in an unknown harbor, we elected to anchor in Gorguel bay. Anchoring is less stressful than mooring when the night is pitch black and it's too late to count on someone to help with the lines.
+The wind fell once we rounded cape Palos. Our {{% explain "ETA" "estimated time of arrival" %}} to Cartagena went up from 22:30 to 01:00. I checked the charts and found a little protected bay not too far away. Rather than arrive at night in an unknown harbor, we elected to anchor in Gorguel bay. Anchoring is less stressful than mooring when the night is pitch black and it's too late to count on someone to help with the lines.
 
 The entrance to the bay was almost completely obstructed by yellow flashing lights. Special purpose buoys. I stayed out of the area between them, a good call as we found out the next day. We almost hit a huge unlighted buoy that was nearly on the beach in the bay. Luckily Barbara spotted it just in time. We anchored without a problem. I like sandy bottoms, I cannot lie.
 

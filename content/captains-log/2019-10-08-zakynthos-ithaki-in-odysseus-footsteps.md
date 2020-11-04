@@ -25,7 +25,11 @@ I guess he is one of the rare inhospitable Greeks.
 
 We started the engines, untangled the triple backup lines and left. The whole time the guy was paddling around watching our every move.
 
-The swell was still huge and the wind not much to speak of. But that changed once we rounded Cape Mounta on the south of Kefalonia. In their typical dry way, the charts warn about the cape: "BEWARE. Boats run aground here every year". We gave it a wide berth. The wind fell to nothing, then increased to 20 knots. This cape wind pattern is familiar by now. And it was a useable 20 knots! I opened the foresail and Vite & Rêves, glad to be sailing again, didn't hesitate. We sailed, surrounded by squalls, into the channel between Kefalonia and Ithaki.
+The swell was still huge and the wind not much to speak of. But that changed once we rounded Cape Mounta on the south of Kefalonia. In their typical dry way, the charts warn about the cape:
+
+> "BEWARE. Boats run aground here every year".
+
+We gave it a wide berth. The wind fell to nothing, then increased to 20 knots. This cape wind pattern is familiar by now. And it was a useable 20 knots! I opened the foresail and Vite & Rêves, glad to be sailing again, didn't hesitate. We sailed, surrounded by squalls, into the channel between Kefalonia and Ithaki.
 
 {{< image src="IMG_7159.jpg" alt="A squall creeping up one of the Kefalonia mountains" ratio="3x2" >}}
 

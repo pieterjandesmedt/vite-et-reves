@@ -29,7 +29,7 @@ We rolled in the spinnaker and turned the engines on. If the boat gets hit by li
 
 The wind picked up. It started pouring down. We closed the door and let the autopilot take care of it. Barbara discovered the forward berths have a pretty good view even in heavy rain. It becomes impossible to see out of the saloon windows if it's raining heavily.
 
-Because of the wind, a large swell was building, and Vite & Rêves started surfing down the waves. We exceeded the 10 knots a few times. It was hypnotizing to watch her hulls glide down the waves. Our ETA went down to 16:00. Nice!
+Because of the wind, a large swell was building, and Vite & Rêves started surfing down the waves. We exceeded the 10 knots a few times. It was hypnotizing to watch her hulls glide down the waves. Our {{% explain "ETA" "estimated time of arrival" %}} went down to 16:00. Nice!
 
 {{< image src="vlcsnap-2019-10-10-20h22m35s917.jpg" alt="Surfing the waves!" ratio="1920x1080" >}}
 

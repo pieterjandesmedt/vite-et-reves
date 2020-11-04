@@ -18,7 +18,7 @@ On one of our trips over to the Hog Island beach, we noticed a boat tied to the 
 
 > "Alright, I'll drop by tomorrow morning."
 
-The boat had been left there for a long time and the steel hull had finally rusted through. In its fall, the mast had destroyed the forestay and ripped out the pulpit of the small boat next to it. Luckily, the small boat has been abandoned too. But the two boats next to it weren't, so they wanted to get the mast away from the other boat's stays as soon as possible, before they would get damaged by the tilted mast in strong winds.
+The boat had been left there for a long time and the steel hull had finally rusted through. In its fall, the mast had destroyed the forestay and ripped out the pulpit of the small boat next to it. Luckily, the small boat has been abandoned too. But the two boats next to it weren't, so they wanted to get the mast away from the other boat's {{% explain "stays" "the metal cables that hold the mast upright" %}} as soon as possible, before they would get damaged by the tilted mast in strong winds.
 
 {{< image src="IMG_0247.jpg" alt="Something's amiss here" ratio="3x2" >}}
 

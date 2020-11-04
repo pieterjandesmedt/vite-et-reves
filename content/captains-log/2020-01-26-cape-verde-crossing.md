@@ -49,7 +49,7 @@ I went to bed until Barbara woke me up at 3:15. During my watch, I watched the '
 
 When I woke up, we were sailing on a broad reach. Broad enough to unfurl the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}}, which I promptly did. Vite & Rêves accelerated and accelerated, gathering speed surfing down the big waves, until we hit a new speed record: 16 knots!
 
-In the afternoon the wind decreased though. We're now entering proper trade winds, with their 15 knot constant north-western wind. We took down the still reefed mainsail and exchanged the gennaker for the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}. Our speed was now around 5 knots and our ETA shot up from 3-4 days to 6-8 days. I hope we brought enough food.
+In the afternoon the wind decreased though. We're now entering proper trade winds, with their 15 knot constant north-western wind. We took down the still reefed mainsail and exchanged the gennaker for the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}. Our speed was now around 5 knots and our {{% explain "ETA" "estimated time of arrival" %}} shot up from 3-4 days to 6-8 days. I hope we brought enough food.
 
 We tried out the fishing rod but didn't catch anything.
 

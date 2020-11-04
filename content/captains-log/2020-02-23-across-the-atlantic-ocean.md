@@ -17,7 +17,7 @@ We cleared out of Cabo Verde yesterday. Since customs don't work in the weekends
 
 While Barbara and I bought the last provisions (even more apples, squashes, limes and yoghurt), Hannah and Antoine cleaned the starboard hull. We moved the boat to the fuel dock to fill the fuel and especially the water tanks. I promised everyone that they could take a shower before leaving. Since we could connect to the electricity, we even had warm water, which felt like pure luxury!
 
-Around sunset, we were ready to leave. Destination: Tobago! Everyone was super stoked to finally start the big crossing. We unfurled the genua and sailed into the Canal de São Vicente.
+Around sunset, we were ready to leave. Destination: Tobago! Everyone was super stoked to finally start the big crossing. We unfurled the {{% explain "genua" "the foresail" %}} and sailed into the Canal de São Vicente.
 
 The wind and the waves started building (to 30 knots apparent and 2 to 3 meters respectively), but strangely, our speed wasn't that high. 6 to 8 knots over ground. I think we had a current against us in the Canal. The current would also account for the steep waves. Some of these waves obscure the horizon completely, rising up higher than the boom.
 

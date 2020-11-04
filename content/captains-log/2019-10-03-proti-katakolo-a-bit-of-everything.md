@@ -23,7 +23,7 @@ Waterspouts are a tornado's little cousin. Not as dangerous, but they can still 
 
 By the time the squall got to us, the waterspout had disappeared and all we got was a steady 15 knots and a few fat raindrops. All the better. We continued until the next squall.
 
-This time I had only put the smaller genua up and left the mainsail inside its bag. The wind increased steadily to over 20 knots, and another tentacle appeared, undulating as if were searching for a juicy, succulent boat to feast on. Waterspout are really quite fascinating to observe. I was slowly getting hypnotized, like Mowgli by that snake in Jungle Book.
+This time I had only put the smaller {{% explain "genua" "the foresail" %}} up and left the mainsail inside its bag. The wind increased steadily to over 20 knots, and another tentacle appeared, undulating as if were searching for a juicy, succulent boat to feast on. Waterspout are really quite fascinating to observe. I was slowly getting hypnotized, like Mowgli by that snake in Jungle Book.
 
 {{< image src="IMG_7074.jpg" alt="Thirsty for water. Hungry for boats." ratio="3x2" >}}
 

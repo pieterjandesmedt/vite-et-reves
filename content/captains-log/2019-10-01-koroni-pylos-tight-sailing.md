@@ -29,7 +29,7 @@ On the way, we passed the fortress of Methoni, the other 'eye' of the Venetians 
 
 {{< image src="IMG_6988.jpg" alt="Methoni fortress" ratio="3x2" >}}
 
-I pulled the sails as tight as possible, so tight you could hang some kids from the sheet. What they promptly did, like the little monkeys they are.
+I pulled the sails as tight as possible, so tight you could hang some kids from the {{% explain "genua sheet" "a line you use to control the foresail" %}}. What they promptly did, like the little monkeys they are.
 
 {{< two-images src1="IMG_6992_1.jpg" alt1="One monkey" src2="IMG_6997_1.jpg" alt2="Another monkey" >}}
 

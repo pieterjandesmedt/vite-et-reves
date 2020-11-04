@@ -35,6 +35,8 @@ Barbara pondered over the horrors of the night before, still blissfully unaware 
 
 {{< image src="IMG_7369.jpg" alt="Barbara staring into the distance" ratio="3x2" >}}
 
-We rounded the cape. The wind freshened to 20 knots. Then 25. Then 30. 35. Almost 40. It became a wild, non-stop rollercoaster. The waves sometimes broke over Vite & Rêves. She changed into a submarine. When I had to go to the mast to fix something, I was soaked in seconds. Luckily, it was only an hour and a half.
+We rounded the cape. The wind freshened to 20 knots. Then 25. Then 30. 35. Almost 40. It became a wild, non-stop rollercoaster. The waves sometimes broke over Vite & Rêves. She changed into a submarine. When I had to go to the mast to fix something, I was soaked in seconds. Luckily, it lasted only for an hour and a half.
 
-We docked in the extremely protected harbor of Le Castella. The propellor caught the lazy line again just as the boat was made fast. No biggie. The line wasn't cut and I freed the propellor easily in the morning. We thought about it and now know how to prevent this situation. You live, you learn.
+We docked in the extremely protected harbor of Le Castella. The propellor caught the lazy line again just as the boat was made fast. No biggie. The line wasn't cut and I freed the propellor easily. The water was really murky though. A good thing we had showers close by. We debriefed a bit about it and think we now know how to prevent this situation.
+
+You live, you learn.

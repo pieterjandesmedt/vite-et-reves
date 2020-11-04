@@ -15,7 +15,7 @@ I dreamt three separate dreams about the same subject: us leaving for Italy and 
 
 {{< image src="IMG_7310.jpg" alt="Leaving Palaiokastrita" ratio="3x2" >}}
 
-I worried only a little about the wind. According to the grib files, there would be no wind to start with and then a nice 10 to 15 knots on the {{% explain "beam" "the side of the boat" %}} later on. We turned on the engine to get to the windy zone as fast as possible. The sea alternated between glassy and oily.
+I worried only a little about the wind. According to the {{% explain "grib" "a small file that contains weather predictions" %}} files, there would be no wind to start with and then a nice 10 to 15 knots on the {{% explain "beam" "the side of the boat" %}} later on. We turned on the engine to get to the windy zone as fast as possible. The sea alternated between glassy and oily.
 
 The swell was building a bit once we entered the Adriatic Sea. Andreas was writing an email to his class on the laptop, soon had to run outside and lost his breakfast in our wake. There's something about staring at a screen that doesn't agree with sailing.
 
@@ -29,9 +29,9 @@ We raised the sails just in time to get priority over vessels on engine. We were
 
 The wind freshened and turned very gradually, in the right direction as I expected from the {{% explain "grib" "a small file that contains weather predictions" %}} prediction. Quite amazing. Until now, the winds had never followed the predictions. We turned slowly with the wind. There was nothing to do except change course a few degrees every now an then.
 
-Once the wind speed went over 15 knots regularly, we furled the gennaker and unfurled the {{% explain "genua" "the front sail" %}}. But something was clearly wrong. The lower part of the genua was flapping freely in the wind. Not good. A shackle had become undone. We furled it again immediately. I loosened the halyard, hung onto the genua with my full weight and could move it down just enough to install a new shackle. Then we were on our way again.
+Once the wind speed went over 15 knots regularly, we furled the gennaker and unfurled the {{% explain "genua" "the foresail" %}}. But something was clearly wrong. The lower part of the genua was flapping freely in the wind. Not good. A shackle had become undone. We furled it again immediately. I loosened the {{% explain "halyard" "the line you use to pull the sail up" %}}, hung onto the genua with my full weight and could move it down just enough to install a new shackle. Then we were on our way again.
 
-We made it to Italy in record time. Vite & Rêves was doing over 8 knots the whole way. In the windless beginning of the day, Navionics estimated the trip would take us between 2 days and 10 hours and infinite days. When I turned on the engine, our ETA became 23:00. With the sails up, we arrived at 17:00.
+We made it to Italy in record time. Vite & Rêves was doing over 8 knots the whole way. In the windless beginning of the day, Navionics estimated the trip would take us between 2 days and 10 hours and infinite days. When I turned on the engine, our {{% explain "ETA" "estimated time of arrival" %}} became 23:00. With the sails up, we arrived at 17:00.
 
 This boat is a racing horse through and through. I love it. Looking forward to some pizza after three weeks of Greek food. Lovely as it is, variety is the spice of life.
 

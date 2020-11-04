@@ -27,7 +27,7 @@ Wait what? The obnoxious weed that gets in the way of every good anchor spot is 
 
 Thanks but no thanks, Señor Seagrass. The other side of the bay is too narrow and exposed to swell. We'll be on our way.
 
-I cut two new genua sheets from a big reel of dyneema that the previous owner had left on the boat (thanks!) and off we went.
+I cut two new {{% explain "genua" "the foresail" %}} sheets from a big reel of dyneema that the previous owner had left on the boat (thanks!) and off we went.
 
 We needed to go to the south side of the island anyway. These days we're playing hide and seek with storm systems we don't want to deal with. Most of the time we find a sheltered place to lay low. Sometimes we get caught out in the open.
 

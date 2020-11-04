@@ -29,7 +29,7 @@ Once we passed southernmost tip of Menorca, Punta dels Marbres, the wind turned 
 
 {{< image src="IMG_7772.jpg" alt="Punta dels Marbres" ratio="3x2" >}}
 
-The sun set, the moon came up, the wind increased steadily. Vite & Rêves was going at a nice clip. 8 knots, 9 knots, 10 knots. Suddenly, amidst all the noise of the pounding waves, I heard a kind of 'BANG' I hadn't heard before. I looked over to the genua winch, where the sound had come from. The outer mantle of the port genua sheet had torn in the clutch. I remembered the sheet had been creaking more forebodingly than usual today. The genua was completely out of shape now for the course we were sailing.
+The sun set, the moon came up, the wind increased steadily. Vite & Rêves was going at a nice clip. 8 knots, 9 knots, 10 knots. Suddenly, amidst all the noise of the pounding waves, I heard a kind of 'BANG' I hadn't heard before. I looked over to the genua winch, where the sound had come from. The outer mantle of the port {{% explain "genua sheet" "a line you use to control the foresail" %}} had torn in the clutch. I remembered the sheet had been creaking more forebodingly than usual today. The {{% explain "genua" "the foresail" %}} was completely out of shape now for the course we were sailing.
 
 30 knots of wind and no way to roll in the foresail, as the sheet mantle was jammed in the clutch. We couldn't {{% explain "tack" "turn so the wind comes from the other direction" %}} and put the load on the other sheet because of this either. This was what sailors call 'a situation'. I pondered the situation for a minute. I called Barbara outside and explained the situation.
 
