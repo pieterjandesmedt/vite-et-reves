@@ -13,7 +13,7 @@ summary: "A very calm day ends with an exhilarating joyride past Palermo."
 
 Tusa looked nice at night, and even nicer in the morning, with its quaint little castle overlooking the bay. They also have no less than 15 garbage containers right on the beach, which is a plus in my book. There was no wind, so we were thinking about having lunch in the restaurant underneath the castle. First I took out the garbage.
 
-{{< image src="IMG_7470.jpg" alt="Quaint Tusa" ratio="3x2" >}}
+{{< image src="IMG_7470.jpg" alt="Quaint Tusa with its multitude of garbage containers on the beach" ratio="3x2" >}}
 
 When I came back to the boat, the wind had picked up to the perfect 15 knots. Screw lunch, we're going sailing! We hoisted the spi and were off at 7 knots. I very much enjoyed that for the full 5 minutes it lasted. Vite & Rêves sailed straight into a dead calm. The same dead calm as the day before, I recognized it. It was lurking all night behind the cape.
 

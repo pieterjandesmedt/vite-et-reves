@@ -352,11 +352,18 @@ img.fully-loaded,
 	text-decoration: none;
 	transition: opacity 200ms;
 	font-size: 90%;
+	background-color: rgba(103, 173, 183, .5);
+	border-radius: 4px;
+	margin-left: .5ch;
+	padding: 2px;
 }
 
-.has-tooltip:hover + .tooltip {
-    /* Makes tooltip text visible when text is hovered on */
-	opacity: 1;
-	display: inline;
-	transition: opacity 200ms;
+.has-tooltip:hover {
+	text-decoration: none;
+	& + .tooltip {
+		/* Makes tooltip text visible when text is hovered on */
+		opacity: 1;
+		display: inline;
+		transition: opacity 200ms;
+	}
 }

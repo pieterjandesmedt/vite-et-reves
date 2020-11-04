@@ -19,7 +19,7 @@ We put one {{% explain "reef" "make the sail smaller by rolling it in or lowerin
 
 The start of our 30 mile trip to the south of Lanzarote was very disorienting. The high cliffs created strange vortices in the wind. Wind speed literally jumped from 3 to 30 knots in an instant and rotated 180º from straight on the nose to straight from behind us. It was challenging. Barbara and I both had our hands full to keep the boat moving in the right direction, as the autopilot obviously couldn't handle this situation.
 
-But once we had passed those high cliffs, the wind speed settled at a more or less constant 20 to 30 knots. We sailed on the leeward side of Lanzarote, which meant tiny waves and a strong breeze on the {{% explain "beam" "the side of the boat" %}}. Vite & Rêves really flies in these conditions, and it's a comfortable, fun flight. We were doing over 9 knots the whole time and regularly went over 11 knots.
+But once we had passed those high cliffs, the wind speed settled at a more or less constant 20 to 30 knots. We sailed on the {{% explain "leeward" "the side where the wind is blowing to" %}} side of Lanzarote, which meant tiny waves and a strong breeze on the {{% explain "beam" "the side of the boat" %}}. Vite & Rêves really flies in these conditions, and it's a comfortable, fun flight. We were doing over 9 knots the whole time and regularly went over 11 knots.
 
 {{< image src="IMG_8855.jpg" alt="" ratio="3x2" >}}
 

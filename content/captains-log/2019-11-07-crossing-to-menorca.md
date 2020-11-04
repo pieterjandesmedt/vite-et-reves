@@ -29,7 +29,7 @@ We made it past the cape, then started sailing north in the western wind, as far
 
 After sunset, we prepared for the night. Barbara made a delicious chili con carne. At least, it smelled delicious. I still didn't feel like eating. She put the kids in bed, then went to sleep herself. I would do the night watch and she'd handle the early morning.
 
-I'm ashamed to admit that I forgot to set my 30 minute timer around midnight. Around that time, the wind shifted too. When I woke up, Vite & Rêves had been slowly drifting backwards for an hour. Cursing myself, I switched the sail. At least now I know that catamarans can heave-to just as fine as monohulls.
+I'm ashamed to admit that I forgot to set my 30 minute timer around midnight. Around that time, the wind shifted too. When I woke up, Vite & Rêves had been slowly drifting backwards for an hour. Cursing myself, I switched the sail. At least now I know that catamarans can {{% explain "heave-to" "make the sails and the rudder work against each other so the boat remains quietly in the same place even in high winds" %}} just as fine as monohulls.
 
 The next day, the waves eased off a little. Now 2 to 3 meter high, the ride was marginally more comfortable. I still didn't feel like eating for the whole day though.
 
@@ -37,7 +37,7 @@ The wind was coming from the wrong direction --- no surprises here. We were goin
 
 The sun set and we prepared for another night. The pattern repeated itself: Half an hour before a squall, the wind would slowly turn, and we could turn with it, lifting my spirits. We would make it! Then it started to rain, the wind shifted and we lost all progress. Around 20:00, it became clear we would not make it, not even close. The other option was sailing on to Barcelona, but the weather on the way over there looked very bad. Tired and dejected, we said: "Screw this, we're motoring the last 50 miles."
 
-I took the night watch again. Vivid dreams about mooring, crashing, hypothermia visited me as I tried to sleep in 30 minute intervals, while Vite & Rêves was battling her way straight into the wind and the waves. Every 5 to 10 minutes, she was getting 'donkey-slapped'. A huge wave comes up and hits the bottom of the saloon floor, violently rattling everything and everyone in it. Not beneficial to one's sleep.
+I took the night watch again. Vivid dreams about mooring, crashing and hypothermia visited me as I tried to sleep in 30 minute intervals, while Vite & Rêves was battling her way straight into the wind and the waves. Every 5 to 10 minutes, she was getting 'donkey-slapped'. A huge wave comes up and hits the bottom of the saloon floor, violently rattling everything and everyone in it. Not beneficial to one's sleep.
 
 {{< image src="IMG_7746.jpg" alt="Squalls incoming" ratio="3x2" >}}
 

@@ -19,7 +19,7 @@ Now everyone was standing outside, talking and socializing. It completely defeat
 
 {{< image src="IMG_9708.jpg" alt="Coiling the hawsers. We won't need these for a while." ratio="3x2" >}}
 
-We kept to the leeward side of the island. The sea was flat as a lake with a light 10 to 18 knot breeze. Perfect sailing conditions!
+We kept to the {{% explain "leeward" "the side where the wind is blowing to" %}} side of the island. The sea was flat as a lake with a light 10 to 18 knot breeze. Perfect sailing conditions!
 
 {{< image src="IMG_9716.jpg" alt="Sailing along the west side of Grenada" ratio="3x2" >}}
 

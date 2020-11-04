@@ -21,7 +21,7 @@ Around Cap Llentrisca, I decided to wait until the squalls had passed to start t
 
 We saw the end of the squall line to the north and set sail in that direction.
 
-Ah! A {{% explain "beam" "the side of the boat" %}} reach, finally! After all these weeks of {{% explain "close-hauled sailing" "sailing with the wind coming from almost the front of the boat" %}}, beating into the wind, this course felt like a breath of fresh air. 7 beaufort is still a bit much for my taste, as were the 3 meter waves, but Vite & Rêves didn't mind one bit. Speed was consistently over 10 knots --- top speed 14 knots --- and after a two hours, I got used to going this fast on this unfamiliar point of sail. I relaxed a little.
+Ah! A {{% explain "beam reach" "when the wind is coming from the side of the boat, the best wind" %}}, finally! After all these weeks of {{% explain "close-hauled sailing" "sailing with the wind coming from almost the front of the boat" %}}, beating into the wind, this course felt like a breath of fresh air. 7 beaufort is still a bit much for my taste, as were the 3 meter waves, but Vite & Rêves didn't mind one bit. Speed was consistently over 10 knots --- top speed 14 knots --- and after a two hours, I got used to going this fast on this unfamiliar point of sail. I relaxed a little.
 
 What's more, we evaded the squalls, didn't encounter one drop of rain, sailed right into the sun and made the 60 miles in 6 hours. Glorious! The imposing, 300 meter high Peñón de Ifach on the west coast of Spain welcomed us, bathed in golden sunset light. First time we're not on an island since we were in the south of Italy, almost a month ago.
 
