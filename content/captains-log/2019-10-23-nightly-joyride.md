@@ -25,6 +25,6 @@ Night fell. This time I was prepared better than yesterday. I said: "The wind wi
 
 {{< image src="IMG_7475.jpg" alt="Sunset promising more wind" ratio="3x2" >}}
 
-And did it ever. 12 knots as soon as the sun was under. We were just in time to furl the spinnaker. We hoisted the full main. The wind increased, first to 15 knots. Vite & Rêves woke up from her slumber. 20 kots, she started to be entertained. 25 with gusts to 30, she was flying. We were not used to this anymore after a week of very little wind. It was a little scary to be going this fast in the dark, but Vite & Rêves behaved so well and we trust her. We matched our all time speed record and blasted past Palermo.
+And did it ever. 12 knots as soon as the sun was under. We were just in time to furl the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}. We hoisted the full main. The wind increased, first to 15 knots. Vite & Rêves woke up from her slumber. 20 kots, she started to be entertained. 25 with gusts to 30, she was flying. We were not used to this anymore after a week of very little wind. It was a little scary to be going this fast in the dark, but Vite & Rêves behaved so well and we trust her. We matched our all time speed record and blasted past Palermo.
 
 Happy with our progress, we anchored in the very shallow harbor of Sferracavallo. Strange thing: it distinctly smelled like washing powder. Curious what it will look like during the day.

@@ -25,7 +25,7 @@ The nightmares I had about Vite & Rêves battling huge breaking waves in the riv
 
 {{< image src="IMG_8583.jpg" alt="" ratio="3x2" >}}
 
-The good winds didn't materialize. Actually there was no materialization of any wind whatsoever. I tried hoisting the spinnaker, but the wind was so light that it kept falling in. It was generating too much shock loads when the wind did pick up half a knot, so we furled the spi and motored on.
+The good winds didn't materialize. Actually there was no materialization of any wind whatsoever. I tried hoisting the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}, but the wind was so light that it kept falling in. It was generating too much shock loads when the wind did pick up half a knot, so we furled the spi and motored on.
 
 {{< image src="IMG_8589.jpg" alt="" ratio="3x2" >}}
 

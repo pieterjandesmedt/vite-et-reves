@@ -19,7 +19,7 @@ We navigated some islands west of Hydra. A bit confusing sometimes (which island
 
 Once we passed the little islands west of Hydra, the waves became higher. Still a lot of leftover swell from the day before. Then the wind died completely.
 
-These are frustrating conditions: big waves, no wind. The sails are limply flapping on every wave, the boom is swinging to and fro, and you're not making any headway. I tried setting the spinnaker, but the wind was even to weak for that. On top of that, it was shifting constantly, and as we were going downwind, this meant switching the asymmetric spi every 15 minutes. Agony.
+These are frustrating conditions: big waves, no wind. The sails are limply flapping on every wave, the boom is swinging to and fro, and you're not making any headway. I tried setting the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}, but the wind was even to weak for that. On top of that, it was shifting constantly, and as we were going downwind, this meant switching the asymmetric spi every 15 minutes. Agony.
 
 After a few hours of hoping against better judgement that the wind would pick up ("maybe it's just the wind shadow of the islands!"), we decided to call it a day and turn on the engines. We had 30 miles to go and at 2 knots, that would take 15 to 24 hours. It was already well past 3PM by then. On top of that, we were entering a submarine and underwater weapons practise area.
 

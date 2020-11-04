@@ -15,7 +15,7 @@ We left Nora in very little wind. I was hoping it would increase a little along 
 
 {{< image src="IMG_7650.jpg" alt="Leaving Nora" ratio="3x2" >}}
 
-We mounted the Code D and for a while, the sailing was perfect. Flat seas and 12 knots. I said to Véronique: "Enjoy this while it lasts, usually about 5 minutes."
+We mounted the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}} and for a while, the sailing was perfect. Flat seas and 12 knots. I said to Véronique: "Enjoy this while it lasts, usually about 5 minutes."
 
 {{< image src="IMG_7651.jpg" alt="Véronique and Barbara taking about girly stuff" ratio="3x2" >}}
 
@@ -23,9 +23,9 @@ A stunt plane flew by, did a tour around the boat. It flew so close we could cle
 
 {{< image src="IMG_7652.jpg" alt="A pilot came to say hello" ratio="3x2" >}}
 
-When we neared cape Spartivento, the wind did a predictable but still surprising 120 degree shift. We rolled in the Code D just in time. The wind increased to 22 knots, Vite & Rêves sped up to 9 knots. The waves became a lot higher when we flew past the cape. Véronique got a taste of open sea sailing.
+When we neared cape Spartivento, the wind did a predictable but still surprising 120 degree shift. We rolled in the gennaker just in time. The wind increased to 22 knots, Vite & Rêves sped up to 9 knots. The waves became a lot higher when we flew past the cape. Véronique got a taste of open sea sailing.
 
-We sailed about 45 degrees off the wind, with the daggerboards halfway down. The wind now strengthened to the low 30's. With one reef in the main, and sometimes one in the genua too, the ride remained comfortable, even with the large waves.
+We sailed about 45 degrees off the wind, with the daggerboards halfway down. The wind now strengthened to the low 30's. With one {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} in the main, and sometimes one in the genua too, the ride remained comfortable, even with the large waves.
 
 {{< image src="IMG_7662.jpg" alt="The safe port of Porto Teulada" ratio="3x2" >}}
 

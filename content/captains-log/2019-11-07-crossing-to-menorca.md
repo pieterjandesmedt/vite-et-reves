@@ -19,7 +19,7 @@ At 7 in the morning we left, together with Ikigai. In the Golfo Di Palmas, the w
 
 Once we came out of the gulf, the swell became huge. 5 meter waves and equally deep holes behind them, left over from the storm the days before. Vite & Rêves rode them like a champ, but part of her crew was coping less well. Andreas became seasick and I didn't feel too perky myself. I didn't puke, but I didn't feel like eating the whole day. Luckily, Barbara, Helder and Mira didn't suffer one bit.
 
-The wind increased too, to 25 knots. I put in one reef in the main.
+The wind increased too, to 25 knots. I put in one {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} in the main.
 
 {{< image src="IMG_7737.jpg" alt="Island of La Vacca being battered by the waves" ratio="3x2" >}}
 

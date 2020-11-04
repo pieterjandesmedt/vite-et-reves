@@ -15,7 +15,7 @@ At last, the storm had passed and we could leave. Just when we were about to go,
 
 Then it was just a matter of a good briefing beforehand, waiting until the wind fell a bit, turning Vite & Rêves' bow against a fender and go full speed backwards, away from the pontoon. The crew on the other boat nodded approvingly, or so I imagine, busy as I was trying not to hit all the expensive targets around us.
 
-The wind was excellent. 20 to 30 knots from over land --- small waves! --- and on the beam. I went in with full sails, but had to put a reef in the main because the autopilot couldn't handle the pressure. When it gets overwhelmed, it just quits, protesting loudly with angry beeps. I apologized --- I really want to keep on good terms with the autopilot --- and balanced the sails a little better.
+The wind was excellent. 20 to 30 knots from over land --- small waves! --- and on the {{% explain "beam" "the side of the boat" %}}. I went in with full sails, but had to put a {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} in the main because the autopilot couldn't handle the pressure. When it gets overwhelmed, it just quits, protesting loudly with angry beeps. I apologized --- I really want to keep on good terms with the autopilot --- and balanced the sails a little better.
 
 It was another fast run. After a week of growing roots in a harbor, it felt very _lively_ to be on the water again. Vite & Rêves obviously enjoyed the free rein, whooshing over 10 knots regularly.
 

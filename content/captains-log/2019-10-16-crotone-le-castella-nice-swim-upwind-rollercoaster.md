@@ -23,7 +23,7 @@ Another sailboat arrived. One of the boys swam over and invited himself aboard. 
 
 {{< image src="IMG_7346.jpg" alt="Meeting fellow sailors" ratio="3x2" >}}
 
-The wind picked up a bit and it looked like a nice day for a short sail to Le Castella around Cape Rizzuto. 10 knots on the beam, what more can a sailor ask for? We passed the gas platforms that we dodged at night.
+The wind picked up a bit and it looked like a nice day for a short sail to Le Castella around Cape Rizzuto. 10 knots on the {{% explain "beam" "the side of the boat" %}}, what more can a sailor ask for? We passed the gas platforms that we dodged at night.
 
 {{< image src="IMG_7362.jpg" alt="Gas platforms running on solar power" ratio="3x2" >}}
 

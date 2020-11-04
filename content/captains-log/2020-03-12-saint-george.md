@@ -21,7 +21,7 @@ Once we sailed past Glover Island, the sea became flat and the wind kept a blowi
 
 {{< image src="IMG_9567.jpg" alt="Past southern Point Salines" ratio="3x2" >}}
 
-We turned north and sailed close-hauled, with the daggerboards fully down, into the Saint George lagoon. A rainbow over the town welcomed us.
+We turned north and sailed {{% explain "close-hauled" "sailing with the wind coming from almost the front of the boat" %}}, with the daggerboards fully down, into the Saint George lagoon. A rainbow over the town welcomed us.
 
 {{< image src="IMG_9570_1.jpg" alt="Rainbow over Saint George" ratio="3x2" >}}
 

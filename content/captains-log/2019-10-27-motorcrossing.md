@@ -17,7 +17,7 @@ Salvatore came back in the morning, the bent anchor straightened again. I was ve
 
 The grib predictions promised 10 knots at our back the whole way. There were two huge leftover swells from the thunderstorms of the day before, one coming from the front, one from behind us. They interfered with each other, creating a confused pattern. Luckily the swell waves were long and lazy, so it was bearable, if a little unbalancing at times.
 
-We put up the spinnaker and made an average of 2 knots. Vite & Rêves was held back by the hilly ride. This would mean the crossing would take 3,5 days of sailing. Sighing, I turned on the engines, hoping for more wind once we left Sicily's wind shadow.
+We put up the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}} and made an average of 2 knots. Vite & Rêves was held back by the hilly ride. This would mean the crossing would take 3,5 days of sailing. Sighing, I turned on the engines, hoping for more wind once we left Sicily's wind shadow.
 
 {{< image src="IMG_7509.jpg" alt="San Vito Lo Capo's lighthouse" ratio="3x2" >}}
 
@@ -29,7 +29,7 @@ The sun set over a glassy sea. The swell was slowly easing off.
 
 {{< image src="IMG_7527.jpg" alt="Every sunset is different" ratio="3x2" >}}
 
-Around 1:00, we found a patch of wind. 9 knots on the beam was a good start, so I unfurled the Code D and off we went. "Finally!", I thought, "now we can really start the crossing." Racing yacht TC6 Mapfre was travelling the same course, some 3 miles alongside us. We were going as fast on sail as they were on engine. I considered calling them and challenging them to a little race. But after an hour, the wind died down again to nothing and I was glad I didn't. We saw them later when we arrived in Cagliari.
+Around 1:00, we found a patch of wind. 9 knots on the {{% explain "beam" "the side of the boat" %}} was a good start, so I unfurled the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}} and off we went. "Finally!", I thought, "now we can really start the crossing." Racing yacht TC6 Mapfre was travelling the same course, some 3 miles alongside us. We were going as fast on sail as they were on engine. I considered calling them and challenging them to a little race. But after an hour, the wind died down again to nothing and I was glad I didn't. We saw them later when we arrived in Cagliari.
 
 The next morning, one of our feathery passengers suffered a heart attack, right in front of the kids. They were shocked and saddened by the bird's sudden crossing of the great divide. Barbara tried to frame their mourning, so they made a little cardboard coffin, decorated with drawings.
 

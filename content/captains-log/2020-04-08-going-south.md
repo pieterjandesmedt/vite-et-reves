@@ -13,7 +13,7 @@ summary: "Vite & Rêves sails south again on the windward side of the island."
 
 If everything in the world is going south, then why wouldn't we? We left Sauteurs after being anchored there for another day. We thought about doing some shopping, but the grocery days changed this week (they change every week). Communication is not the government's strongest suit.
 
-We took the windward side of the island. As this is the Atlantic Ocean side, the waves are a bit higher than on the Caribbean Sea side. We started in 20-25 knot winds, so I put one reef in the main. We sailed first to the north-east past a rock called 'London Bridge' and then southwards with the wind on the beam.
+We took the windward side of the island. As this is the Atlantic Ocean side, the waves are a bit higher than on the Caribbean Sea side. We started in 20-25 knot winds, so I put one {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} in the main. We sailed first to the north-east past a rock called 'London Bridge' and then southwards with the wind on the {{% explain "beam" "the side of the boat" %}}.
 
 {{< image src="IMG_9922.jpg" alt="London Bridge" ratio="16x9" >}}
 

@@ -21,7 +21,7 @@ Around sunset, we were ready to leave. Destination: Tobago! Everyone was super s
 
 The wind and the waves started building (to 30 knots apparent and 2 to 3 meters respectively), but strangely, our speed wasn't that high. 6 to 8 knots over ground. I think we had a current against us in the Canal. The current would also account for the steep waves. Some of these waves obscure the horizon completely, rising up higher than the boom.
 
-I took the first watch, from 22:30 to 3:00. I tried to maneuver Vite & Rêves into the wind shadow of Sant'Antão. This seemed to work for a while. The waves became less high and the wind abated as well. Once out of the Canal, our speed increased. We had to live with the wind shifts now though. Two times I had to gibe, but on genua alone this wasn't much of a problem, even with the 30 knot winds. Just furl in the genua to three reefs, gibe, and unfurl it again.
+I took the first watch, from 22:30 to 3:00. I tried to maneuver Vite & Rêves into the wind shadow of Sant'Antão. This seemed to work for a while. The waves became less high and the wind abated as well. Once out of the Canal, our speed increased. We had to live with the wind shifts now though. Two times I had to {{% explain "gibe" "turn so the wind comes from the other direction" %}}, but on genua alone this wasn't much of a problem, even with the 30 knot winds. Just furl in the genua to three {{% explain "reefs" "make the sail smaller by rolling it in or lowering it a bit" %}}, gibe, and unfurl it again.
 
 Full moon tonight, so the huge waves were clearly visible in all their terrifying glory. After watching them for an hour, the adrenalin subsided a bit and I could enjoy the ride.
 
@@ -83,7 +83,7 @@ I read Viktor Frankl's "Man's Search for Meaning". A Jewish psychiatrist, he's k
 
 #### 2020-02-13 --- Day 5 --- Caught a mahi mahi
 
-We caught a mahi mahi! It was a close call. The reel got all tangled up after we let it out too fast. We took the tension of the line to untangle it, while the fish was trashing wildly in the distance. We changed course and took in half of the spinnaker to reduce boat speed. I finally got the line untangled and could start reeling it in.
+We caught a mahi mahi! It was a close call. The reel got all tangled up after we let it out too fast. We took the tension of the line to untangle it, while the fish was trashing wildly in the distance. We changed course and took in half of the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}} to reduce boat speed. I finally got the line untangled and could start reeling it in.
 
 Bit by bit, ever so slowly, I managed to bring the fish closer. I felt it getting tired. Finally, after a 2 hour ordeal, Barbara was able to grab it and bring it on board. We stuck it in a bucket and Antoine sliced its gills with a knife. Still blood got everywhere. It kept twitching and spasming so I tried stabbing it twice in the head --- not sure where a mahi mahi's brain is.
 
@@ -176,7 +176,7 @@ Barbara and Helder made a pear crumble today. With nothing else to do, eating --
 
 We did have an accidental gibe around dinner time. I sprinted outside to prevent the gibe back, but nothing happened. I checked the wind direction: on the nose? Then I heard the apologetic beeping of the autopilot. It was overwhelmed by the gibe and the big waves. The boat had turned 180 degrees.
 
-I hushed the autopilot, whispered a few encouraging words and managed to convince it that it was not its fault the boat gibed. It stopped beeping, relieved. After I got Vite & Rêves back on course, it happily took the steering wheel again.
+I hushed the autopilot, whispered a few encouraging words and managed to convince it that it was not its fault the boat {{% explain "gibed" "turned so the wind comes from the other direction" %}}. It stopped beeping, relieved. After I got Vite & Rêves back on course, it happily took the steering wheel again.
 
 This was our fastest day, with almost 180 miles. The waves are still considerable, as today's top speed shows.
 

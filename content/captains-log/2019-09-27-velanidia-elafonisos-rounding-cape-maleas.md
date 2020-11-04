@@ -23,7 +23,7 @@ We figured, why not? The kids had been on the boat the whole day before, so thei
 
 We left Velanidia without looking at the wind forecast. It's always wrong anyway and I prefer to be pleasantly surprised by reality instead of bitterly disappointed by a forecast. Today, I was pleasantly surprised.
 
-We started off with a light but steady 7 knot north-easter on the beam. Then the wind briefly fell away but picked up again to 10 knots when we neared cape Maleas. The charts warned about cape Maleas:
+We started off with a light but steady 7 knot north-easter on the {{% explain "beam" "the side of the boat" %}}. Then the wind briefly fell away but picked up again to 10 knots when we neared cape Maleas. The charts warned about cape Maleas:
 
 > _"Note 1: When NE winds blow, avoid the coast of Malea. Sudden gusts are sent down the mountain with NE winds, which are strong enough to rip your sails apart, to break your mast or even capsize your boat. Keep a distance of at least 3 miles."_
 

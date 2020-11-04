@@ -11,11 +11,11 @@ summary: "A late leave turns into the perfect sailing day. So perfect Pieter Jan
 `From: Le Castella, Italy`<br/>
 `To: Bova Marina, Italy`
 
-We left Le Castella in the afternoon, thinking to cross the gulf of Squillace to Soverato, some 30 miles away. When we came outside, the weather was perfect. 10 knots of wind on the beam. My spirits soared instantly.
+We left Le Castella in the afternoon, thinking to cross the gulf of Squillace to Soverato, some 30 miles away. When we came outside, the weather was perfect. 10 knots of wind on the {{% explain "beam" "the side of the boat" %}}. My spirits soared instantly.
 
 {{< image src="IMG_7374.jpg" alt="Le Castella, named after its castle" ratio="3x2" >}}
 
-Sometimes the wind dropped to nothing, did a 120 degree shift and then went back to 10 knots. These windless zones were never big. Usually, a few minutes of motoring took care of it, and we never had to alter course, just tack the sails to the other side. Most of the time, the wind came from over land, so the sea remained calm, as did the ride. The words 'smooth as butter' came to my mind every ten minutes. I was as happy as a dog with two tails.
+Sometimes the wind dropped to nothing, did a 120 degree shift and then went back to 10 knots. These windless zones were never big. Usually, a few minutes of motoring took care of it, and we never had to alter course, just {{% explain "tack" "turn so the wind comes from the other direction" %}} the sails to the other side. Most of the time, the wind came from over land, so the sea remained calm, as did the ride. The words 'smooth as butter' came to my mind every ten minutes. I was as happy as a dog with two tails.
 
 We passed Soverato. I said to Barbara, "Let's just continue. The wind and the waves are perfect for this trip. The next time we'll have weather like this, according to the predictions, is _never_." Barbara agreed to round Cape Stilo and then find some place to stop.
 

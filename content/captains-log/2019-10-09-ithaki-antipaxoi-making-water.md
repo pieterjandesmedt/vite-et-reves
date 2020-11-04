@@ -21,7 +21,7 @@ Living on a boat entails constant worry. This is something they don't advertise 
 
 The morning brought perfect sailing weather. I didn't notice at first, still groggy and undercaffeinated, but Barbara was prodding me relentlessly: "Let's go, the wind is good, we're missing valuable weather!" She'll turn into a wholehearted sailor before the year is over, I'm sure of it.
 
-We flew out of the Ithaki channel with the wind at our back, the main and the Code D wing on wing. I counted over 50 sailboats around us. Dodging them was a nice refresher course on the right-of-way rules.
+We flew out of the Ithaki channel with the wind at our back, the main and the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}} wing on wing. I counted over 50 sailboats around us. Dodging them was a nice refresher course on the right-of-way rules.
 
 {{< image src="IMG_7201.jpg" alt="Over 50 sailboats came out here today" ratio="3x2" >}}
 

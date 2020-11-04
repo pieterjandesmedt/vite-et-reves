@@ -11,7 +11,7 @@ summary: "The Vite & Rêves crew have a super nice sailing day to Alicante, wher
 `From: Calpe, Spain`<br/>
 `To: Alicante, Spain`
 
-The wind was going to be excellent in the morning. We set the alarm at 6:15. By 7:15, we managed to roll out of our cabin. The wind was coming from over land, so the waves were small. Tiny waves and good wind on the beam, the kind of sailing I --- and probably every sailor with me --- like best.
+The wind was going to be excellent in the morning. We set the alarm at 6:15. By 7:15, we managed to roll out of our cabin. The wind was coming from over land, so the waves were small. Tiny waves and good wind on the {{% explain "beam" "the side of the boat" %}}, the kind of sailing I --- and probably every sailor with me --- like best.
 
 We left the rainy, stormy weather behind us...
 
@@ -21,7 +21,7 @@ We left the rainy, stormy weather behind us...
 
 {{< image src="IMG_7834.jpg" alt="The weather in front of us" ratio="3x2" >}}
 
-The wind speed kept fluctuating between 5 and 25 knots, and Vite & Rêves answered with 3 to 10 knots boat speed. Smooth as butter because of the lack of waves. I was as happy as an Italian who invented a pair of self-removing trousers. A pod of dolphins appeared and swam along for a few minutes, playing around the bows. It felt like nature was making amends to compensate for the gnarly past two weeks. I even mounted the Code D for a while.
+The wind speed kept fluctuating between 5 and 25 knots, and Vite & Rêves answered with 3 to 10 knots boat speed. Smooth as butter because of the lack of waves. I was as happy as an Italian who invented a pair of self-removing trousers. A pod of dolphins appeared and swam along for a few minutes, playing around the bows. It felt like nature was making amends to compensate for the gnarly past two weeks. I even mounted the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}} for a while.
 
 {{< image src="IMG_7840.jpg" alt="Arriving under Alicante's fortress" ratio="3x2" >}}
 

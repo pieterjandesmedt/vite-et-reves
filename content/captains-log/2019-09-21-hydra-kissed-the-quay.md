@@ -13,7 +13,7 @@ At night, the wind picked up. A lot. A northern wind, and we were tied to the so
 
 The wind was strong, but Vite & Rêves had weathered stronger winds on anchor without problem. Very mysterious. We noticed our neighbors of Fiji Me had left during the night. Maybe that had something to do with it? Their boat had been tied to ours after all.
 
-I decided to keep watch on deck. Every 15 minutes I had to tighten the anchor chain because the mooring lines were getting slack. By 6:30 it became clear our anchor was not holding anymore. I fired up the engines and put them in forward. This kept Vite & Rêves from colliding with the quay again.
+I decided to keep watch on deck. Every 15 minutes I had to tighten the anchor chain because the {{% explain "mooring lines" "lines that ties the boat to something solid" %}} were getting slack. By 6:30 it became clear our anchor was not holding anymore. I fired up the engines and put them in forward. This kept Vite & Rêves from colliding with the quay again.
 
 Barbara and I were considering our options. Reanchor? Just start sailing downwind? Move to Mandraki bay? The wind was still picking up, now regularly over 25 knots in the habor, which meant 35 to 40 knots outside. It looked gnarly. A nearby motoryacht, three times the height of Vite & Rêves, left and disappeared almost completely in the waves and the spray once it was outside the harbor. Barbara and I took a look at the disappearing motor yacht (only its antenna was visible now, like a submarine), looked at each other and said: "Let's reanchor".
 

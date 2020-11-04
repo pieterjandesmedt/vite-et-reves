@@ -12,7 +12,7 @@ summary: "A slow spinnaker sail through Messina Strait."
 `To: Archi, Italy`
 
 Yesterday we did some swimming and provisioning. Not much to report. The grib files predicted more wind for today, but that wind did not really materialize. We left anyway on a glassy sea. Our diesel tanks had only one-fifth left, so we couldn't spend a lot of time motoring.
-With the Code D up, Vite & Rêves was able to coax 2 knots of boat speed out of 3 knots of wind.
+With the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}} up, Vite & Rêves was able to coax 2 knots of boat speed out of 3 knots of wind.
 
 {{< image src="IMG_7392.jpg" alt="Reading together on the trampolines" ratio="16x9" >}}
 
@@ -24,7 +24,7 @@ Cape Riace looked like something out of a Märklin diorama.
 
 {{< image src="IMG_7395.jpg" alt="Where's that model train?" ratio="16x9" >}}
 
-When we entered the strait of Messina, I changed the Code D for the spinnaker. Very light puffs of air pushed us slowly forward. Around sunset, the wind increased gradually until the perfect 10 knots. Tall ship 'Sea Cloud' passed us on engine. Too bad, the wind came from the perfect direction for such a ship.
+When we entered the strait of Messina, I changed the gennaker for the {{% explain "{{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}" "a large light sail that is used when the wind comes _from behind_ your boat" %}}. Very light puffs of air pushed us slowly forward. Around sunset, the wind increased gradually until the perfect 10 knots. Tall ship 'Sea Cloud' passed us on engine. Too bad, the wind came from the perfect direction for such a ship.
 
 {{< two-images src1="IMG_7402.jpg" alt1="Sea Cloud at sunset" src2="IMG_7409.jpg" alt2="A plethora of purples" >}}
 

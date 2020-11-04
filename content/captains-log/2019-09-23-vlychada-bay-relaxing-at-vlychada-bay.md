@@ -13,7 +13,7 @@ Vlychada bay is magnificent. About half a mile long and 300m wide, surrounded on
 
 {{< image src="IMG_6752.jpg" alt="Ahhhh... peace and quiet at last" ratio="3x2" >}}
 
-The people on the shore turned out to be a few easy-going campers spending the night there. This beach is undiscovered by the masses and unspoilt. There is also a climbing area close by.
+The people on the shore turned out to be a few easy-going campers spending the night there. This beach is undiscovered by the masses and unspoiled. There is also a climbing area close by.
 
 {{< image src="IMG_5623.jpg" alt="A piece of paradise" ratio="12655x3321" >}}
 

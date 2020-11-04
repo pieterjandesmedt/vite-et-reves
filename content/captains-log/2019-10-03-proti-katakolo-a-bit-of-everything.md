@@ -13,7 +13,7 @@ summary: "The Vite & Rêves crew encountered several waterspouts on the way to Z
 
 Be careful what you wish for, it may come true. Yesterday I wished for more wind. I should have specified the exact amount, as well as the resulting wave height.
 
-The day started, like almost every day here, quite promising. The 8 knots in the protected bay where we spent the night increased outside to the expected 15 knots. Coming from the south-east behind us, no less! Up with the Code D and we were humming along at 6 knots. We set sail for Zakynthos, some 60 miles away.
+The day started, like almost every day here, quite promising. The 8 knots in the protected bay where we spent the night increased outside to the expected 15 knots. Coming from the south-east behind us, no less! Up with the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}} and we were humming along at 6 knots. We set sail for Zakynthos, some 60 miles away.
 
 When we came from behind Proti island, wave size increased quite suddenly to a meter or so. A bit of a rougher ride, but not too uncomfortable. Then we saw a squall on the horizon. It looked dark, menacing and it was making a beeline to our boat. Then it grew tentacles. The tentacles developed into waterspouts.
 
@@ -41,7 +41,7 @@ With the main up, we were making progress. But the wind kept shifting. By now it
 
 After an hour of very fast sailing, the second-best hour of the day, the wind decreased to less than 10 knots and had shifted to the south-east. We had not enough wind to fight the big swell anymore. At this speed, Zakynthos was still 5 hours away. But wait! We were just passing Katakolo and the wind would be good enough to get there in 2 hours. Furthermore, it would be sailing with the swell, not against it. You got to seize an opportunity when it presents itself.
 
-Thus started the best sailing hour of the day. I rolled out the Code D and Vite & Rêves started surfing, with speeds exceeding 10 knots in 15-18 knots of wind. No too shabby!
+Thus started the best sailing hour of the day. I rolled out the gennaker and Vite & Rêves started surfing, with speeds exceeding 10 knots in 15-18 knots of wind. No too shabby!
 
-And so we finally, _finally_ got what we wanted: 15 knots on the beam with following seas. Glorious!
+And so we finally, _finally_ got what we wanted: 15 knots on the {{% explain "beam" "the side of the boat" %}} with following seas. Glorious!
 

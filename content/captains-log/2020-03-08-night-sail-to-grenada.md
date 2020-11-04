@@ -13,7 +13,7 @@ summary: "An easy night sail brings Vite & Rêves from Tobago to Grenada"
 
 We left Charlotteville around 22:00, to arrive in Grenada around noon the next day. The charts warned us against arriving at night, because of the many reefs and missing buoys on the south side of the island.
 
-We glided out of Man O' War Bay under spinnaker and an almost full moon. Tobago sank behind the horizon and the wind gradually increased from 5 to 15 knots. Barbara took first watch, from 22:00 to 2:00. She woke me up a few times when small fishing boat lights appeared, but none of them warranted a course change.
+We glided out of Man O' War Bay under {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}} and an almost full moon. Tobago sank behind the horizon and the wind gradually increased from 5 to 15 knots. Barbara took first watch, from 22:00 to 2:00. She woke me up a few times when small fishing boat lights appeared, but none of them warranted a course change.
 
 I took the second watch, from 2:00 to 6:00. We passed a few more fishing boats in the distance, but then nothing anymore. A small dolphin pod came around to play a bit. The wind speed stayed between 13 and 16 knots. Very peaceful. I sat looking at the waves, letting my mind wander, doing a bit of soul searching and software architecture --- I know, but it's a hobby.
 

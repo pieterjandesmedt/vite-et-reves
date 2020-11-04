@@ -17,7 +17,7 @@ We left early in the morning with no wind. I knew the wind would increase and tu
 
 {{< image src="IMG_7329.jpg" alt="Spending a few hours on another planet" ratio="3x2" >}}
 
-After a while, the wind did pick up. It came from the south and was just enough for the Code D. For a while, it was really smooth sailing, albeit a bit slow maybe. Nothing to do but watch the sails now and then and check for small fishing boats along the way.
+After a while, the wind did pick up. It came from the south and was just enough for the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}}. For a while, it was really smooth sailing, albeit a bit slow maybe. Nothing to do but watch the sails now and then and check for small fishing boats along the way.
 
 Around noon, a front approached. It seemed friendly enough, no thunder, no lightning. The wind first fell away, then increased again to 15 knots, now from the north-west. For a while, this too was smooth sailing.
 
@@ -25,13 +25,13 @@ Around noon, a front approached. It seemed friendly enough, no thunder, no light
 
 But as the evening fell, the wind increased and turned against us. Slowly, almost imperceptibly, but enough to have to alter the course a bit by a few degrees every half hour or so. We were deviating further and further from our destination course.
 
-After 50 miles and almost 11 hours of sailing, we had to tack. The sun was setting, the waves were increasing and though we didn't know it yet, we were only halfway.
+After 50 miles and almost 11 hours of sailing, we had to {{% explain "tack" "turn so the wind comes from the other direction" %}}. The sun was setting, the waves were increasing and though we didn't know it yet, we were only halfway.
 
 After sunset, the waves became more uncomfortable. Or did it just seem that way because of the darkness? I looked out to check for big ships and saw a huge red light to port. I almost had a heart attack on the spot. Then I realized it was the rising moon, partly obscured by clouds. "Look kids," I said with a slight tremor, "what a beautiful moonrise!"
 
 We played a few cardgames until bedtime. The kids went to bed and slept almost right away. Barbara and I looked at each other. "How much longer?" she asked. It was 10 PM, and the boat was really banging upwind. "A few hours. Let's tack again and see where we end up." I was hoping to make it to Le Castella, just at the end of the boot sole. Idle hope.
 
-We tacked. There was nothing else to do than to wait it out. Every once in a while, a huge wave would lift Vite & Rêves up, make us weightless, and then we'd crash down into the next one. I tried resting in the forward berth, but the sight of the sea and the foam rushing by under the navigation lights was just too mesmerizing. Plus the crashes were really loud.
+We {{% explain "tacked" "turned so the wind comes from the other direction" %}}. There was nothing else to do than to wait it out. Every once in a while, a huge wave would lift Vite & Rêves up, make us weightless, and then we'd crash down into the next one. I tried resting in the forward berth, but the sight of the sea and the foam rushing by under the navigation lights was just too mesmerizing. Plus the crashes were really loud.
 
 I went to check up on the kids. Mira was floating halfway between her mattress and the ceiling when I came in. Then she fell back into the pillows. Sleeping like a rose. The boys, sleeping like logs. Good kids.
 

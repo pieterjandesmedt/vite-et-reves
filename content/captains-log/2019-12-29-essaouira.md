@@ -50,7 +50,7 @@ Essaouira itself is a nice little town, but very touristy. It was a bit jarring 
 
 The port of Essaouira is also inexplicably expensive: 270 dirham (€ 27) for a night, that's almost double the rate of other Moroccan marinas. And it has nothing: no docks, no showers or toilets, no wifi, nothing, just a lot of people angling for baksheesh. I was not surprised to learn that a boat of Brazilians left just the week before without paying. If you're a cruiser thinking about going to Essaouira, think twice or try to anchor in the bay. Agadir is also probably a better choice.
 
-When we got back to the boat, we discovered that a heavy steel French ketch had moored alongside Vite & Rêves. During the night a leftover swell came into the harbor and put our mooring lines, that now had to bear this extra weight, under a lot of stress. I got up twice to readjust the lines. We felt like Vite & Rêves was being quartered and were happy to leave in the morning.
+When we got back to the boat, we discovered that a heavy steel French ketch had moored alongside Vite & Rêves. During the night a leftover swell came into the harbor and put our {{% explain "mooring lines" "lines that ties the boat to something solid" %}}, that now had to bear this extra weight, under a lot of stress. I got up twice to readjust the lines. We felt like Vite & Rêves was being quartered and were happy to leave in the morning.
 
 Canary islands, here we come!
 

@@ -11,7 +11,7 @@ summary: "The Vite & Rêves crew go a little more westward to hunker down for th
 `From: Porto Teulada, Sardinia, Italy`<br/>
 `To: Porto Di Sant' Antioco, Sardinia, Italy`
 
-We left Porto Teulada in good weather. The waves weren't too high yet, the wind 25 knots --- coming from the direction where we wanted to go but whatever, we're used to it now. Daggerboards down, one reef in the main, sailing time!
+We left Porto Teulada in good weather. The waves weren't too high yet, the wind 25 knots --- coming from the direction where we wanted to go but whatever, we're used to it now. Daggerboards down, one {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} in the main, sailing time!
 
 As long as we stayed in the gulf of Teulada, the waves stayed small. The closer we came to Cape Teulada, the higher they became. Cape Teulada is an imposing piece of nature. A hundred meters of unforgiving cliffs rising up from the deep.
 

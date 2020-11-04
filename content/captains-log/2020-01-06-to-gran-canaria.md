@@ -25,7 +25,7 @@ The sun went down and the wind picked up to a decent 10 knots. Vite & Rêves con
 
 {{< image src="IMG_8953.jpg" alt="An upside-down sunrise followed by a sunset" ratio="3x2" >}}
 
-Around 2:30 the wind picked up a notch. It was now consistently over 15 knots and Vite & Rêves was flying at 8 to 10 knots. We were just crossing a traffic separation system, so the extra speed was welcome, but blasting through the night at 10 knots on spinnaker alone was a bit perturbing. 15 knots apparent wind from behind plus 10 knots of boat equals 25 knots of true wind speed.
+Around 2:30 the wind picked up a notch. It was now consistently over 15 knots and Vite & Rêves was flying at 8 to 10 knots. We were just crossing a traffic separation system, so the extra speed was welcome, but blasting through the night at 10 knots on {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}} alone was a bit perturbing. 15 knots apparent wind from behind plus 10 knots of boat equals 25 knots of true wind speed.
 
 I checked the boat manual.
 

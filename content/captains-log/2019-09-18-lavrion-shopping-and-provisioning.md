@@ -15,4 +15,4 @@ We wanted to be closer to the Lavrion shops and restaurants, so we moved Vite & 
 
 While the Parents entertained our kids and went shopping, we rented a car to drive to Ikea near the Athens airport. Some €430 euros lighter (damn you Ikea, we just wanted some blankets!) we got back after dark.
 
-I moved the boat a bit closer to the quay after mother had a panic attack trying to cross the gangway.
+I moved the boat a bit closer to the quay after mother had a panic attack trying to cross the {{% explain "gangway" "a wooden plank --- or in our case ladder --- to get onto the boat" %}}.

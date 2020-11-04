@@ -11,7 +11,7 @@ summary: "Vite & Rêves sails south from Tangier to Rabat."
 `From: Tangier, Morocco`<br/>
 `To: Rabat, Morocco`
 
-Haaaaaaaaa! It feels good to be sailing again. We spent no less than 16 days in Tangier, about 12 days more than we expected to. We left Tangier in good spirits. We motored into the wind for an hour to round Cape Spartel, then we hoisted the spinnaker. We started sailing at an easy 4 to 8 knots south.
+Haaaaaaaaa! It feels good to be sailing again. We spent no less than 16 days in Tangier, about 12 days more than we expected to. We left Tangier in good spirits. We motored into the wind for an hour to round Cape Spartel, then we hoisted the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}. We started sailing at an easy 4 to 8 knots south.
 
 {{< image src="IMG_8395.jpg" alt="The northern coast of Morocco" ratio="3x2" >}}
 

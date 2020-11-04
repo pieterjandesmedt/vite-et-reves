@@ -15,11 +15,11 @@ Our alarm sound of this morning was a gentle grating of our boat against the anc
 
 When I came on deck, I saw the other captain trying to stare me to death. We had three options: shorten our chain, reanchor or leave. The staring captain had obviously no intention of letting out a few meters of chain to disentangle our boats. I could almost hear him think: "I was here first, I'm not moving a single inch." Barbara said, "If we reanchor we're gonna be wide awake anyway. The wind is good. Let's just go."
 
-We pulled in the anchor, deployed the Code D and sailed off. Barbara gave a little wave to the grumpy captain, who was still busy giving us the death stare. He didn't wave back.
+We pulled in the anchor, deployed the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}} and sailed off. Barbara gave a little wave to the grumpy captain, who was still busy giving us the death stare. He didn't wave back.
 
 {{< two-images src1="IMG_7288.jpg" alt1="Slowly waking up" src2="IMG_7291.jpg" alt2="Tea for breakfast" >}}
 
-The wind wasn't much, but it came from behind us and the sea was flat, so we made about 3 knots. I wanted to change the Code D for the spinnaker. This was a good decision. Our speed increased to 6 knots and our estimated time of arrival changed from 23:30 to 17:30. Very rewarding for 5 minutes of work.
+The wind wasn't much, but it came from behind us and the sea was flat, so we made about 3 knots. I wanted to change the gennaker for the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}. This was a good decision. Our speed increased to 6 knots and our estimated time of arrival changed from 23:30 to 17:30. Very rewarding for 5 minutes of work.
 
 {{< image src="IMG_7295.jpg" alt="Nice day for sailing" ratio="16x9" >}}
 

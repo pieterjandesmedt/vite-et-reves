@@ -15,7 +15,7 @@ The best crossings are those where nothing happens. Nice and quiet but not [too 
 
 {{< image src="IMG_8695.jpg" alt="" ratio="16x9" >}}
 
-When we left Essaouira, the wind didn't look very promising. 0 to 2 knots, with 'gusts' up to 4 knots. Not enough to fill the code D by itself. When we turned the engine on, we could generate just enough wind to keep the sails filled. So we did that for a while.
+When we left Essaouira, the wind didn't look very promising. 0 to 2 knots, with 'gusts' up to 4 knots. Not enough to fill the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}} by itself. When we turned the engine on, we could generate just enough wind to keep the sails filled. So we did that for a while.
 
 The big ships on the Spain-Agadir route were rolling mightily in the huge Atlantic swell. Vite & Rêves is so small compared to the swell wave length that we didn't notice.
 
@@ -33,17 +33,17 @@ Barbara cleaned the conger eel that we [got from the fishermen](/captains-log/20
 
 {{< two-images src1="IMG_8759.jpg" alt1="" ratio1="2x3" src2="IMG_8752.jpg" alt2="" ratio2="2x3" >}}
 
-We sailed into the sunset. I took the night watch as usual. The wind increased a bit at night to 12 knots. I left up the code D and checked every half hour. Vite & Rêves maintained 6 to 7 knots throughout. Heavenly sailing under a sky full of stars.
+We sailed into the sunset. I took the night watch as usual. The wind increased a bit at night to 12 knots. I left up the gennaker and checked every half hour. Vite & Rêves maintained 6 to 7 knots throughout. Heavenly sailing under a sky full of stars.
 
 {{< image src="IMG_8778.jpg" alt="Sailor's heaven" ratio="3x2" >}}
 
 {{< image src="IMG_8783.jpg" alt="Sunset of the first day of the crossing" ratio="3x2" >}}
 
-In the morning the wind was coming almost from behind us. We switched the code D for the spinnaker and took down the mainsail. We encountered a few big ships on the Spain-Senegal route. We also saw an American military ship doing air exercises in the distance. They asked everybody to give them some space because they couldn't manoeuvre well while the helicopter was trying to land.
+In the morning the wind was coming almost from behind us. We switched the gennaker for the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}} and took down the mainsail. We encountered a few big ships on the Spain-Senegal route. We also saw an American military ship doing air exercises in the distance. They asked everybody to give them some space because they couldn't manoeuvre well while the helicopter was trying to land.
 
 {{< image src="f10137984.jpg" alt="Crossing the Spain-Senegal seaway" ratio="16x9" >}}
 
-But other than that, nothing much happened. The wind shifted to southeast, so we gibed the spi to the other side. That was the sailing action of the day. Vite & Rêves continued happily.
+But other than that, nothing much happened. The wind shifted to southeast, so we {{% explain "gibed" "turned so the wind comes from the other direction" %}} the spi to the other side. That was the sailing action of the day. Vite & Rêves continued happily.
 
 {{< image src="f10510272.jpg" alt="Reading the last of the 15 Karin Slaughter books" ratio="3x2" >}}
 

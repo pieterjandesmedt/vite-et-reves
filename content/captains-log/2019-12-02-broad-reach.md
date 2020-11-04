@@ -37,7 +37,7 @@ Not so on Vite & Rêves. Her double main sheets always catch the boom before it 
 
 {{< image src="IMG_8048.jpg" alt="We tried dodging squalls, not very successfully" ratio="3x2" >}}
 
-We did a third gibe, intentionally this time, around Cabo de Gata, and sped on in a straight line to Almeria harbor. By now it was dark. The moon was too small to penetrate the thick cloud cover. It started to rain. Then a thunderstorm crept up from behind us. I never looked at it, instead kept my eyes on the Almeria city lights in the distance. If nothing else works, a total unwillingness to look facts in the face will see us through. Vite & Rêves lived up to her name and outran the thunderstorm. It rumbled in frustration and electrocuted a few sardines.
+We did a third {{% explain "gibe" "turn so the wind comes from the other direction" %}}, intentionally this time, around Cabo de Gata, and sped on in a straight line to Almeria harbor. By now it was dark. The moon was too small to penetrate the thick cloud cover. It started to rain. Then a thunderstorm crept up from behind us. I never looked at it, instead kept my eyes on the Almeria city lights in the distance. If nothing else works, a total unwillingness to look facts in the face will see us through. Vite & Rêves lived up to her name and outran the thunderstorm. It rumbled in frustration and electrocuted a few sardines.
 
 On our arrival in Almeria, around 0:30, it started raining harder and harder. We tried the marina. A guy came out in his car and yelled at us: _"No es posible! Something something catamarán"_. I pointed at a spot that was obviously big enough to hold our _catamarán_. _"No es posible!"_
 

@@ -21,7 +21,7 @@ It could be a marketing ploy. The tiny rock is for sale now for 3,5 million euro
 
 {{< image src="IMG_7494.jpg" alt="'Isola delle Femmine'. The women were all wearing camouflage dresses" ratio="16x9" >}}
 
-At first, the wind was 20 knots from behind us. With only the foresail out, we still made great speed. Once past the Island of Women, it fell to around 10 knots. After a while, we gingerly rolled out the spinnaker, a bit apprehensive because the day before we were only just in time to furl it. Over 15 knots and it takes a lot of effort to wrestle it in.
+At first, the wind was 20 knots from behind us. With only the foresail out, we still made great speed. Once past the Island of Women, it fell to around 10 knots. After a while, we gingerly rolled out the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}, a bit apprehensive because the day before we were only just in time to furl it. Over 15 knots and it takes a lot of effort to wrestle it in.
 
 We passed Palermo airport, where planes were landing and taking off every 10 minutes. Busy little place.
 

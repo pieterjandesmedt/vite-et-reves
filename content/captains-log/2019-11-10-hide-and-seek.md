@@ -31,7 +31,7 @@ I cut two new genua sheets from a big reel of dyneema that the previous owner ha
 
 We needed to go to the south side of the island anyway. These days we're playing hide and seek with storm systems we don't want to deal with. Most of the time we find a sheltered place to lay low. Sometimes we get caught out in the open.
 
-Outside the bay, the sailing was great, but weird. A sizeable swell was coming in from the north, but the wind was blowing 12 to 18 knots from the west, over the island. It created an interesting situation that I have never encountered before: close-hauled sailing with big following seas. Vite & Rêves started surfing very smoothly.
+Outside the bay, the sailing was great, but weird. A sizeable swell was coming in from the north, but the wind was blowing 12 to 18 knots from the west, over the island. It created an interesting situation that I have never encountered before: {{% explain "Close-hauled sailing" "sailing with the wind coming from almost the front of the boat" %}} with big following seas. Vite & Rêves started surfing very smoothly.
 
 We surfed past Cap de Ses Salines. The north swell died out and was replaced by short choppy waves. The wind increased to 30 knots. Oh well. Sometimes you need to deal with 30 knots to avoid the 50 knots later on.
 

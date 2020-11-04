@@ -13,13 +13,13 @@ summary: "The Vite & Rêves crew cross from the Canary Islands to Cabo Verde."
 
 #### 2020-01-18
 
-We left Las Palmas late in the afternoon. We motored between the big cargo ships, tankers and drilling ships anchored in front of the harbor. We tried catching some wind but it died down rather quickly. I checked the weather forecast: good winds on the beam when we'd reach the southern half of the island.
+We left Las Palmas late in the afternoon. We motored between the big cargo ships, tankers and drilling ships anchored in front of the harbor. We tried catching some wind but it died down rather quickly. I checked the weather forecast: good winds on the {{% explain "beam" "the side of the boat" %}} when we'd reach the southern half of the island.
 
 {{< image src="IMG_8984.jpg" alt="A sailboat bravely tacking away from the harbor" ratio="3x2" >}}
 
 {{< image src="IMG_8991.jpg" alt="What are these things anyway?" ratio="3x2" >}}
 
-We motored in a dead calm for about 3 hours when the wind started to pick up. And pick up it did! We hoisted the main with one reef and Vite & Rêves went flying in the 20-25 knot breeze.
+We motored in a dead calm for about 3 hours when the wind started to pick up. And pick up it did! We hoisted the main with one {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} and Vite & Rêves went flying in the 20-25 knot breeze.
 
 We passed the southern point of the island. I asked the crew, "Are you sure you want to do this? There's no turning back from here." But everyone was enthusiastic to go on the passage. We arranged the first night shift: I would do 0:00-3:00, Antoine 3:00-6:00 and Hannah 6:00-9:00. The lights of Gran Canaria gradually fell away behind the horizon.
 
@@ -47,9 +47,9 @@ I went to bed until Barbara woke me up at 3:15. During my watch, I watched the '
 
 #### 2020-01-20
 
-When I woke up, we were sailing on a broad reach. Broad enough to unfurl the Code D, which I promptly did. Vite & Rêves accelerated and accelerated, gathering speed surfing down the big waves, until we hit a new speed record: 16 knots!
+When I woke up, we were sailing on a broad reach. Broad enough to unfurl the {{% explain "gennaker" "a large light sail that is used when the wind comes _from the side_ of your boat" %}}, which I promptly did. Vite & Rêves accelerated and accelerated, gathering speed surfing down the big waves, until we hit a new speed record: 16 knots!
 
-In the afternoon the wind decreased though. We're now entering proper trade winds, with their 15 knot constant north-western wind. We took down the still reefed mainsail and exchanged the Code D for the spinnaker. Our speed was now around 5 knots and our ETA shot up from 3-4 days to 6-8 days. I hope we brought enough food.
+In the afternoon the wind decreased though. We're now entering proper trade winds, with their 15 knot constant north-western wind. We took down the still reefed mainsail and exchanged the gennaker for the {{% explain "spinnaker" "a large light sail that is used when the wind comes _from behind_ your boat" %}}. Our speed was now around 5 knots and our ETA shot up from 3-4 days to 6-8 days. I hope we brought enough food.
 
 We tried out the fishing rod but didn't catch anything.
 
@@ -67,7 +67,7 @@ Andreas was the first to wake up. He asked me if we had a visiting bird. We actu
 
 I discovered the fishing rod has more controls than I initially thought. It has a rattle to warn you you've caught something. It has a knob that you can turn to control its sensitivity. It's downright amazing, what people invent.
 
-My turn to sleep a whole night! Well, _'sleep'_. Antoine woke me up around 2:30 because the wind had shifted to 90º. This is at the limit of what the spi can handle. I didn't want to do the sail change in the middle of the night. Getting the mainsail up and exchanging the spi for the Code D would be the best option, but it entails firing up the engines --- probably waking everybody up in the process --- and a lot of hassle on the trampolines. I opted for a slight course change and said: "We'll deal with this in the morning, but wake me up again if the wind turns even more."
+My turn to sleep a whole night! Well, _'sleep'_. Antoine woke me up around 2:30 because the wind had shifted to 90º. This is at the limit of what the spi can handle. I didn't want to do the sail change in the middle of the night. Getting the mainsail up and exchanging the spi for the gennaker would be the best option, but it entails firing up the engines --- probably waking everybody up in the process --- and a lot of hassle on the trampolines. I opted for a slight course change and said: "We'll deal with this in the morning, but wake me up again if the wind turns even more."
 
 Of course, I lay awake for a while thinking about wanting to do the sail change after all. The optimizer in me had trouble letting go of not having the most optimal sails for a beam reach.
 

@@ -17,9 +17,9 @@ Our destination was Ronde Island. It lies right next to an active underwater vol
 
 {{< image src="IMG_4644.jpg" alt="Ronde Island in the distance. The submerged volcano is in the sea to the left" ratio="3x2" >}}
 
-I saw a lot of white horses on the waves in the distance, so I expected 25 knots: 1 reef in the main it was. As soon as we hoisted the sails, Vite & Rêves zoomed off, happy with her cleaned hulls.
+I saw a lot of white horses on the waves in the distance, so I expected 25 knots: 1 {{% explain "reef" "make the sail smaller by rolling it in or lowering it a bit" %}} in the main it was. As soon as we hoisted the sails, Vite & Rêves zoomed off, happy with her cleaned hulls.
 
-It was a very pleasant sail. Small waves, beam reach, Vite & Rêves doing 9 to 11 knots the whole time. The 5.5 miles flew by in half an hour. Near Ronde Island we caught some strange currents, heaping up the waves, but that was only a short while.
+It was a very pleasant sail. Small waves, {{% explain "beam" "the side of the boat" %}} reach, Vite & Rêves doing 9 to 11 knots the whole time. The 5.5 miles flew by in half an hour. Near Ronde Island we caught some strange currents, heaping up the waves, but that was only a short while.
 
 The uninhabited island was, as expected, perfectly quiet. Only two other boats were anchored in the bay.
 
