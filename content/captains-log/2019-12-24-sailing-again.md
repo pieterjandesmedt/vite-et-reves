@@ -43,7 +43,7 @@ The wind fell away around 7:00. Barbara woke and we turned on the engines.
 
 {{< image src="IMG_8421.jpg" alt="The fishermen fortunately waited until daytime to go fishing" ratio="3x2" >}}
 
-Around 14:00 we arrived in Rabat. The swell creates huge waves over a sand bar at the entrance of the harbor. It's not always possible to enter, depending on the tide and the swell height. I called the marina for about 20 minutes on the VHF. They didn't answer, but they did send a pilot to guide us across the bar. We dodged small fishing boats while surfing behind the pilot.
+Around 14:00 we arrived in Rabat. The swell creates huge waves over a sand bar at the entrance of the harbor. It's not always possible to enter, depending on the tide and the swell height. I called the marina for about 20 minutes on the {{% explain "VHF" "very high frequency radio, the favorite means of communication at sea" %}}. They didn't answer, but they did send a pilot to guide us across the bar. We dodged small fishing boats while surfing behind the pilot.
 
 {{< image src="IMG_8437.jpg" alt="The pilot boat disappears behind a wave" ratio="3x2" >}}
 

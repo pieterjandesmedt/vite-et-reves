@@ -22,7 +22,7 @@ Barbara baked pancakes and we had a feast in the harbor of Essaouira. It's a spe
 
 As our diesel tanks were almost empty after the two day trip, I found some guys to get diesel with me. They rustled up six 20-liter jerrycans and a trike with some dead fish on the loading platform. Off we went to the petrol station. I sat with one butt cheek on a tiny ledge next to the driver. The other guy was on the loading platform but had to jump out every time we passed the police. The driver quickly handed me his helmet.
 
-The trike may not have had working brakes. It was a challenge to evade the millions of tourists that descended upon Essaouira for the Christmas holidays. We got back safely to the boat, even though the thought "This sure would be a stupid way to die" flashed through my head several times.
+The trike may or not have had working brakes. It was a challenge to evade the millions of tourists that descended upon Essaouira for the Christmas holidays. We got back safely to the boat, even though the thought "This sure would be a stupid way to die" flashed through my head several times.
 
 {{< image src="IMG_4523.JPG" alt="Getting diesel, Essaouira style. That smile is a cover for my terror" ratio="3x2" >}}
 

@@ -34,8 +34,8 @@ The boys joined in the fun and were soon building a whole city in the sand.
 
 {{< image src="IMG_8911.jpg" alt="" ratio="3x2" >}}
 
-We walked back around sunset and had a well-deserved pizza (_7 sensi_, recommended).
+We walked back around sunset and had a well-deserved pizza (pizzeria _7 sensi_, recommended).
 
 {{< image src="IMG_8926.jpg" alt="" ratio="3x2" >}}
 
-At night I had to read the Wikipedia page on the [Krakatau eruption of 1883](https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa) as a bedtime story. The boys were suitably impressed by so much natural violence.
+Since being on volcanic islands had piqued the kids' interest, I had to read the Wikipedia page on the [Krakatau eruption of 1883](https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa) as a bedtime story. The boys were suitably impressed by so much natural violence.

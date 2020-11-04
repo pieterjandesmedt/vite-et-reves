@@ -37,7 +37,7 @@ I went to check up on the kids. Mira was floating halfway between her mattress a
 
 Barbara also tried to get some sleep, after trying to stay awake. Both didn't really work out.
 
-I slipped into watch schedule: Set your timer for 20 minutes, wake up, check outside for wind direction and other boats' lights, check the AIS for big ships, check Navionics for progress, fall asleep again. Rinse & repeat. While it is annoying to be woken up every 20 minutes for hours on end, it does make for very vivid dreams.
+I slipped into watch schedule: Set your timer for 20 minutes, wake up, check outside for wind direction and other boats' lights, check the {{% explain "AIS" "automatic identification system" %}} for big ships, check Navionics for progress, fall asleep again. Rinse & repeat. While it is annoying to be woken up every 20 minutes for hours on end, it does make for very vivid dreams.
 
 Around 2AM we entered the bay behind Cape Rizzuto. The waves slowly subsided, the wind fell away. The engines woke up Barbara. We didn't make it to Le Castella, but Crotone was a good substitute, especially because there was no wind, no waves and a sandy bottom.
 

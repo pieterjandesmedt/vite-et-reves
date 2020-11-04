@@ -33,4 +33,4 @@ For a moment I considered altering course, but nothing I could do would make the
 
 {{< image src="IMG_8867.jpg" alt="" ratio="3x2" >}}
 
-In the evening we met with avid blog follower Peter and Marijke, who were in Lanzarote on holidays. We had a bottle of cava on the boat to celebrate New Year and the happy coincidence of meeting and they treated us to dinner in one of the many restaurants in the marina. We had a great evening with these lovely people. Thanks again!
+In the evening we met with avid blog followers Peter and Marijke, who were in Lanzarote on holidays. We had a bottle of cava on the boat to celebrate New Year and the happy coincidence of meeting and they treated us to dinner in one of the many restaurants in the marina. We had a great evening with these lovely people. Thanks again!

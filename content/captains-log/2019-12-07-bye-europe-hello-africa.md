@@ -25,7 +25,7 @@ The Rock of Gibraltar rises up from the sea like a huge [Monemvasia](/captains-l
 
 {{< image src="IMG_8174.jpg" alt="The Rock has it's own weather system" ratio="16x9" >}}
 
-To give an idea of the absolute navigational mayhem going on, I've included two screenshots of the AIS. We're the red boat. Usually, there's one other boat on the screen, maybe two. Here, we had at one point 5 simultanuous collision warnings ringing at the same time.
+To give an idea of the absolute navigational mayhem going on, I've included two screenshots of the {{% explain "AIS" "automatic identification system" %}}. We're the red boat. Usually, there's one other boat on the screen, maybe two. Here, we had at one point 5 simultaneous collision warnings ringing at the same time.
 
 {{< two-images src1="opencpn1.png" alt1="Around Gibraltar" ratio1="1x1" src2="opencpn2.png" alt2="Around Tangier" ratio2="1x1" >}}
 
@@ -43,10 +43,10 @@ Other than that, the crossing was as easy as one could wish for: a gentle breeze
 
 {{< image src="IMG_8189.jpg" alt="Rif mountain range ends at the Strait" ratio="16x9" >}}
 
-We arrived on the Morrocan side of the Strait at dusk. Dolphins followed us and played with Vite & Rêves for more than an hour.
+We arrived on the Moroccan side of the Strait at dusk. Dolphins followed us and played with Vite & Rêves for more than an hour.
 
-{{< image src="IMG_8201.jpg" alt="I imagine the big bright letters on the mountside say 'Well done, dude'" ratio="16x9" >}}
+{{< image src="IMG_8201.jpg" alt="I imagine the big bright letters on the mountain side say 'Well done, my dudes'" ratio="16x9" >}}
 
 At night the wind fell to nothing and we motored in the now calm seas to Tangier.
 
-As part of a multi-billion dollar plan to attract yachties and cruisers to Morocco, there's a brand new marina in Tangier. It's actually the best marina we've encountered so far, even though it's not completed yet. The marina people and even the police and customs officers are extremely friendly and helpful. During the clearing in process, I chatted with them about travelling with kids, family abroad, good places in town and we exchanged phone numbers. 10/10. Would arrive again.
+As part of a multi-billion dollar plan to attract yachties and cruisers to Morocco, there's a brand new marina in Tangier. It's actually the best marina we've encountered so far, even though it's not completed yet. The marina people and even the police and customs officers are extremely friendly and helpful. During the clearing in process, I chatted with them about traveling with kids, family abroad, good places in town and we exchanged phone numbers. 10/10. Would arrive again.

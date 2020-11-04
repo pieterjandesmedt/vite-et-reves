@@ -20,7 +20,7 @@ I shouted to them: "Hey, what are you doing?" They said something completely uni
 
 Then Bob shouted at me: "Call the coast guard, they're trying to get on my boat as well!!" "By Jove, this is a robbery," I thought. Barbara whirled through the boat, locking the door and all windows.
 
-I turned on the VHF. The cruiser's net was abuzz with people trying to make sense of the situation. I heard 'accident' and 'sinking'. It suddenly made sense. Why would you try to rob a boat wearing diving fins? A guy named John said: "I'm watching over Molly D for my friend. I'm coming."
+I turned on the {{% explain "VHF" "very high frequency radio, the favorite means of communication at sea" %}}. The cruiser's net was abuzz with people trying to make sense of the situation. I heard 'accident' and 'sinking'. It suddenly made sense. Why would you try to rob a boat wearing diving fins? A guy named John said: "I'm watching over Molly D for my friend. I'm coming."
 
 I went back outside. The guys were still hanging through the railing. "Somebody is coming to get you, don't worry." "Oh thank you mon, thanks a lot!" I felt a bit guilty having thought they were robbers.
 
