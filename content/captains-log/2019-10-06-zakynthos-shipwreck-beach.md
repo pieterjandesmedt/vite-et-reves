@@ -37,7 +37,9 @@ The last boat of tourists was just leaving as we arrived, so we had the entire b
 
 Getting out proved... challenging. The surf was pretty intense. After a few minutes of observing the wave pattern, I noticed that the high waves came in groups, then there was a brief lull of one or two lover waves. Launch in a high wave would surely capsize the dingy. We lined up the kids, then timed it so that we'd launch _after_ the high waves.
 
-A few high waves crashed and almost pulled the dingy out of our hands. Then I saw the pause. "Now, now, NOW!!", I yelled. Andreas and Helder jumped in, Barbara threw Mira after them, then jumped in herself. I pushed and pushed, barely got in, and started rowing like a maniac to get away from the surf and deep enough to use the outboard. And saw the biggest wave of them all approach. It seemed to be grinning and gurgling, "Wrong timing, buddy", as it built up to an impossible height. I thew away the paddles and gunned little electric outboard to the maximum. The kids threw their weight forward. Time slowed down. Then the wave crashed. Everyone aboard got soaked to the bone, especially Mira, but we made it through! The kids found all of this very entertaining and were laughing their little heads off.
+A few high waves crashed and almost pulled the dingy out of our hands. Then I saw the pause. "Now, now, NOW!!", I yelled. Andreas and Helder jumped in, Barbara threw Mira after them, then jumped in herself. I pushed and pushed, barely got in, and started rowing like a maniac to get away from the surf and deep enough to use the outboard.
+
+And then I saw the biggest wave of them all approach. It seemed to be grinning and gurgling, "Wrong timing, buddy", as it built up to an impossible height. I thew away the paddles and gunned little electric outboard to the maximum. The kids threw their weight forward. Time slowed down. The bow lifted... but not enough! Then the wave crashed. Everyone aboard got soaked to the bone, especially Mira, but we made it through! The kids found all of this very entertaining and were laughing their little heads off.
 
 "Never again", Barbara said. Little did she know.
 

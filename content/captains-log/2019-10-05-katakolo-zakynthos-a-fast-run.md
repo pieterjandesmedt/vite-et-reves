@@ -23,7 +23,7 @@ We left the harbor without a hiccup, even with the cross-breeze. Barbara pushed 
 
 The wind was blowing from the north-west, we wanted to go north-west. I'm starting to see a recurrent pattern here. The horizon was jagged from the waves, so we braced ourselves for a rough ride. And it was rough, but only for an hour. Cape Katakolo compresses the current and it's not very deep around there, so the swell builds up to pretty impressive heights. Vite & Rêves took it like a champ.
 
-It got easier after a while. I left the full main up, even if the apparent wind gusted sometimes over 25 knots. Vite & Rêves was flying at around 10 knots close hauled --- 35 degrees off the apparent wind angle. I just love to see her fly like this. We're getting more and more confident in the boat and she did not disappoint. This run holds the record for our fastest average speed.
+It got easier after a while. I left the full main up, even if the apparent wind gusted sometimes over 25 knots. Vite & Rêves was flying at around 10 knots {{% explain "close-hauled" "sailing with the wind coming from almost the front of the boat" %}} --- 35 degrees off the apparent wind angle. I just love to see her fly like this. We're getting more and more confident in the boat and she did not disappoint. This run holds the record for our fastest average speed.
 
 We arrived in Keri bay on Zakynthos just in time for one of the most spectacular sunsets I have ever seen.
 
