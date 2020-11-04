@@ -23,7 +23,7 @@ Waterspouts are a tornado's little cousin. Not as dangerous, but they can still 
 
 By the time the squall got to us, the waterspout had disappeared and all we got was a steady 15 knots and a few fat raindrops. All the better. We continued until the next squall.
 
-This time I had only put the smaller genua up and left the mainsail inside its bag. The wind increased steadily to over 20 knots, and another tentacle appeared, undulating as if were searching for a juicy, succulent boat to feast on. Waterspout are really quite fascinating to observe. I was slowly getting hypnotized, like Mowgli in Jungle Book.
+This time I had only put the smaller genua up and left the mainsail inside its bag. The wind increased steadily to over 20 knots, and another tentacle appeared, undulating as if were searching for a juicy, succulent boat to feast on. Waterspout are really quite fascinating to observe. I was slowly getting hypnotized, like Mowgli by that snake in Jungle Book.
 
 {{< image src="IMG_7074.jpg" alt="Thirsty for water. Hungry for boats." ratio="3x2" >}}
 
@@ -37,8 +37,7 @@ But as fast-rolling fronts do, it rolled quickly past us. The wind decreased aga
 
 The wind had also steadily been shifting to the north. Our course became untenable with no mainsail up. The main also acts as a steering vane. With only the foresail, it's difficult to keep a course close to the wind. I clambered up the roof, held on to the boom with all available limbs, kept one eye on approaching rogue waves and unzipped the sail bag.
 
-With the main up, we were making progress. But the wind kept shifting. By now it came from east, the direction of Katakolo. So we set course for Zakynthos again. And then Vite & Rêves could finally start flying. Quite literally sometimes, because although the wind had abated, the waves had not. There was a big leftover swell that left us frequently weightless as Vite & Rêves plunged into the next trough.
-One glass got broken.
+With the main up, we were making progress. But the wind kept shifting. By now it came from east, the direction of Katakolo. So we set course for Zakynthos again. And then Vite & Rêves could finally start flying. Quite literally sometimes, because although the wind had abated, the waves had not. There was a big leftover swell that left us frequently weightless as Vite & Rêves plunged into the next trough. One glass got broken. (Yes, we have real glass glasses on board. Call me old-fashioned, but I refuse to drink from plastic cups for a year. It's the main reason why we bought a catamaran.)
 
 After an hour of very fast sailing, the second-best hour of the day, the wind decreased to less than 10 knots and had shifted to the south-east. We had not enough wind to fight the big swell anymore. At this speed, Zakynthos was still 5 hours away. But wait! We were just passing Katakolo and the wind would be good enough to get there in 2 hours. Furthermore, it would be sailing with the swell, not against it. You got to seize an opportunity when it presents itself.
 

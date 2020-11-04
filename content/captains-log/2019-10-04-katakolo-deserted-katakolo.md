@@ -19,7 +19,7 @@ What the?? As it turns out, big waves slapping the hull make the same sound as y
 
 Our anchor was holding. Our boat was safe. The sun was coming up and the wind was slowly decreasing to the low 30's. There was nothing else to do than watch some harbor tv. The harbormaster passed by, gave me a thumbs up. I felt pretty smug after that, sitting there in my pajamas. I considered having tea and biscuits. I should have brought my dressing gown and pipe.
 
-An hour later, the gale had passed. The wind shrunk to a gentle zephir, the sun was out. The contrast with a few hours before was striking. A beautiful morning to hoist up a motorboat that had sunk during the gale.
+An hour later, the gale had passed. The wind shrunk to a gentle zephyr, the sun was out. The contrast with a few hours before was striking. A beautiful morning to hoist up a motorboat that had sunk during the gale.
 
 {{< image src="IMG_7081.jpg" alt="Get up, it's a beautiful morning" ratio="3x2" >}}
 
@@ -39,7 +39,7 @@ We still needed bread, fruit and some more stuff we couldn't find in a liquor st
 
 {{< image src="IMG_4414.JPG" alt="'Walk here, you'll get to your destination faster' - Google Maps" ratio="3x2" >}}
 
-I passed dozens of empty houses and two beachfront restaurants that were fully lit with no one inside, not ever waiters. Lightning was flashing in the distance. The sun was under now. The only living souls I saw were stray dogs and a few children that kept their distance. It was downright eery. This place was like a mix between the Walking Dead and Children Of The Corn.
+I passed dozens of empty houses and two beachfront restaurants that were fully lit with no one inside, not ever waiters. Lightning was flashing in the distance. The sun was under now. The only living souls I saw were stray dogs and a few children that kept their distance. It was downright eerie. This place was like a mix between the Walking Dead and Children Of The Corn.
 
 {{< image src="IMG_4412.JPG" alt="These sunbrellas count on the clouds to provide shade" ratio="3x2" >}}
 
