@@ -341,7 +341,9 @@ img.fully-loaded,
 .has-tooltip {
     /* Container for our tooltip */
     position: relative;
-	text-decoration: underline #67adb7 wavy;
+	text-decoration: underline;
+	text-decoration-color: #67adb7;
+	text-decoration-style: wavy;
 	cursor: pointer;
 }
 

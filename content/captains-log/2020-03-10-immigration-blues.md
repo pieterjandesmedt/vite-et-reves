@@ -53,7 +53,7 @@ I pointed to the credit card stickers on the wall and to their card machine.
 
 > "We only accept cash here!"
 
-She folded her hands over her ample bosom and made her nails click menacingly, like a rattlesnake.
+She folded her hands over her ample bosom and made her false nails click menacingly, like a rattlesnake.
 
 > "Ok, ok, I'll take the bus  to the other side of the island to go to the ATM. How much cash do I need?"
 

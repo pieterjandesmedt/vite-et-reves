@@ -27,9 +27,9 @@ Next morning the waves were even bigger. The town looked inviting, but the landi
 
 In the afternoon Hannah and Antoine paddled away on their surfboards to hike to a spot we passed on the way over, that looked a bit less deadly to surf.
 
-A fisherman came by. "Taxi?", he asked. "Why yes please." "Ok, somebody will come." We watched in amazement as at least 10 people on the shore lauched _a rowboat_ into the waves. Again somebody got very wet. They rowed over to Vite & Rêves. We got the kids into their lifejackets and stepped aboard the very wobbly boat. One of rowers was bailing every few minutes.
+A fisherman came by. "Taxi?", he asked. "Why yes please." "Ok, somebody will come." We watched in amazement as at least 10 people on the shore launched _a rowboat_ into the waves. Again somebody got very wet. They rowed over to Vite & Rêves. We got the kids into their lifejackets and stepped aboard the very wobbly boat. One of rowers was {{% explain "bailing" "getting the water out of the boat" %}} every few minutes.
 
-We arrived at the surf. A multitude gathered on the beach and started shouting as the rowers turned the boat with the bow into the approaching waves. "No stress", they said, "Tranquil." "No stress?", I replied. It didn't really help my peaking stress levels. The surf was now very close, very loud, and very high. And these guys planned on beaching the boat backwards?
+We arrived at the surf. A multitude gathered on the beach and started shouting as the rowers turned the boat with the bow into the approaching waves. "No stress", they said, "Tranquil." "No stress?", I replied. It didn't really help my peaking stress levels. The surf was now very close, very loud, and very, very high. And these guys planned on beaching the boat backwards?
 
 Suddenly a wave pushed the boat a little too far. The next wave would surely grab us, and not in a good way. The crowd's volume turned up a notch and the rowers started rowing as if their lives depended on it --- which was probably quite literally so. The next wave approached but by now we had enough speed. It deposited us neatly on the beach. We had a few seconds before the next wave. Several pairs of hands grabbed the kids and helped us disembark. And suddenly we were out of reach of the waves and safe.
 

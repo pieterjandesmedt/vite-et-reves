@@ -23,6 +23,6 @@ The rain makes for lush vegetation and beautiful rainbows, especially around sun
 
 {{< two-images src1="IMG_7532.jpg" alt1="Look! A double rainbow!" ratio1="1x1" src2="IMG_9610.jpg" alt2="Dramatic sunset after the showers" ratio2="1x1" >}}
 
-At night, we enjoyed a very apt game of '[PANDEMIC](https://boardgamegeek.com/boardgame/30549/pandemic)'. This great game teaches cooperation and long-term strategy. Just a tip if you're in lockdown these days.
+At night, we enjoyed a very apt board game of ['PANDEMIC'](https://boardgamegeek.com/boardgame/30549/pandemic). This great game teaches cooperation and long-term strategy, the very things you need to survive a pandemic. Just a tip if you're in lockdown these days.
 
 {{< image src="IMG_9611.jpg" alt="Playing Pandemic" ratio="3x2" >}}

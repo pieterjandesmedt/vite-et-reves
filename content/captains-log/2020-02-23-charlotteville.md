@@ -36,7 +36,7 @@ For such a laidback island, the government processes are strangely mired in bure
 
 On the way back, a sudden downpour surprised us. A proper tropical watery deluge. We sprinted into a garage where two old geezers were chilling and talking. One of the men quickly grabbed a vat with a tap and put it under the overflowing drainpipe of the garage. "All natural wata, much betta dan dee chemical wata," he smiled.
 
-The other man guided us through his bedroom and his living room into his bar. We ate a few bags of peanuts and crisps while we waited for the shower to pass. We talked a bit ("I _just_ want you all to be happy") and then he left us to our own devices to go chill with his buddy again. Meanwhile, we amused ourselves reading the many random aphorisms stapled to the wall:
+The other man guided us through his bedroom and his living room into his bar. We ate a few bags of peanuts and crisps while we waited for the shower to pass. We talked a bit --- "I _just_ want you all to be happy", he kept repeating --- and then he left us to our own devices to go chill with his buddy again. Meanwhile, we amused ourselves reading the many random aphorisms stapled to the wall:
 
 > _"What was so special about it what turn you on most"_,
 

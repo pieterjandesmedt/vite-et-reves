@@ -146,11 +146,11 @@ We had the halfway party with appetizers, pizza and 4 small bottles of Cabo Verd
 
 The mainsail gives us a lot of speed without having to worry about having too much wind, but now we need to worry about accidental gibes. Especially when the waves build to 3-4 meters. The boat gets pushed off course, the autopilot overcorrects a bit and if the timing is wrong, a big wave will hit at that most vulnerable point and push the boom into the wind. And then: BOOM, accidental gibe.
 
-But I'm keeping still the full main up to match the wave speed as close as possible. If we slow down, big waves will start crashing into us at much higher relative speed. That's a stress I don't want to inflict on Vite & Rêves or her crew.
+But I'm keeping the full main up to match the wave speed as close as possible. If we slow down, big waves will start crashing into us at much higher relative speed. That's a stress I don't want to inflict on Vite & Rêves or her crew.
 
 And the waves are really building today. The apparent wind is at around 20 to 24 knots and Vite & Rêves is doing 8 to 13 knots, so the true wind must be around 30-35 knots. Combined with the high waves, it feels on the verge of 'out of control'.
 
-It's reassuring Vite & Rêves has behaved so well until now. She's handled any wind and wave the ocean has thrown at her thus far. So I trust her with our lives. Not that I have a choice, this far from land.
+It's reassuring Vite & Rêves has behaved so well until now. She's handled any wind and waves the ocean has thrown at her thus far. So I trust her with our lives. Not that I have a choice, this far from land.
 
 {{< image src="IMG_9369.jpg" alt="The sunsets are worth it" ratio="3x2" >}}
 
@@ -176,7 +176,7 @@ Barbara and Helder made a pear crumble today. With nothing else to do, eating --
 
 We did have an accidental gibe around dinner time. I sprinted outside to prevent the gibe back, but nothing happened. I checked the wind direction: on the nose? Then I heard the apologetic beeping of the autopilot. It was overwhelmed by the gibe and the big waves. The boat had turned 180 degrees.
 
-I hushed the autopilot, whispered a few encouraging words and managed to convince it that it was not its fault the boat {{% explain "gibed" "turned so the wind comes from the other direction" %}}. It stopped beeping, relieved. After I got Vite & Rêves back on course, it happily took the steering wheel again.
+I hushed the autopilot, whispered a few encouraging words and managed to convince it that it was not its fault the boat gibed. It stopped beeping, relieved. After I got Vite & Rêves back on course, it happily took the steering wheel again.
 
 This was our fastest day, with almost 180 miles. The waves are still considerable, as today's top speed shows.
 
@@ -203,7 +203,7 @@ You can't help feeling sorry for the dead ones though. Some scavenger will be ha
 
 #### 2020-02-21 --- Day 13
 
-The wind has all but fallen away and the waves are much more pleasant today as well. So pleasant, in fact, we could sail wing-and-wing with both the mainsail and the spinnaker.
+The wind has all but fallen away and the waves are much more pleasant today as well. So pleasant, in fact, we could sail {{% explain "wing and wing" "when you have both sails each over a different side of the boat" %}} with both the mainsail and the spinnaker.
 
 {{< image src="IMG_9388.jpg" alt="Full sails up" ratio="3x2" >}}
 

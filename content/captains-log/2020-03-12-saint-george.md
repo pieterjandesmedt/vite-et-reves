@@ -11,7 +11,7 @@ summary: "The Vite & Rêves crew sail with the Parents around the southern part 
 `From: Le Phare Blue Marina, Grenada`<br/>
 `To: Saint George, Grenada`
 
-The Parents are visiting us once more! They arrived just before the whole world got into Covid19 lockdown mode, completing a reckless and daring journey through the challenging Madrid and Miami airports, battling infected Spaniards and Americans, wielding nothing more than an umbrella and a hefty book (or so I imagine).
+The Parents are visiting us once more! They arrived just before the whole world got into Covid19 lockdown mode, completing a reckless and daring journey through the challenging Madrid and Miami airports, battling infected Spaniards and Americans, wielding nothing more than sewing needles, a hefty book and about 20 suitcases (or so I imagine).
 
 We spent a few days together in Le Phare Blue, enjoying the marina pool, before setting sail to Saint George.
 
