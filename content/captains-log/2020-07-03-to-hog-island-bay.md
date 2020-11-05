@@ -11,7 +11,7 @@ summary: "Vite & Rêves moves around the corner to Hog Island Bay"
 `From: Woburn Bay, Grenada`<br/>
 `To: Hog Island Bay, Grenada`
 
-[Guus](https://www.facebook.com/mycat.yemanja), a fellow Belgian and world traveller we met one night on Hog Island beach, is leaving today. He said: "You should take my place, it's a good one. I'm leaving at sunrise."
+[Guus](https://www.facebook.com/mycat.yemanja), a fellow Belgian and world traveller we met one night on Hog Island beach, is leaving today. He said: "You should take my anchor spot, it's a good one. I'm leaving at sunrise."
 
 We woke up exceptionally early at 7:30, drank a coffee and were on our way. It was a short tour around Hog Island, threading carefully through the reefs instead of going around them to sea.
 

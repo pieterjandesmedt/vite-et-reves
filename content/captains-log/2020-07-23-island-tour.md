@@ -10,7 +10,7 @@ summary: "The Vite & Rêves crew visit the island with friends under the expert 
 
 `All around Grenada`
 
-We hadn't really visited anything inland, apart from the [Mount Carmel falls](/captains-log/2020-07-09-mount-carmel-waterfalls) a few weeks ago. An island tour was long overdue. Barbara called up Mr. Cutty and organized a tour with a few friends --- despite her intense fear of making phone calls to strangers. Kudos!
+We hadn't really visited anything inland, apart from the [Mount Carmel falls](/captains-log/2020-07-09-mount-carmel-waterfalls) a few weeks ago. Since Gonzalo is going to hit tomorrow and the boat is ready, we had a free day on our hands. An island tour was long overdue. Barbara called up Mr. Cutty and organized a tour with a few friends --- despite her intense fear of making phone calls to strangers. Kudos!
 
 Mr. Cutty picked us up around 9:00 at Whisper Cove marina. We drove a while and enjoyed the spectacular scenery from the mountaintops of Grenada.
 
@@ -54,9 +54,13 @@ The cocoa nuts are bought from local farmers. Then dried, sorted, roasted, opene
 
 {{< two-images src1="IMG_0660.jpg" alt1="Chocolate factory" ratio1="3x2" src2="IMG_0656.jpg" alt2="Mmmmmmmm. Sweet, sweet chocolate" ratio2="3x2" >}}
 
-Then we were off again to see the old airport. On 25 October 1983, US marines landed nearby by helicopter and "captured" Pearls Airport during the invasion of Grenada. The marines seized two parked aircraft. One was a Cubana Airlines turboprop which had arrived the day before from Havana with two high-level Cuban officials. The plane was supposed to stay for a day, but never left again. No idea what happened to the officials. The other was an agricultural spray plane, a gift to Grenada from the Soviet Union. Both airplanes are still there, quietly rusting away, silent witnesses af Grenada's sometimes tumultuous past.
+Then we were off again to see the old airport. On 25 October 1983, US marines landed nearby by helicopter and "captured" Pearls Airport during the invasion of Grenada. The marines seized two parked aircraft.
 
-The landing strip is now mainly used by youths for racing, which Mr. Cutty gave a live demonstration of. It's also --- possibly --- used by the odd nightly drug plane arriving from Venezuela.
+One was a Cubana Airlines turboprop which had arrived the day before from Havana with two high-level Cuban officials. The plane was supposed to stay for a day, but never left again. No idea what happened to the officials. They probably shrugged it off and headed to the nearest rum shack.
+
+The other was an agricultural spray plane, a gift to Grenada from the Soviet Union. Both airplanes are still there, quietly rusting away, silent witnesses af Grenada's sometimes tumultuous past.
+
+The landing strip is now mainly used by youths for amateur drag racing, which Mr. Cutty gave a live demonstration of. It's also --- possibly --- used by the odd nightly drug plane arriving from Venezuela.
 
 {{< two-images src1="IMG_0666.jpg" alt1="Abandoned plane" ratio1="3x2" src2="IMG_0664.jpg" alt2="The airport's duty free shop" ratio2="3x2" >}}
 

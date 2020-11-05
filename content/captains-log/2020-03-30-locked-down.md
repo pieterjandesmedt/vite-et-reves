@@ -11,7 +11,7 @@ summary: "The Vite & Rêves crew try to escape the St. George lockdown and sail 
 `From: St. George, Grenada`<br/>
 `To: Gouyave, Grenada`
 
-Covid19 lockdown has reached Grenada. Gradually, every day a bit more, every day a bit tighter. First the masks appeared, and the gloves. Then the signs and hand sanitizer in every shop. And suddenly, shops limited the number of people that could go inside. In a place like St. George, that has supermarkets filled to the brim regularly, this leads to gigantic queues.
+COVID19 lockdown has reached Grenada. Gradually, every day a bit more, every day a bit tighter. First the masks appeared, and the gloves. Then the signs and hand sanitizer in every shop. And suddenly, shops limited the number of people that could go inside. In a place like St. George, that has supermarkets filled to the brim regularly, this leads to gigantic queues.
 
 Now everyone was standing outside, talking and socializing. It completely defeats the purpose of the lockdown and it makes getting groceries an exasperating exercise in patience. I felt a change of scenery was long overdue too, so we sailed north to Gouyave.
 

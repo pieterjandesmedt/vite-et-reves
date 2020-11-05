@@ -10,7 +10,7 @@ summary: "In which a coronavirus makes it very difficult for the Parents to get 
 
 `At: St. George, Grenada`
 
-For those who thought we have succumbed to Covid19, fear not! All is well. But it was an enormous hassle to get the Parents back home, amidst panicking governments and bumbling travel agencies. There will be some stern naming and shaming in the following paragraphs.
+For those who thought we have succumbed to COVID19, fear not! All is well. But it was an enormous hassle to get the Parents back home, amidst panicking governments and bumbling travel agencies. There will be some stern naming and shaming in the following paragraphs.
 
 My Parents had booked their flight through Connections. Do not use that travel agency. Actually, don't book your tickets through any travel agency. They're just there to make a quick buck and will deny all responsibility if anything goes wrong, just like some presidents do.
 

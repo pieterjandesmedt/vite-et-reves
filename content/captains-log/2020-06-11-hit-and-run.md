@@ -18,7 +18,7 @@ We're in a quiet bay where all days are alike, but sometimes something exciting 
 
 I shouted to them: "Hey, what are you doing?" They said something completely unintelligible. I grabbed our searchlight and lit up Molly D. The guys that had boarded her were on deck.
 
-Then Bob shouted at me: "Call the coast guard, they're trying to get on my boat as well!!" "By Jove, this is a robbery," I thought. Barbara whirled through the boat, locking the door and all windows.
+Then Bob shouted at me: "Call the coast guard, they're trying to get on my boat as well!!" "By Poseidon, this is a robbery," I thought. Barbara whirled through the boat, locking the door and all windows.
 
 I turned on the {{% explain "VHF" "very high frequency radio, the favorite means of communication at sea" %}}. The cruiser's net was abuzz with people trying to make sense of the situation. I heard 'accident' and 'sinking'. It suddenly made sense. Why would you try to rob a boat wearing diving fins? A guy named John said: "I'm watching over Molly D for my friend. I'm coming."
 
