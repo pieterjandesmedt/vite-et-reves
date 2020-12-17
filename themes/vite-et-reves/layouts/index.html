@@ -3,13 +3,13 @@
 {{ end }}
 
 {{ define "main" }}
-    <div>
+    <div id="main" tabindex="-1">
 		<section class="hero is-fullheight">
 			{{ with .Site.Params.index.video }}
 				{{- partial "_shared/video.html" . -}}
 			{{ end }}
-			<img src="images/logo-white.svg" class="logo shadow" />
-			<img src="images/logo-text.svg" class="logo-text shadow" />
+			<img src="images/logo-white.svg" class="logo shadow" aria-hidden="true" />
+			<img src="images/logo-text.svg" class="logo-text shadow" aria-hidden="true" />
             {{ with .Site.Params.index.subtitle }}
 			<h4 class="subtitle is-size-3"><i>{{ . }}</i></h4>
 			{{ end }}

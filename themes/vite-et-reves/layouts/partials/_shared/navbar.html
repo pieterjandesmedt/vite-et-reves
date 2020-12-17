@@ -1,6 +1,7 @@
 <!-- Begin Menu Navigation
 ================================================== -->
 <nav id="navbar" class="navbar is-transparent is-fixed-top" role="navigation" aria-label="main navigation">
+	<a class="skip-main" href="#main">Skip to main content</a>
 	<a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
 		data-target="navMenu">
 		<span aria-hidden="true"></span>
@@ -13,7 +14,7 @@
 		<!-- Begin Logo -->
 		<div class="navbar-start">
 			<div class="navbar-brand">
-				<a class="navbar-item" href="{{ .Site.BaseURL }}/">
+				<a class="navbar-item" href="/">
 					{{ "themes/vite-et-reves/static/images/logo.svg" | readFile | safeHTML }}
 				</a>
 			</div>

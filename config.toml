@@ -1,5 +1,4 @@
-baseURL = "https://vite-et-reves.com"
-languageCode = "nl-be"
+languageCode = "en-us"
 title = "Vite & Rêves"
 theme = "vite-et-reves"
 summaryLength = 25

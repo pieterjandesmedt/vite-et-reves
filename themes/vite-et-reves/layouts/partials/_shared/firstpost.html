@@ -1,2 +1,2 @@
 {{ $firstPost := index (last 1 (where .Site.RegularPages "Section" "captains-log")) 0 }}
-{{ with $firstPost }}<a class="" href="{{.Permalink}}"> {{- partial "_shared/title" .Title -}}</a>{{ end }}
+{{ with $firstPost }}<a href="{{.Permalink}}"> {{- partial "_shared/title" .Title -}}</a>{{ end }}
