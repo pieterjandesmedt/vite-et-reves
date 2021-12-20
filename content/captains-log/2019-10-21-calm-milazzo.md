@@ -1,11 +1,11 @@
 ---
-title: "Calm Milazzo"
+title: 'Calm Milazzo'
 date: 2019-10-21T00:00:28+02:00
 publishdate: 2019-10-21T00:00:28+02:00
-image: "IMG_7438.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 23.gpx"
-summary: "Milazzo castle was closed, so the Vite & Rêves crew found a big supermarket and motor a bit in the right direction."
+image: 'IMG_7438.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 23.gpx'
+summary: 'Milazzo castle was closed, so the Vite & Rêves crew found a big supermarket and motor a bit in the right direction.'
 ---
 
 `From: Milazzo, Sicily, Italy`<br/>
@@ -21,7 +21,7 @@ Milazzo itself is a nice city, but the view is forever marred by the oil refiner
 
 {{< two-images src1="IMG_7432.jpg" alt1="Kids climbing the hill" src2="IMG_7434.jpg" alt2="A view forever marred by Big Oil" >}}
 
-Coming down from the hill --- and my soapbox --- we found a big supermarket. Everything conveniently packaged in plastic. We were a bit overwhelmed by the assortment, after weeks of small local grocery stores. Barbara shed a single tear of happiness.
+Coming down from the hill --- and my soapbox --- we found a big supermarket. Everything conveniently packaged in oil-based plastic. We were a bit overwhelmed by the assortment, after weeks of small local grocery stores. Barbara shed a single tear of happiness.
 
 {{< image src="IMG_7436.jpg" alt="Look at all this food!" ratio="3x2" >}}
 

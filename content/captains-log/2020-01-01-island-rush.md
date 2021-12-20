@@ -1,11 +1,11 @@
 ---
-title: "Island Rush"
+title: 'Island Rush'
 date: 2020-01-01T22:17:36Z
 publishdate: 2020-01-01T22:17:36Z
-image: "IMG_8866.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 51.gpx"
-summary: "Vite & Rêves probably broke her average speed record between La Graciosa and the south of Lanzarote."
+image: 'IMG_8866.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 51.gpx'
+summary: 'Vite & Rêves probably broke her average speed record between La Graciosa and the south of Lanzarote.'
 ---
 
 `From: Caleta de Sebo, La Graciosa, Canary Islands`<br/>
@@ -27,7 +27,7 @@ Once we rounded southern Punta Pechiguera, visibility detoriated somewhat. The w
 
 {{< image src="IMG_8866.jpg" alt="" ratio="3x2" >}}
 
-As we were barreling towards Rubicon Marina at 9 knots, Barbara suddenly noticed a ferry coming straight at us. "Quick, fire a shot across their bow!", she yelled.
+As we were barreling towards Rubicon Marina at 9 knots, Barbara suddenly noticed a ferry coming straight at us. "Quick, fire a shot across their bow!", I yelled.
 
 For a moment I considered altering course, but nothing I could do would make the situation any safer. I settled on following COLREG rule 18 --- the best rule in my opinion --- _"A power-driven vessel must give way to a sailing vessel"_. After a few tense seconds the ferry made a sharp turn to our stern and passed behind us. Good capt'n!
 

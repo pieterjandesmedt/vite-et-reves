@@ -1,11 +1,11 @@
 ---
-title: "No Time To Waste"
+title: 'No Time To Waste'
 date: 2019-09-29T02:01:58+03:00
 publishdate: 2019-09-29T02:01:58+03:00
-image: "IMG_6927.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export.gpx"
-summary: "The Vite & Rêves crew saw a dolphin on the way to Koroni."
+image: 'IMG_6927.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export.gpx'
+summary: 'The Vite & Rêves crew saw a dolphin on the way to Koroni.'
 ---
 
 `From: Geralimena, Southern Peloponnesos, Greece`<br/>
@@ -13,11 +13,11 @@ summary: "The Vite & Rêves crew saw a dolphin on the way to Koroni."
 
 No wind at all this morning. Not one knot. So we visited Geralimena, the town that looked quaint, lovely and inviting the night before. We were in dire need of bread and a place to dump our garbage. Cruising is all about finding places to dump your garbage, because you're not supposed to chuck it all overboard. It's bad for the dolphins. And there's no convenient garbage boat that makes the rounds every monday or so. Could be a business idea. Just planting seeds here.
 
-Anyway, we were slogging around town carrying a full garbage bag in the sweltering heat. The first thing we noticed is that everybody. moved.. very... slowly. Ok, it was a sunday, it was hot, but still, to be collectively miming the unbearable heaviness of being seemed a bit over the top. I propose to rename Gera Limena to Arge Limena. Greek relatives may correct me.
+Anyway, we were slogging around town carrying a full garbage bag in the sweltering heat. The first thing we noticed is that everybody. moved.. very... slowly. Ok, it was a sunday, it was hot, but still, to be collectively miming the unbearable heaviness of being seemed a bit over the top. I propose to rename Gera Limena (Old Harbor) to it's anagram Arge Limena (Slow Harbor). Greek relatives may correct me.
 
 I tried asking for the nearest garbage container to the first native I saw. He ignored me completely. The second one, dawdling in slow motion behind the first one, ignored me too. Was the bag too smelly? Was I? Was I speaking too quickly for them? It was a very surreal experience.
 
-We saw some women sitting on a coffee house terrace who seemed to notice us. I asked again --- articulating my words slowly and carefully ---  for a place to get rid of our garbage. They consulted among each other for a good five minutes. Then one of them pointed down the street. We dragged our bag for another mile down the street. No garbage container. Chucking it all in the sea suddenly seemed like a viable idea. But we thought of the dolphins.
+We saw some women sitting on a coffee house terrace who seemed to notice us. I asked again --- articulating my words slowly and carefully --- for a place to get rid of our garbage. They consulted among each other for a good five minutes. Then one of them pointed down the street. We dragged our bag for another mile down the street. No garbage container. Chucking it all in the sea suddenly seemed like a viable idea. But we thought of the dolphins.
 
 In the end we found a very fancy hotel where they explained us there are no containers in town and no garbage disposal service either. They told us to just put it in their truck. They would take care of it, no problem sir, you're welcome. We didn't think to ask what they do with the garbage. They probably drive it to the nearest cliff and chuck it all into the sea.
 

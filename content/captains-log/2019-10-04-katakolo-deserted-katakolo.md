@@ -1,10 +1,10 @@
 ---
-title: "Deserted Katakolo"
+title: 'Deserted Katakolo'
 date: 2019-10-04T20:31:38+03:00
 publishdate: 2019-10-04T20:31:38+03:00
-image: "IMG_7081.jpg"
-author: "Pieter Jan"
-summary: "The Vite & Rêves crew are stuck for a day in the eery town of Katakolo. They did meet a nice local who sold them vegetables straight from his garden."
+image: 'IMG_7081.jpg'
+author: 'Pieter Jan'
+summary: 'The Vite & Rêves crew are stuck for a day in the eery town of Katakolo. They did meet a nice local who sold them vegetables straight from his garden.'
 ---
 
 `At: Katakolo, Western Peloponnesos, Greece`
@@ -23,7 +23,7 @@ An hour later, the gale had passed. The wind shrunk to a gentle zephyr, the sun 
 
 {{< image src="IMG_7081.jpg" alt="Get up, it's a beautiful morning" ratio="3x2" >}}
 
-The waves were huge and breaking outside the harbor. We decided to stay another day and go grocery shopping. Some Poles went out in their Bavaria 37. They were back after two hours. When I asked the captain how it was outside, he just shook his head and said, "Not good", which is Polish for "Oh my god we literally almost died".
+The waves were huge and breaking outside the harbor. We decided to stay another day and go grocery shopping. Some Poles went out in their Bavaria 37. They were back after two hours. When I asked the captain how it was outside, he just shook his head and said in a low voice, "Not good", which is Polish for "Oh my god we literally almost died".
 
 Katakolo is a weird town. It has a fairly large harbor with a wide promenade but the town is only a couple of streets big. It was also completely deserted. All shops were closed. All restaurants except one were closed. It has no supermarket to speak of, unless you count a liquor/diaper store run by two octogenarians as a supermarket. They're probably catering to their own needs. It feels like it's a bustling tourist trap during two months of the year, then abandoned for the rest of the time. Where do the people go then? It's a mystery wrapped in an enigma.
 

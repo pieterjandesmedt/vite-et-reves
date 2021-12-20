@@ -1,11 +1,11 @@
 ---
-title: "Resting Day"
+title: 'Resting Day'
 date: 2019-10-11T10:03:47+03:00
 publishdate: 2019-10-11T10:03:47+03:00
-image: "IMG_7300.jpg"
-author: "Pieter Jan"
-gpx: ""
-summary: "The Vite & Rêves crew took a day of rest and provisioning in Palaiokastrita before our crossing to Italy."
+image: 'IMG_7300.jpg'
+author: 'Pieter Jan'
+gpx: ''
+summary: 'The Vite & Rêves crew took a day of rest and provisioning in Palaiokastrita before our crossing to Italy.'
 ---
 
 `At: Palaiokastrita (Alipa), Kerkyra (Corfu), Greece`
@@ -22,9 +22,8 @@ So no fresh water here. We did find unencrypted WiFi we could pirate. It's not a
 
 We also found a small overpriced store, Kathy's supermarket. Kathy turned out to be a burly middle-aged man. As we were running dangerously low on cookies, we made him very happy by emptying his shelves.
 
-We took the dingy out to sea to find the "Blue Eye Cave". We cruised around for a while --- Barbara stressing because I let Andreas drive so close to the cliffs --- but couldn't find it. Maybe it's marked at the wrong place on Google maps, or you can only access it by diving.
+We took the dingy out to sea to find the "Blue Eye Cave". We cruised around for a while --- Barbara stressing out because I let Andreas drive so close to the cliffs --- but couldn't find it. Maybe it's marked at the wrong place on Google maps, or you can only access it by diving.
 
 Back on the boat the kids discovered the sail locker in the starboard bow. They spent about an hour playing there, climbing in and out. I'm still getting surprised every day by how little they need to get their imagination going.
 
 {{< three-images src1="IMG_5908.JPG" alt1="Andreas" src2="IMG_5911.JPG" alt2="Helder" src3="IMG_5914.JPG" alt3="Mira"  ratio1="1x1" ratio2="1x1" ratio3="1x1" >}}
-

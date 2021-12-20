@@ -1,11 +1,11 @@
 ---
-title: "On Achieving Calm"
+title: 'On Achieving Calm'
 date: 2019-10-02T21:44:05+03:00
 publishdate: 2019-10-02T21:44:05+03:00
-image: "IMG_7016_1.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 9.gpx"
-summary: "After a tricky start, the Vite & Rêves crew ended up in the delightful, quiet bay of Panagoula."
+image: 'IMG_7016_1.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 9.gpx'
+summary: 'After a tricky start, the Vite & Rêves crew ended up in the delightful, quiet bay of Panagoula.'
 ---
 
 `From: Pylos, Western Peloponnesos, Greece`<br/>
@@ -23,9 +23,9 @@ Anyway, our Marlow pyramid had a strong basis again, so we could focus on self-r
 
 We left the dock, where Vite & Rêves was lying between three superyachts --- a huge motoryacht the size of a small cruise ship and two carbon fibre catamarans as big as soccer fields. "Alright baby," I said to Barbara, "Tighten the anchor a bit, it'll pull us gently forward from between these very expensive looking megayachts." As we were floating forward, my {{% explain "mooring line" "line that ties the boat to something solid" %}} got jammed in the quay ring. Vite & Rêves started drifting dangerously close to the nearest superyacht, its mirror-like hull shining menacingly. I foresaw us spending our entire deductible on boat wax and started pulling the mooring line with all my might. "Loosen the anchor, woman!", I shrieked. But Barbara had her finger on the button already.
 
-With heroic effort I pulled Vite & Rêves back to the quay. Luckily the superyachts, each as big as an apartment building, provided adequate wind shadow. I unjammed the mooring line and now we floated indeed gently from between the superyachts. Until our anchor chain got jammed between two rocks.
+With Herculean effort I pulled Vite & Rêves back to the quay. Luckily the superyachts, each as big as an apartment building, provided adequate wind shadow. I unjammed the mooring line and now we floated indeed gently from between the superyachts. Until our anchor chain got jammed between two rocks.
 
-Our windlass started pulling Vite & Rêves underwater instead of forward. We were stuck and now drifting dangerously close to the concrete breakwater. This one was lined with huge rocks. Thankfully, Vite & Rêves is not that big and can be moved with surgical precision, so I did a 180 around the anchor chain, missing the boulders by a distance that was really too close for comfort. We pulled the chain free and I used my teeth to unclench my hands from the steering wheel.
+Our windlass started pulling Vite & Rêves underwater instead of forward. We were stuck and now drifting dangerously close to the concrete breakwater. This one was lined with huge rocks. Thankfully, Vite & Rêves is not that big and can be moved with surgical precision, so I did a 180 around the anchor chain, missing the boulders by a distance that was really too close for comfort. We pulled the chain free and I used my teeth to unclench my white-knuckled hands from the steering wheel.
 
 I took another look at the wind. 10 knots in this protected bay already, imagine how perfect the sailing conditions must be outside! I hoisted the main while Barbara steered the boat safely between two impressive cliffs. She admitted this made her hands a bit sweaty, but hey, it's her boat too, why should I do all the dangerous manoeuvres?
 

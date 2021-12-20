@@ -1,9 +1,5 @@
-static/images/*.jpg
-static/images/*.JPG
-static/images/*.jpeg
-static/images/*.JPEG
-static/images/*.mp4
-static/images/*.png
+static/images
+!static/images/lqip
 resources
 public
 .DS_Store

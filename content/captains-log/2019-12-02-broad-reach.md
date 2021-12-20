@@ -1,17 +1,17 @@
 ---
-title: "Broad Reach"
+title: 'Broad Reach'
 date: 2019-12-02T21:47:19+01:00
 publishdate: 2019-12-02T21:47:19+01:00
-image: "IMG_8048.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 43.gpx"
-summary: "Vite & Rêves sails the whole day on a broad reach before a storm."
+image: 'IMG_8048.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 43.gpx'
+summary: 'Vite & Rêves sails the whole day on a broad reach before a storm.'
 ---
 
 `From: Cartagena, Spain`<br/>
 `To: Almeria, Spain`
 
-We left Cartagena at 8:30. Our plan was to leave at 7:00, but we're not exactly morning people, to put it carefully. It's a great relief Vite & Rêves is able to compensate our dawdling with her speed.
+We left Cartagena at 8:30. Our plan was to leave at 7:00, but we're not exactly morning people, to put it mildly. It's a great relief Vite & Rêves is able to compensate our dawdling with her speed.
 
 We had a very narrow weather window: A stiff southwester breeze had just stopped blowing and a northeaster storm was approaching fast. It would hit in the evening.
 
@@ -41,7 +41,7 @@ We did a third {{% explain "gibe" "turn so the wind comes from the other directi
 
 On our arrival in Almeria, around 0:30, it started raining harder and harder. We tried the marina. A guy came out in his car and yelled at us: _"No es posible! Something something catamarán"_. I pointed at a spot that was obviously big enough to hold our _catamarán_. _"No es posible!"_
 
-Dejected, we exited the marina and tried to anchor next to it. But the place was too deep, too narrow and our anchor didn't take hold. I didn't want to take any chances with the storm coming and after 3 tries I said: "Screw this, I'm tired of this situation. I'm tying off to the forking fuel dock. Funk it." I may have used slightly stronger language. By now the rain was bucketing down.
+Dejected, we exited the marina and tried to anchor next to it. But the place was too deep, too narrow and our anchor didn't take hold. I didn't want to take any chances with the storm coming and after 3 tries I said: "Fork this, I'm forking tired of this forking situation. I'm tying off to the forking fuel dock. Fork it." I may have used slightly stronger language. By now the rain was bucketing down.
 
 We had just finished tying off Vite & Rêves, when the same guy popped up from behind a fuel pump. _"No es posible!"_ Motherforker. I tried to explain that we weren't going anywhere with the storm coming. In the end, he took pity on our soaked souls and said a whole lot in Spanish, the gist of it being: "Oh silly me, I forgot that there's a spot at the end of the marina where your catamarán will fit nicely. By the way, you can't anchor for shit." To be fair, he helped us moor. The very minute we were moored it stopped raining.
 

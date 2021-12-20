@@ -1,11 +1,11 @@
 ---
-title: "Crossing to Menorca"
+title: 'Crossing to Menorca'
 date: 2019-11-08T12:11:28+01:00
 publishdate: 2019-11-08T12:11:28+01:00
-image: "IMG_7742.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 34.gpx"
-summary: "The Vite & Rêves crew cross from Sardinia to Menorca. It was wild but went okay."
+image: 'IMG_7742.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 34.gpx'
+summary: 'The Vite & Rêves crew cross from Sardinia to Menorca. It was wild but went okay.'
 ---
 
 `From: Porto Di Sant' Antioco, Sardinia, Italy`<br/>
@@ -41,7 +41,7 @@ I took the night watch again. Vivid dreams about mooring, crashing and hypotherm
 
 {{< image src="IMG_7746.jpg" alt="Squalls incoming" ratio="3x2" >}}
 
-Squalls kept coming, one after the other. At 4:00 there was a hailstorm. I prayed to the god I don't believe in: "A _hailstorm_, God, seriously? Why?" He answered immediately --- I've been told this is rare --- with a booming voice in my head: "Because I can, you puny mortal! Muhahahahaha!!!" He must've been in one of his Old Testament moods. I went back to sleep for 30 minutes.
+Squalls kept coming, one after the other. At 4:00 there was a hailstorm. I prayed to the god I don't believe in: "A _hailstorm_, God, seriously? Why?" He answered immediately --- I've been told this is rare --- with a booming voice in my head: "Because I can, you puny mortal! Muhahahahaha!!!" He must've been in one of his Old Testament moods.
 
 At last, the sun came up. We were one hour away from the entrance to Mahón, Menorca. It was one of the most beautiful, soothing and reassuring sunrises I have ever seen.
 

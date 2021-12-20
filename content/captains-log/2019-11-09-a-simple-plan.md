@@ -1,11 +1,11 @@
 ---
-title: "A Simple Plan"
+title: 'A Simple Plan'
 date: 2019-11-09T18:43:24+01:00
 publishdate: 2019-11-09T18:43:24+01:00
-image: "IMG_7771.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 35.gpx"
-summary: "During the crossing from Menorca to Mallorca, the genua sheet breaks."
+image: 'IMG_7771.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 35.gpx'
+summary: 'During the crossing from Menorca to Mallorca, the genua sheet breaks.'
 ---
 
 `From: Mahón, Menorca, Spain`<br/>
@@ -29,12 +29,14 @@ Once we passed southernmost tip of Menorca, Punta dels Marbres, the wind turned 
 
 {{< image src="IMG_7772.jpg" alt="Punta dels Marbres" ratio="3x2" >}}
 
-The sun set, the moon came up, the wind increased steadily. Vite & Rêves was going at a nice clip. 8 knots, 9 knots, 10 knots. Suddenly, amidst all the noise of the pounding waves, I heard a kind of 'BANG' I hadn't heard before. I looked over to the genua winch, where the sound had come from. The outer mantle of the port {{% explain "genua sheet" "a line you use to control the foresail" %}} had torn in the clutch. I remembered the sheet had been creaking more forebodingly than usual today. The {{% explain "genua" "the foresail" %}} was completely out of shape now for the course we were sailing.
+The sun set, the moon came up, the wind increased steadily. Vite & Rêves was going at a nice clip. 8 knots, 9 knots, 10 knots. Suddenly, amidst all the noise of the pounding waves, I heard a kind of 'BANG' I hadn't heard before, coming from the genua winch. The outer mantle of the port {{% explain "genua sheet" "a line you use to control the foresail" %}} had torn in the clutch. I remembered the sheet had been creaking more forebodingly than usual today.
 
-30 knots of wind and no way to roll in the foresail, as the sheet mantle was jammed in the clutch. We couldn't {{% explain "tack" "turn so the wind comes from the other direction" %}} and put the load on the other sheet because of this either. This was what sailors call 'a situation'. I pondered the situation for a minute. I called Barbara outside and explained the situation.
+The sheet mantle was jammed in the clutch. 30 knots of wind. We couldn't roll in the genua. We couldn't {{% explain "tack" "turn so the wind comes from the other direction" %}}. This was what sailors call 'a situation'.
 
-We rolled in the headsail as far as the jammed mantle would allow us. I moved the starboard sheet to the broken sheet side, on to the winch, and pointed the boat very close to the wind. This took the wind out of the foresail. It started flapping. I cut the exposed kern of the broken sheet. Then, while I used my weight to keep the flapping reserve sheet under control, Barbara threaded it through the block and the clutch and put it around the winch. We were back in business! Now we could roll in the foresail in a controlled way. We motored over to the nearest bay, 20 miles straight into the waves. All those bangs sounded familiar.
+I pondered the situation for a minute. I called Barbara outside and explained the situation.
+
+We came up with a plan: I attached the starboard sheet to the port side of the genua. I pointed the boat very close to the wind. This took the wind out of the foresail. I cut the broken sheet. Then, while I used my weight to keep the new, violently flapping sheet under control, Barbara threaded it through the clutch and put it around the winch. We were back in business! Now we could roll in the foresail again.
+
+We motored over to the nearest bay, 20 miles straight into the waves. But all those bangs at least sounded familiar.
 
 All in all, we handled the situation pretty well I think. I also realized dolphins are not omens, just dolphins.
-
-

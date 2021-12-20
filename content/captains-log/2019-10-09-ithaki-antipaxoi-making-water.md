@@ -1,11 +1,11 @@
 ---
-title: "Making Water"
+title: 'Making Water'
 date: 2019-10-09T19:28:17+03:00
 publishdate: 2019-10-09T19:28:17+03:00
-image: "IMG_7206.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 14.gpx"
-summary: "A windless day saw the Vite & Rêves crew motoring all the way to Antipaxoi island where they had to try a few bays before finding one that would hold the boat safely."
+image: 'IMG_7206.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 14.gpx'
+summary: 'A windless day saw the Vite & Rêves crew motoring all the way to Antipaxoi island where they had to try a few bays before finding one that would hold the boat safely.'
 ---
 
 `From: Polis bay, Ithaki island, Greece`<br/>
@@ -17,7 +17,7 @@ I came on deck and saw the small English sailboat that anchored in front of us y
 
 After an hour, the child of the morning, the rosy-fingered Dawn, appeared, just like in the 3500 year old stories. The wind shifted to parallel to the beach and all was well again. I went back to bed for two more hours of much-needed sleep.
 
-Living on a boat entails constant worry. This is something they don't advertise in the brochures. In a house, you can go out and be pretty sure that when you come back, your house will still be there. In a boat this is not entirely certain. Part of it is out of your control as well. The wind can turn or increase, other people arrive and anchor too close, or they leave and pick up your anchor on the way out. Burglars can not only take all of your stuff, but your entire home as well. This reminds me I should really check our insurance.
+Living on a boat entails constant worry. This is something they don't advertise in the brochures. In a house, you can go out and be pretty sure that when you come back, your house is still there. In a boat this is not entirely certain. Part of it is out of your control as well. The wind can turn or increase, other people arrive and anchor too close, or they leave and pick up your anchor on the way out. Burglars can not only take all of your stuff, but your entire home as well. This reminds me I should really check our insurance.
 
 {{< image src="IMG_7167.jpg" alt="Vite & Rêves amongst a worrying amount of other sailboats" ratio="3x2" >}}
 

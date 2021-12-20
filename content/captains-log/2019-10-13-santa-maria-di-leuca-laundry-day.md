@@ -1,16 +1,16 @@
 ---
-title: "Laundry Day"
+title: 'Laundry Day'
 date: 2019-10-13T09:22:26+02:00
 publishdate: 2019-10-13T09:22:26+02:00
-image: "IMG_7326.jpg"
-author: "Pieter Jan"
-gpx: ""
-summary: "The Vite & Rêves crew found a laundromat and made the most of it thanks to laundromat regular Pascuale."
+image: 'IMG_7326.jpg'
+author: 'Pieter Jan'
+gpx: ''
+summary: 'The Vite & Rêves crew found a laundromat and made the most of it thanks to laundromat regular Pascuale.'
 ---
 
 `At: Santa Maria di Leuca, Italy`
 
-The last few days, every time we were near land, Barbara got laundry fever. And rightly so. The bed sheets' colors were becoming indefinable, whites becoming yellowish, the boys' room was smelling like, well, unwashed little boys. My pants were so dirty from all the salt that they could stand up on their own.
+The last few days, every time we were near land, Barbara got laundry fever. And rightly so. The bed sheets' colors were becoming indefinable, whites becoming yellowish, the boys' room was smelling like, well, unwashed little boys. My shorts were so salty and dirty that they could stand up on their own.
 
 Every landfall was accompanied by pouring over Google maps, trying to find the closest laundromat. "Look, there's one only 10 kilometers away! If we walk quickly, we can make it before nightfall." In Greece, laundromats are not placed with cruisers' convenience in mind.
 
