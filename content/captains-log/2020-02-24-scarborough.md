@@ -1,11 +1,11 @@
 ---
-title: "Scarborough"
+title: 'Scarborough'
 date: 2020-02-24T16:35:30-01:00
 publishdate: 2020-02-24T16:35:30-01:00
-image: "IMG_9455.jpg"
-author: "Pieter Jan"
-gpx: ""
-summary: "The Vite & Rêves crew try to find a sim card and the carnival in Scarburough."
+image: 'IMG_9455.jpg'
+author: 'Pieter Jan'
+gpx: ''
+summary: 'The Vite & Rêves crew try to find a sim card and the carnival in Scarburough.'
 ---
 
 `From: Charlotteville, Tobago`<br/>
@@ -29,7 +29,7 @@ Once in Scarborough, we tried to find sim cards for our phones, but all the shop
 
 {{< two-images src1="IMG_9457.jpg" alt1="Very elaborate costumes" ratio1="1x1" src2="IMG_9458_1.jpg" alt2="Too bad we saw no parade" ratio2="1x1" >}}
 
-We found a parking lot where the dressed-up people seemed to converge. An MC and a jury were presiding over some kind of competition of which group had the best costume. It looked all pretty serious. Nobody was smiling. On the road, speaker trucks were still almost crashing into each other all the time.
+We found a parking lot where the dressed-up people seemed to converge. An MC and a jury were presiding over some kind of competition of which group had the best costume. It looked all pretty serious. Nobody was smiling. On the road, towering speaker trucks were still nearly crashing into each other all the time.
 
 By now we were quite hungry. We only had eaten breakfast. We escaped the deafening music into the airconditioned quiet of a KFC --- my first time ever in a KFC --- to have late lunch or early dinner.
 

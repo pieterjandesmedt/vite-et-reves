@@ -1,12 +1,12 @@
 ---
-title: "7 Things We Will Miss"
-subtitle: "about Grenada"
+title: '7 Things We Will Miss'
+subtitle: 'about Grenada'
 date: 2020-08-17T16:55:46+02:00
 publishdate: 2020-08-17T16:55:46+02:00
-image: "IMG_0520.jpg"
-author: "Pieter Jan"
-gpx: ""
-summary: "The Vite & Rêves crew muses about Grenadian things that cannot be found elsewhere."
+image: 'IMG_0520.jpg'
+author: 'Pieter Jan'
+gpx: ''
+summary: 'The Vite & Rêves crew muses about Grenadian things that cannot be found elsewhere.'
 ---
 
 `At: Hog Island`
@@ -59,7 +59,7 @@ Music is such a big part of life in Grenada, especially in the cruiser's communi
 
 _Monday?_ Practice jam on the beach for the musicians. _Tuesday?_ A gig at Whisper Cove marina. _Wednesday?_ A few guys will usually play at Roger's barefoot bar. _Thursday?_ Legendary Thursday Jam at Nimrod's Rum Shack. _Friday?_ Beach Jam on Hog Island. _Saturday?_ A well-deserved rest and recuperation day, although you could head to the brewery where there's probably a live band playing. _Sunday?_ Hog Island party with live band for locals and cruisers alike.
 
-That would be good anywhere, but what makes it really great is how inclusive and encouraging everyone is. Even if you're an absolute beginner, you'll be playing with the best in no time. Having no portable instrument on board, I borrowed an accordion from the lovely Sarah (whose [riveting story about her boat restoration](http://www.woodwaterandi.com/) you should absolutely read). I discovered I could get a few notes out of it and tuned it. Within 4 weeks I was on stage at Nimrod's performing next to Tom, a cruiser and captain whose kindness and encouragement are only matched by the size of his gigantic repertoire.
+That would be good anywhere, but what makes it really great is how inclusive and encouraging everyone is. Even if you're an absolute beginner, you'll be playing with the best in no time. Having no portable instrument on board, I borrowed an accordion from the lovely Sarah (whose [riveting story about her boat restoration](https://woodwaterandi.com/the-restoration/) you should absolutely read). I discovered I could get a few notes out of it and tuned it. Within 4 weeks I was on stage at Nimrod's performing next to Tom, a cruiser and captain whose kindness and encouragement are only matched by the size of his gigantic repertoire.
 
 It's simply magical. Music really does bring people together, so much that I'm planning to start or join a band when I'm back in Belgium. Looking for a percussionist, a bass player and a guitarist with a gigantic repertoire, but any friendly musician will do. I'll play fiddle, keys or --- _why not?_ --- accordion.
 
@@ -84,4 +84,3 @@ Thank you Tom, Liz, Keith, Ben, Anja, Aaron, Megan, Kat, Wazza, Rachel, Trampus,
 {{< two-images src1="IMG_0650.jpg" alt1="With Kat, Wazza, Jens and Kirsten" ratio1="3x2" src2="IMG_9427.jpg" alt2="With Megan, Abby, Liz, Carol and Anja (taking the picture)" ratio2="3x2" >}}
 
 {{< two-images src1="IMG_0755.jpg" alt1="With Tom" ratio1="3x2" src2="IMG_0764.jpg" alt2="With Ben and Anja" ratio2="3x2" >}}
-

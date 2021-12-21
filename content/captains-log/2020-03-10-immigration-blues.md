@@ -1,11 +1,11 @@
 ---
-title: "Immigration Blues"
+title: 'Immigration Blues'
 date: 2020-03-10T14:22:45-04:00
 publishdate: 2020-03-10T14:22:45-04:00
-image: "4968572_18051201220065372966.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 73.gpx"
-summary: "Immigration in Grenada proves to be a bit of an ordeal."
+image: '4968572_18051201220065372966.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 73.gpx'
+summary: 'Immigration in Grenada proves to be a bit of an ordeal.'
 ---
 
 `From: Woburn Bay, Grenada`<br/>
@@ -31,13 +31,13 @@ He pointed to the desk next to his.
 
 > "No, but there is one on the other side of the island"
 
-*Sigh*. Of course there is.
+_Sigh_. Of course there is.
 
 He gave me the papers to fill in. "The young lady from Immigration will be here tomorrow. You can give her the papers." And off he went. It was 16:00 after all.
 
-I went back the next day at 10:00, to be sure the were open. The words _"young lady from Immigration"_ made me hopeful. I was picturing a svelte 22 year old supermodel with long eyelashes and probably a grass skirt, ready to hang a flowery _lei_ around my neck. I might have my islands mixed up.
+I went back the next day at 10:00, to be sure the were open. The words _"young lady from Immigration"_ made me hopeful. I was picturing a svelte 22 year old supermodel with long eyelashes and probably a grass skirt, ready to hang a flowery _lei_ around my neck. I may have my islands mixed up.
 
-A towering dragoon of humongous girth in a stern uniform awaited me. She pointed one of here lengthy fake pink nails at me.
+A towering dragoon of humongous girth in a stern uniform awaited me. She pointed one of here long fake pink nails at me.
 
 > "It's 10 o'clock already! You have to check in within 2 hours of arrival! Customs warned me about you!"
 
@@ -53,9 +53,9 @@ I pointed to the credit card stickers on the wall and to their card machine.
 
 > "We only accept cash here!"
 
-She folded her hands over her ample bosom and made her false nails click menacingly, like a rattlesnake.
+She folded her hands over her ample bosom and made her fake nails click menacingly, like a rattlesnake.
 
-> "Ok, ok, I'll take the bus  to the other side of the island to go to the ATM. How much cash do I need?"
+> "Ok, ok, I'll take the bus to the other side of the island to go to the ATM. How much cash do I need?"
 
 She started calculating the entrance fee on a calculator, mistyping several times with her pink talons.
 

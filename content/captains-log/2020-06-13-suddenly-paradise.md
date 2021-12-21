@@ -1,11 +1,11 @@
 ---
-title: "Suddenly Paradise"
+title: 'Suddenly Paradise'
 date: 2020-06-13T19:39:54-04:00
 publishdate: 2020-06-13T19:39:54-04:00
-image: "IMG_0203.jpg"
-author: "Pieter Jan"
-gpx: ""
-summary: "The Vite & Rêves crew discovers a little piece of paradise."
+image: 'IMG_0203.jpg'
+author: 'Pieter Jan'
+gpx: ''
+summary: 'The Vite & Rêves crew discovers a little piece of paradise.'
 ---
 
 `At: Hog Island, Grenada`
@@ -30,7 +30,6 @@ Living the life!
 
 {{< image src="IMG_0242.jpg" alt="Or just some earthen cups" ratio="3x2" >}}
 
-{{< two-images src1="IMG_8526.jpg" alt1="Making friends" ratio1="1x1" src2="IMG_8520.jpg" alt2="Playing together" ratio2="1x1" >}}
+{{< two-images src1="IMG_8526.jpg" alt1="Making friends" ratio1="1x1" src2="IMG_8520.jpg" alt2="Cruiser kids and local kids playing together" ratio2="1x1" >}}
 
 {{< image src="IMG_0188.jpg" alt="We stay until sundown" ratio="3x2" >}}
-

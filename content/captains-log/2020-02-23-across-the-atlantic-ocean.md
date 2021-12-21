@@ -1,11 +1,11 @@
 ---
-title: "Across the Atlantic Ocean"
+title: 'Across the Atlantic Ocean'
 date: 2020-02-23T11:30:18-01:00
 publishdate: 2020-02-23T11:30:18-01:00
-image: "IMG_9312.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 63.gpx"
-summary: "Vite & Rêves crosses the Atlantic Ocean in 14 days. It was... interesting."
+image: 'IMG_9312.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 63.gpx'
+summary: 'Vite & Rêves crosses the Atlantic Ocean in 14 days. It was... interesting.'
 ---
 
 `From: Mindelo, São Vicente, Cabo Verde`<br/>
@@ -25,9 +25,9 @@ I took the first watch, from 22:30 to 3:00. I tried to maneuver Vite & Rêves in
 
 Full moon tonight, so the huge waves were clearly visible in all their terrifying glory. After watching them for an hour, the adrenalin subsided a bit and I could enjoy the ride.
 
-- Distance: 55.2 NM
-- Average speed: 7.0 knots
-- Top speed: 16.0 knots
+-   Distance: 55.2 NM
+-   Average speed: 7.0 knots
+-   Top speed: 16.0 knots
 
 #### 2020-02-09 --- Day 1
 
@@ -39,13 +39,13 @@ Still trying to keep in Sant'Antão's wind shadow. This means we're going more s
 
 We're making too much electricity, with this speed and the subtropical sun out. I turned on the inverter, we charged every electronic device on board, turned on the watermaker until the tanks were completely full. To no avail. I'm asking people if they want to have a shower, just to be able to make more water and spend all this excess electricity. But everyone had a hot shower yesterday, so they don't feel the need yet for a cold one today. In the end, I switched on the water heater to spend the electricity. Pure luxury.
 
-{{< image src="IMG_9312.jpg" alt="Big wave coming right for us" ratio="3x2" >}}
+{{< image src="IMG_9312.jpg" alt="Big wave coming right for us. The horizon is at the level of the winch." ratio="3x2" >}}
 
 During my watch, a flying fish flew into the cockpit. I threw it back into the ocean. That fish will have something to tell its grandchildren about. In the morning we found several more flying fishes on the trampolines, who sadly will not be able to tell their grandchildren about 'that time I crewed aboard a yacht'.
 
-- Distance: 169.1 NM
-- Average speed: 7 knots
-- Top speed: 12.7 knots
+-   Distance: 169.1 NM
+-   Average speed: 7 knots
+-   Top speed: 12.7 knots
 
 #### 2020-02-10 --- Day 2
 
@@ -55,9 +55,9 @@ The wind and waves are not letting up yet. I definitely felt queasy the whole da
 
 For dinner Barbara made carrots, sausages and potatoes. It must have smelled very inviting, because a flying fish flew straight into the saloon as we were getting ready to eat. It had donned a bib and was brandishing fork and knife in its fins. But Barbara was having none of it. "Go home, fish, you're drunk", she said and threw it back into the ocean.
 
-- Distance: 146.4 NM
-- Average speed: 6.1 knots
-- Top speed: 12.5 knots
+-   Distance: 146.4 NM
+-   Average speed: 6.1 knots
+-   Top speed: 12.5 knots
 
 #### 2020-02-11 --- Day 3
 
@@ -67,9 +67,9 @@ Today we baked bread. A real team effort, as Hannah made the dough, I kneaded wh
 
 We nearly caught a big fish again. When I tried reeling it in, it dove and we lost it when the boat got pushed too fast over a big wave. 3 lures left. We're losing hope a bit that we will ever catch a fish. There are so few opportunities to learn and let's face it, we have only a very theoretical idea of what we're doing.
 
-- Distance: 136.8 NM
-- Average speed: 5.7 knots
-- Top speed: 12.4 knots
+-   Distance: 136.8 NM
+-   Average speed: 5.7 knots
+-   Top speed: 12.4 knots
 
 #### 2020-02-12 --- Day 4
 
@@ -77,9 +77,9 @@ The waves are getting smaller and the wind speed is decreasing. We're starting t
 
 I read Viktor Frankl's "Man's Search for Meaning". A Jewish psychiatrist, he's known for being the founder of _logotherapy_ --- healing through finding meaning in your own life --- as well as his vivid descriptions of the 4 horrendous years he spent in various nazi extermination camps. It's one of the most influential books of the 20th century and rightly so. If you haven't read it yet, buy it and read it now.
 
-- Distance: 132.6 NM
-- Average speed: 5.5 knots
-- Top speed: 10.7 knots
+-   Distance: 132.6 NM
+-   Average speed: 5.5 knots
+-   Top speed: 10.7 knots
 
 #### 2020-02-13 --- Day 5 --- Caught a mahi mahi
 
@@ -95,9 +95,9 @@ Barbara, Antoine and Hannah cleaned the fish and dissected its head, to find out
 
 {{< image src="IMG_9338.jpg" alt="Cleaning and dissecting" ratio="3x2" >}}
 
-- Distance: 133.9 NM
-- Average speed: 5.6 knots
-- Top speed: 9.7 knots
+-   Distance: 133.9 NM
+-   Average speed: 5.6 knots
+-   Top speed: 9.7 knots
 
 #### 2020-02-14 --- Day 6
 
@@ -113,10 +113,9 @@ Around sunset the wind picked up to 20 knots quite suddenly. Hannah and Antoine 
 
 Just as Barbara got down from the helm, a huge wave slammed the boat from the side. Barbara got completely soaked. So much that Helder started crying a bit: "Your beautiful red sweater, now it's all salty!" Barbara, still dripping wet, comforted him: "It's okay, I'll wash it tomorrow!"
 
-
-- Distance: 149.2 NM
-- Average speed: 6.2 knots
-- Top speed: 15.7 knots
+-   Distance: 149.2 NM
+-   Average speed: 6.2 knots
+-   Top speed: 15.7 knots
 
 #### 2020-02-15 --- Day 7 --- Halfway point
 
@@ -126,9 +125,9 @@ We passed halfway point at night, during Hannah's shift. Party tomorrow!
 
 We're about a 1000 miles from land now. Things dropped overboard could take several hours to reach the bottom. The closest people around are the astronauts in the International Space Station. It's best not to think about it too much.
 
-- Distance: 140.8 NM
-- Average speed: 5.9 knots
-- Top speed: 10.8 knots
+-   Distance: 140.8 NM
+-   Average speed: 5.9 knots
+-   Top speed: 10.8 knots
 
 #### 2020-02-16 --- Day 8
 
@@ -138,9 +137,9 @@ Helder and Mira helped Hannah and Antoine bake fresh bread again. They just love
 
 We had the halfway party with appetizers, pizza and 4 small bottles of Cabo Verdean ponche: passion fruit, guave, orange and lemon. The alcohol hit hard in the high waves and we only managed a few small sips of the strong drinks.
 
-- Distance: 156.0 NM
-- Average speed: 6.5 knots
-- Top speed: 12.9 knots
+-   Distance: 156.0 NM
+-   Average speed: 6.5 knots
+-   Top speed: 12.9 knots
 
 #### 2020-02-17 --- Day 9
 
@@ -154,9 +153,9 @@ It's reassuring Vite & Rêves has behaved so well until now. She's handled any w
 
 {{< image src="IMG_9369.jpg" alt="The sunsets are worth it" ratio="3x2" >}}
 
-- Distance: 164.6 NM
-- Average speed: 6.9 knots
-- Top speed: 13.0 knots
+-   Distance: 164.6 NM
+-   Average speed: 6.9 knots
+-   Top speed: 13.0 knots
 
 #### 2020-02-18 --- Day 10 --- Speed record
 
@@ -164,9 +163,9 @@ The wind and waves are still quite high, for trade wind sailing that is. Over 20
 
 Speed and waves like this make for a stressful night watch. I didn't even do my usual 20 minutes naps and stayed up the full 3 hours in the dead of the night, constantly watching wind speed and direction.
 
-- Distance: 178.0 NM
-- Average speed: 7.4 knots
-- Top speed: 20.6 knots (!)
+-   Distance: 178.0 NM
+-   Average speed: 7.4 knots
+-   Top speed: 20.6 knots (!)
 
 #### 2020-02-19 --- Day 11
 
@@ -180,9 +179,9 @@ I hushed the autopilot, whispered a few encouraging words and managed to convinc
 
 This was our fastest day, with almost 180 miles. The waves are still considerable, as today's top speed shows.
 
-- Distance: 179.1 NM
-- Average speed: 7.5 knots
-- Top speed: 17.1 knots
+-   Distance: 179.1 NM
+-   Average speed: 7.5 knots
+-   Top speed: 17.1 knots
 
 #### 2020-02-20 --- Day 12
 
@@ -196,10 +195,9 @@ You can't help feeling sorry for the dead ones though. Some scavenger will be ha
 
 {{< image src="IMG_9383.jpg" alt="Another beauty" ratio="3x2" >}}
 
-
-- Distance: 145.5 NM
-- Average speed: 6.0 knots
-- Top speed: 13.4 knots
+-   Distance: 145.5 NM
+-   Average speed: 6.0 knots
+-   Top speed: 13.4 knots
 
 #### 2020-02-21 --- Day 13
 
@@ -217,9 +215,9 @@ Around sunset, we saw dolphins for the first time on this crossing! I thought we
 
 {{< image src="IMG_9412.jpg" alt="Yay dolphins!" ratio="3x2" >}}
 
-- Distance: 129.9 NM
-- Average speed: 5.4 knots
-- Top speed: 9.6 knots
+-   Distance: 129.9 NM
+-   Average speed: 5.4 knots
+-   Top speed: 9.6 knots
 
 #### 2020-02-22 --- Day 14
 
@@ -227,13 +225,13 @@ This was a lazy, pleasant day. Almost no wind and waves to speak of: 5-10 knots 
 
 {{< image src="IMG_9435.jpg" alt="Finally, lazing on the trampolines" ratio="3x2" >}}
 
-- Distance: 99.9 NM
-- Average speed: 4.2 knots
-- Top speed: 9.1 knots
+-   Distance: 99.9 NM
+-   Average speed: 4.2 knots
+-   Top speed: 9.1 knots
 
 #### 2020-02-23 --- Day 15 --- Arrival
 
-Early in the morning we arrived in Tobago. And when I say early, I mean it was 4:00 and pitch black. The vague outline of the main island was kind of discernable, but where were the small and presumably very pointy islets around it? Black islands against a black sea and a black starless sky. They were absolutely impossible to spot. A chilling thought struck me: What if the charts are wrong by a mile or more, like they are for some islands in Cabo Verde? We'd crash full speed into the rocks!
+Early in the morning we arrived in Tobago. And when I say early, I mean it was 4:00 and pitch black. New moon tonight, so no help there. The vague outline of the main island was kind of discernable, but where were the small and presumably very pointy islets around it? Black islands against a black sea and a black starless sky. They were absolutely impossible to spot. A chilling thought struck me: What if the charts are wrong by a mile or more, like they are for some islands in Cabo Verde? We'd crash full speed into the rocks!
 
 I resorted to a trick I learned from Johan, the submarine guy that we met in Las Palmas. Having no GPS, no visuals, no sonar in 'dark mode', submarine navigators rely on depth sounding alone to figure out where they are. I have GPS, so I used the depth meter to verify the charts.
 
@@ -251,18 +249,17 @@ After a few hours, it started raining, to welcome us Belgians.
 
 {{< image src="DJI_0842.jpg" alt="We made it!" ratio="3x2" >}}
 
-- Distance: 21.4 NM
-- Average speed: 3.5 knots
-- Top speed: 6.7 knots
-
+-   Distance: 21.4 NM
+-   Average speed: 3.5 knots
+-   Top speed: 6.7 knots
 
 #### Crossing Stats
 
-- Total time: 14 days 14 hours
-- Total distance: 2138.4 miles
-- Average speed: 6.1 knots
-- Top speed: 20.6 knots
-- Fish caught: 1
-- Stressful nights: 1
-- Highest wave: estimated 6 meters
-- Dolphin days: 2
+-   Total time: 14 days 14 hours
+-   Total distance: 2138.4 miles
+-   Average speed: 6.1 knots
+-   Top speed: 20.6 knots
+-   Fish caught: 1
+-   Stressful nights: 1
+-   Highest wave: estimated 6 meters
+-   Dolphin days: 2

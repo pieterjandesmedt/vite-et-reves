@@ -1,11 +1,11 @@
 ---
-title: "Duquesne Bay"
+title: 'Duquesne Bay'
 date: 2020-04-03T12:35:13-04:00
 publishdate: 2020-04-03T12:35:13-04:00
-image: "IMG_9812.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 77.gpx"
-summary: "In search of a deserted beach, Vite & Rêves ends up in Duquesne Bay. It was not deserted after all."
+image: 'IMG_9812.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 77.gpx'
+summary: 'In search of a deserted beach, Vite & Rêves ends up in Duquesne Bay. It was not deserted after all.'
 ---
 
 `From: Gouyave, Grenada`<br/>
@@ -29,7 +29,7 @@ And lo and behold: Five minutes later I saw a police car with flashing lights ap
 
 Now, I understand the reasons behind the curfew, but there's something like the letter of the law (Stay Home) and the spirit of the law (Don't Infect One Another). We were following the spirit by staying well away from other people, and they were following the letter by telling us to stay home, but violating the spirit, by coming up to us. Now which behavior is better? And which behavior is punishable by law? The same.
 
-Perhaps it was just jealousy. "If we can't go on the beach, then you cannot either." But then again we saw several people walking on the beach and swimming. It's all very mysterious.
+Perhaps it was just envy. "If we can't go on the beach, then you cannot either." But then again we saw several people walking on the beach and swimming. It's all very mysterious.
 
 {{< image src="IMG_9827.jpg" alt="" ratio="3x2" >}}
 

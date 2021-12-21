@@ -1,11 +1,11 @@
 ---
-title: "Buccoo Reef"
+title: 'Buccoo Reef'
 date: 2020-03-04T17:42:28-04:00
 publishdate: 2020-03-04T17:42:28-04:00
-image: "vlcsnap-2020-03-07-16h53m39s548.jpg"
-author: "Pieter Jan"
-gpx: "Navionics_archive_export 68.gpx"
-summary: "The Vite & Rêves crew visit the now very dead Buccoo Reef, to their great disappointment."
+image: 'vlcsnap-2020-03-07-16h53m39s548.jpg'
+author: 'Pieter Jan'
+gpx: 'Navionics_archive_export 68.gpx'
+summary: 'The Vite & Rêves crew visit the now very dead Buccoo Reef, to their great disappointment.'
 ---
 
 `From: Buccoo, Tobago`<br/>
@@ -25,11 +25,10 @@ We took the SUP out with the kids and Barbara on top and me swimming behind them
 
 {{< image src="vlcsnap-2020-03-07-17h02m48s039.jpg" alt="Made it to the reef" ratio="16x9" >}}
 
-The reef is completely dead. It's like an atomic bomb has gone off above a great and vibrant city. What should have been colorful coral and loads of fish turned out to be white dead coral rubble and only a few small fish. Really devastating to see. Years of people trampling on the coral, overfishing, party boats and ocean warming has killed every bit of coral here. And still they're bringing tourists to the reef. To look at the complete destruction of an ecosystem while enjoying cocktails and loud music, I suppose.
+The reef is completely dead. It's like an atomic bomb has gone off above a great and vibrant city. What should have been colorful coral and loads of fish turned out to be white dead coral rubble and only a few small fish. Really devastating to see. Years of people trampling on the coral, overfishing, party boats and ocean warming has killed every bit of coral here. And still they're bringing tourists to the reef. To admire the complete destruction of an ecosystem while enjoying cocktails and loud music, I suppose.
 
 {{< image src="vlcsnap-2020-03-07-16h53m39s548.jpg" alt="Death and destruction" ratio="16x9" >}}
 
 It's a small but very sobering example of what happens to nature if the government only pays lip service to protecting the environment and unbridled capitalism is allowed to run amok.
 
 {{< image src="vlcsnap-2020-03-07-16h55m56s189.jpg" alt="Nothing lives here anymore" ratio="16x9" >}}
-

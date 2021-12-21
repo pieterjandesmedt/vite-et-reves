@@ -1,11 +1,11 @@
 ---
-title: "Hit and Run"
+title: 'Hit and Run'
 date: 2020-06-11T14:07:20-04:00
 publishdate: 2020-06-11T14:07:20-04:00
-image: "IMG_0192.jpg"
-author: "Pieter Jan"
-gpx: ""
-summary: "The Vite & Rêves crew witnesses a sinking fishing boat and following rescue."
+image: 'IMG_0192.jpg'
+author: 'Pieter Jan'
+gpx: ''
+summary: 'The Vite & Rêves crew witnesses a sinking fishing boat and following rescue.'
 ---
 
 `At: Woburn Bay`
@@ -24,7 +24,7 @@ I turned on the {{% explain "VHF" "very high frequency radio, the favorite means
 
 I went back outside. The guys were still hanging through the railing. "Somebody is coming to get you, don't worry." "Oh thank you mon, thanks a lot!" I felt a bit guilty having thought they were robbers.
 
-Afterwards we heard they were fisherman. They had collided with a high-speed water taxi in the dark. The taxi sped off without looking back. The holed fishing skiff slowly started sinking and they made it to the middle of Woburn Bay before their engine gave out. Now without propulsion or steering, sinking fast, they drifted first to Bob's boat where one of them jumped overboard and, since he couldn't swim, tried to climb aboard Bob's boat. The others floated over to Molly D.
+Afterwards we heard they were fisherman. They had collided with a high-speed water taxi in the dark. The taxi sped off without looking back. The holed fishing skiff started taking on water fast. They made it to the middle of Woburn Bay before their engine gave out. Now without propulsion and sinking, they drifted first to Bob's boat where one of them jumped overboard and, since he couldn't swim, tried to climb aboard Bob's boat. The others floated over to Molly D.
 
 John came over with a friend in two high-powered dinghies. They rescued the one fisherman still in the water, got the three guys off Molly D and towed the skiff, now only its gunwales above the water. Luckily no one was hurt and everyone got off with only a scare.
 
